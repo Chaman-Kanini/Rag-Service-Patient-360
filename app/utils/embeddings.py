@@ -1,42 +1,39 @@
 import numpy as np
-from huggingface_hub import InferenceClient
-from app.config import EMBEDDING_MODEL, EMBEDDING_PROVIDER, HUGGINGFACE_API_TOKEN
+from openai import AzureOpenAI
+from azure.core.credentials import AzureKeyCredential
+from app.config import (
+    AZURE_EMBEDDING_ENDPOINT,
+    AZURE_EMBEDDING_KEY,
+    AZURE_EMBEDDING_API_VERSION,
+    EMBEDDING_MODEL,
+    EMBEDDING_DEPLOYMENT
+)
 
-_hf_client = None
-_local_model = None
+_azure_client = None
 
 
-def _get_hf_client() -> InferenceClient:
-    global _hf_client
-    if _hf_client is None:
-        _hf_client = InferenceClient(token=HUGGINGFACE_API_TOKEN)
-    return _hf_client
-
-
-def _get_local_model():
-    global _local_model
-    if _local_model is None:
-        from sentence_transformers import SentenceTransformer
-
-        _local_model = SentenceTransformer(EMBEDDING_MODEL)
-    return _local_model
+def _get_azure_client() -> AzureOpenAI:
+    """Get or create Azure OpenAI client for embeddings."""
+    global _azure_client
+    if _azure_client is None:
+        _azure_client = AzureOpenAI(
+            api_version=AZURE_EMBEDDING_API_VERSION,
+            azure_endpoint=AZURE_EMBEDDING_ENDPOINT,
+            api_key=AZURE_EMBEDDING_KEY
+        )
+    return _azure_client
 
 
 def get_embedding(text: str) -> np.ndarray:
-    """Generate embedding for a text using HuggingFace Inference API."""
+    """Generate embedding for a text using Azure OpenAI."""
     try:
-        provider = (EMBEDDING_PROVIDER or "hf_api").strip().lower()
-        if provider == "local":
-            model = _get_local_model()
-            embedding = model.encode(text)
-            return np.asarray(embedding, dtype=np.float32).reshape(-1)
-
-        client = _get_hf_client()
-        embedding = client.feature_extraction(text=text, model=EMBEDDING_MODEL)
-        embedding_array = np.asarray(embedding, dtype=np.float32)
-        if len(embedding_array.shape) > 1:
-            embedding_array = embedding_array[0]
-        return embedding_array.reshape(-1)
+        client = _get_azure_client()
+        response = client.embeddings.create(
+            model=EMBEDDING_DEPLOYMENT,
+            input=text
+        )
+        embedding = response.data[0].embedding
+        return np.asarray(embedding, dtype=np.float32).reshape(-1)
     except Exception as e:
         raise Exception(f"Error generating embedding: {str(e)}")
 

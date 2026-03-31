@@ -26,16 +26,18 @@ CHUNK_SIZE = 1000
 CHUNK_OVERLAP = 200
 TOP_K = 16
 
-# Azure OpenAI Configuration (for LLM only)
+# Azure OpenAI Configuration (for LLM)
 AZURE_OPENAI_ENDPOINT = os.getenv("AZURE_OPENAI_ENDPOINT", "xxx")
 AZURE_OPENAI_KEY = os.getenv("AZURE_OPENAI_KEY", "xxx")
 AZURE_OPENAI_API_VERSION = os.getenv("AZURE_OPENAI_API_VERSION", "2024-12-01-preview")
 CHATGPT_MODEL = os.getenv("CHATGPT_MODEL", "gpt-5-mini")
 
-# HuggingFace Configuration (for Embeddings)
-HUGGINGFACE_API_TOKEN = os.getenv("HUGGINGFACE_API_TOKEN", "")
-EMBEDDING_MODEL = os.getenv("EMBEDDING_MODEL", "sentence-transformers/all-MiniLM-L6-v2")
-EMBEDDING_PROVIDER = os.getenv("EMBEDDING_PROVIDER", "hf_api")
+# Azure OpenAI Configuration (for Embeddings)
+AZURE_EMBEDDING_ENDPOINT = os.getenv("AZURE_EMBEDDING_ENDPOINT", "https://health-rag-proj.cognitiveservices.azure.com/")
+AZURE_EMBEDDING_KEY = os.getenv("AZURE_EMBEDDING_KEY", "")
+AZURE_EMBEDDING_API_VERSION = os.getenv("AZURE_EMBEDDING_API_VERSION", "2024-02-01")
+EMBEDDING_MODEL = os.getenv("EMBEDDING_MODEL", "text-embedding-3-small")
+EMBEDDING_DEPLOYMENT = os.getenv("EMBEDDING_DEPLOYMENT", "text-embedding-3-small")
 
 # ICD-10 Vector Index Configuration
 ICD10_FAISS_DIR = Path(os.getenv("ICD10_FAISS_DIR", str(BASE_DIR.parent / "rag_data" / "icd10_faiss")))
