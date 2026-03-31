@@ -1,0 +1,95 @@
+.
+Page7of12
+[Page 8]
+OliviaSingingRiverHealthSystemPatientRecord03/20/2024
+PATIENT INFORMATION: Type: Progress Note
+Olivia Source: SingingRiverHealthSystem
+Received:03/20/202408:24PM
+Phone +1310556 1256 Modified: 03/20/202408:24PM
+(H):
+DOB: 05/05/1952
+Gender: Female Age: 73
+Patient 104
+ID: ...
+Component Value Ref TestMethod Analysi Perform Pathologist
+Range sTime ed At Signature
+AnionGap 5.0(L) 8.0- 07/03 SINGING
+16.0 /202310: RIVER
+mmol/L 45AM GULFPO
+CDT RT
+HOSPITA
+LLAB
+eGFRCKD-EPI 58(L) >90ml 07/03 SINGING
+/min/1. /202310: RIVER
+73m2 45AM GULFPO
+CDT RT
+HOSPITA
+LLAB
+Comment:
+CKD-EPIGFRINTERPRETATIONGUIDELINES
+EstimatedusingCKD-EPIequationbasedonstandardizedserumcreatinine,age,andsex
+DESCRIPTION eGFRmL/min/1.73m2
+MildDecrease 60-89
+ModerateDecrease 30-59
+SevereDecrease 15-29
+KidneyFailure <15(ordialysis)
+Specimen Anatomical Collection CollectionTime ReceivedTime
+(Source) Location/ Method/Volume
+Laterality
+Blood Collection/Unknown 07/03/20239:15AM 07/03/202310:06AM
+CDT CDT
+Narrative
+Authorizing ResultType
+Provider
+HoyetAHandMD LABBLOODORDERABLES
+Performing Address City/State/ZIP PhoneNumber
+Organization Code
+SINGINGRIVER 15200COMMUNITY GULFPORT,MS
+GULFPORT RD 39503,USA
+HOSPITALLAB
+(Gulfport) TSH Ultra Sensitive (07/03/2023 9:15 AM CDT):
+PrintedfromHealthGorillaSecureClinicalNetwork.Copyright©2025HealthGorillaInc.
+https://www.healthgorilla.com
+Thecontentsofthisdocumentand/orfaxtransmissionareintendedonlyfortheuseoftheindividualorentitytowhichtheyareaddressedandmay
+containinformationthatislegallyprivileged,confidentialandexemptfromdisclosure,includingprotectedhealthinformation.Ifyouarenotthe
+intendedrecipient,youareherebynotifiedthatanydissemination,distributionorcopyingofthisdocumentisstrictlyprohibited.Ifyouhavereceived
+orobtainedthisdocumentorfaxtransmissioninerror,pleasenotifytheoriginalsenderorcontactHealthGorillaInc.at1-734-446-7455
+immediatelybytelephoneorbyemailatprivacy@healthgorilla.comanddeletethisdocumentimmediately.
+Page8of12
+[Page 9]
+OliviaSingingRiverHealthSystemPatientRecord03/20/2024
+PATIENT INFORMATION: Type: Progress Note
+Olivia Source: SingingRiverHealthSystem
+Received:03/20/202408:24PM
+Phone +1310556 1256 Modified: 03/20/202408:24PM
+(H):
+DOB: 05/05/1952
+Gender: Female Age: 73
+Patient 104
+ID: ...
+Component Value Ref TestMethod Analysi Perform Pathologist
+Range sTime edAt Signature
+TSHUltraSensitive 1.320 0.358- 07/03 SINGING
+3.740 /202310: RIVER
+mIU/mL 45AM GULFPO
+CDT RT
+HOSPITA
+LLAB
+Specimen Anatomical Collection CollectionTime ReceivedTime
+(Source) Location/ Method/Volume
+Laterality
+Blood Collection/Unknown 07/03/20239:15AM 07/03/202310:06AM
+CDT CDT
+Narrative
+Authorizing ResultType
+Provider
+HoyetAHandMD LABBLOODORDERABLES
+Performing Address City/State/ZIP PhoneNumber
+Organization Code
+SINGINGRIVER 15200COMMUNITY GULFPORT,MS
+GULFPORT RD 39503,USA
+HOSPITALLAB
+(ABNORMAL) Lipidpanel (07/03/2023 9:15 AM CDT)
+Component Value Ref TestMethod Analysi Perform Pathologist
+Range sTime edAt Signature
+Triglycerides 158(H) 0

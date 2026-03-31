@@ -1,0 +1,1220 @@
+{
+  "patient": {
+    "name": "Olivia",
+    "dob": "05/05/1952",
+    "age": "73",
+    "sex": "Female",
+    "phone": "+1 310 556 1256",
+    "patient_id": "104",
+    "_source": [
+      "Page 1 (Singing River Health System Progress Note) PATIENT INFORMATION block Received: 03/20/2024 08:24 PM",
+      "Page 1 (Test4 Piedmont Healthcare Continuity of Care) PATIENT INFORMATION Received: 02/19/2025 04:00 PM",
+      "Page 1 (Piedmont Healthcare Clinical Note) PATIENT INFORMATION Received: 01/21/2025 08:22 PM"
+    ]
+  },
+  "encounters": [
+    {
+      "date": "04/25/2025",
+      "type": "Office Visit",
+      "department": "Piedmont Heart of Newnan",
+      "care_team": "Darlington, Andrew, DO",
+      "description": "Office Visit",
+      "contact": "770-716-0051",
+      "_source": "Test4 Piedmont Healthcare Page 3 Encounter details 04/25/2025 9:30 AM EDT"
+    },
+    {
+      "date": "04/23/2025",
+      "type": "Office Visit",
+      "department": "Piedmont Physicians Pulmonary and Sleep Medicine Newnan",
+      "care_team": "Kandaswamy, Shankar, MD",
+      "description": "Office Visit",
+      "contact": "770-400-1000",
+      "_source": "Test4 Piedmont Healthcare Page 2 Encounter details 04/23/2025 10:00 AM EDT"
+    },
+    {
+      "date": "02/21/2025",
+      "type": "Surgery",
+      "department": "Piedmont Newnan Hospital Peri-Op Services",
+      "care_team": "Haroon, Mustafa, MD",
+      "description": "COLONOSCOPY, WITH BIOPSY",
+      "facility": "Piedmont Newnan Hospital 1200 LOWER FAYETTEVILLE ROAD SUITE B NEWNAN, GA 30265-1618",
+      "contact": "770-400-1000",
+      "_source": [
+        "Test4 Piedmont Healthcare Page 2 Encounter details 02/21/2025 8:33 AM EST Surgery COLONOSCOPY, WITH BIOPSY",
+        "Test4 Piedmont Healthcare Page 2 Encounter details 02/21/2025 8:33 AM EST Hospital Encounter Haroon, Mustafa, MD"
+      ]
+    },
+    {
+      "date": "02/20/2025",
+      "type": "Office Visit",
+      "department": "Atlanta Vascular Specialists - Newnan",
+      "care_team": "Dooley, John David, MD",
+      "description": "Office Visit",
+      "contact": "404-524-0095",
+      "_source": "Test4 Piedmont Healthcare Page 2 Encounter details 02/20/2025 1:15 PM"
+    },
+    {
+      "date": "06/05/2024",
+      "type": "Office Visit",
+      "department": "Singing River Gulfport Gastroenterology",
+      "care_team": "Alexander, Amie L, NP",
+      "description": "Office Visit 06/05/2024 9:40 AM",
+      "contact": "228-575-7104",
+      "_source": "Singing River Health System Page 4 Upcoming Encounters 06/05/2024 9:40 AM CDT"
+    },
+    {
+      "date": "05/01/2024",
+      "type": "Office Visit",
+      "department": "Southern Mississippi Heart Center - Gulfport",
+      "care_team": "Zayed, Mahmoud H, MD",
+      "description": "Office Visit 05/01/2024 9:00 AM",
+      "contact": "228-575-8020",
+      "_source": "Singing River Health System Page 4 Upcoming Encounters 05/01/2024 9:00 AM CDT"
+    },
+    {
+      "date": "04/30/2024",
+      "type": "Office Visit",
+      "department": "Rheumatology Services",
+      "care_team": "Carroll, Matthew B, MD",
+      "description": "Office Visit 04/30/2024 10:20 AM",
+      "contact": "228-205-6830",
+      "_source": "Singing River Health System Page 4 Upcoming Encounters 04/30/2024 10:20 AM CDT"
+    },
+    {
+      "date": "04/22/2024",
+      "type": "Office Visit",
+      "department": "Singing River Gulfport Primary Care Services",
+      "care_team": "Hand, Hoyet A, MD",
+      "description": "Office Visit 04/22/2024 9:20 AM",
+      "contact": "228-206-7054",
+      "_source": "Singing River Health System Page 4 Upcoming Encounters 04/22/2024 9:20 AM CDT"
+    },
+    {
+      "date": "06/30/2023",
+      "type": "Orders Only",
+      "department": "Singing River Gulfport Primary Care Services",
+      "care_team": "Hand, Hoyet A, MD",
+      "description": "Orders Only 06/30/2023",
+      "contact": "228-206-7054",
+      "diagnoses": [
+        "Mixed dyslipidemia (Primary Dx)",
+        "Essential hypertension, benign",
+        "Postoperative anemia",
+        "Leg Pain"
+      ],
+      "_source": "Singing River Health System Page 1 Encounter details 06/30/2023 Orders Only"
+    },
+    {
+      "date": "01/12/2021",
+      "type": "Refill",
+      "department": "The Heart Group Of LGHealth",
+      "care_team": "Roberts, Justin D, DO",
+      "description": "Refill Request (Atorvastatin / CVS)",
+      "contact": "717-544-8300",
+      "_source": "Piedmont Healthcare Clinical Note Page (Clinical Note) Encounter details 01/12/2021 Refill"
+    }
+  ],
+  "diagnoses": [
+    {
+      "diagnosis": "Mixed dyslipidemia - Primary",
+      "status": "documented in this encounter",
+      "date": "06/30/2023",
+      "_source": [
+        "Singing River Health System Page 11 Visit diagnoses documented in this encounter",
+        "Singing River Health System Page 1 Encounter details 06/30/2023 Orders Only"
+      ]
+    },
+    {
+      "diagnosis": "Essential hypertension, benign",
+      "status": "documented in this encounter",
+      "date": "06/30/2023",
+      "_source": [
+        "Singing River Health System Page 11 Visit diagnoses documented in this encounter",
+        "Singing River Health System Page 1 Encounter details 06/30/2023 Orders Only"
+      ]
+    },
+    {
+      "diagnosis": "Postoperative anemia",
+      "status": "documented in this encounter",
+      "date": "06/30/2023",
+      "_source": [
+        "Singing River Health System Page 11 Visit diagnoses documented in this encounter",
+        "Singing River Health System Page 1 Encounter details 06/30/2023 Orders Only"
+      ]
+    },
+    {
+      "diagnosis": "Unspecified anemia",
+      "status": "documented in this encounter",
+      "date": "06/30/2023",
+      "_source": "Singing River Health System Page 11 Visit diagnoses documented in this encounter"
+    },
+    {
+      "diagnosis": "Hyperlipidemia associated with type 2 diabetes mellitus (CMS/HCC)",
+      "status": "documented in this encounter",
+      "date": "01/21/2025",
+      "_source": "Piedmont Healthcare Clinical Note Page (Clinical Note) Visit diagnoses documented in this encounter"
+    }
+  ],
+  "procedures": [
+    {
+      "procedure": "COLONOSCOPY, WITH BIOPSY",
+      "date": "02/21/2025",
+      "provider": "Haroon, Mustafa, MD",
+      "_source": [
+        "Test4 Piedmont Healthcare Page 2 Encounter details 02/21/2025 8:33 AM EST Surgery COLONOSCOPY, WITH BIOPSY",
+        "Test4 Piedmont Healthcare Page 2 Encounter details 02/21/2025 8:33 AM EST Hospital Encounter Haroon, Mustafa, MD"
+      ]
+    }
+  ],
+  "laboratory_results": [
+    {
+      "test": "Ferritin",
+      "value": "266.8",
+      "unit": "ng/mL",
+      "interpretation": "(H)",
+      "date": "07/03/2023 10:45 AM CDT",
+      "_source": "Singing River Health System Page 4 Results (ABNORMAL) Ferritin (07/03/2023 9:15 AM CDT) Component Ferritin 266.8 (H) 8.0 - 252.0 ng/mL 07/03/2023 10:45 AM CDT"
+    },
+    {
+      "test": "Iron",
+      "value": "41",
+      "unit": "ug/dL",
+      "interpretation": "(L)",
+      "reference_range": "50 - 170",
+      "date": "07/03/2023 10:45 AM CDT",
+      "_source": "Singing River Health System Page 6 (ABNORMAL) Iron & Iron Binding Capacity (07/03/2023 9:15 AM CDT) Component Iron 41 (L) 50 - 170 ug/dL 07/03/2023 10:45 AM CDT"
+    },
+    {
+      "test": "TIBC",
+      "value": "279",
+      "unit": "ug/dL",
+      "reference_range": "250 - 450",
+      "date": "07/03/2023 10:45 AM CDT",
+      "_source": "Singing River Health System Page 6 (ABNORMAL) Iron & Iron Binding Capacity (07/03/2023 9:15 AM CDT) Component TIBC 279 250 - 450 ug/dL 07/03/2023 10:45 AM CDT"
+    },
+    {
+      "test": "Iron Saturation",
+      "value": "15",
+      "unit": "%",
+      "interpretation": "(L)",
+      "reference_range": "20 - 55",
+      "date": "07/03/2023 10:45 AM CDT",
+      "_source": "Singing River Health System Page 6 (ABNORMAL) Iron & Iron Binding Capacity (07/03/2023 9:15 AM CDT) Component Iron Saturation 15 (L) 20 - 55 % 07/03/2023 10:45 AM CDT"
+    },
+    {
+      "test": "Sodium",
+      "value": "140",
+      "unit": "mmol/L",
+      "reference_range": "136 - 145",
+      "date": "07/03/2023 10:45 AM CDT",
+      "_source": "Singing River Health System Page 6 (ABNORMAL) Basic metabolic panel (07/03/2023 9:15 AM CDT) Component Sodium 140 136 - 145 mmol/L 07/03/2023 10:45 AM CDT"
+    },
+    {
+      "test": "Potassium",
+      "value": "4.0",
+      "unit": "mmol/L",
+      "reference_range": "3.5 - 5.1",
+      "date": "07/03/2023 10:45 AM CDT",
+      "_source": "Singing River Health System Page 7 Component Potassium 4.0 3.5 - 5.1 mmol/L 07/03/2023 10:45 AM CDT"
+    },
+    {
+      "test": "Chloride",
+      "value": "108",
+      "unit": "mmol/L",
+      "interpretation": "(H)",
+      "reference_range": "98 - 107",
+      "date": "07/03/2023 10:45 AM CDT",
+      "_source": "Singing River Health System Page 7 Component Chloride 108 (H) 98 - 107 mmol/L 07/03/2023 10:45 AM CDT"
+    },
+    {
+      "test": "CO2",
+      "value": "27",
+      "unit": "mmol/L",
+      "reference_range": "21 - 32",
+      "date": "07/03/2023 10:45 AM CDT",
+      "_source": "Singing River Health System Page 7 Component CO2 27 21 - 32 mmol/L 07/03/2023 10:45 AM CDT"
+    },
+    {
+      "test": "BUN",
+      "value": "15",
+      "unit": "mg/dL",
+      "reference_range": "7 - 18",
+      "date": "07/03/2023 10:45 AM CDT",
+      "_source": "Singing River Health System Page 7 Component BUN 15 7 - 18 mg/dL 07/03/2023 10:45 AM CDT"
+    },
+    {
+      "test": "Creatinine",
+      "value": "0.96",
+      "unit": "mg/dL",
+      "reference_range": "0.55 - 1.02",
+      "date": "07/03/2023 10:45 AM CDT",
+      "_source": "Singing River Health System Page 7 Component Creatinine 0.96 0.55 - 1.02 mg/dL 07/03/2023 10:45 AM CDT"
+    },
+    {
+      "test": "Glucose",
+      "value": "94",
+      "unit": "mg/dL",
+      "reference_range": "74 - 106",
+      "date": "07/03/2023 10:45 AM CDT",
+      "_source": "Singing River Health System Page 7 Component Glucose 94 74 - 106 mg/dL 07/03/2023 10:45 AM CDT"
+    },
+    {
+      "test": "Calcium",
+      "value": "9.5",
+      "unit": "mg/dL",
+      "reference_range": "8.5 - 10.1",
+      "date": "07/03/2023 10:45 AM CDT",
+      "_source": "Singing River Health System Page 7 Component Calcium 9.5 8.5 - 10.1 mg/dL 07/03/2023 10:45 AM CDT"
+    },
+    {
+      "test": "Anion Gap",
+      "value": "5.0",
+      "unit": "mmol/L",
+      "interpretation": "(L)",
+      "reference_range": "8.0 - 16.0",
+      "date": "07/03/2023 10:45 AM CDT",
+      "_source": "Singing River Health System Page 8 Component Anion Gap 5.0 (L) 8.0 - 16.0 mmol/L 07/03/2023 10:45 AM CDT"
+    },
+    {
+      "test": "eGFR CKD-EPI",
+      "value": "58",
+      "unit": "ml/min/1.73m2",
+      "interpretation": "(L)",
+      "reference_range": ">90",
+      "date": "07/03/2023 10:45 AM CDT",
+      "_source": "Singing River Health System Page 8 Component eGFR CKD-EPI 58 (L) >90 ml/min/1.73m2 07/03/2023 10:45 AM CDT"
+    },
+    {
+      "test": "TSH Ultra Sensitive",
+      "value": "1.320",
+      "unit": "mIU/mL",
+      "reference_range": "0.358 - 3.740",
+      "date": "07/03/2023 10:45 AM CDT",
+      "_source": "Singing River Health System Page 9 (Gulfport) TSH Ultra Sensitive (07/03/2023 9:15 AM CDT) Component TSH Ultra Sensitive 1.320 0.358 - 3.740 mIU/mL 07/03/2023 10:45 AM CDT"
+    },
+    {
+      "test": "Triglycerides",
+      "value": "158",
+      "unit": "mg/dL",
+      "interpretation": "(H)",
+      "reference_range": "0 - 149",
+      "date": "07/03/2023 10:45 AM CDT",
+      "_source": "Singing River Health System Page 9 (ABNORMAL) Lipid panel (07/03/2023 9:15 AM CDT) Component Triglycerides 158 (H) 0 - 149 mg/dL 07/03/2023 10:45 AM CDT"
+    },
+    {
+      "test": "Cholesterol",
+      "value": "147",
+      "unit": "mg/dL",
+      "reference_range": "<200",
+      "date": "07/03/2023 10:45 AM CDT",
+      "_source": "Singing River Health System Page 9 Lipid panel Component Cholesterol 147 <200 mg/dL 07/03/2023 10:45 AM CDT"
+    },
+    {
+      "test": "HDL",
+      "value": "54",
+      "unit": "mg/dL",
+      "reference_range": "40 - 59",
+      "date": "07/03/2023 10:45 AM CDT",
+      "_source": "Singing River Health System Page 10 Lipid panel Component HDL 54 40 - 59 mg/dL 07/03/2023 10:45 AM CDT"
+    },
+    {
+      "test": "LDL Calculated",
+      "value": "62",
+      "unit": "mg/dL",
+      "reference_range": "0 - 100",
+      "date": "07/03/2023 10:45 AM CDT",
+      "_source": "Singing River Health System Page 10 Lipid panel Component LDL Calculated 62 0 - 100 mg/dL 07/03/2023 10:45 AM CDT"
+    },
+    {
+      "test": "VLDL Cholesterol Cal",
+      "value": "32",
+      "unit": "mg/dL",
+      "interpretation": "(H)",
+      "reference_range": "<30",
+      "date": "07/03/2023 10:45 AM CDT",
+      "_source": "Singing River Health System Page 10 Lipid panel Component VLDL Cholesterol Cal 32 (H) <30 mg/dL 07/03/2023 10:45 AM CDT"
+    },
+    {
+      "test": "Non HDL Chol.",
+      "value": "94",
+      "unit": "mg/dL",
+      "reference_range": "<=130",
+      "date": "07/03/2023 10:45 AM CDT",
+      "_source": "Singing River Health System Page 10 Lipid panel Component Non HDL Chol. 94 <=130 mg/dL 07/03/2023 10:45 AM CDT"
+    },
+    {
+      "test": "CHOLTOTAL",
+      "value": "136",
+      "unit": "mg/dL",
+      "date": "07/17/2020 09:41 AM",
+      "_source": "Piedmont Healthcare Clinical Note Miscellaneous notes Lab Results Last THG provider office visit: Last Lipid Panel CHOLTOTAL 136 07/17/2020 09:41 AM"
+    },
+    {
+      "test": "TG",
+      "value": "101",
+      "unit": "mg/dL",
+      "date": "07/17/2020 09:41 AM",
+      "_source": "Piedmont Healthcare Clinical Note Miscellaneous notes Lab Results Last Lipid Panel TG 101 07/17/2020 09:41 AM"
+    },
+    {
+      "test": "HDLCHOL",
+      "value": "38",
+      "unit": "mg/dL",
+      "interpretation": "(L)",
+      "date": "07/17/2020 09:41 AM",
+      "_source": "Piedmont Healthcare Clinical Note Miscellaneous notes Lab Results Last Lipid Panel HDLCHOL 38 (L) 07/17/2020 09:41 AM"
+    },
+    {
+      "test": "LDLCHOL",
+      "value": "78",
+      "unit": "mg/dL",
+      "date": "07/17/2020 09:41 AM",
+      "_source": "Piedmont Healthcare Clinical Note Miscellaneous notes Lab Results Last Lipid Panel LDLCHOL 78 07/17/2020 09:41 AM"
+    },
+    {
+      "test": "GLUCOSE",
+      "value": "199",
+      "unit": "mg/dL",
+      "interpretation": "(H)",
+      "date": "01/11/2021 05:31 AM",
+      "_source": "Piedmont Healthcare Clinical Note Miscellaneous notes Last BMP Lab Results GLUCOSE 199 (H) 01/11/2021 05:31 AM"
+    },
+    {
+      "test": "SODIUM",
+      "value": "134",
+      "unit": "",
+      "interpretation": "(L)",
+      "date": "01/11/2021 05:31 AM",
+      "_source": "Piedmont Healthcare Clinical Note Miscellaneous notes Last BMP Lab Results SODIUM 134 (L) 01/11/2021 05:31 AM"
+    },
+    {
+      "test": "POTASSIUM",
+      "value": "4.4",
+      "unit": "",
+      "date": "01/11/2021 05:31 AM",
+      "_source": "Piedmont Healthcare Clinical Note Miscellaneous notes Last BMP Lab Results POTASSIUM 4.4 01/11/2021 05:31 AM"
+    },
+    {
+      "test": "CHLORIDE",
+      "value": "97",
+      "unit": "",
+      "interpretation": "(L)",
+      "date": "01/11/2021 05:31 AM",
+      "_source": "Piedmont Healthcare Clinical Note Miscellaneous notes Last BMP Lab Results CHLORIDE 97 (L) 01/11/2021 05:31 AM"
+    },
+    {
+      "test": "BUN",
+      "value": "37",
+      "unit": "",
+      "interpretation": "(H)",
+      "date": "01/11/2021 05:31 AM",
+      "_source": "Piedmont Healthcare Clinical Note Miscellaneous notes Last BMP Lab Results BUN 37 (H) 01/11/2021 05:31 AM"
+    },
+    {
+      "test": "CREATININE",
+      "value": "1.1",
+      "unit": "",
+      "interpretation": "(H)",
+      "date": "01/11/2021 05:31 AM",
+      "_source": "Piedmont Healthcare Clinical Note Miscellaneous notes Last BMP Lab Results CREATININE 1.1 (H) 01/11/2021 05:31 AM"
+    },
+    {
+      "test": "CALCIUM",
+      "value": "8.1",
+      "unit": "",
+      "interpretation": "(L)",
+      "date": "01/11/2021 05:31 AM",
+      "_source": "Piedmont Healthcare Clinical Note Miscellaneous notes Last BMP Lab Results CALCIUM 8.1 (L) 01/11/2021 05:31 AM"
+    },
+    {
+      "test": "GFR",
+      "value": "50",
+      "unit": "",
+      "interpretation": "(A)",
+      "date": "01/11/2021 05:31 AM",
+      "_source": "Piedmont Healthcare Clinical Note Miscellaneous notes Last BMP Lab Results GFR 50 (A) 01/11/2021 05:31 AM"
+    },
+    {
+      "test": "Alkaline Phosphatase",
+      "value": "58",
+      "unit": "U/L",
+      "reference_range": "34 - 144",
+      "date": "01/08/2021 05:00 AM",
+      "_source": "Piedmont Healthcare Clinical Note Miscellaneous notes Last LFTS Alkaline Phosphatase 01/08/2021 05:00 AM 58 34 - 144 U/L"
+    },
+    {
+      "test": "AST (SGOT)",
+      "value": "8",
+      "unit": "U/L",
+      "interpretation": "(L)",
+      "reference_range": "13 - 40",
+      "date": "01/08/2021 05:00 AM",
+      "_source": "Piedmont Healthcare Clinical Note Miscellaneous notes Last LFTS AST (SGOT) 01/08/2021 05:00 AM 8 (L) 13 - 40 U/L"
+    },
+    {
+      "test": "ALT (SGPT)",
+      "value": "10",
+      "unit": "U/L",
+      "reference_range": "7 - 52",
+      "date": "01/08/2021 05:00 AM",
+      "_source": "Piedmont Healthcare Clinical Note Miscellaneous notes Last LFTS ALT (SGPT) 01/08/2021 05:00 AM 10 7 - 52 U/L"
+    }
+  ],
+  "vitals": [
+    {
+      "type": "Blood Pressure",
+      "value": "128/78",
+      "date": "01/11/2025 9:30 AM EST",
+      "_source": "Piedmont Healthcare Clinical Note Goals Blood Pressure < 140/90 Recent Progress 128/78 (01/11/2025 9:30 AM EST)"
+    }
+  ],
+  "social_history": {
+    "tobacco_use_entries": [
+      {
+        "type": "Smoking Tobacco",
+        "status": "Former",
+        "product": "Cigarettes",
+        "quit_date": "Quit: 1991",
+        "comments": "patient states quit 30 years ago",
+        "_source": "Singing River Health System Page 1 Social history Tobacco Use Smoking Tobacco: Former Cigarettes Quit: 1991 Comments: patient states quit 30 years ago"
+      },
+      {
+        "type": "Smoking Tobacco",
+        "status": "Every Day",
+        "product": "Cigarettes",
+        "packs_per_day": "0.5",
+        "years_used": "50",
+        "date": "07/11/2023",
+        "_source": "Test4 Piedmont Healthcare Page 1 Encounter details 07/11/2023 Social history Tobacco Use Smoking Tobacco: Every Day Cigarettes 0.5 50"
+      },
+      {
+        "type": "Smoking Tobacco",
+        "status": "Former",
+        "product": "Cigarettes",
+        "packs_per_day": "0.3",
+        "years_used": "2",
+        "date_range": "03/22/1971 - 03/22/1973",
+        "_source": "Piedmont Healthcare Clinical Note Page (Clinical Note) Social history Tobacco Use Smoking Tobacco: Former Cigarettes 0.3 2 03/22/1971 - 03/22/1973"
+      }
+    ],
+    "smokeless_tobacco": "Never",
+    "alcohol_use": "Not Currently 0 (1 standard drink = 0.6 oz pure alcohol)",
+    "_source": [
+      "Singing River Health System Page 1 Social history Alcohol Use Not Currently 0 (1 standard drink = 0.6 oz pure alcohol)",
+      "Test4 Piedmont Healthcare Page 1 Social history Alcohol Use No 0 (1 standard drink = 0.6 oz pure alcohol)",
+      "Piedmont Healthcare Clinical Note Page (Clinical Note) Social history Alcohol Use Not Currently 0 (1 standard drink = 0.6 oz pure alcohol)"
+    ]
+  },
+  "functional_status": [
+    {
+      "question": "Is the person deaf or does he/she have difficulty hearing?",
+      "response": "No",
+      "date_of_assessment": "06/19/2023",
+      "_source": "Singing River Health System Page 3 Functional status Is the person deaf or does he/she have difficulty hearing? No 06/19/2023"
+    },
+    {
+      "question": "Patient's Vision Adequate to Safely Complete Daily Activities",
+      "response": "Yes",
+      "date_of_assessment": "06/19/2023",
+      "_source": "Singing River Health System Page 3 Functional status Patient's Vision Adequate to Safely Complete Daily Activities Yes 06/19/2023"
+    },
+    {
+      "question": "Does this person have serious difficulty walking or climbing stairs?",
+      "response": "Yes",
+      "date_of_assessment": "06/14/2023",
+      "_source": "Singing River Health System Page 3 Functional status Does this person have serious difficulty walking or climbing stairs? Yes 06/14/2023"
+    },
+    {
+      "question": "Does this person have difficulty dressing or bathing?",
+      "response": "No",
+      "date_of_assessment": "06/14/2023",
+      "_source": "Singing River Health System Page 3 Functional status Does this person have difficulty dressing or bathing? No 06/14/2023"
+    },
+    {
+      "question": "Because of a physical, mental or emotional condition, does this patient have difficulty doing errands alone such as visiting the doctor's office or shopping?",
+      "response": "No",
+      "date_of_assessment": "06/14/2023",
+      "_source": "Singing River Health System Page 3 Functional status Because of a physical, mental or emotional condition, does this patient have difficulty doing errands alone such as visiting the doctor's office or shopping? No 06/14/2023"
+    },
+    {
+      "question": "Difficulty walking or climbing stairs?",
+      "response": "Yes",
+      "date_of_assessment": "01/05/2021 1:00 AM EST",
+      "_source": "Piedmont Healthcare Clinical Note Functional status Difficulty walking or climbing stairs? Yes 01/05/2021 1:00 AM EST"
+    },
+    {
+      "question": "Difficulty dressing or bathing?",
+      "response": "Yes",
+      "date_of_assessment": "01/05/2021 1:00 AM EST",
+      "_source": "Piedmont Healthcare Clinical Note Functional status Difficulty dressing or bathing? Yes 01/05/2021 1:00 AM EST"
+    },
+    {
+      "question": "Difficulty doing errands alone?",
+      "response": "Yes",
+      "date_of_assessment": "01/05/2021 1:00 AM EST",
+      "_source": "Piedmont Healthcare Clinical Note Functional status Difficulty doing errands alone? Yes 01/05/2021 1:00 AM EST"
+    },
+    {
+      "question": "Because of a physical, mental or emotional condition, does this person have serious difficulty concentrating, remembering, or making decisions?",
+      "response": "No",
+      "date_of_assessment": "06/14/2023",
+      "_source": "Singing River Health System Page 3 Cognitive Status Because of a physical, mental or emotional condition, does this person have serious difficulty concentrating, remembering, or making decisions? No 06/14/2023"
+    },
+    {
+      "question": "Difficulty concentrating, remembering, or making decisions?",
+      "response": "No",
+      "date_of_assessment": "01/05/2021 1:00 AM EST",
+      "_source": "Piedmont Healthcare Clinical Note Mental status Difficulty concentrating, remembering, or making decisions? No 01/05/2021 1:00 AM EST"
+    }
+  ],
+  "care_team": [
+    {
+      "name": "Hand, Hoyet A, MD",
+      "relationship": "PCP - General",
+      "specialty": "Family Medicine",
+      "contact": "228-206-7054 (Work)",
+      "start_date": "9/25/20",
+      "_source": "Singing River Health System Page 12 Care teams Team Member Hand, Hoyet A, MD NPI: 1225340599 228-206-7054 (Work) PCP - General Family Medicine 9/25/20"
+    },
+    {
+      "name": "Kandaswamy, Shankar, MD",
+      "relationship": "PCP - General",
+      "specialty": "Pulmonary Disease",
+      "contact": "770-683-6921 (Work)",
+      "start_date": "9/10/21",
+      "end_date": "1/22/24",
+      "_source": "Test4 Piedmont Healthcare Page 3 Care teams Team Member Kandaswamy, Shankar, MD NPI: 1689657181 2301 Newnan Crossing Blvd Suite 200 Newnan, GA 30265 770-683-6921 (Work) PCP - General Pulmonary Disease 9/10/21 1/22/24"
+    },
+    {
+      "name": "Darlington, Andrew, DO",
+      "specialty": "Advanced Heart Failure and Transplant Cardiology",
+      "contact": "770-716-0051 (Work)",
+      "_source": "Test4 Piedmont Healthcare Page 4 Care teams Team Member Darlington, Andrew, DO NPI: 1942352851 1267 Highway 54 West Ste 2200 Fayetteville, GA 30214 770-716-0051 (Work) Primary Cardiologist Advanced Heart Failure and Transplant Cardiology 9/10/21"
+    },
+    {
+      "name": "Guthikonda, Sasidhar, MD",
+      "specialty": "Cardiologist Cardiovascular Disease",
+      "contact": "770-716-0051 (Work)",
+      "_source": "Test4 Piedmont Healthcare Page 4 Care teams Team Member Guthikonda, Sasidhar, MD NPI: 1851595367 795 Poplar Road STE 400 Newnan, GA 30265 770-716-0051 (Work) Cardiolologist Cardiovascular Disease 7/13/21"
+    },
+    {
+      "name": "Haroon, Mustafa, MD",
+      "specialty": "Peri-Op Services / Surgery",
+      "contact": "770-400-1000",
+      "_source": "Test4 Piedmont Healthcare Page 2 Encounter details Hospital Encounter Piedmont Newnan Hospital Haroon, Mustafa, MD 02/21/2025 8:33 AM Peri-Op Services"
+    },
+    {
+      "name": "Dooley, John David, MD",
+      "specialty": "Vascular",
+      "contact": "404-524-0095",
+      "_source": "Test4 Piedmont Healthcare Page 2 Encounter details 02/20/2025 Office Visit Atlanta Vascular Specialists Dooley, John David, MD 1:15 PM - Newnan"
+    },
+    {
+      "name": "Alexander, Amie L, NP",
+      "specialty": "Gastroenterology",
+      "contact": "228-575-7104",
+      "_source": "Singing River Health System Page 4 Upcoming Encounters 06/05/2024 9:40 AM Singing River Gulfport Alexander, Amie L, NP Gastroenterology 15190 COMMUNITY RD"
+    },
+    {
+      "name": "Zayed, Mahmoud H, MD",
+      "specialty": "Cardiology",
+      "contact": "228-575-8020",
+      "_source": "Singing River Health System Page 4 Upcoming Encounters 05/01/2024 Office Visit Southern Mississippi Heart Center - Gulfport Zayed, Mahmoud H, MD"
+    },
+    {
+      "name": "Carroll, Matthew B, MD",
+      "specialty": "Rheumatology",
+      "contact": "228-205-6830",
+      "_source": "Singing River Health System Page 4 Upcoming Encounters 04/30/2024 Office Visit Rheumatology Services Carroll, Matthew B, MD"
+    }
+  ],
+  "medications": [
+    {
+      "medication": "Atorvastatin",
+      "prescription_action": "Refill Request",
+      "dispense_location": "CVS",
+      "date": "01/12/2021",
+      "_source": "Piedmont Healthcare Clinical Note Page (Clinical Note) Encounter details 01/12/2021 Refill Refill Request Atorvastatin / CVS"
+    }
+  ],
+  "plans_and_followups": [
+    {
+      "description": "Upcoming encounter 04/19/2024 10:00 AM Singing River Gulfport Primary Care Services",
+      "_source": "Singing River Health System Page 3 Plan of treatment Upcoming Encounters 04/19/2024 10:00 AM CDT"
+    },
+    {
+      "description": "Upcoming encounter 04/22/2024 9:20 AM Singing River Gulfport Primary Care Services Hand, Hoyet A, MD",
+      "_source": "Singing River Health System Page 3 Plan of treatment Upcoming Encounters 04/22/2024 9:20 AM CDT"
+    },
+    {
+      "description": "Scheduled Procedure COLONOSCOPY, WITH BIOPSY 02/21/2025 8:33 AM EST",
+      "_source": "Test4 Piedmont Healthcare Page 3 Scheduled Procedures Name Priority Associated Diagnoses Date/Time COLONOSCOPY, WITH BIOPSY 02/21/2025 8:33 AM EST"
+    }
+  ],
+  "notes": [
+    {
+      "text": "Patient Health Questionnaire-2 Score 0",
+      "date": "03/28/2023",
+      "_source": "Singing River Health System Page 1 Social history PHQ-2 Answer Date Recorded Patient Health Questionnaire-2 Score 0 03/28/2023"
+    },
+    {
+      "text": "PHQ-9 Depression Total Score: 0",
+      "date": "03/28/2023 8:56 AM CDT",
+      "_source": "Singing River Health System Page 12 Additional health concerns PHQ-9 Depression Total Score: 0 03/28/2023 8:56 AM CDT"
+    },
+    {
+      "text": "PHQ-2 Depression Total Score: 0",
+      "date": "03/28/2023 8:56 AM CDT",
+      "_source": "Singing River Health System Page 12 Additional health concerns PHQ-2 Depression Total Score: 0 03/28/2023 8:56 AM CDT"
+    },
+    {
+      "text": "MRSA Most Recent Date: 9/4/20 Most Recent Site: R breast Original Date: 9/3/20 Original Site: R breast",
+      "onset_date": "09/03/2020",
+      "last_indicated": "09/04/2020",
+      "_source": "Piedmont Healthcare Clinical Note Page (Clinical Note) Additional health concerns Infection MRSA Comment: Most Recent Date: 9/4/20 Most Recent Site: R breast Original Date: 9/3/20 Original Site: R breast 09/03/2020 09/04/2020"
+    },
+    {
+      "text": "COVID-19 Comment: recovered",
+      "_source": "Piedmont Healthcare Clinical Note Page (Clinical Note) Additional health concerns COVID-19 Comment: recovered 01/04/2021"
+    },
+    {
+      "text": "Goals: Blood Pressure < 140/90 Recent Progress 128/78 (01/11/2025 9:30 AM EST)",
+      "_source": "Piedmont Healthcare Clinical Note Goals Blood Pressure < 140/90 Blood Pressure 128/78 (01/11/2025 9:30 AM EST) Nigon, Katy A, LPN"
+    },
+    {
+      "text": "LG Result Component (DM) 7 (10/22/2024 10:58 AM EDT)",
+      "_source": "Piedmont Healthcare Clinical Note Goals LG Result Component (DM) 7 (10/22/2024 10:58 AM EDT) Nigon, Katy A, LPN"
+    },
+    {
+      "text": "Telephone Encounter - Torres, Lizza - 01/13/2021 3:52 PM EST: Formatting of this note is different from the original. Lipid-related Refill Request Atorvastatin",
+      "_source": "Piedmont Healthcare Clinical Note Miscellaneous notes Telephone Encounter - Torres, Lizza - 01/13/2021 3:52 PM EST"
+    }
+  ],
+  "conflicts": [
+    {
+      "entity_type": "demographic",
+      "entity_name": "legal/recorded sex",
+      "conflict_description": "Different records list conflicting legal/recorded sex values.",
+      "variants": [
+        {
+          "value": "Female",
+          "_source": "Singing River Health System Page 1 PATIENT INFORMATION DOB: 05/05/1952 Gender: Female Age: 73 Received: 03/20/2024 08:24 PM"
+        },
+        {
+          "value": "Legal Sex Male",
+          "_source": "Test4 Piedmont Healthcare Page 1 Social history Sex and Gender Information Legal Sex Male 06/19/2013 2:39 AM EDT"
+        },
+        {
+          "value": "Legal Sex Female",
+          "_source": "Piedmont Healthcare Clinical Note Page (Clinical Note) Sex and Gender Information Legal Sex Female 12/17/2012 5:59 PM EST"
+        }
+      ]
+    },
+    {
+      "entity_type": "social_history",
+      "entity_name": "smoking/tobacco use",
+      "conflict_description": "Different records list smoking status as Former vs Every Day; multiple packs/day and years used vary across entries.",
+      "variants": [
+        {
+          "value": "Former Cigarettes Quit: 1991 Comments: patient states quit 30 years ago",
+          "_source": "Singing River Health System Page 1 Social history Smoking Tobacco: Former Cigarettes Quit: 1991 Comments: patient states quit 30 years ago"
+        },
+        {
+          "value": "Every Day Cigarettes 0.5 Packs/Day Years Used 50 Date 07/11/2023",
+          "_source": "Test4 Piedmont Healthcare Page 1 Social history Smoking Tobacco: Every Day Cigarettes 0.5 50 07/11/2023"
+        },
+        {
+          "value": "Former Cigarettes 0.3 Packs/Day Years Used 2 03/22/1971 - 03/22/1973",
+          "_source": "Piedmont Healthcare Clinical Note Page (Clinical Note) Social history Smoking Tobacco: Former Cigarettes 0.3 2 03/22/1971 - 03/22/1973"
+        }
+      ]
+    },
+    {
+      "entity_type": "functional_status",
+      "entity_name": "difficulty dressing/bathing",
+      "conflict_description": "Different assessments record both 'No' and 'Yes' for difficulty dressing or bathing on different dates.",
+      "variants": [
+        {
+          "value": "No",
+          "_source": "Singing River Health System Page 3 Functional status Does this person have difficulty dressing or bathing? No 06/14/2023"
+        },
+        {
+          "value": "Yes",
+          "_source": "Piedmont Healthcare Clinical Note Functional status Difficulty dressing or bathing? Yes 01/05/2021 1:00 AM EST"
+        }
+      ]
+    },
+    {
+      "entity_type": "functional_status",
+      "entity_name": "difficulty doing errands alone",
+      "conflict_description": "Different assessments record both 'No' and 'Yes' for difficulty doing errands alone on different dates.",
+      "variants": [
+        {
+          "value": "No",
+          "_source": "Singing River Health System Page 3 Functional status Because of a physical, mental or emotional condition, does this patient have difficulty doing errands alone such as visiting the doctor's office or shopping? No 06/14/2023"
+        },
+        {
+          "value": "Yes",
+          "_source": "Piedmont Healthcare Clinical Note Functional status Difficulty doing errands alone? Yes 01/05/2021 1:00 AM EST"
+        }
+      ]
+    }
+  ],
+  "patient_summary": "Olivia, female, DOB 05/05/1952 (age 73), primary phone +1 310 556 1256. Active diagnoses documented include mixed dyslipidemia, essential hypertension (benign), postoperative/unspecified anemia, and hyperlipidemia associated with type 2 diabetes mellitus. Major recent procedure: colonoscopy with biopsy on 02/21/2025 at Piedmont Newnan Hospital (Haroon, Mustafa, MD). Key abnormal labs from 07/03/2023: ferritin 266.8 ng/mL (H), iron 41 ug/dL (L), iron saturation 15% (L), triglycerides 158 mg/dL (H), eGFR CKD-EPI 58 ml/min/1.73m2 (L). PHQ-2 and PHQ-9 scores recorded as 0 on 03/28/2023. Care team includes Hand, Hoyet A, MD (PCP) and multiple specialists at Piedmont (cardiology, pulmonary, gastroenterology). Conflicting records note varying legal sex entries and inconsistent tobacco use and functional assessments; these conflicts are preserved for reconciliation.",
+  "icd10_codes": [
+    {
+      "diagnosis": "Mixed dyslipidemia - Primary",
+      "icd10_code": "E782",
+      "description": "Mixed hyperlipidemia",
+      "confidence": 0.95,
+      "candidates": [
+        {
+          "chunk_id": "icd10_E782",
+          "code": "E782",
+          "short_description": "Mixed hyperlipidemia",
+          "long_description": "Mixed hyperlipidemia",
+          "distance": 0.8490712642669678
+        },
+        {
+          "chunk_id": "icd10_D751",
+          "code": "D751",
+          "short_description": "Secondary polycythemia",
+          "long_description": "Secondary polycythemia",
+          "distance": 0.9765689969062805
+        },
+        {
+          "chunk_id": "icd10_E7849",
+          "code": "E7849",
+          "short_description": "Other hyperlipidemia",
+          "long_description": "Other hyperlipidemia",
+          "distance": 0.9998451471328735
+        },
+        {
+          "chunk_id": "icd10_E7841",
+          "code": "E7841",
+          "short_description": "Other hyperlipidemia",
+          "long_description": "Elevated Lipoprotein(a)",
+          "distance": 1.0330510139465332
+        },
+        {
+          "chunk_id": "icd10_E785",
+          "code": "E785",
+          "short_description": "Hyperlipidemia, unspecified",
+          "long_description": "Hyperlipidemia, unspecified",
+          "distance": 1.0667423009872437
+        },
+        {
+          "chunk_id": "icd10_E1365",
+          "code": "E1365",
+          "short_description": "Other specified diabetes mellitus with hyperglycemia",
+          "long_description": "Other specified diabetes mellitus with hyperglycemia",
+          "distance": 1.1219663619995117
+        },
+        {
+          "chunk_id": "icd10_D6859",
+          "code": "D6859",
+          "short_description": "Other primary thrombophilia",
+          "long_description": "Other primary thrombophilia",
+          "distance": 1.1307013034820557
+        },
+        {
+          "chunk_id": "icd10_D581",
+          "code": "D581",
+          "short_description": "Hereditary elliptocytosis",
+          "long_description": "Hereditary elliptocytosis",
+          "distance": 1.1358063220977783
+        },
+        {
+          "chunk_id": "icd10_K30",
+          "code": "K30",
+          "short_description": "Functional dyspepsia",
+          "long_description": "Functional dyspepsia",
+          "distance": 1.1420987844467163
+        },
+        {
+          "chunk_id": "icd10_D732",
+          "code": "D732",
+          "short_description": "Chronic congestive splenomegaly",
+          "long_description": "Chronic congestive splenomegaly",
+          "distance": 1.1508278846740723
+        }
+      ]
+    },
+    {
+      "diagnosis": "Essential hypertension, benign",
+      "icd10_code": "I10",
+      "description": "Essential (primary) hypertension",
+      "confidence": 0.95,
+      "candidates": [
+        {
+          "chunk_id": "icd10_I10",
+          "code": "I10",
+          "short_description": "Essential (primary) hypertension",
+          "long_description": "Essential (primary) hypertension",
+          "distance": 0.6150155067443848
+        },
+        {
+          "chunk_id": "icd10_I159",
+          "code": "I159",
+          "short_description": "Secondary hypertension, unspecified",
+          "long_description": "Secondary hypertension, unspecified",
+          "distance": 0.643639087677002
+        },
+        {
+          "chunk_id": "icd10_I158",
+          "code": "I158",
+          "short_description": "Other secondary hypertension",
+          "long_description": "Other secondary hypertension",
+          "distance": 0.7579105496406555
+        },
+        {
+          "chunk_id": "icd10_O1003",
+          "code": "O1003",
+          "short_description": "Pre-existing essential hypertension comp the puerperium",
+          "long_description": "Pre-existing essential hypertension complicating the puerperium",
+          "distance": 0.885312557220459
+        },
+        {
+          "chunk_id": "icd10_I169",
+          "code": "I169",
+          "short_description": "Hypertensive crisis, unspecified",
+          "long_description": "Hypertensive crisis, unspecified",
+          "distance": 0.8928350210189819
+        },
+        {
+          "chunk_id": "icd10_O10012",
+          "code": "O10012",
+          "short_description": "Pre-existing essential htn comp pregnancy, second trimester",
+          "long_description": "Pre-existing essential hypertension complicating pregnancy, second trimester",
+          "distance": 0.8934652805328369
+        },
+        {
+          "chunk_id": "icd10_I151",
+          "code": "I151",
+          "short_description": "Hypertension secondary to other renal disorders",
+          "long_description": "Hypertension secondary to other renal disorders",
+          "distance": 0.8977857828140259
+        },
+        {
+          "chunk_id": "icd10_O10019",
+          "code": "O10019",
+          "short_description": "Pre-existing essential htn comp pregnancy, unsp trimester",
+          "long_description": "Pre-existing essential hypertension complicating pregnancy, unspecified trimester",
+          "distance": 0.8991125226020813
+        },
+        {
+          "chunk_id": "icd10_O1002",
+          "code": "O1002",
+          "short_description": "Pre-existing essential hypertension complicating childbirth",
+          "long_description": "Pre-existing essential hypertension complicating childbirth",
+          "distance": 0.9133890271186829
+        },
+        {
+          "chunk_id": "icd10_G932",
+          "code": "G932",
+          "short_description": "Benign intracranial hypertension",
+          "long_description": "Benign intracranial hypertension",
+          "distance": 0.9175617098808289
+        }
+      ]
+    },
+    {
+      "diagnosis": "Postoperative anemia",
+      "icd10_code": "D62",
+      "description": "Acute posthemorrhagic anemia",
+      "confidence": 0.95,
+      "candidates": [
+        {
+          "chunk_id": "icd10_D62",
+          "code": "D62",
+          "short_description": "Acute posthemorrhagic anemia",
+          "long_description": "Acute posthemorrhagic anemia",
+          "distance": 0.7996997833251953
+        },
+        {
+          "chunk_id": "icd10_D649",
+          "code": "D649",
+          "short_description": "Anemia, unspecified",
+          "long_description": "Anemia, unspecified",
+          "distance": 0.8113377094268799
+        },
+        {
+          "chunk_id": "icd10_D464",
+          "code": "D464",
+          "short_description": "Refractory anemia, unspecified",
+          "long_description": "Refractory anemia, unspecified",
+          "distance": 0.8173104524612427
+        },
+        {
+          "chunk_id": "icd10_D4620",
+          "code": "D4620",
+          "short_description": "Refractory anemia with excess of blasts, unspecified",
+          "long_description": "Refractory anemia with excess of blasts, unspecified",
+          "distance": 0.8836820721626282
+        },
+        {
+          "chunk_id": "icd10_O9902",
+          "code": "O9902",
+          "short_description": "Anemia complicating childbirth",
+          "long_description": "Anemia complicating childbirth",
+          "distance": 0.9046656489372253
+        },
+        {
+          "chunk_id": "icd10_D6489",
+          "code": "D6489",
+          "short_description": "Other specified anemias",
+          "long_description": "Other specified anemias",
+          "distance": 0.9061535000801086
+        },
+        {
+          "chunk_id": "icd10_D558",
+          "code": "D558",
+          "short_description": "Other anemias due to enzyme disorders",
+          "long_description": "Other anemias due to enzyme disorders",
+          "distance": 0.9169375896453857
+        },
+        {
+          "chunk_id": "icd10_D509",
+          "code": "D509",
+          "short_description": "Iron deficiency anemia, unspecified",
+          "long_description": "Iron deficiency anemia, unspecified",
+          "distance": 0.9180118441581726
+        },
+        {
+          "chunk_id": "icd10_D559",
+          "code": "D559",
+          "short_description": "Anemia due to enzyme disorder, unspecified",
+          "long_description": "Anemia due to enzyme disorder, unspecified",
+          "distance": 0.9198699593544006
+        },
+        {
+          "chunk_id": "icd10_D4621",
+          "code": "D4621",
+          "short_description": "Refractory anemia with excess of blasts 1",
+          "long_description": "Refractory anemia with excess of blasts 1",
+          "distance": 0.9324067831039429
+        }
+      ]
+    },
+    {
+      "diagnosis": "Unspecified anemia",
+      "icd10_code": "D649",
+      "description": "Anemia, unspecified",
+      "confidence": 0.95,
+      "candidates": [
+        {
+          "chunk_id": "icd10_D649",
+          "code": "D649",
+          "short_description": "Anemia, unspecified",
+          "long_description": "Anemia, unspecified",
+          "distance": 0.31020450592041016
+        },
+        {
+          "chunk_id": "icd10_D509",
+          "code": "D509",
+          "short_description": "Iron deficiency anemia, unspecified",
+          "long_description": "Iron deficiency anemia, unspecified",
+          "distance": 0.5003243088722229
+        },
+        {
+          "chunk_id": "icd10_D464",
+          "code": "D464",
+          "short_description": "Refractory anemia, unspecified",
+          "long_description": "Refractory anemia, unspecified",
+          "distance": 0.5088286995887756
+        },
+        {
+          "chunk_id": "icd10_D559",
+          "code": "D559",
+          "short_description": "Anemia due to enzyme disorder, unspecified",
+          "long_description": "Anemia due to enzyme disorder, unspecified",
+          "distance": 0.5505387783050537
+        },
+        {
+          "chunk_id": "icd10_D6489",
+          "code": "D6489",
+          "short_description": "Other specified anemias",
+          "long_description": "Other specified anemias",
+          "distance": 0.5629322528839111
+        },
+        {
+          "chunk_id": "icd10_D619",
+          "code": "D619",
+          "short_description": "Aplastic anemia, unspecified",
+          "long_description": "Aplastic anemia, unspecified",
+          "distance": 0.5838309526443481
+        },
+        {
+          "chunk_id": "icd10_A219",
+          "code": "A219",
+          "short_description": "Tularemia, unspecified",
+          "long_description": "Tularemia, unspecified",
+          "distance": 0.6226856708526611
+        },
+        {
+          "chunk_id": "icd10_D4620",
+          "code": "D4620",
+          "short_description": "Refractory anemia with excess of blasts, unspecified",
+          "long_description": "Refractory anemia with excess of blasts, unspecified",
+          "distance": 0.6478679180145264
+        },
+        {
+          "chunk_id": "icd10_D529",
+          "code": "D529",
+          "short_description": "Folate deficiency anemia, unspecified",
+          "long_description": "Folate deficiency anemia, unspecified",
+          "distance": 0.6863097548484802
+        },
+        {
+          "chunk_id": "icd10_D599",
+          "code": "D599",
+          "short_description": "Acquired hemolytic anemia, unspecified",
+          "long_description": "Acquired hemolytic anemia, unspecified",
+          "distance": 0.6924223899841309
+        }
+      ]
+    },
+    {
+      "diagnosis": "Hyperlipidemia associated with type 2 diabetes mellitus (CMS/HCC)",
+      "icd10_code": "E7849",
+      "description": "Other hyperlipidemia",
+      "confidence": 0.85,
+      "candidates": [
+        {
+          "chunk_id": "icd10_E1165",
+          "code": "E1165",
+          "short_description": "Type 2 diabetes mellitus with hyperglycemia",
+          "long_description": "Type 2 diabetes mellitus with hyperglycemia",
+          "distance": 0.9135960340499878
+        },
+        {
+          "chunk_id": "icd10_E782",
+          "code": "E782",
+          "short_description": "Mixed hyperlipidemia",
+          "long_description": "Mixed hyperlipidemia",
+          "distance": 0.9420225620269775
+        },
+        {
+          "chunk_id": "icd10_E7849",
+          "code": "E7849",
+          "short_description": "Other hyperlipidemia",
+          "long_description": "Other hyperlipidemia",
+          "distance": 0.9502095580101013
+        },
+        {
+          "chunk_id": "icd10_E1100",
+          "code": "E1100",
+          "short_description": "Type 2 diab w hyprosm w/o nonket hyprgly-hypros coma (NKHHC)",
+          "long_description": "Type 2 diabetes mellitus with hyperosmolarity without nonketotic hyperglycemic-hyperosmolar coma (NKHHC)",
+          "distance": 0.9584957957267761
+        },
+        {
+          "chunk_id": "icd10_O24112",
+          "code": "O24112",
+          "short_description": "Pre-existing type 2 diabetes mellitus, in pregnancy, second trimester",
+          "long_description": "Pre-existing type 2 diabetes mellitus, in pregnancy, second trimester",
+          "distance": 0.9875994920730591
+        },
+        {
+          "chunk_id": "icd10_E1101",
+          "code": "E1101",
+          "short_description": "Type 2 diabetes mellitus with hyperosmolarity with coma",
+          "long_description": "Type 2 diabetes mellitus with hyperosmolarity with coma",
+          "distance": 0.9905986785888672
+        },
+        {
+          "chunk_id": "icd10_E1300",
+          "code": "E1300",
+          "short_description": "Oth diab w hyprosm w/o nonket hyprgly-hypros coma (NKHHC)",
+          "long_description": "Other specified diabetes mellitus with hyperosmolarity without nonketotic hyperglycemic-hyperosmolar coma (NKHHC)",
+          "distance": 0.9957111477851868
+        },
+        {
+          "chunk_id": "icd10_O24912",
+          "code": "O24912",
+          "short_description": "Unspecified diabetes mellitus in pregnancy, second trimester",
+          "long_description": "Unspecified diabetes mellitus in pregnancy, second trimester",
+          "distance": 1.0157850980758667
+        },
+        {
+          "chunk_id": "icd10_E118",
+          "code": "E118",
+          "short_description": "Type 2 diabetes mellitus with unspecified complications",
+          "long_description": "Type 2 diabetes mellitus with unspecified complications",
+          "distance": 1.0240557193756104
+        },
+        {
+          "chunk_id": "icd10_E1159",
+          "code": "E1159",
+          "short_description": "Type 2 diabetes mellitus with oth circulatory complications",
+          "long_description": "Type 2 diabetes mellitus with other circulatory complications",
+          "distance": 1.0269818305969238
+        }
+      ]
+    }
+  ],
+  "cpt_codes": [
+    {
+      "procedure": "COLONOSCOPY, WITH BIOPSY",
+      "cpt_code": "45380",
+      "description": "Colonoscopy and biopsy",
+      "confidence": 0.95,
+      "candidates": [
+        {
+          "chunk_id": "cpt_44389",
+          "code": "44389",
+          "description": "Colonoscopy with biopsy",
+          "distance": 0.29185914993286133
+        },
+        {
+          "chunk_id": "cpt_45380",
+          "code": "45380",
+          "description": "Colonoscopy and biopsy",
+          "distance": 0.37657368183135986
+        },
+        {
+          "chunk_id": "cpt_45378",
+          "code": "45378",
+          "description": "Diagnostic colonoscopy",
+          "distance": 0.6322929859161377
+        },
+        {
+          "chunk_id": "cpt_44100",
+          "code": "44100",
+          "description": "Biopsy of bowel",
+          "distance": 0.6529698371887207
+        },
+        {
+          "chunk_id": "cpt_45384",
+          "code": "45384",
+          "description": "Colonoscopy w/lesion removal",
+          "distance": 0.6893248558044434
+        },
+        {
+          "chunk_id": "cpt_45390",
+          "code": "45390",
+          "description": "Colonoscopy w/resection",
+          "distance": 0.6933605074882507
+        },
+        {
+          "chunk_id": "cpt_45385",
+          "code": "45385",
+          "description": "Colonoscopy w/lesion removal",
+          "distance": 0.6939917802810669
+        },
+        {
+          "chunk_id": "cpt_44401",
+          "code": "44401",
+          "description": "Colonoscopy with ablation",
+          "distance": 0.6960335969924927
+        },
+        {
+          "chunk_id": "cpt_46607",
+          "code": "46607",
+          "description": "Diagnostic anoscopy & biopsy",
+          "distance": 0.7075386047363281
+        }
+      ]
+    }
+  ]
+}

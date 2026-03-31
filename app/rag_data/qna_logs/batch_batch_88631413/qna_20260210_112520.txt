@@ -1,0 +1,5 @@
+QUESTION:
+What medications is the patient currently taking?
+
+ANSWER:
+The record indicates she is taking atorvastatin and diabetes medication (insulin — noted as taken twice daily).

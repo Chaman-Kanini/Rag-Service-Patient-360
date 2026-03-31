@@ -1,0 +1,11 @@
+QUESTION:
+give me all the procedures that were there
+
+ANSWER:
+- COLONOSCOPY, WITH BIOPSY
+  - Scheduled: 02/21/2025 (listed at 8:33 AM EST and also noted 02/21/2025 9:11 AM Peri‑Op Services)
+  - Location/Provider: Piedmont Newnan Hospital / Peri‑Op Services; Haroon, Mustafa, MD
+
+- Procedure — LGH KISSEL HILL (Ancillary)
+  - Listed: 08/18/2025 10:00 AM EDT
+  - Location: LGH Kissel Hill, 51 Peters Road, Lititz, PA

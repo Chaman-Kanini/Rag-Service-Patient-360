@@ -1,0 +1,95 @@
+{
+  "batch_id": "batch_b7b04303",
+  "finalized_at": "2026-02-11T19:04:19.733315",
+  "icd10_codes": [
+    {
+      "id": "icd10_Mixed dyslipidemia - Primary_E782",
+      "type": "icd10",
+      "sourceItem": "Mixed dyslipidemia - Primary",
+      "code": "E782",
+      "description": "Mixed hyperlipidemia",
+      "isAISuggested": true,
+      "isAccepted": true
+    },
+    {
+      "id": "icd10_Essential hypertension, benign_I10",
+      "type": "icd10",
+      "sourceItem": "Essential hypertension, benign",
+      "code": "I10",
+      "description": "Essential (primary) hypertension",
+      "isAISuggested": true,
+      "isAccepted": true
+    },
+    {
+      "id": "icd10_Postoperative anemia_D62",
+      "type": "icd10",
+      "sourceItem": "Postoperative anemia",
+      "code": "D62",
+      "description": "Acute posthemorrhagic anemia",
+      "isAISuggested": true,
+      "isAccepted": true
+    },
+    {
+      "id": "icd10_Secondary polycythemia_D751",
+      "type": "icd10",
+      "sourceItem": "Secondary polycythemia",
+      "code": "D751",
+      "description": "Secondary polycythemia",
+      "isAISuggested": false,
+      "isAccepted": true
+    },
+    {
+      "id": "icd10_Mixed dyslipidemia - Primary_D45",
+      "type": "icd10",
+      "sourceItem": "Mixed dyslipidemia - Primary",
+      "code": "D45",
+      "description": "Polycythemia vera",
+      "isAISuggested": false,
+      "isAccepted": true
+    },
+    {
+      "id": "icd10_Other hyperlipidemia_E7849_custom",
+      "type": "icd10",
+      "sourceItem": "Other hyperlipidemia",
+      "code": "E7849",
+      "description": "Other hyperlipidemia",
+      "isAISuggested": false,
+      "isAccepted": true
+    },
+    {
+      "id": "icd10_Mixed dyslipidemia - Primary_E7841_custom",
+      "type": "icd10",
+      "sourceItem": "Mixed dyslipidemia - Primary",
+      "code": "E7841",
+      "description": "Elevated Lipoprotein(a)",
+      "isAISuggested": false,
+      "isAccepted": true
+    }
+  ],
+  "cpt_codes": [
+    {
+      "id": "cpt_COLONOSCOPY, WITH BIOPSY_45380",
+      "type": "cpt",
+      "sourceItem": "COLONOSCOPY, WITH BIOPSY",
+      "code": "45380",
+      "description": "Colonoscopy and biopsy",
+      "isAISuggested": true,
+      "isAccepted": true
+    },
+    {
+      "id": "cpt_Hospitalist visit_S0310",
+      "type": "cpt",
+      "sourceItem": "Hospitalist visit",
+      "code": "S0310",
+      "description": "Hospitalist visit",
+      "isAISuggested": false,
+      "isAccepted": true
+    }
+  ],
+  "summary": {
+    "total_icd10": 7,
+    "total_cpt": 2,
+    "ai_suggested_accepted": 4,
+    "manually_added": 5
+  }
+}

@@ -1,0 +1,15 @@
+QUESTION:
+Summarize the patient's medical history
+
+ANSWER:
+73-year-old female.
+
+Summary of medical history from records:
+- Type 2 diabetes mellitus: on insulin twice daily, monitors blood sugars, A1c ~7% (10/22/2024); patient expressed desire to stop insulin. Diabetes care involvement with endocrinology.
+- Hyperlipidemia: on atorvastatin (refill requests documented).
+- Blood pressure: target <140/90, recent reading 128/78.
+- Prior infections: MRSA of right breast (9/3–9/4/2020); COVID‑19 infection recovered 01/04/2021.
+- Functional status: reports difficulty walking/climbing stairs; vision adequate for daily activities.
+- Mental health: PHQ‑2/PHQ‑9 scores 0 (no depression symptoms documented).
+- Social history: tobacco use documented (history of cigarette smoking; records include both a brief prior use 1971–1973 and an entry noting 0.5 pack/day over many years); denies current alcohol use.
+- Active care teams/specialties involved: primary care/family medicine, endocrinology, cardiology (including advanced heart failure), nephrology, hematology/oncology, surgery, gastroenterology (colonoscopy with biopsy scheduled 02/21/2025).

@@ -1,0 +1,290 @@
+Collecting chromadb
+  Downloading chromadb-1.4.1-cp39-abi3-win_amd64.whl.metadata (7.3 kB)
+Collecting build>=1.0.3 (from chromadb)
+  Using cached build-1.4.0-py3-none-any.whl.metadata (5.8 kB)
+Requirement already satisfied: pydantic>=1.9 in c:\users\chamanprakash\appdata\local\programs\python\python314\lib\site-packages (from chromadb) (2.12.5)
+Collecting pybase64>=1.4.1 (from chromadb)
+  Using cached pybase64-1.4.3-cp314-cp314-win_amd64.whl.metadata (9.1 kB)
+Requirement already satisfied: uvicorn>=0.18.3 in c:\users\chamanprakash\appdata\local\programs\python\python314\lib\site-packages (from uvicorn[standard]>=0.18.3->chromadb) (0.40.0)
+Requirement already satisfied: numpy>=1.22.5 in c:\users\chamanprakash\appdata\local\programs\python\python314\lib\site-packages (from chromadb) (2.4.0)
+Collecting posthog<6.0.0,>=2.4.0 (from chromadb)
+  Using cached posthog-5.4.0-py3-none-any.whl.metadata (5.7 kB)
+Requirement already satisfied: typing-extensions>=4.5.0 in c:\users\chamanprakash\appdata\local\programs\python\python314\lib\site-packages (from chromadb) (4.15.0)
+INFO: pip is looking at multiple versions of chromadb to determine which version is compatible with other requirements. This could take a while.
+Collecting chromadb
+  Using cached chromadb-1.4.0-cp39-abi3-win_amd64.whl.metadata (7.3 kB)
+  Using cached chromadb-1.3.7-cp39-abi3-win_amd64.whl.metadata (7.3 kB)
+  Using cached chromadb-1.3.6-cp39-abi3-win_amd64.whl.metadata (7.3 kB)
+  Using cached chromadb-1.3.5-cp39-abi3-win_amd64.whl.metadata (7.4 kB)
+  Using cached chromadb-1.3.4-cp39-abi3-win_amd64.whl.metadata (7.4 kB)
+  Using cached chromadb-1.3.3-cp39-abi3-win_amd64.whl.metadata (7.4 kB)
+  Using cached chromadb-1.3.2-cp39-abi3-win_amd64.whl.metadata (7.4 kB)
+INFO: pip is still looking at multiple versions of chromadb to determine which version is compatible with other requirements. This could take a while.
+  Using cached chromadb-1.3.0-cp39-abi3-win_amd64.whl.metadata (7.4 kB)
+  Using cached chromadb-1.2.2-cp39-abi3-win_amd64.whl.metadata (7.4 kB)
+  Using cached chromadb-1.2.1-cp39-abi3-win_amd64.whl.metadata (7.4 kB)
+  Using cached chromadb-1.2.0-cp39-abi3-win_amd64.whl.metadata (7.4 kB)
+  Using cached chromadb-1.1.1-cp39-abi3-win_amd64.whl.metadata (7.4 kB)
+INFO: This is taking longer than usual. You might need to provide the dependency resolver with stricter constraints to reduce runtime. See https://pip.pypa.io/warnings/backtracking for guidance. If you want to abort this run, press Ctrl + C.
+  Using cached chromadb-1.1.0-cp39-abi3-win_amd64.whl.metadata (7.4 kB)
+  Using cached chromadb-1.0.21-cp39-abi3-win_amd64.whl.metadata (7.4 kB)
+  Using cached chromadb-1.0.20-cp39-abi3-win_amd64.whl.metadata (7.4 kB)
+  Using cached chromadb-1.0.19-cp39-abi3-win_amd64.whl.metadata (7.4 kB)
+  Using cached chromadb-1.0.18-cp39-abi3-win_amd64.whl.metadata (7.4 kB)
+  Using cached chromadb-1.0.17-cp39-abi3-win_amd64.whl.metadata (7.4 kB)
+  Using cached chromadb-1.0.16-cp39-abi3-win_amd64.whl.metadata (7.5 kB)
+  Using cached chromadb-1.0.15-cp39-abi3-win_amd64.whl.metadata (7.1 kB)
+  Using cached chromadb-1.0.13-cp39-abi3-win_amd64.whl.metadata (7.1 kB)
+Collecting posthog>=2.4.0 (from chromadb)
+  Downloading posthog-7.6.0-py3-none-any.whl.metadata (6.4 kB)
+Collecting chromadb
+  Using cached chromadb-1.0.12-cp39-abi3-win_amd64.whl.metadata (7.0 kB)
+Collecting fastapi==0.115.9 (from chromadb)
+  Using cached fastapi-0.115.9-py3-none-any.whl.metadata (27 kB)
+Collecting chromadb
+  Using cached chromadb-1.0.11-cp39-abi3-win_amd64.whl.metadata (7.0 kB)
+  Using cached chromadb-1.0.10-cp39-abi3-win_amd64.whl.metadata (7.0 kB)
+  Using cached chromadb-1.0.9-cp39-abi3-win_amd64.whl.metadata (7.0 kB)
+  Using cached chromadb-1.0.8-cp39-abi3-win_amd64.whl.metadata (7.0 kB)
+  Using cached chromadb-1.0.7-cp39-abi3-win_amd64.whl.metadata (7.0 kB)
+Collecting chroma-hnswlib==0.7.6 (from chromadb)
+  Using cached chroma_hnswlib-0.7.6.tar.gz (32 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting chromadb
+  Using cached chromadb-1.0.6-cp39-abi3-win_amd64.whl.metadata (7.0 kB)
+  Using cached chromadb-1.0.5-cp39-abi3-win_amd64.whl.metadata (7.0 kB)
+  Using cached chromadb-1.0.4-cp39-abi3-win_amd64.whl.metadata (7.0 kB)
+  Using cached chromadb-1.0.3-cp39-abi3-win_amd64.whl.metadata (7.0 kB)
+  Using cached chromadb-1.0.2-cp39-abi3-win_amd64.whl.metadata (7.0 kB)
+  Using cached chromadb-1.0.0-cp39-abi3-win_amd64.whl.metadata (7.0 kB)
+  Using cached chromadb-0.6.3-py3-none-any.whl.metadata (6.8 kB)
+Requirement already satisfied: fastapi>=0.95.2 in c:\users\chamanprakash\appdata\local\programs\python\python314\lib\site-packages (from chromadb) (0.128.0)
+  Using cached chromadb-0.6.2-py3-none-any.whl.metadata (6.8 kB)
+  Using cached chromadb-0.6.1-py3-none-any.whl.metadata (6.8 kB)
+  Using cached chromadb-0.6.0-py3-none-any.whl.metadata (6.8 kB)
+  Using cached chromadb-0.5.23-py3-none-any.whl.metadata (6.8 kB)
+  Using cached chromadb-0.5.21-py3-none-any.whl.metadata (6.8 kB)
+  Using cached chromadb-0.5.20-py3-none-any.whl.metadata (6.8 kB)
+  Using cached chromadb-0.5.18-py3-none-any.whl.metadata (6.8 kB)
+  Using cached chromadb-0.5.17-py3-none-any.whl.metadata (6.8 kB)
+  Using cached chromadb-0.5.16-py3-none-any.whl.metadata (6.8 kB)
+  Using cached chromadb-0.5.15-py3-none-any.whl.metadata (6.8 kB)
+  Using cached chromadb-0.5.13-py3-none-any.whl.metadata (6.8 kB)
+  Using cached chromadb-0.5.12-py3-none-any.whl.metadata (6.8 kB)
+  Using cached chromadb-0.5.11-py3-none-any.whl.metadata (6.8 kB)
+  Using cached chromadb-0.5.10-py3-none-any.whl.metadata (6.8 kB)
+  Using cached chromadb-0.5.9-py3-none-any.whl.metadata (6.8 kB)
+  Using cached chromadb-0.5.7-py3-none-any.whl.metadata (6.8 kB)
+  Using cached chromadb-0.5.5-py3-none-any.whl.metadata (6.8 kB)
+Collecting numpy<2.0.0,>=1.22.5 (from chromadb)
+  Using cached numpy-1.26.4-cp314-cp314-win_amd64.whl
+Collecting chromadb
+  Using cached chromadb-0.5.4-py3-none-any.whl.metadata (6.8 kB)
+Collecting chroma-hnswlib==0.7.5 (from chromadb)
+  Using cached chroma_hnswlib-0.7.5.tar.gz (32 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting chromadb
+  Using cached chromadb-0.5.3-py3-none-any.whl.metadata (6.8 kB)
+Requirement already satisfied: requests>=2.28 in c:\users\chamanprakash\appdata\local\programs\python\python314\lib\site-packages (from chromadb) (2.32.5)
+Collecting chroma-hnswlib==0.7.3 (from chromadb)
+  Using cached chroma-hnswlib-0.7.3.tar.gz (31 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting chromadb
+  Using cached chromadb-0.5.2-py3-none-any.whl.metadata (6.8 kB)
+  Using cached chromadb-0.5.1-py3-none-any.whl.metadata (6.8 kB)
+  Using cached chromadb-0.5.0-py3-none-any.whl.metadata (7.3 kB)
+  Using cached chromadb-0.4.24-py3-none-any.whl.metadata (7.3 kB)
+Collecting pulsar-client>=3.1.0 (from chromadb)
+  Using cached pulsar_client-3.9.0-cp314-cp314-win_amd64.whl.metadata (1.2 kB)
+Collecting chromadb
+  Using cached chromadb-0.4.23-py3-none-any.whl.metadata (7.3 kB)
+  Using cached chromadb-0.4.22-py3-none-any.whl.metadata (7.3 kB)
+  Using cached chromadb-0.4.21-py3-none-any.whl.metadata (7.3 kB)
+  Using cached chromadb-0.4.20-py3-none-any.whl.metadata (7.3 kB)
+  Using cached chromadb-0.4.19-py3-none-any.whl.metadata (7.3 kB)
+  Using cached chromadb-0.4.18-py3-none-any.whl.metadata (7.4 kB)
+  Using cached chromadb-0.4.17-py3-none-any.whl.metadata (7.3 kB)
+  Using cached chromadb-0.4.16-py3-none-any.whl.metadata (7.3 kB)
+  Using cached chromadb-0.4.15-py3-none-any.whl.metadata (7.2 kB)
+  Using cached chromadb-0.4.14-py3-none-any.whl.metadata (7.0 kB)
+  Using cached chromadb-0.4.13-py3-none-any.whl.metadata (7.0 kB)
+  Using cached chromadb-0.4.12-py3-none-any.whl.metadata (7.0 kB)
+Collecting pydantic<2.0,>=1.9 (from chromadb)
+  Using cached pydantic-1.10.26-cp314-cp314-win_amd64.whl.metadata (156 kB)
+Collecting fastapi<0.100.0,>=0.95.2 (from chromadb)
+  Using cached fastapi-0.99.1-py3-none-any.whl.metadata (23 kB)
+Collecting chromadb
+  Using cached chromadb-0.4.11-py3-none-any.whl.metadata (7.0 kB)
+  Using cached chromadb-0.4.10-py3-none-any.whl.metadata (7.0 kB)
+  Using cached chromadb-0.4.9-py3-none-any.whl.metadata (7.0 kB)
+Collecting chroma-hnswlib==0.7.2 (from chromadb)
+  Using cached chroma-hnswlib-0.7.2.tar.gz (31 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting chromadb
+  Using cached chromadb-0.4.8-py3-none-any.whl.metadata (6.9 kB)
+  Using cached chromadb-0.4.7-py3-none-any.whl.metadata (6.9 kB)
+  Using cached chromadb-0.4.6-py3-none-any.whl.metadata (6.8 kB)
+  Using cached chromadb-0.4.5-py3-none-any.whl.metadata (6.8 kB)
+  Using cached chromadb-0.4.4-py3-none-any.whl.metadata (6.8 kB)
+  Using cached chromadb-0.4.3-py3-none-any.whl.metadata (6.9 kB)
+Collecting pandas>=1.3 (from chromadb)
+  Downloading pandas-3.0.0-cp314-cp314-win_amd64.whl.metadata (19 kB)
+Collecting chroma-hnswlib==0.7.1 (from chromadb)
+  Using cached chroma-hnswlib-0.7.1.tar.gz (30 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting chromadb
+  Using cached chromadb-0.4.2-py3-none-any.whl.metadata (6.9 kB)
+  Using cached chromadb-0.4.1-py3-none-any.whl.metadata (6.9 kB)
+  Using cached chromadb-0.4.0-py3-none-any.whl.metadata (6.9 kB)
+  Using cached chromadb-0.3.29-py3-none-any.whl.metadata (6.9 kB)
+Collecting hnswlib>=0.7 (from chromadb)
+  Using cached hnswlib-0.8.0-cp314-cp314-win_amd64.whl
+Collecting clickhouse-connect>=0.5.7 (from chromadb)
+  Using cached clickhouse_connect-0.10.0-cp314-cp314-win_amd64.whl.metadata (4.3 kB)
+Collecting duckdb>=0.7.1 (from chromadb)
+  Downloading duckdb-1.4.4-cp314-cp314-win_amd64.whl.metadata (4.3 kB)
+Collecting fastapi==0.85.1 (from chromadb)
+  Using cached fastapi-0.85.1-py3-none-any.whl.metadata (24 kB)
+Collecting chromadb
+  Using cached chromadb-0.3.27-py3-none-any.whl.metadata (6.8 kB)
+Collecting pydantic==1.9 (from chromadb)
+  Using cached pydantic-1.9.0-py3-none-any.whl.metadata (121 kB)
+Collecting chromadb
+  Using cached chromadb-0.3.26-py3-none-any.whl.metadata (6.8 kB)
+  Using cached chromadb-0.3.25-py3-none-any.whl.metadata (6.7 kB)
+  Using cached chromadb-0.3.23-py3-none-any.whl.metadata (6.3 kB)
+Collecting sentence-transformers>=2.2.2 (from chromadb)
+  Downloading sentence_transformers-5.2.1-py3-none-any.whl.metadata (16 kB)
+Requirement already satisfied: certifi in c:\users\chamanprakash\appdata\local\programs\python\python314\lib\site-packages (from clickhouse-connect>=0.5.7->chromadb) (2026.1.4)
+Requirement already satisfied: urllib3>=1.26 in c:\users\chamanprakash\appdata\local\programs\python\python314\lib\site-packages (from clickhouse-connect>=0.5.7->chromadb) (2.6.3)
+Collecting pytz (from clickhouse-connect>=0.5.7->chromadb)
+  Using cached pytz-2025.2-py2.py3-none-any.whl.metadata (22 kB)
+Requirement already satisfied: zstandard>=0.25.0 in c:\users\chamanprakash\appdata\local\programs\python\python314\lib\site-packages (from clickhouse-connect>=0.5.7->chromadb) (0.25.0)
+Collecting lz4>=4.4.5 (from clickhouse-connect>=0.5.7->chromadb)
+  Using cached lz4-4.4.5-cp314-cp314-win_amd64.whl.metadata (3.9 kB)
+Requirement already satisfied: starlette<0.51.0,>=0.40.0 in c:\users\chamanprakash\appdata\local\programs\python\python314\lib\site-packages (from fastapi>=0.95.2->chromadb) (0.50.0)
+Requirement already satisfied: annotated-doc>=0.0.2 in c:\users\chamanprakash\appdata\local\programs\python\python314\lib\site-packages (from fastapi>=0.95.2->chromadb) (0.0.4)
+Requirement already satisfied: anyio<5,>=3.6.2 in c:\users\chamanprakash\appdata\local\programs\python\python314\lib\site-packages (from starlette<0.51.0,>=0.40.0->fastapi>=0.95.2->chromadb) (4.12.1)
+Requirement already satisfied: idna>=2.8 in c:\users\chamanprakash\appdata\local\programs\python\python314\lib\site-packages (from anyio<5,>=3.6.2->starlette<0.51.0,>=0.40.0->fastapi>=0.95.2->chromadb) (3.11)
+Collecting python-dateutil>=2.8.2 (from pandas>=1.3->chromadb)
+  Using cached python_dateutil-2.9.0.post0-py2.py3-none-any.whl.metadata (8.4 kB)
+Requirement already satisfied: tzdata in c:\users\chamanprakash\appdata\local\programs\python\python314\lib\site-packages (from pandas>=1.3->chromadb) (2025.3)
+Collecting six>=1.5 (from posthog>=2.4.0->chromadb)
+  Using cached six-1.17.0-py2.py3-none-any.whl.metadata (1.7 kB)
+Collecting backoff>=1.10.0 (from posthog>=2.4.0->chromadb)
+  Using cached backoff-2.2.1-py3-none-any.whl.metadata (14 kB)
+Requirement already satisfied: distro>=1.5.0 in c:\users\chamanprakash\appdata\local\programs\python\python314\lib\site-packages (from posthog>=2.4.0->chromadb) (1.9.0)
+Requirement already satisfied: charset_normalizer<4,>=2 in c:\users\chamanprakash\appdata\local\programs\python\python314\lib\site-packages (from requests>=2.28->chromadb) (3.4.4)
+Requirement already satisfied: annotated-types>=0.6.0 in c:\users\chamanprakash\appdata\local\programs\python\python314\lib\site-packages (from pydantic>=1.9->chromadb) (0.7.0)
+Requirement already satisfied: pydantic-core==2.41.5 in c:\users\chamanprakash\appdata\local\programs\python\python314\lib\site-packages (from pydantic>=1.9->chromadb) (2.41.5)
+Requirement already satisfied: typing-inspection>=0.4.2 in c:\users\chamanprakash\appdata\local\programs\python\python314\lib\site-packages (from pydantic>=1.9->chromadb) (0.4.2)
+Collecting transformers<6.0.0,>=4.41.0 (from sentence-transformers>=2.2.2->chromadb)
+  Downloading transformers-5.0.0-py3-none-any.whl.metadata (37 kB)
+Collecting huggingface-hub>=0.20.0 (from sentence-transformers>=2.2.2->chromadb)
+  Downloading huggingface_hub-1.3.4-py3-none-any.whl.metadata (13 kB)
+Collecting torch>=1.11.0 (from sentence-transformers>=2.2.2->chromadb)
+  Downloading torch-2.10.0-cp314-cp314-win_amd64.whl.metadata (31 kB)
+Collecting scikit-learn (from sentence-transformers>=2.2.2->chromadb)
+  Using cached scikit_learn-1.8.0-cp314-cp314-win_amd64.whl.metadata (11 kB)
+Collecting scipy (from sentence-transformers>=2.2.2->chromadb)
+  Using cached scipy-1.17.0-cp314-cp314-win_amd64.whl.metadata (60 kB)
+Requirement already satisfied: tqdm in c:\users\chamanprakash\appdata\local\programs\python\python314\lib\site-packages (from sentence-transformers>=2.2.2->chromadb) (4.67.1)
+Collecting filelock (from transformers<6.0.0,>=4.41.0->sentence-transformers>=2.2.2->chromadb)
+  Using cached filelock-3.20.3-py3-none-any.whl.metadata (2.1 kB)
+Requirement already satisfied: packaging>=20.0 in c:\users\chamanprakash\appdata\local\programs\python\python314\lib\site-packages (from transformers<6.0.0,>=4.41.0->sentence-transformers>=2.2.2->chromadb) (25.0)
+Requirement already satisfied: pyyaml>=5.1 in c:\users\chamanprakash\appdata\local\programs\python\python314\lib\site-packages (from transformers<6.0.0,>=4.41.0->sentence-transformers>=2.2.2->chromadb) (6.0.3)
+Requirement already satisfied: regex!=2019.12.17 in c:\users\chamanprakash\appdata\local\programs\python\python314\lib\site-packages (from transformers<6.0.0,>=4.41.0->sentence-transformers>=2.2.2->chromadb) (2026.1.15)
+Collecting tokenizers<=0.23.0,>=0.22.0 (from transformers<6.0.0,>=4.41.0->sentence-transformers>=2.2.2->chromadb)
+  Using cached tokenizers-0.22.2-cp39-abi3-win_amd64.whl.metadata (7.4 kB)
+Requirement already satisfied: typer-slim in c:\users\chamanprakash\appdata\local\programs\python\python314\lib\site-packages (from transformers<6.0.0,>=4.41.0->sentence-transformers>=2.2.2->chromadb) (0.21.1)
+Collecting safetensors>=0.4.3 (from transformers<6.0.0,>=4.41.0->sentence-transformers>=2.2.2->chromadb)
+  Using cached safetensors-0.7.0-cp38-abi3-win_amd64.whl.metadata (4.2 kB)
+Collecting fsspec>=2023.5.0 (from huggingface-hub>=0.20.0->sentence-transformers>=2.2.2->chromadb)
+  Using cached fsspec-2026.1.0-py3-none-any.whl.metadata (10 kB)
+Collecting hf-xet<2.0.0,>=1.2.0 (from huggingface-hub>=0.20.0->sentence-transformers>=2.2.2->chromadb)
+  Downloading hf_xet-1.2.0-cp37-abi3-win_amd64.whl.metadata (5.0 kB)
+Requirement already satisfied: httpx<1,>=0.23.0 in c:\users\chamanprakash\appdata\local\programs\python\python314\lib\site-packages (from huggingface-hub>=0.20.0->sentence-transformers>=2.2.2->chromadb) (0.28.1)
+Collecting shellingham (from huggingface-hub>=0.20.0->sentence-transformers>=2.2.2->chromadb)
+  Using cached shellingham-1.5.4-py2.py3-none-any.whl.metadata (3.5 kB)
+Requirement already satisfied: httpcore==1.* in c:\users\chamanprakash\appdata\local\programs\python\python314\lib\site-packages (from httpx<1,>=0.23.0->huggingface-hub>=0.20.0->sentence-transformers>=2.2.2->chromadb) (1.0.9)
+Requirement already satisfied: h11>=0.16 in c:\users\chamanprakash\appdata\local\programs\python\python314\lib\site-packages (from httpcore==1.*->httpx<1,>=0.23.0->huggingface-hub>=0.20.0->sentence-transformers>=2.2.2->chromadb) (0.16.0)
+Collecting sympy>=1.13.3 (from torch>=1.11.0->sentence-transformers>=2.2.2->chromadb)
+  Using cached sympy-1.14.0-py3-none-any.whl.metadata (12 kB)
+Collecting networkx>=2.5.1 (from torch>=1.11.0->sentence-transformers>=2.2.2->chromadb)
+  Using cached networkx-3.6-py3-none-any.whl.metadata (6.8 kB)
+Requirement already satisfied: jinja2 in c:\users\chamanprakash\appdata\local\programs\python\python314\lib\site-packages (from torch>=1.11.0->sentence-transformers>=2.2.2->chromadb) (3.1.6)
+Requirement already satisfied: setuptools in c:\users\chamanprakash\appdata\local\programs\python\python314\lib\site-packages (from torch>=1.11.0->sentence-transformers>=2.2.2->chromadb) (80.9.0)
+Collecting mpmath<1.4,>=1.1.0 (from sympy>=1.13.3->torch>=1.11.0->sentence-transformers>=2.2.2->chromadb)
+  Using cached mpmath-1.3.0-py3-none-any.whl.metadata (8.6 kB)
+Requirement already satisfied: colorama in c:\users\chamanprakash\appdata\local\programs\python\python314\lib\site-packages (from tqdm->sentence-transformers>=2.2.2->chromadb) (0.4.6)
+Requirement already satisfied: click>=7.0 in c:\users\chamanprakash\appdata\local\programs\python\python314\lib\site-packages (from uvicorn>=0.18.3->uvicorn[standard]>=0.18.3->chromadb) (8.3.1)
+Requirement already satisfied: httptools>=0.6.3 in c:\users\chamanprakash\appdata\local\programs\python\python314\lib\site-packages (from uvicorn[standard]>=0.18.3->chromadb) (0.7.1)
+Requirement already satisfied: python-dotenv>=0.13 in c:\users\chamanprakash\appdata\local\programs\python\python314\lib\site-packages (from uvicorn[standard]>=0.18.3->chromadb) (1.0.1)
+Requirement already satisfied: watchfiles>=0.13 in c:\users\chamanprakash\appdata\local\programs\python\python314\lib\site-packages (from uvicorn[standard]>=0.18.3->chromadb) (1.1.1)
+Requirement already satisfied: websockets>=10.4 in c:\users\chamanprakash\appdata\local\programs\python\python314\lib\site-packages (from uvicorn[standard]>=0.18.3->chromadb) (15.0.1)
+Requirement already satisfied: MarkupSafe>=2.0 in c:\users\chamanprakash\appdata\local\programs\python\python314\lib\site-packages (from jinja2->torch>=1.11.0->sentence-transformers>=2.2.2->chromadb) (3.0.3)
+Collecting joblib>=1.3.0 (from scikit-learn->sentence-transformers>=2.2.2->chromadb)
+  Using cached joblib-1.5.3-py3-none-any.whl.metadata (5.5 kB)
+Collecting threadpoolctl>=3.2.0 (from scikit-learn->sentence-transformers>=2.2.2->chromadb)
+  Using cached threadpoolctl-3.6.0-py3-none-any.whl.metadata (13 kB)
+Using cached chromadb-0.3.23-py3-none-any.whl (71 kB)
+Using cached clickhouse_connect-0.10.0-cp314-cp314-win_amd64.whl (266 kB)
+Downloading duckdb-1.4.4-cp314-cp314-win_amd64.whl (12.8 MB)
+   ---------------------------------------- 12.8/12.8 MB 9.0 MB/s  0:00:01
+Using cached lz4-4.4.5-cp314-cp314-win_amd64.whl (101 kB)
+Downloading pandas-3.0.0-cp314-cp314-win_amd64.whl (9.9 MB)
+   ---------------------------------------- 9.9/9.9 MB 8.4 MB/s  0:00:01
+Downloading posthog-7.6.0-py3-none-any.whl (168 kB)
+Using cached backoff-2.2.1-py3-none-any.whl (15 kB)
+Using cached python_dateutil-2.9.0.post0-py2.py3-none-any.whl (229 kB)
+Downloading sentence_transformers-5.2.1-py3-none-any.whl (493 kB)
+Downloading transformers-5.0.0-py3-none-any.whl (10.1 MB)
+   ---------------------------------------- 10.1/10.1 MB 8.8 MB/s  0:00:01
+Downloading huggingface_hub-1.3.4-py3-none-any.whl (536 kB)
+   ---------------------------------------- 536.6/536.6 kB 10.0 MB/s  0:00:00
+Downloading hf_xet-1.2.0-cp37-abi3-win_amd64.whl (2.9 MB)
+   ---------------------------------------- 2.9/2.9 MB 8.9 MB/s  0:00:00
+Using cached tokenizers-0.22.2-cp39-abi3-win_amd64.whl (2.7 MB)
+Using cached fsspec-2026.1.0-py3-none-any.whl (201 kB)
+Using cached safetensors-0.7.0-cp38-abi3-win_amd64.whl (341 kB)
+Using cached six-1.17.0-py2.py3-none-any.whl (11 kB)
+Downloading torch-2.10.0-cp314-cp314-win_amd64.whl (113.8 MB)
+   ---------------------------------------- 113.8/113.8 MB 8.7 MB/s  0:00:13
+Using cached networkx-3.6-py3-none-any.whl (2.1 MB)
+Using cached sympy-1.14.0-py3-none-any.whl (6.3 MB)
+Using cached mpmath-1.3.0-py3-none-any.whl (536 kB)
+Using cached filelock-3.20.3-py3-none-any.whl (16 kB)
+Using cached pytz-2025.2-py2.py3-none-any.whl (509 kB)
+Using cached scikit_learn-1.8.0-cp314-cp314-win_amd64.whl (8.1 MB)
+Using cached joblib-1.5.3-py3-none-any.whl (309 kB)
+Using cached scipy-1.17.0-cp314-cp314-win_amd64.whl (37.1 MB)
+Using cached threadpoolctl-3.6.0-py3-none-any.whl (18 kB)
+Using cached shellingham-1.5.4-py2.py3-none-any.whl (9.8 kB)
+Installing collected packages: pytz, mpmath, threadpoolctl, sympy, six, shellingham, scipy, safetensors, networkx, lz4, joblib, hnswlib, hf-xet, fsspec, filelock, duckdb, backoff, torch, scikit-learn, python-dateutil, clickhouse-connect, posthog, pandas, huggingface-hub, tokenizers, transformers, sentence-transformers, chromadb
+
+Successfully installed backoff-2.2.1 chromadb-0.3.23 clickhouse-connect-0.10.0 duckdb-1.4.4 filelock-3.20.3 fsspec-2026.1.0 hf-xet-1.2.0 hnswlib-0.8.0 huggingface-hub-1.3.4 joblib-1.5.3 lz4-4.4.5 mpmath-1.3.0 networkx-3.6 pandas-3.0.0 posthog-7.6.0 python-dateutil-2.9.0.post0 pytz-2025.2 safetensors-0.7.0 scikit-learn-1.8.0 scipy-1.17.0 sentence-transformers-5.2.1 shellingham-1.5.4 six-1.17.0 sympy-1.14.0 threadpoolctl-3.6.0 tokenizers-0.22.2 torch-2.10.0 transformers-5.0.0

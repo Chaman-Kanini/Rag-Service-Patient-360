@@ -1,0 +1,884 @@
+```json
+{
+  "document_metadata": [
+    {
+      "document_type": "ContinuityofCare Document",
+      "source_organization": "PiedmontHealthcare",
+      "received_date": "02/19/202504:00PM",
+      "modified_date": "02/19/202504:00 PM",
+      "_source": "Test4PiedmontHealthcarePatientRecord02/19/2025: Page 1"
+    },
+    {
+      "document_type": "ClinicalNote",
+      "source_organization": "PiedmontHealthcare",
+      "received_date": "01/21/202508:22PM",
+      "modified_date": "01/21/202508:22PM",
+      "_source": "OliviaPiedmont HealthcarePatientRecord01/21/2025: Page 5"
+    },
+    {
+      "document_type": "ProgressNote",
+      "source_organization": "SingingRiverHealthSystem",
+      "received_date": "03/20/202408:24PM",
+      "modified_date": "03/20/202408:24PM",
+      "_source": "OliviaSingingRiverHealthSystemPatientRecord03/20/2024: Page 1"
+    }
+  ],
+  "patient": {
+    "name": "Olivia",
+    "dob": "05/05/1952",
+    "age": "73",
+    "sex": "Female",
+    "gender_identity": "Female",
+    "patient_id": "104",
+    "contact": {
+      "phone": "+13105561256"
+    },
+    "_source": [
+      "Test4PiedmontHealthcarePatientRecord02/19/2025: Page 2",
+      "OliviaPiedmont HealthcarePatientRecord01/21/2025: Page 5",
+      "OliviaSingingRiverHealthSystemPatientRecord03/20/2024: Page 1"
+    ]
+  },
+  "encounters": [
+    {
+      "date": "08/18/202510:00AM EDT",
+      "type": "Ancillary Procedure",
+      "facility": "LGHKISSELHILL 51PetersRoad Lititz,PA17543-7685",
+      "_source": "OliviaPiedmont HealthcarePatientRecord01/21/2025: Page 5, Encounter details table"
+    },
+    {
+      "date": "04/25/20259:30AM EDT",
+      "type": "OfficeVisit",
+      "department": "PiedmontHeartofNewnan",
+      "care_team": {
+        "name": "Darlington,Andrew,DO"
+      },
+      "facility": "1267Highway54West Ste2200 Fayetteville,GA30214",
+      "_source": "Test4PiedmontHealthcarePatientRecord02/19/2025: Page 3, Encounter details table"
+    },
+    {
+      "date": "04/23/202510:00AM EDT",
+      "type": "OfficeVisit",
+      "department": "PiedmontPhysicians PulmonaryandSleep MedicineNewnan",
+      "care_team": {
+        "name": "Kandaswamy,Shankar,MD"
+      },
+      "facility": "745PoplarRoad NEWNAN,GA30265",
+      "_source": "Test4PiedmontHealthcarePatientRecord02/19/2025: Page 2, Encounter details table"
+    },
+    {
+      "date": "04/21/202511:00AM EDT",
+      "type": "OfficeVisit",
+      "department": "Hematology&Medical Oncology",
+      "care_team": {
+        "name": "Jhaveri,Ami,MD"
+      },
+      "facility": "2102HARRISBURGPIKE LANCASTER,PA17601",
+      "_source": "OliviaPiedmont HealthcarePatientRecord01/21/2025: Page 5, Encounter details table"
+    },
+    {
+      "date": "02/21/20258:33AM EST",
+      "type": "Hospital Encounter",
+      "department": "PiedmontNewnanHospital Peri-OpServices",
+      "care_team": {
+        "name": "Haroon,Mustafa,MD"
+      },
+      "facility": "1200LOWER FAYETTEVILLEROAD NEWNAN,GA30265-1618",
+      "_source": "Test4PiedmontHealthcarePatientRecord02/19/2025: Page 2, Encounter details table"
+    },
+    {
+      "date": "02/20/20251:15PM EST",
+      "type": "OfficeVisit",
+      "department": "AtlantaVascularSpecialists -Newnan",
+      "care_team": {
+        "name": "Dooley,JohnDavid,MD"
+      },
+      "facility": "1233HWY54WEST SUITE210 FAYETTEVILLE,GA30214-4542",
+      "_source": "Test4PiedmontHealthcarePatientRecord02/19/2025: Page 2, Encounter details table"
+    },
+    {
+      "date": "02/06/20258:30AM EST",
+      "type": "Telemedicine",
+      "department": "FamilyMedicineLincoln",
+      "care_team": {
+        "name": "Calamia,Courtney,RPh"
+      },
+      "facility": "424CLOVERLEAFROAD Elizabethtown,PA17322",
+      "description": "DischargeDisposition:Home /SelfCare",
+      "_source": "OliviaPiedmont HealthcarePatientRecord01/21/2025: Page 5, Encounter details table"
+    },
+    {
+      "date": "02/03/20259:40AM EST",
+      "type": "OfficeVisit",
+      "department": "FamilyMedicineLincoln",
+      "care_team": {
+        "name": "Hershey,CurtisL,MD"
+      },
+      "facility": "101LARKSPURLANE Ephrata,PA17522",
+      "description": "DischargeDisposition:Home /SelfCare",
+      "_source": "OliviaPiedmont HealthcarePatientRecord01/21/2025: Page 5, Encounter details table"
+    },
+    {
+      "date": "07/11/2023",
+      "type": "Travel",
+      "_source": "Test4PiedmontHealthcarePatientRecord02/19/2025: Page 1, Encounter details table"
+    },
+    {
+      "date": "06/30/2023",
+      "type": "OrdersOnly",
+      "department": "SingingRiverGulfport PrimaryCareServices",
+      "care_team": {
+        "name": "Hand,HoyetA,MD"
+      },
+      "description": "Mixeddyslipidemia(Primary Dx); Essentialhypertension, benign; Postoperativeanemia LegPain",
+      "_source": "OliviaSingingRiverHealthSystemPatientRecord03/20/2024: Page 1, Encounter details table"
+    }
+  ],
+  "diagnoses": [
+    {
+      "diagnosis": "Hyperlipidemia associated with type 2 diabetes mellitus",
+      "_source": "OliviaPiedmont HealthcarePatientRecord01/21/2025: Page 7, Diagnosis section"
+    },
+    {
+      "diagnosis": "MRSA",
+      "onset_date": "09/03/2020",
+      "last_indicated_date": "09/04/2020",
+      "resolved_time": "03/29/20239:54AMEDT",
+      "comment": "MostRecentDate:9/4/20MostRecent Site:Rbreast OriginalDate:9/3/20OriginalSite:Rbreast",
+      "_source": "OliviaPiedmont HealthcarePatientRecord01/21/2025: Page 7, Additional health concerns table"
+    },
+    {
+      "diagnosis": "COVID-19",
+      "onset_date": "01/04/2021",
+      "last_indicated_date": "01/04/2021",
+      "resolved_time": "01/24/20214:02PMEST",
+      "comment": "recovered",
+      "_source": "OliviaPiedmont HealthcarePatientRecord01/21/2025: Page 7, Additional health concerns table"
+    },
+    {
+      "diagnosis": "Mixed dyslipidemia (Primary Dx)",
+      "_source": "OliviaSingingRiverHealthSystemPatientRecord03/20/2024: Page 1, Encounter details table"
+    },
+    {
+      "diagnosis": "Essential hypertension, benign",
+      "_source": "OliviaSingingRiverHealthSystemPatientRecord03/20/2024: Page 1, Encounter details table"
+    },
+    {
+      "diagnosis": "Postoperative anemia",
+      "_source": "OliviaSingingRiverHealthSystemPatientRecord03/20/2024: Page 1, Encounter details table"
+    }
+  ],
+  "procedures": [
+    {
+      "procedure": "COLONOSCOPY,WITH BIOPSY",
+      "date": "02/21/20258:33AMEST",
+      "context": "Special screening for malignant neoplasms, colon",
+      "provider": "Haroon,Mustafa,MD",
+      "_source": [
+        "Test4PiedmontHealthcarePatientRecord02/19/2025: Page 2, Encounter details table",
+        "Test4PiedmontHealthcarePatientRecord02/19/2025: Page 3, Scheduled Procedures table"
+      ]
+    }
+  ],
+  "laboratory_results": [
+    {
+      "test": "LGResultComponent(DM)",
+      "date": "10/22/202410:58AMEDT",
+      "value": "7",
+      "_source": "OliviaPiedmont HealthcarePatientRecord01/21/2025: Page 6, Goals table"
+    },
+    {
+      "test": "Basic metabolic panel",
+      "component": "eGFR",
+      "date": "07/03/2023 9:15 AM CDT",
+      "value": ">60",
+      "unit": "mL/min/1.73m2",
+      "reference_range": ">60",
+      "interpretation": null,
+      "analysis_time": "07/03/202310:45AM CDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITALLAB",
+      "specimen": "Blood",
+      "collection_time": "07/03/20239:15AM CDT",
+      "received_time": "07/03/202310:06AM CDT",
+      "authorizing_provider": "HoyetAHandMD",
+      "result_type": "LABBLOODORDERABLES",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITALLAB",
+      "_source": "OliviaSingingRiverHealthSystemPatientRecord03/20/2024: Page 8, Results table"
+    },
+    {
+      "test": "Basic metabolic panel",
+      "component": "Glucose",
+      "date": "07/03/2023 9:15 AM CDT",
+      "value": "96",
+      "unit": "mg/dL",
+      "reference_range": "65-99",
+      "interpretation": null,
+      "analysis_time": "07/03/202310:45AM CDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITALLAB",
+      "specimen": "Blood",
+      "collection_time": "07/03/20239:15AM CDT",
+      "received_time": "07/03/202310:06AM CDT",
+      "authorizing_provider": "HoyetAHandMD",
+      "result_type": "LABBLOODORDERABLES",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITALLAB",
+      "_source": "OliviaSingingRiverHealthSystemPatientRecord03/20/2024: Page 8, Results table"
+    },
+    {
+      "test": "Basic metabolic panel",
+      "component": "Creatinine",
+      "date": "07/03/2023 9:15 AM CDT",
+      "value": "0.8",
+      "unit": "mg/dL",
+      "reference_range": "0.6-1.1",
+      "interpretation": null,
+      "analysis_time": "07/03/202310:45AM CDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITALLAB",
+      "specimen": "Blood",
+      "collection_time": "07/03/20239:15AM CDT",
+      "received_time": "07/03/202310:06AM CDT",
+      "authorizing_provider": "HoyetAHandMD",
+      "result_type": "LABBLOODORDERABLES",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITALLAB",
+      "_source": "OliviaSingingRiverHealthSystemPatientRecord03/20/2024: Page 7, Results table"
+    },
+    {
+      "test": "Basic metabolic panel",
+      "component": "BUN",
+      "date": "07/03/2023 9:15 AM CDT",
+      "value": "16",
+      "unit": "mg/dL",
+      "reference_range": "7-20",
+      "interpretation": null,
+      "analysis_time": "07/03/202310:45AM CDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITALLAB",
+      "specimen": "Blood",
+      "collection_time": "07/03/20239:15AM CDT",
+      "received_time": "07/03/202310:06AM CDT",
+      "authorizing_provider": "HoyetAHandMD",
+      "result_type": "LABBLOODORDERABLES",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITALLAB",
+      "_source": "OliviaSingingRiverHealthSystemPatientRecord03/20/2024: Page 7, Results table"
+    },
+    {
+      "test": "Basic metabolic panel",
+      "component": "CarbonDioxide",
+      "date": "07/03/2023 9:15 AM CDT",
+      "value": "28",
+      "unit": "mmol/L",
+      "reference_range": "22-32",
+      "interpretation": null,
+      "analysis_time": "07/03/202310:45AM CDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITALLAB",
+      "specimen": "Blood",
+      "collection_time": "07/03/20239:15AM CDT",
+      "received_time": "07/03/202310:06AM CDT",
+      "authorizing_provider": "HoyetAHandMD",
+      "result_type": "LABBLOODORDERABLES",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITALLAB",
+      "_source": "OliviaSingingRiverHealthSystemPatientRecord03/20/2024: Page 7, Results table"
+    },
+    {
+      "test": "Basic metabolic panel",
+      "component": "Chloride",
+      "date": "07/03/2023 9:15 AM CDT",
+      "value": "103",
+      "unit": "mmol/L",
+      "reference_range": "98-107",
+      "interpretation": null,
+      "analysis_time": "07/03/202310:45AM CDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITALLAB",
+      "specimen": "Blood",
+      "collection_time": "07/03/20239:15AM CDT",
+      "received_time": "07/03/202310:06AM CDT",
+      "authorizing_provider": "HoyetAHandMD",
+      "result_type": "LABBLOODORDERABLES",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITALLAB",
+      "_source": "OliviaSingingRiverHealthSystemPatientRecord03/20/2024: Page 7, Results table"
+    },
+    {
+      "test": "Basic metabolic panel",
+      "component": "Potassium",
+      "date": "07/03/2023 9:15 AM CDT",
+      "value": "4.1",
+      "unit": "mmol/L",
+      "reference_range": "3.5-5.1",
+      "interpretation": null,
+      "analysis_time": "07/03/202310:45AM CDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITALLAB",
+      "specimen": "Blood",
+      "collection_time": "07/03/20239:15AM CDT",
+      "received_time": "07/03/202310:06AM CDT",
+      "authorizing_provider": "HoyetAHandMD",
+      "result_type": "LABBLOODORDERABLES",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITALLAB",
+      "_source": "OliviaSingingRiverHealthSystemPatientRecord03/20/2024: Page 7, Results table"
+    },
+    {
+      "test": "Basic metabolic panel",
+      "component": "Sodium",
+      "date": "07/03/2023 9:15 AM CDT",
+      "value": "140",
+      "unit": "mmol/L",
+      "reference_range": "136-145",
+      "interpretation": null,
+      "analysis_time": "07/03/202310:45AM CDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITALLAB",
+      "specimen": "Blood",
+      "collection_time": "07/03/20239:15AM CDT",
+      "received_time": "07/03/202310:06AM CDT",
+      "authorizing_provider": "HoyetAHandMD",
+      "result_type": "LABBLOODORDERABLES",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITALLAB",
+      "_source": "OliviaSingingRiverHealthSystemPatientRecord03/20/2024: Page 6, Results table"
+    },
+    {
+      "test": "Iron& Iron Binding Capacity",
+      "component": "IronSaturation",
+      "date": "07/03/2023 9:15 AM CDT",
+      "value": "15",
+      "unit": "%",
+      "reference_range": "20-55 %",
+      "interpretation": "L",
+      "analysis_time": "07/03/202310:45AM CDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITALLAB",
+      "specimen": "Blood",
+      "collection_time": "07/03/20239:15AM CDT",
+      "received_time": "07/03/202310:06AM CDT",
+      "authorizing_provider": "HoyetAHandMD",
+      "result_type": "LABBLOODORDERABLES",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITALLAB",
+      "_source": "OliviaSingingRiverHealthSystemPatientRecord03/20/2024: Page 6, Results table"
+    },
+    {
+      "test": "Iron& Iron Binding Capacity",
+      "component": "TIBC",
+      "date": "07/03/2023 9:15 AM CDT",
+      "value": "279",
+      "unit": "ug/dL",
+      "reference_range": "250-450ug/dL",
+      "interpretation": null,
+      "analysis_time": "07/03/202310:45AM CDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITALLAB",
+      "specimen": "Blood",
+      "collection_time": "07/03/20239:15AM CDT",
+      "received_time": "07/03/202310:06AM CDT",
+      "authorizing_provider": "HoyetAHandMD",
+      "result_type": "LABBLOODORDERABLES",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITALLAB",
+      "_source": "OliviaSingingRiverHealthSystemPatientRecord03/20/2024: Page 6, Results table"
+    },
+    {
+      "test": "Iron& Iron Binding Capacity",
+      "component": "Iron",
+      "date": "07/03/2023 9:15 AM CDT",
+      "value": "41",
+      "unit": "ug/dL",
+      "reference_range": "50-170ug/dL",
+      "interpretation": "L",
+      "analysis_time": "07/03/202310:45AM CDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITALLAB",
+      "specimen": "Blood",
+      "collection_time": "07/03/20239:15AM CDT",
+      "received_time": "07/03/202310:06AM CDT",
+      "authorizing_provider": "HoyetAHandMD",
+      "result_type": "LABBLOODORDERABLES",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITALLAB",
+      "_source": "OliviaSingingRiverHealthSystemPatientRecord03/20/2024: Page 6, Results table"
+    },
+    {
+      "test": "Ferritin",
+      "component": "Ferritin",
+      "date": "07/03/2023 9:15 AM CDT",
+      "value": "266.8",
+      "unit": "ng/mL",
+      "reference_range": "8.0-252.0",
+      "interpretation": "H",
+      "analysis_time": "07/03/202310:45AM CDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITALLAB",
+      "specimen": "Blood",
+      "collection_time": "07/03/20239:15AM CDT",
+      "received_time": "07/03/202310:06AM CDT",
+      "authorizing_provider": "HoyetAHandMD",
+      "result_type": "LABBLOODORDERABLES",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITALLAB",
+      "_source": "OliviaSingingRiverHealthSystemPatientRecord03/20/2024: Page 5, Results table"
+    },
+    {
+      "test": "ALT(SGPT)",
+      "date": "01/08/202105:00AM",
+      "value": "10",
+      "unit": "U/L",
+      "reference_range": "7-52U/L",
+      "interpretation": "L",
+      "status": "Final",
+      "_source": "/202105:00AM5834-144U/LFinal: Page 4 (context)"
+    },
+    {
+      "test": "AST(SGOT)",
+      "date": "01/08/202105:00AM",
+      "value": "8",
+      "unit": "U/L",
+      "reference_range": "13-40U/L",
+      "interpretation": "L",
+      "status": "Final",
+      "_source": "/202105:00AM5834-144U/LFinal: Page 4 (context)"
+    }
+  ],
+  "vitals": [
+    {
+      "vital_name": "Blood Pressure",
+      "value": "128/78",
+      "date": "01/11/20259:30AMEST",
+      "_source": "OliviaPiedmont HealthcarePatientRecord01/21/2025: Page 5, Goals table"
+    }
+  ],
+  "social_history": {
+    "tobacco_use": [
+      {
+        "type": "SmokingTobacco",
+        "status": "EveryDay",
+        "tobacco_type": "Cigarettes",
+        "packs_per_day": "0.5",
+        "years_used": "50",
+        "_source": "Test4PiedmontHealthcarePatientRecord02/19/2025: Page 1, Social history table"
+      },
+      {
+        "type": "SmokelessTobacco",
+        "status": "Never",
+        "_source": [
+          "Test4PiedmontHealthcarePatientRecord02/19/2025: Page 1, Social history table",
+          "OliviaSingingRiverHealthSystemPatientRecord03/20/2024: Page 1, Social history table"
+        ]
+      },
+      {
+        "type": "SmokingTobacco",
+        "status": "Former",
+        "tobacco_type": "Cigarettes",
+        "quit_date": "1991",
+        "comments": "patientstatesquit30yearsago",
+        "_source": "OliviaSingingRiverHealthSystemPatientRecord03/20/2024: Page 1, Social history table"
+      }
+    ],
+    "alcohol_use": [
+      {
+        "alcohol_use_status": "No",
+        "standard_drinks_per_week": "0",
+        "_source": "Test4PiedmontHealthcarePatientRecord02/19/2025: Page 1, Social history table"
+      },
+      {
+        "alcohol_use_status": "NotCurrently",
+        "standard_drinks_per_week": "0",
+        "_source": "OliviaSingingRiverHealthSystemPatientRecord03/20/2024: Page 1, Social history table"
+      }
+    ],
+    "sex_and_gender_information": [
+      {
+        "sex_assigned_at_birth": "Notonfile",
+        "_source": [
+          "Test4PiedmontHealthcarePatientRecord02/19/2025: Page 1, Social history table",
+          "OliviaSingingRiverHealthSystemPatientRecord03/20/2024: Page 1, Social history table"
+        ]
+      },
+      {
+        "gender_identity": "Notonfile",
+        "_source": "Test4PiedmontHealthcarePatientRecord02/19/2025: Page 1, Social history table"
+      },
+      {
+        "sexual_orientation": "Notonfile",
+        "_source": [
+          "Test4PiedmontHealthcarePatientRecord02/19/2025: Page 1, Social history table",
+          "OliviaSingingRiverHealthSystemPatientRecord03/20/2024: Page 2, Social history table"
+        ]
+      }
+    ],
+    "covid_19_exposure_response": [
+      {
+        "response": "No/Unsure",
+        "date_recorded": "7/11/20238:35AMEDT",
+        "_source": "Test4PiedmontHealthcarePatientRecord02/19/2025: Page 1, Social history table"
+      },
+      {
+        "response": "No/Unsure",
+        "date_recorded": "6/19/20235:23AMCDT",
+        "_source": "OliviaSingingRiverHealthSystemPatientRecord03/20/2024: Page 3, Social history table"
+      }
+    ],
+    "phq_2_score": {
+      "score": "0",
+      "date_recorded": "03/28/2023",
+      "_source": "OliviaSingingRiverHealthSystemPatientRecord03/20/2024: Page 1, Social history table"
+    }
+  },
+  "functional_status": [
+    {
+      "status_question": "Isthepersondeafordoeshe/shehavedifficultyhearing?",
+      "response": "No",
+      "date_of_assessment": "06/19/2023",
+      "_source": "OliviaSingingRiverHealthSystemPatientRecord03/20/2024: Page 3, Functional status table"
+    },
+    {
+      "status_question": "Patient'sVisionAdequatetoSafelyCompleteDailyActivities",
+      "response": "Yes",
+      "date_of_assessment": "06/19/2023",
+      "_source": "OliviaSingingRiverHealthSystemPatientRecord03/20/2024: Page 3, Functional status table"
+    },
+    {
+      "status_question": "Doesthispersonhaveseriousdifficultywalkingorclimbing stairs?",
+      "response": "Yes",
+      "date_of_assessment": "06/14/2023",
+      "_source": "OliviaSingingRiverHealthSystemPatientRecord03/20/2024: Page 3, Functional status table"
+    },
+    {
+      "status_question": "Doesthispersonhavedifficultydressingorbathing?",
+      "response": "No",
+      "date_of_assessment": "06/14/2023",
+      "_source": "OliviaSingingRiverHealthSystemPatientRecord03/20/2024: Page 3, Functional status table"
+    },
+    {
+      "status_question": "Becauseofaphysical,mentaloremotionalcondition,does thispatienthavedifficultydoingerrandsalonesuchas visitingthedoctor'sofficeorshopping?",
+      "response": "No",
+      "date_of_assessment": "06/14/2023",
+      "_source": "OliviaSingingRiverHealthSystemPatientRecord03/20/2024: Page 3, Functional status table"
+    },
+    {
+      "status_question": "Becauseofaphysical,mentaloremotionalcondition,does thispersonhaveseriousdifficultyconcentrating, remembering,ormakingdecisions?",
+      "response": "No",
+      "date_of_assessment": "06/14/2023",
+      "_source": "OliviaSingingRiverHealthSystemPatientRecord03/20/2024: Page 3, Functional status table"
+    }
+  ],
+  "care_team": [
+    {
+      "name": "Jhaveri,Ami,MD",
+      "specialty": "Hematology&Medical Oncology",
+      "_source": "OliviaPiedmont HealthcarePatientRecord01/21/2025: Page 5, Encounter details table"
+    },
+    {
+      "name": "Calamia,Courtney,RPh",
+      "specialty": null,
+      "_source": "OliviaPiedmont HealthcarePatientRecord01/21/2025: Page 5, Encounter details table"
+    },
+    {
+      "name": "Nigon,Katy A,LPN",
+      "specialty": null,
+      "_source": "OliviaPiedmont HealthcarePatientRecord01/21/2025: Page 5, Goals table"
+    },
+    {
+      "name": "Gress, Pamela,RN",
+      "specialty": null,
+      "_source": "OliviaPiedmont HealthcarePatientRecord01/21/2025: Page 6, Goals table"
+    },
+    {
+      "name": "Fleming, Shelly-Ann, CMA",
+      "specialty": null,
+      "_source": "OliviaPiedmont HealthcarePatientRecord01/21/2025: Page 6, Goals table"
+    },
+    {
+      "name": "Sharma,Rajiv,MD",
+      "specialty": "Nephrology",
+      "start_date": "9/14/20",
+      "_source": "OliviaPiedmont HealthcarePatientRecord01/21/2025: Page 9, Care teams table"
+    },
+    {
+      "name": "Thomas,GretchenK,RN",
+      "relationship": "RegisteredNurse",
+      "start_date": "9/14/20",
+      "end_date": "7/19/21",
+      "_source": "OliviaPiedmont HealthcarePatientRecord01/21/2025: Page 9, Care teams table"
+    },
+    {
+      "name": "Wozney,JocelynL,MD",
+      "relationship": "Oncologist",
+      "specialty": "HematologyandOncology",
+      "start_date": "9/14/20",
+      "end_date": "11/8/21",
+      "_source": "OliviaPiedmont HealthcarePatientRecord01/21/2025: Page 8, Care teams table"
+    },
+    {
+      "name": "Kaplan,Marnie,MD",
+      "relationship": "Surgeon",
+      "specialty": "GeneralSurgery",
+      "start_date": "7/6/20",
+      "end_date": "6/14/22",
+      "_source": "OliviaPiedmont HealthcarePatientRecord01/21/2025: Page 8, Care teams table"
+    },
+    {
+      "name": "Roberts,JustinD,DO",
+      "relationship": "ConsultingPhysicianAMB- Co-managementlongterm",
+      "specialty": "Cardiology-General",
+      "start_date": "1/13/20",
+      "end_date": "6/14/22",
+      "_source": "OliviaPiedmont HealthcarePatientRecord01/21/2025: Page 8, Care teams table"
+    },
+    {
+      "name": "PradhanShrestha,Deepika,MD",
+      "relationship": "Endocrinologist",
+      "specialty": "Endocrinology,Diabetes& Metabolism",
+      "start_date": "9/9/19",
+      "end_date": "6/14/22",
+      "_source": "OliviaPiedmont HealthcarePatientRecord01/21/2025: Page 8, Care teams table"
+    },
+    {
+      "name": "Weaver,Emily,OD",
+      "relationship": "ConsultingPhysicianAMB- Co-managementlongterm",
+      "specialty": "Optometry",
+      "start_date": "8/29/19",
+      "_source": "OliviaPiedmont HealthcarePatientRecord01/21/2025: Page 7, Care teams table"
+    },
+    {
+      "name": "Hershey,CurtisL,MD",
+      "relationship": "PCP-General",
+      "specialty": "FamilyPractice",
+      "start_date": "4/15/19",
+      "_source": [
+        "Test4PiedmontHealthcarePatientRecord02/19/2025: Page 5, Encounter details table",
+        "OliviaPiedmont HealthcarePatientRecord01/21/2025: Page 7, Care teams table"
+      ]
+    },
+    {
+      "name": "Darlington,Andrew,DO",
+      "relationship": "PrimaryCardiologist",
+      "specialty": "AdvancedHeartFailureand TransplantCardiology",
+      "start_date": "9/10/21",
+      "_source": [
+        "Test4PiedmontHealthcarePatientRecord02/19/2025: Page 3, Encounter details table",
+        "Test4PiedmontHealthcarePatientRecord02/19/2025: Page 4, Care teams table"
+      ]
+    },
+    {
+      "name": "Guthikonda,Sasidhar,MD",
+      "relationship": "Cardiologist",
+      "specialty": "CardiovascularDisease",
+      "start_date": "7/13/21",
+      "_source": "Test4PiedmontHealthcarePatientRecord02/19/2025: Page 4, Care teams table"
+    },
+    {
+      "name": "Kandaswamy,Shankar,MD",
+      "relationship": "PCP-General",
+      "specialty": "PulmonaryDisease",
+      "start_date": "9/10/21",
+      "end_date": "1/22/24",
+      "_source": [
+        "Test4PiedmontHealthcarePatientRecord02/19/2025: Page 2, Encounter details table",
+        "Test4PiedmontHealthcarePatientRecord02/19/2025: Page 3, Care teams table"
+      ]
+    },
+    {
+      "name": "Haroon,Mustafa,MD",
+      "specialty": null,
+      "_source": "Test4PiedmontHealthcarePatientRecord02/19/2025: Page 2, Encounter details table"
+    },
+    {
+      "name": "Dooley,JohnDavid,MD",
+      "specialty": null,
+      "_source": "Test4PiedmontHealthcarePatientRecord02/19/2025: Page 2, Encounter details table"
+    },
+    {
+      "name": "Alexander,AmieL,NP",
+      "specialty": "SingingRiverGulfport Gastroenterology",
+      "_source": "OliviaSingingRiverHealthSystemPatientRecord03/20/2024: Page 4, Upcoming Encounters table"
+    },
+    {
+      "name": "Zayed,MahmoudH,MD",
+      "specialty": "SouthernMississippiHeart Center-Gulfport",
+      "_source": "OliviaSingingRiverHealthSystemPatientRecord03/20/2024: Page 4, Upcoming Encounters table"
+    },
+    {
+      "name": "Carroll,MatthewB,MD",
+      "specialty": "RheumatologyServices",
+      "_source": "OliviaSingingRiverHealthSystemPatientRecord03/20/2024: Page 4, Upcoming Encounters table"
+    },
+    {
+      "name": "Hand,HoyetA,MD",
+      "specialty": "PrimaryCareServices",
+      "_source": [
+        "OliviaSingingRiverHealthSystemPatientRecord03/20/2024: Page 1, Encounter details table",
+        "OliviaSingingRiverHealthSystemPatientRecord03/20/2024: Page 3, Upcoming Encounters table"
+      ]
+    },
+    {
+      "name": "HoyetAHandMD",
+      "relationship": "Authorizing Provider",
+      "_source": [
+        "OliviaSingingRiverHealthSystemPatientRecord03/20/2024: Page 5, Results table",
+        "OliviaSingingRiverHealthSystemPatientRecord03/20/2024: Page 6, Results table",
+        "OliviaSingingRiverHealthSystemPatientRecord03/20/2024: Page 7, Results table",
+        "OliviaSingingRiverHealthSystemPatientRecord03/20/2024: Page 8, Results table"
+      ]
+    }
+  ],
+  "plans_and_followups": [
+    {
+      "goal": "<8.0",
+      "type": "LGResultComponent(DM)",
+      "recent_progress": "7(10/22/202410:58AMEDT)",
+      "patient_stated": "No",
+      "author": "Nigon,Katy A,LPN",
+      "_source": "OliviaPiedmont HealthcarePatientRecord01/21/2025: Page 6, Goals table"
+    },
+    {
+      "goal": "patient-stated",
+      "type": "LG Wellness",
+      "recent_progress": "Notontrack(03/22/20248:37AMEDT)",
+      "patient_stated": "(Wellness)",
+      "author": "Fleming, Shelly-Ann, CMA",
+      "notes": "Patientwishestogetoffinsulin.",
+      "_source": "OliviaPiedmont HealthcarePatientRecord01/21/2025: Page 6, Goals table"
+    },
+    {
+      "goal": "MakeanappointmentwithEye doctorinthenext3Months",
+      "type": "In-home monitoring",
+      "recent_progress": "Notontrack(03/22/20248:37AMEDT)",
+      "patient_stated": "No",
+      "author": "Gress, Pamela,RN",
+      "_source": "OliviaPiedmont HealthcarePatientRecord01/21/2025: Page 6, Goals table"
+    },
+    {
+      "goal": "Alwayscarryafastactingsugar source",
+      "type": "In-home monitoring",
+      "recent_progress": "Ontrack(03/22/2024 8:36AMEDT)",
+      "patient_stated": "No",
+      "author": "Gress, Pamela,RN",
+      "_source": "OliviaPiedmont HealthcarePatientRecord01/21/2025: Page 6, Goals table"
+    },
+    {
+      "goal": "Bringyourmeterandbloodsugar log/foodlogtoallmedical appointments",
+      "type": "In-home monitoring",
+      "recent_progress": "Ontrack(03/22/2024 8:36AMEDT)",
+      "patient_stated": "No",
+      "author": "Gress, Pamela,RN",
+      "_source": "OliviaPiedmont HealthcarePatientRecord01/21/2025: Page 6, Goals table"
+    },
+    {
+      "goal": "Checkmybloodsugar3times/day",
+      "type": "In-home monitoring",
+      "recent_progress": "Ontrack(03/22/2024 8:37AMEDT)",
+      "patient_stated": "No",
+      "author": "Gress, Pamela,RN",
+      "notes": "Bloodsugargoals: Fasting/beforemeals:80-120 2hoursaftermealsandbedtime:<150-180 Pttakesittwice/day",
+      "_source": "OliviaPiedmont HealthcarePatientRecord01/21/2025: Page 6, Goals table"
+    },
+    {
+      "goal": "Takediabetesmedicationas directed",
+      "type": "In-home monitoring",
+      "recent_progress": "Ontrack(03/22/2024 8:37AMEDT)",
+      "patient_stated": "No",
+      "author": "Gress, Pamela,RN",
+      "_source": "OliviaPiedmont HealthcarePatientRecord01/21/2025: Page 6, Goals table"
+    },
+    {
+      "goal": "Eat3mealsand0-1Snack(s)per day",
+      "type": "In-home monitoring",
+      "recent_progress": "Ontrack(03/22/2024 8:35AMEDT)",
+      "patient_stated": "No",
+      "author": "Gress, Pamela,RN",
+      "_source": "OliviaPiedmont HealthcarePatientRecord01/21/2025: Page 6, Goals table"
+    },
+    {
+      "goal": "BloodPressure<140/90",
+      "type": "Blood Pressure",
+      "recent_progress": "128/78(01/11/20259:30AMEST)",
+      "patient_stated": "No",
+      "author": "Nigon,Katy A,LPN",
+      "_source": "OliviaPiedmont HealthcarePatientRecord01/21/2025: Page 5, Goals table"
+    },
+    {
+      "date": "11/26/20241:00PM CST",
+      "type": "OfficeVisit",
+      "department": "SouthernMississippiHeart Center-Gulfport",
+      "_source": "OliviaSingingRiverHealthSystemPatientRecord03/20/2024: Page 4, Upcoming Encounters table"
+    },
+    {
+      "date": "06/05/20249:40AM CDT",
+      "type": "OfficeVisit",
+      "department": "SingingRiverGulfport Gastroenterology",
+      "care_team": {
+        "name": "Alexander,AmieL,NP"
+      },
+      "_source": "OliviaSingingRiverHealthSystemPatientRecord03/20/2024: Page 4, Upcoming Encounters table"
+    },
+    {
+      "date": "05/01/20249:00AM CDT",
+      "type": "OfficeVisit",
+      "department": "SouthernMississippiHeart Center-Gulfport",
+      "care_team": {
+        "name": "Zayed,MahmoudH,MD"
+      },
+      "_source": "OliviaSingingRiverHealthSystemPatientRecord03/20/2024: Page 4, Upcoming Encounters table"
+    },
+    {
+      "date": "04/30/202410:20AM CDT",
+      "type": "OfficeVisit",
+      "department": "RheumatologyServices",
+      "care_team": {
+        "name": "Carroll,MatthewB,MD"
+      },
+      "_source": "OliviaSingingRiverHealthSystemPatientRecord03/20/2024: Page 4, Upcoming Encounters table"
+    },
+    {
+      "date": "04/22/20249:20AM CDT",
+      "type": "OfficeVisit",
+      "department": "SingingRiverGulfport PrimaryCareServices",
+      "care_team": {
+        "name": "Hand,HoyetA,MD"
+      },
+      "_source": "OliviaSingingRiverHealthSystemPatientRecord03/20/2024: Page 3, Upcoming Encounters table"
+    },
+    {
+      "date": "04/19/202410:00AM CDT",
+      "type": "Appointment",
+      "department": "SingingRiverGulfport PrimaryCareServices",
+      "_source": "OliviaSingingRiverHealthSystemPatientRecord03/20/2024: Page 3, Upcoming Encounters table"
+    }
+  ],
+  "conflicts": [
+    {
+      "entity_type": "patient",
+      "entity_name": "DOB",
+      "conflict_description": "Date of Birth variant found. '05/05/195' is likely a typographical error for '05/05/1952'. Normalized to '05/05/1952' in patient object, but recorded for reference.",
+      "variants": [
+        {
+          "value": "05/05/195",
+          "_source": "Test4PiedmontHealthcarePatientRecord02/19/2025: Page 1"
+        }
+      ]
+    },
+    {
+      "entity_type": "social_history",
+      "entity_name": "Legal Sex",
+      "conflict_description": "Legal sex differs from reported gender identity. Patient reported gender is Female, but legal sex is recorded as Male.",
+      "variants": [
+        {
+          "value": "Male",
+          "date_recorded": "06/19/20132:39AMEDT",
+          "_source": "Test4PiedmontHealthcarePatientRecord02/19/2025: Page 1, Social history table"
+        }
+      ]
+    },
+    {
+      "entity_type": "social_history",
+      "entity_name": "SmokingTobacco Status",
+      "conflict_description": "Patient's smoking status is reported differently across documents. One indicates 'EveryDay' and another 'Former' with a quit date.",
+      "variants": [
+        {
+          "type": "SmokingTobacco",
+          "status": "EveryDay",
+          "tobacco_type": "Cigarettes",
+          "packs_per_day": "0.5",
+          "years_used": "50",
+          "_source": "Test4PiedmontHealthcarePatientRecord02/19/2025: Page 1, Social history table"
+        },
+        {
+          "type": "SmokingTobacco",
+          "status": "Former",
+          "tobacco_type": "Cigarettes",
+          "quit_date": "1991",
+          "comments": "patientstatesquit30yearsago",
+          "_source": "OliviaSingingRiverHealthSystemPatientRecord03/20/2024: Page 1, Social history table"
+        }
+      ]
+    }
+  ],
+  "patient_summary": "Olivia is a 73-year-old female with a medical history including hyperlipidemia associated with type 2 diabetes mellitus, essential hypertension, mixed dyslipidemia, and postoperative anemia. She underwent a colonoscopy with biopsy on 02/21/2025. Laboratory results from 07/03/2023 show elevated Ferritin (266.8 ng/mL), low Iron (41 ug/dL), and low Iron Saturation (15%). Earlier labs from 01/08/2021 indicated low AST and ALT. Her blood pressure was 128/78 on 01/11/2025. Functional status assessment from 06/2023 indicates difficulty walking or climbing stairs but adequate vision and no difficulty with hearing, dressing, bathing, errands alone, or cognitive function. She has a history of MRSA (resolved 03/29/2023) and recovered from COVID-19 (01/24/2021). Her social history presents conflicting information regarding tobacco use, with one record indicating current daily smoking and another stating she is a former smoker who quit in 1991. Her legal sex is recorded as Male, while her reported gender identity is Female. She is actively engaged in diabetes management goals including dietary adherence and blood sugar monitoring."
+}
+```

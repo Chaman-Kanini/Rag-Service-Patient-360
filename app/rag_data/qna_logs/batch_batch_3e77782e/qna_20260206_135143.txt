@@ -1,0 +1,5 @@
+QUESTION:
+what is the patient sex?
+
+ANSWER:
+female

@@ -1,0 +1,129 @@
+Method Analysi Perform Pathologist
+Range sTime edAt Signature
+HOSPITA
+LLAB
+Comment:
+Low-risklevels(desirable)<200mg/dL
+Moderate-risklevels(borderline)200-239mg/dL
+High-risklevels>=240mg/dL
+HDL 54 40-59 07/03 SINGING
+mg/dL /202310: RIVER
+45AM GULFPO
+CDT RT
+HOSPITA
+LLAB
+Comment:
+Low(undesirable,highrisk): <40.0mg/dL
+High(desirable,lowrisk): >=60.0mg/dL
+LDLCalculated 62 0-100 07/03 SINGING
+mg/dL /202310: RIVER
+45AM GULFPO
+CDT RT
+HOSPITA
+LLAB
+Comment:
+Optimal <100mg/dL
+Aboveoptimal: 100-129mg/dL
+Borderlinehigh: 130-159mg/dL
+High: 160-189mg/dL
+VeryHigh: >=190mg/dL
+VLDLCholesterolCal 32(H) <30mg 07/03 SINGING
+/dL /202310: RIVER
+45AM GULFPO
+CDT RT
+HOSPITA
+LLAB
+NonHDLChol. 94 <=130 07/03 SINGING
+(LDL+VLDL) mg/dL /202310: RIVER
+45AM GULFPO
+CDT RT
+HOSPITA
+LLAB
+Comment:
+PrintedfromHealthGorillaSecureClinicalNetwork.Copyright©2025HealthGorillaInc.
+https://www.healthgorilla.com
+Thecontentsofthisdocumentand/orfaxtransmissionareintendedonlyfortheuseoftheindividualorentitytowhichtheyareaddressedandmay
+containinformationthatislegallyprivileged,confidentialandexemptfromdisclosure,includingprotectedhealthinformation.Ifyouarenotthe
+intendedrecipient,youareherebynotifiedthatanydissemination,distributionorcopyingofthisdocumentisstrictlyprohibited.Ifyouhavereceived
+orobtainedthisdocumentorfaxtransmissioninerror,pleasenotifytheoriginalsenderorcontactHealthGorillaInc.at1-734-446-7455
+immediatelybytelephoneorbyemailatprivacy@healthgorilla.comanddeletethisdocumentimmediately.
+Page10of12
+[Page 11]
+OliviaSingingRiverHealthSystemPatientRecord03/20/2024
+PATIENT INFORMATION: Type: Progress Note
+Olivia Source: SingingRiverHealthSystem
+Received:03/20/202408:24PM
+Phone +1310556 1256 Modified: 03/20/202408:24PM
+(H):
+DOB: 05/05/1952
+Gender: Female Age: 73
+Patient 104
+ID: ...
+Component Value Ref TestMethod Analysi Perform Pathologist
+Range sTime ed At Signature
+Optimal <=130mg/dL
+Aboveoptimal: 131-159mg/dL
+Borderlinehigh: 160-189mg/dL
+High: 190-219mg/dL
+VeryHigh: >=220mg/dL
+Specimen Anatomical Collection CollectionTime ReceivedTime
+(Source) Location/ Method/Volume
+Laterality
+Blood Collection/Unknown 07/03/20239:15AM 07/03/202310:06AM
+CDT CDT
+Narrative
+Authorizing ResultType
+Provider
+HoyetAHandMD LABBLOODORDERABLES
+Performing Address City/State/ZIP PhoneNumber
+Organization Code
+SINGINGRIVER 15200COMMUNITY GULFPORT,MS
+GULFPORT RD 39503,USA
+HOSPITALLAB
+documentedinthisencounter
+Visit diagnoses
+Diagnosis
+Mixeddyslipidemia-Primary
+Essentialhypertension,benign Legpain
+Postoperativeanemia
+Unspecifiedanemia
+documented inthis encounter
+PrintedfromHealthGorillaSecureClinicalNetwork.Copyright©2025HealthGorillaInc.
+https://www.healthgorilla.com
+Thecontentsofthisdocumentand/orfaxtransmissionareintendedonlyfortheuseoftheindividualorentitytowhichtheyareaddressedandmay
+containinformationthatislegallyprivileged,confidentialandexemptfromdisclosure,includingprotectedhealthinformation.Ifyouarenotthe
+intendedrecipient,youareherebynotifiedthatanydissemination,distributionorcopyingofthisdocumentisstrictlyprohibited.Ifyouhavereceived
+orobtainedthisdocumentorfaxtransmissioninerror,pleasenotifytheoriginalsenderorcontactHealthGorillaInc.at1-734-446-7455
+immediatelybytelephoneorbyemailatprivacy@healthgorilla.comanddeletethisdocumentimmediately.
+Page11of12
+[Page 12]
+OliviaSingingRiverHealthSystemPatientRecord03/20/2024
+PATIENT INFORMATION: Type: Progress Note
+Olivia Source: SingingRiverHealthSystem
+Received:03/20/202408:24PM
+Phone +1310556 1256 Modified: 03/20/202408:24PM
+(H):
+DOB: 05/05/1952
+Gender: Female Age: 73
+Patient 104
+ID: ...
+Additional health concerns
+Assessment NotedTime
+PHQ-9DepressionTotalScore:0 03/28/20238:56AMCDT
+PHQ-2DepressionTotalScore:0 03/28/20238:56AMCDT
+documentedasof thisencounter
+Care teams
+TeamMember Relationship Specialty StartDate EndDate
+Hand,HoyetA,MD PCP-General FamilyMedicine 9/25/20
+NPI:1225340599
+228-206-7054(Work)
+228-604-0905(Fax)
+documentedasof thisencounter
+PrintedfromHealthGorillaSecureClinicalNetwork.Copyright©2025HealthGorillaInc.
+https://www.healthgorilla.com
+Thecontentsofthisdocumentand/orfaxtransmissionareintendedonlyfortheuseoftheindividualorentitytowhichtheyareaddressedandmay
+containinformationthatislegallyprivileged,confidentialandexemptfromdisclosure,includingprotectedhealthinformation.Ifyouarenotthe
+intendedrecipient,youareherebynotifiedthatanydissemination,distributionorcopyingofthisdocumentisstrictlyprohibited.Ifyouhavereceived
+orobtainedthisdocumentorfaxtransmissioninerror,pleasenotifytheoriginalsenderorcontactHealthGorillaInc.at1-734-446-7455
+immediatelybytelephoneorbyemailatprivacy@healthgorilla.comanddeletethisdocumentimmediately.
+Page12of12

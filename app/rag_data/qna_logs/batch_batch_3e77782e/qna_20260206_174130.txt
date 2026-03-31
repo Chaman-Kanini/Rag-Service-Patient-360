@@ -1,0 +1,5 @@
+QUESTION:
+What are the patient's recent diagnoses?
+
+ANSWER:
+The record shows no visit diagnoses on file. The only documented associated diagnosis is "special screening for malignant neoplasms, colon" (for the colonoscopy).

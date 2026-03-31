@@ -1,0 +1,841 @@
+{
+  "document_metadata": [
+    {
+      "document_type": "ContinuityofCare Document",
+      "source_organization": "PiedmontHealthcare",
+      "received_date": "02/19/202504:00PM",
+      "modified_date": "02/19/202504:00PM",
+      "_source": "Page 1, Document metadata"
+    },
+    {
+      "document_type": "ContinuityofCare Document",
+      "source_organization": "PiedmontHealthcare",
+      "received_date": "02/19/202504:00PM",
+      "modified_date": "02/19/202504:00PM",
+      "_source": "Page 2, Document metadata"
+    },
+    {
+      "document_type": "ContinuityofCare Document",
+      "source_organization": "PiedmontHealthcare",
+      "received_date": "02/19/202504:00PM",
+      "modified_date": "02/19/202504:00PM",
+      "_source": "Page 3, Document metadata"
+    },
+    {
+      "document_type": "ContinuityofCare Document",
+      "source_organization": "PiedmontHealthcare",
+      "received_date": "02/19/202504:00PM",
+      "modified_date": "02/19/202504:00PM",
+      "_source": "Page 4, Document metadata"
+    },
+    {
+      "document_type": "ClinicalNote",
+      "source_organization": "PiedmontHealthcare",
+      "received_date": "01/21/202508:22PM",
+      "modified_date": "01/21/202508:22PM",
+      "_source": "Page 5, Document metadata"
+    },
+    {
+      "document_type": "ClinicalNote",
+      "source_organization": "PiedmontHealthcare",
+      "received_date": "01/21/202508:22PM",
+      "modified_date": "01/21/202508:22PM",
+      "_source": "Page 6, Document metadata"
+    },
+    {
+      "document_type": "ClinicalNote",
+      "source_organization": "PiedmontHealthcare",
+      "received_date": "01/21/202508:22PM",
+      "modified_date": "01/21/202508:22PM",
+      "_source": "Page 7, Document metadata"
+    },
+    {
+      "document_type": "ClinicalNote",
+      "source_organization": "PiedmontHealthcare",
+      "received_date": "01/21/202508:22PM",
+      "modified_date": "01/21/202508:22PM",
+      "_source": "Page 8, Document metadata"
+    },
+    {
+      "document_type": "ClinicalNote",
+      "source_organization": "PiedmontHealthcare",
+      "received_date": "01/21/202508:22PM",
+      "modified_date": "01/21/202508:22PM",
+      "_source": "Page 9, Document metadata"
+    },
+    {
+      "document_type": "ProgressNote",
+      "source_organization": "SingingRiverHealthSystem",
+      "received_date": "03/20/202408:24PM",
+      "modified_date": "03/20/202408:24PM",
+      "_source": "Page 1, Document metadata"
+    },
+    {
+      "document_type": "ProgressNote",
+      "source_organization": "SingingRiverHealthSystem",
+      "received_date": "03/20/202408:24PM",
+      "modified_date": "03/20/202408:24PM",
+      "_source": "Page 2, Document metadata"
+    },
+    {
+      "document_type": "ProgressNote",
+      "source_organization": "SingingRiverHealthSystem",
+      "received_date": "03/20/202408:24PM",
+      "modified_date": "03/20/202408:24PM",
+      "_source": "Page 3, Document metadata"
+    },
+    {
+      "document_type": "ProgressNote",
+      "source_organization": "SingingRiverHealthSystem",
+      "received_date": "03/20/202408:24PM",
+      "modified_date": "03/20/202408:24PM",
+      "_source": "Page 4, Document metadata"
+    },
+    {
+      "document_type": "ProgressNote",
+      "source_organization": "SingingRiverHealthSystem",
+      "received_date": "03/20/202408:24PM",
+      "modified_date": "03/20/202408:24PM",
+      "_source": "Page 5, Document metadata"
+    },
+    {
+      "document_type": "ProgressNote",
+      "source_organization": "SingingRiverHealthSystem",
+      "received_date": "03/20/202408:24PM",
+      "modified_date": "03/20/202408:24PM",
+      "_source": "Page 6, Document metadata"
+    }
+  ],
+  "patient": {
+    "name": "Olivia",
+    "dob": "05/05/195",
+    "gender": "female",
+    "age": "73",
+    "patient_id": "104",
+    "contact": {
+      "phone": "\u002B13105561256"
+    },
+    "_source": "Page 1, PATIENT INFORMATION"
+  },
+  "encounters": [
+    {
+      "date": "07/11/2023",
+      "type": "Travel",
+      "_source": "Page 1, Encounter details"
+    },
+    {
+      "date": "02/20/20251:15PMEST",
+      "type": "OfficeVisit",
+      "department": "AtlantaVascularSpecialists - Newnan",
+      "care_team": {
+        "name": "Dooley,JohnDavid,MD"
+      },
+      "facility": {
+        "name": "AtlantaVascularSpecialists - Newnan",
+        "address": "1233HWY54WEST SUITE210 FAYETTEVILLE,GA30214-4542",
+        "phone": "404-524-0095",
+        "fax": "404-658-9558"
+      },
+      "_source": "Page 2, Encounter details"
+    },
+    {
+      "date": "02/21/20258:33AMEST",
+      "type": "Hospital Encounter",
+      "department": "Peri-OpServices",
+      "care_team": {
+        "name": "Haroon,Mustafa,MD"
+      },
+      "facility": {
+        "name": "PiedmontNewnanHospital",
+        "address": "1200LOWER FAYETTEVILLEROAD NEWNAN,GA30265-1618",
+        "phone": "770-400-1000",
+        "work_phone": "678-631-4610",
+        "fax": "678-631-4611"
+      },
+      "_source": "Page 2, Encounter details"
+    },
+    {
+      "date": "02/21/20258:33AMEST-02/21/20259:11AMEST",
+      "type": "Surgery",
+      "care_team": {
+        "name": "Haroon,Mustafa,MD"
+      },
+      "facility": {
+        "name": "PiedmontNewnanHospital Peri-OpServices",
+        "address": "1200LOWER FAYETTEVILLEROAD NEWNAN,GA30265-1618",
+        "phone": "770-400-1000",
+        "work_phone": "678-631-4610",
+        "fax": "678-631-4611"
+      },
+      "description": "COLONOSCOPY,WITH BIOPSY",
+      "_source": "Page 2, Encounter details"
+    },
+    {
+      "date": "04/23/202510:00AMEDT",
+      "type": "OfficeVisit",
+      "department": "PulmonaryandSleep MedicineNewnan",
+      "care_team": {
+        "name": "Kandaswamy,Shankar,MD"
+      },
+      "facility": {
+        "name": "PiedmontPhysicians",
+        "address": "745PoplarRoad NEWNAN,GA30265",
+        "work_phone": "770-400-100",
+        "fax": "404-367-3558"
+      },
+      "_source": "Page 2, Encounter details"
+    },
+    {
+      "date": "04/25/20259:30AMEDT",
+      "type": "OfficeVisit",
+      "department": "PiedmontHeartofNewnan",
+      "care_team": {
+        "name": "Darlington,Andrew,DO"
+      },
+      "facility": {
+        "name": "PiedmontHeartofNewnan",
+        "address": "1267Highway54West Ste2200 Fayetteville,GA30214",
+        "phone": "770-716-0051",
+        "work_phone": "770-716-0051",
+        "fax": "770-716-0087"
+      },
+      "_source": "Page 3, Encounter details"
+    },
+    {
+      "date": "02/03/20259:40AMEST",
+      "type": "OfficeVisit",
+      "department": "FamilyMedicineLincoln",
+      "care_team": {
+        "name": "Hershey,CurtisL,MD"
+      },
+      "facility": {
+        "name": "FamilyMedicineLincoln",
+        "address": "101LARKSPURLANE Ephrata,PA17522",
+        "work_phone": "717-738-0660",
+        "fax": "717-738-0658"
+      },
+      "description": "DischargeDisposition:Home /SelfCare",
+      "_source": "Page 5, Encounter details"
+    },
+    {
+      "date": "02/06/20258:30AMEST",
+      "type": "Telemedicine",
+      "department": "FamilyMedicineLincoln",
+      "care_team": {
+        "name": "Calamia,Courtney,RPh"
+      },
+      "facility": {
+        "name": "FamilyMedicineLincoln",
+        "address": "424CLOVERLEAFROAD Elizabethtown,PA17322",
+        "work_phone": "717-283-9573"
+      },
+      "description": "DischargeDisposition:Home /SelfCare",
+      "_source": "Page 5, Encounter details"
+    },
+    {
+      "date": "04/21/202511:00AMEDT",
+      "type": "OfficeVisit",
+      "department": "Hematology\u0026Medical Oncology",
+      "care_team": {
+        "name": "Jhaveri,Ami,MD"
+      },
+      "facility": {
+        "name": "Hematology\u0026Medical Oncology",
+        "address": "2102HARRISBURGPIKE LANCASTER,PA17601",
+        "work_phone": "717-544-9400",
+        "fax": "717-544-9401"
+      },
+      "_source": "Page 5, Encounter details"
+    },
+    {
+      "date": "08/18/202510:00AMEDT",
+      "type": "Ancillary Procedure",
+      "facility": {
+        "name": "LGHKISSELHILL",
+        "address": "51PetersRoad Lititz,PA17543-7685",
+        "phone": "717-627-2400"
+      },
+      "_source": "Page 5, Encounter details"
+    },
+    {
+      "date": "06/30/2023",
+      "type": "OrdersOnly",
+      "department": "PrimaryCareServices",
+      "care_team": {
+        "name": "Hand,HoyetA,MD"
+      },
+      "facility": {
+        "name": "SingingRiverGulfport",
+        "address": "350COWANRD GULFPORT,MS39507-2008",
+        "work_phone": "228-206-7054",
+        "fax": "228-604-0905"
+      },
+      "description": "Mixeddyslipidemia(Primary Dx); Essentialhypertension, benign; Postoperativeanemia LegPain",
+      "_source": "Page 1, Encounter details"
+    }
+  ],
+  "social_history": {
+    "tobacco_use": {
+      "smoking_tobacco": {
+        "status": "EveryDay",
+        "type": "Cigarettes",
+        "packs_per_day": "0.5",
+        "years_used": "50",
+        "_source": "Page 1, Social history"
+      },
+      "smokeless_tobacco": {
+        "status": "Never",
+        "_source": "Page 1, Social history"
+      }
+    },
+    "alcohol_use": {
+      "status": "No",
+      "standard_drinks_per_week": "0(1standarddrink=0.6oz purealcohol)",
+      "_source": "Page 1, Social history"
+    },
+    "sex_and_gender_information": [
+      {
+        "sex_assigned_at_birth": "Notonfile",
+        "_source": "Page 1, Social history"
+      },
+      {
+        "legal_sex": "Male",
+        "date_recorded": "06/19/20132:39AMEDT",
+        "_source": "Page 1, Social history"
+      },
+      {
+        "gender_identity": "Notonfile",
+        "_source": "Page 1, Social history"
+      },
+      {
+        "sexual_orientation": "Notonfile",
+        "_source": "Page 1, Social history"
+      }
+    ],
+    "covid_19_exposure_response": {
+      "question": "Inthelast10days,haveyoubeenincontactwithsomeone whowasconfirmedorsuspectedtohaveCoronavirus /COVID-19?",
+      "response": "No/Unsure",
+      "date_recorded": "7/11/20238:35AMEDT",
+      "_source": "Page 1, Social history"
+    }
+  },
+  "procedures": [
+    {
+      "procedure": "COLONOSCOPY,WITHBIOPSY",
+      "date": "02/21/20258:33AMEST",
+      "associated_diagnoses": "Specialscreeningfor malignantneoplasms,colon",
+      "_source": "Page 3, Scheduled Procedures"
+    }
+  ],
+  "diagnoses": [
+    {
+      "diagnosis": "Hyperlipidemiaassociatedwithtype2diabetesmellitus(CMS/HCC)(CMS/HCC)",
+      "_source": "Page 7, Diagnosis"
+    }
+  ],
+  "care_team": [
+    {
+      "member": "Kandaswamy,Shankar,MD",
+      "relationship": "PCP-General",
+      "specialty": "PulmonaryDisease",
+      "start_date": "9/10/21",
+      "end_date": "1/22/24",
+      "npi": "1689657181",
+      "address": "2301NewnanCrossingBlvd Suite200 Newnan,GA30265",
+      "work_phone": "770-683-6921",
+      "_source": "Page 3, Care teams"
+    },
+    {
+      "member": "Guthikonda,Sasidhar,MD",
+      "relationship": "Cardiologist",
+      "specialty": "CardiovascularDisease",
+      "start_date": "7/13/21",
+      "npi": "1851595367",
+      "address": "795PoplarRoad STE400 Newnan,GA30265",
+      "work_phone": "770-716-0051",
+      "fax": "678-423-4960",
+      "_source": "Page 4, Care teams"
+    },
+    {
+      "member": "Darlington,Andrew,DO",
+      "relationship": "PrimaryCardiologist",
+      "specialty": "AdvancedHeartFailureand TransplantCardiology",
+      "start_date": "9/10/21",
+      "npi": "1942352851",
+      "address": "1267Highway54West Ste2200 Fayetteville,GA30214",
+      "work_phone": "770-716-0051",
+      "fax": "770-716-",
+      "_source": "Page 4, Care teams"
+    },
+    {
+      "member": "Torres,Lizza",
+      "role": "Electronically signed",
+      "date": "01/13/20213:53PMEST",
+      "_source": "Page 5, Electronically signed by Torres, Lizza"
+    },
+    {
+      "member": "Nigon,Katy A,LPN",
+      "role": "Author",
+      "_source": "Page 5, Goals"
+    },
+    {
+      "member": "Gress, Pamela,RN",
+      "role": "Author",
+      "_source": "Page 6, Goals"
+    },
+    {
+      "member": "Gress, Pamela,RN",
+      "role": "Author",
+      "_source": "Page 6, Goals"
+    },
+    {
+      "member": "Gress, Pamela,RN",
+      "role": "Author",
+      "_source": "Page 6, Goals"
+    },
+    {
+      "member": "Gress, Pamela,RN",
+      "role": "Author",
+      "_source": "Page 6, Goals"
+    },
+    {
+      "member": "Gress, Pamela,RN",
+      "role": "Author",
+      "_source": "Page 6, Goals"
+    },
+    {
+      "member": "Gress, Pamela,RN",
+      "role": "Author",
+      "_source": "Page 6, Goals"
+    },
+    {
+      "member": "Fleming, Shelly-Ann,CMA",
+      "role": "Author",
+      "_source": "Page 6, Goals"
+    },
+    {
+      "member": "Nigon,Katy A,LPN",
+      "role": "Author",
+      "_source": "Page 6, Goals"
+    },
+    {
+      "member": "Hershey,CurtisL,MD",
+      "relationship": "PCP-General",
+      "specialty": "FamilyPractice",
+      "start_date": "4/15/19",
+      "npi": "1346285574",
+      "address": "1261DivisionHighway Suite1 EPHRATA,PA17522",
+      "work_phone": "717-738-0660",
+      "fax": "717-738-0658",
+      "_source": "Page 7, Care teams"
+    },
+    {
+      "member": "Weaver,Emily,OD",
+      "relationship": "ConsultingPhysicianAMB-Co-managementlongterm",
+      "specialty": "Optometry",
+      "start_date": "8/29/19",
+      "npi": "1225552425",
+      "address": "1555HighlandsDrive Suite180 Lititz,PA17543",
+      "work_phone": "717-625-4600",
+      "fax": "717-625-4676",
+      "_source": "Page 7, Care teams"
+    },
+    {
+      "member": "PradhanShrestha, Deepika,MD",
+      "relationship": "Endocrinologist",
+      "specialty": "Endocrinology,Diabetes\u0026 Metabolism",
+      "start_date": "9/9/19",
+      "end_date": "6/14/22",
+      "npi": "1902035041",
+      "address": "2112HarrisburgPikeSuite 200 LANCASTER,PA17604",
+      "work_phone": "717-544-3059",
+      "fax": "717-544-3638",
+      "_source": "Page 8, Care teams"
+    },
+    {
+      "member": "Roberts,JustinD,DO",
+      "relationship": "ConsultingPhysicianAMB- Co-managementlongterm",
+      "specialty": "Cardiology-General",
+      "start_date": "1/13/20",
+      "end_date": "6/14/22",
+      "npi": "1528111028",
+      "address": "217HARRISBURGPIKE SUITE200 LANCASTER,PA17603",
+      "work_phone": "717-544-8300",
+      "fax": "717-397-8407",
+      "_source": "Page 8, Care teams"
+    },
+    {
+      "member": "Kaplan,Marnie,MD",
+      "relationship": "Surgeon",
+      "specialty": "GeneralSurgery",
+      "start_date": "7/6/20",
+      "end_date": "6/14/22",
+      "npi": "1487856621",
+      "address": "2104HARRISBURGPIKE SUITE200 Lancaster,PA17601-2644",
+      "work_phone": "717-544-3626",
+      "fax": "717-544-3628",
+      "_source": "Page 8, Care teams"
+    },
+    {
+      "member": "Wozney,JocelynL,MD",
+      "relationship": "Oncologist",
+      "specialty": "HematologyandOncology",
+      "start_date": "9/14/20",
+      "end_date": "11/8/21",
+      "npi": "1861650863",
+      "address": "2102HARRISBURGPIKE LANCASTER,PA17601",
+      "work_phone": "717-544-9400",
+      "_source": "Page 8, Care teams"
+    },
+    {
+      "member": "Thomas,GretchenK,RN",
+      "relationship": "RegisteredNurse",
+      "start_date": "9/14/20",
+      "end_date": "7/19/21",
+      "_source": "Page 9, Care teams"
+    },
+    {
+      "member": "Sharma,Rajiv,MD",
+      "specialty": "Nephrology",
+      "start_date": "9/14/20",
+      "npi": "1973711133",
+      "address": "2110HARRISBURGPIKE SUITE310 LANCASTER,PA17604",
+      "work_phone": "717-544-3232",
+      "fax": "717-544-3237",
+      "_source": "Page 9, Care teams"
+    },
+    {
+      "member": "Hand,HoyetA,MD",
+      "role": "Authorizing Provider",
+      "_source": "Page 5, Results - Ferritin"
+    },
+    {
+      "member": "Hand,HoyetA,MD",
+      "role": "Authorizing Provider",
+      "_source": "Page 6, Results - Iron \u0026 Iron Binding Capacity"
+    },
+    {
+      "member": "Hand,HoyetA,MD",
+      "role": "Authorizing Provider",
+      "_source": "Page 6, Results - Basic metabolic panel"
+    }
+  ],
+  "plans_and_followups": [
+    {
+      "goal": "BloodPressure\u003C140/90",
+      "type": "Blood Pressure",
+      "recent_progress": "128/78(01/11/20259:30AMEST)",
+      "patient_stated": "No",
+      "author": "Nigon,Katy A,LPN",
+      "_source": "Page 5, Goals"
+    },
+    {
+      "goal": "Eat3mealsand0-1Snack(s)per day",
+      "type": "In-home monitoring",
+      "recent_progress": "Ontrack(03/22/20248:35AMEDT)",
+      "patient_stated": "No",
+      "author": "Gress, Pamela,RN",
+      "_source": "Page 6, Goals"
+    },
+    {
+      "goal": "Takediabetesmedicationas directed",
+      "type": "In-home monitoring",
+      "recent_progress": "Ontrack(03/22/20248:37AMEDT)",
+      "patient_stated": "No",
+      "author": "Gress, Pamela,RN",
+      "_source": "Page 6, Goals"
+    },
+    {
+      "goal": "Checkmybloodsugar3times/day",
+      "type": "In-home monitoring",
+      "recent_progress": "Ontrack(03/22/20248:37AMEDT)",
+      "patient_stated": "No",
+      "author": "Gress, Pamela,RN",
+      "_source": "Page 6, Goals"
+    },
+    {
+      "blood_sugar_goals": {
+        "fasting_before_meals": "80-120",
+        "two_hours_after_meals_and_bedtime": "\u003C150-180"
+      },
+      "medication_frequency": "Pttakesittwice/day",
+      "_source": "Page 6, Notes about blood sugar goals"
+    },
+    {
+      "goal": "Bringyourmeterandbloodsugar log/foodlogtoallmedical appointments",
+      "type": "In-home monitoring",
+      "recent_progress": "Ontrack(03/22/20248:36AMEDT)",
+      "patient_stated": "No",
+      "author": "Gress, Pamela,RN",
+      "_source": "Page 6, Goals"
+    },
+    {
+      "goal": "Alwayscarryafastactingsugar source",
+      "type": "In-home monitoring",
+      "recent_progress": "Ontrack(03/22/20248:36AMEDT)",
+      "patient_stated": "No",
+      "author": "Gress, Pamela,RN",
+      "_source": "Page 6, Goals"
+    },
+    {
+      "goal": "MakeanappointmentwithEye doctorinthenext3Months",
+      "type": "In-home monitoring",
+      "recent_progress": "Notontrack(03/22/20248:37AMEDT)",
+      "patient_stated": "No",
+      "author": "Gress, Pamela,RN",
+      "_source": "Page 6, Goals"
+    },
+    {
+      "goal": "Wellness:patient-stated",
+      "type": "Patient-Stated (Wellness)",
+      "recent_progress": "Notontrack(03/22/20248:37AMEDT)",
+      "patient_stated": "No",
+      "author": "Fleming, Shelly-Ann,CMA",
+      "_source": "Page 6, Goals"
+    },
+    {
+      "goal": "LGResultComponent(DM)\u003C8.0",
+      "type": "LGResult Component(DM)",
+      "recent_progress": "7(10/22/202410:58AMEDT)",
+      "patient_stated": "No",
+      "author": "Nigon,Katy A,LPN",
+      "_source": "Page 6, Goals"
+    },
+    {
+      "date": "04/19/202410:00AMCDT",
+      "type": "Appointment",
+      "department": "PrimaryCareServices",
+      "facility": {
+        "name": "SingingRiverGulfport",
+        "address": "350CowanRoad GULFPORT,MS39505-2008",
+        "phone": "228-206-7054"
+      },
+      "_source": "Page 3, Upcoming Encounters"
+    },
+    {
+      "date": "04/22/20249:20AMCDT",
+      "type": "OfficeVisit",
+      "department": "PrimaryCareServices",
+      "care_team": {
+        "name": "Hand,HoyetA,MD"
+      },
+      "facility": {
+        "name": "SingingRiverGulfport",
+        "address": "350COWANRD GULFPORT,MS39507-2008",
+        "work_phone": "228-206-7054",
+        "fax": "228-604-0905"
+      },
+      "_source": "Page 3, Upcoming Encounters"
+    },
+    {
+      "date": "04/30/202410:20AMCDT",
+      "type": "OfficeVisit",
+      "department": "RheumatologyServices",
+      "care_team": {
+        "name": "Carroll,MatthewB,MD"
+      },
+      "facility": {
+        "name": "RheumatologyServices",
+        "address": "3603BIENVILLEBLVD STE100 BILOXI,MS39532-2128",
+        "phone": "228-205-6830",
+        "work_phone": "228-872-8768",
+        "fax": "228-872-9112"
+      },
+      "_source": "Page 4, Upcoming Encounters"
+    },
+    {
+      "date": "05/01/20249:00AMCDT",
+      "type": "OfficeVisit",
+      "department": "SouthernMississippiHeart Center-Gulfport",
+      "care_team": {
+        "name": "Zayed,MahmoudH,MD"
+      },
+      "facility": {
+        "name": "SouthernMississippiHeart Center-Gulfport",
+        "address": "3704BIENVILLEBLVD STEB OCEANSPRINGS,MS39564",
+        "work_phone": "228-872-4040",
+        "phone": "228-575-8020",
+        "fax": "228-875-2387"
+      },
+      "_source": "Page 4, Upcoming Encounters"
+    },
+    {
+      "date": "06/05/20249:40AMCDT",
+      "type": "OfficeVisit",
+      "department": "Gastroenterology",
+      "care_team": {
+        "name": "Alexander,AmieL,NP"
+      },
+      "facility": {
+        "name": "SingingRiverGulfport",
+        "address": "15190COMMUNITYRD STE230 GULFPORT,MS39503-3483",
+        "phone": "228-575-7104",
+        "work_phone": "228-575-7104",
+        "fax": "228-539-6766"
+      },
+      "_source": "Page 4, Upcoming Encounters"
+    },
+    {
+      "date": "11/26/20241:00PMCST",
+      "type": "OfficeVisit",
+      "department": "SouthernMississippiHeart Center-Gulfport",
+      "facility": {
+        "name": "SouthernMississippiHeart Center-Gulfport",
+        "address": "15190CommunityRoad Ste260 GULFPORT,MS39503-3483",
+        "phone": "228-575-8020"
+      },
+      "_source": "Page 4, Upcoming Encounters"
+    }
+  ],
+  "notes": [
+    {
+      "text": "Note:Formattingofthisnotemightbedifferentfromtheoriginal.\nPatientwishestogetoffinsulin.",
+      "_source": "Page 6, Note"
+    }
+  ],
+  "additional_health_concerns": [
+    {
+      "infection": "MRSA",
+      "onset_date": "09/03/2020",
+      "last_indicated": "09/04/2020",
+      "resolved_time": "03/29/20239:54AMEDT",
+      "comment": "MostRecentDate:9/4/20MostRecent Site:Rbreast OriginalDate:9/3/20OriginalSite:Rbreast",
+      "_source": "Page 7, Additional health concerns"
+    },
+    {
+      "infection": "COVID-19",
+      "onset_date": "01/04/2021",
+      "last_indicated": "01/04/2021",
+      "resolved_time": "01/24/20214:02PMEST",
+      "comment": "recovered",
+      "_source": "Page 7, Additional health concerns"
+    }
+  ],
+  "functional_status": [
+    {
+      "question": "Isthepersondeafordoeshe/shehavedifficultyhearing?",
+      "response": "No",
+      "date_of_assessment": "06/19/2023",
+      "_source": "Page 3, Functional status"
+    },
+    {
+      "question": "Patient\u0027sVisionAdequatetoSafelyCompleteDailyActivities",
+      "response": "Yes",
+      "date_of_assessment": "06/19/2023",
+      "_source": "Page 3, Functional status"
+    },
+    {
+      "question": "Doesthispersonhaveseriousdifficultywalkingorclimbing stairs?",
+      "response": "Yes",
+      "date_of_assessment": "06/14/2023",
+      "_source": "Page 3, Functional status"
+    },
+    {
+      "question": "Doesthispersonhavedifficultydressingorbathing?",
+      "response": "No",
+      "date_of_assessment": "06/14/2023",
+      "_source": "Page 3, Functional status"
+    },
+    {
+      "question": "Becauseofaphysical,mentaloremotionalcondition,does thispatienthavedifficultydoingerrandsalonesuchas visitingthedoctor\u0027sofficeorshopping?",
+      "response": "No",
+      "date_of_assessment": "06/14/2023",
+      "_source": "Page 3, Functional status"
+    },
+    {
+      "cognitive_status_question": "Becauseofaphysical,mentaloremotionalcondition,does thispersonhaveseriousdifficultyconcentrating, remembering,ormakingdecisions?",
+      "response": "No",
+      "date_of_assessment": "06/14/2023",
+      "_source": "Page 3, CognitiveStatus"
+    }
+  ],
+  "laboratory_results": [
+    {
+      "test": "AST(SGOT)",
+      "date": "01/08/202105:00AM",
+      "value": "8(L)",
+      "unit": "U/L",
+      "reference_range": "13-40",
+      "status": "Final",
+      "_source": "Page 5, AST(SGOT) result"
+    },
+    {
+      "test": "ALT(SGPT)",
+      "date": "01/08/202105:00AM",
+      "value": "10",
+      "unit": "U/L",
+      "reference_range": "7-52",
+      "status": "Final",
+      "_source": "Page 5, ALT(SGPT) result"
+    },
+    {
+      "test": "Ferritin",
+      "date": "07/03/2023 9:15 AM CDT",
+      "value": "266.8(H)",
+      "unit": "ng/mL",
+      "reference_range": "8.0-252.0",
+      "interpretation": "ABNORMAL",
+      "analysis_time": "07/03/202310:45AMCDT",
+      "performed_at": "SINGINGRIVER GULFPORT HOSPITALLAB",
+      "authorizing_provider": "HoyetAHandMD",
+      "result_type": "LABBLOODORDERABLES",
+      "specimen": "Blood",
+      "_source": "Page 5, Results - Ferritin"
+    },
+    {
+      "test": "Iron",
+      "date": "07/03/2023 9:15 AM CDT",
+      "value": "41(L)",
+      "unit": "ug/dL",
+      "reference_range": "50-170",
+      "interpretation": "ABNORMAL",
+      "analysis_time": "07/03/202310:45AMCDT",
+      "performed_at": "SINGINGRIVER GULFPORT HOSPITALLAB",
+      "authorizing_provider": "HoyetAHandMD",
+      "result_type": "LABBLOODORDERABLES",
+      "specimen": "Blood",
+      "_source": "Page 6, Results - Iron"
+    },
+    {
+      "test": "TIBC",
+      "date": "07/03/2023 9:15 AM CDT",
+      "value": "279",
+      "unit": "ug/dL",
+      "reference_range": "250-450",
+      "analysis_time": "07/03/202310:45AMCDT",
+      "performed_at": "SINGINGRIVER GULFPORT HOSPITALLAB",
+      "authorizing_provider": "HoyetAHandMD",
+      "result_type": "LABBLOODORDERABLES",
+      "specimen": "Blood",
+      "_source": "Page 6, Results - TIBC"
+    },
+    {
+      "test": "IronSaturation",
+      "date": "07/03/2023 9:15 AM CDT",
+      "value": "15(L)",
+      "unit": "%",
+      "reference_range": "20-55",
+      "interpretation": "ABNORMAL",
+      "analysis_time": "07/03/202310:45AMCDT",
+      "performed_at": "SINGINGRIVER GULFPORT HOSPITALLAB",
+      "authorizing_provider": "HoyetAHandMD",
+      "result_type": "LABBLOODORDERABLES",
+      "specimen": "Blood",
+      "_source": "Page 6, Results - IronSaturation"
+    },
+    {
+      "test": "Sodium",
+      "date": "07/03/2023 9:15 AM CDT",
+      "value": "140",
+      "unit": "mmol/L",
+      "reference_range": "136-145",
+      "interpretation": "ABNORMAL (Basic metabolic panel)",
+      "analysis_time": "07/03/202310:45AMCDT",
+      "performed_at": "SINGINGRIVER GULFPORT HOSPITALLAB",
+      "authorizing_provider": "HoyetAHandMD",
+      "result_type": "LABBLOODORDERABLES",
+      "specimen": "Blood",
+      "_source": "Page 6, Results - Basic metabolic panel (Sodium component)"
+    }
+  ]
+}

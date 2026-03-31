@@ -1,0 +1,71 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Git
+.git/
+.gitignore
+.gitattributes
+
+# Environment files (should be set in Railway)
+.env
+.env.local
+.env.*.local
+
+# Documentation
+README.md
+*.md
+!requirements.txt
+
+# PowerShell scripts (not needed in container)
+*.ps1
+*.bat
+
+# Test files
+test_*.py
+*_test.py
+tests/
+
+# Large data files (these should be mounted or managed separately)
+*.pdf
+*.index
+*.pkl
+*.joblib
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+tmp/
+temp/

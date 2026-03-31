@@ -1,0 +1,590 @@
+```json
+{
+  "document_metadata": {
+    "document_type": "Progress Note",
+    "source_organization": "Singing River Health System",
+    "document_date": "03/20/2024",
+    "received_date": "03/20/2024 08:24 PM",
+    "modified_date": "03/20/2024 08:24 PM",
+    "_source": [
+      "Page 1, paragraph 2",
+      "Page 3, paragraph 2",
+      "Page 4, paragraph 2",
+      "Page 5, paragraph 2",
+      "Page 6, paragraph 2",
+      "Page 7, paragraph 2",
+      "Page 8, paragraph 2",
+      "Page 9, paragraph 2",
+      "Page 10, paragraph 2",
+      "Page 11, paragraph 2",
+      "Page 12, paragraph 2"
+    ]
+  },
+  "patient": {
+    "name": "Olivia",
+    "dob": "05/05/1952",
+    "age": "73",
+    "sex": "Female",
+    "patient_id": "104",
+    "contact": {
+      "phone": "+13105561256"
+    },
+    "sex_assigned_at_birth": "Not on file",
+    "gender_identity": {
+      "value": "Female",
+      "date_recorded": "11/19/2021 6:43 AM CST"
+    },
+    "sexual_orientation": "Not on file",
+    "_source": [
+      "Page 1, paragraph 3",
+      "Page 1, paragraph 6",
+      "Page 1, paragraph 7",
+      "Page 2, paragraph 2"
+    ]
+  },
+  "encounters": [
+    {
+      "date": "11/26/2024 1:00 PM CST",
+      "type": "Office Visit",
+      "department": "Southern Mississippi Heart Center-Gulfport",
+      "facility": "15190 Community Road Ste 260 GULFPORT, MS 39503-3483",
+      "_source": "Page 4, table rows 7-8"
+    },
+    {
+      "date": "06/05/2024 9:40 AM CDT",
+      "type": "Office Visit",
+      "department": "Gastroenterology",
+      "care_team": {
+        "name": "Alexander, Amie L, NP",
+        "contact_info": "228-575-7104 (Work)\n228-539-6766 (Fax)"
+      },
+      "facility": {
+        "name": "Singing River Gulfport",
+        "address": "15190 Community Road STE 230 GULFPORT, MS 39503-3483"
+      },
+      "_source": "Page 4, table rows 5-6"
+    },
+    {
+      "date": "05/01/2024 9:00 AM CDT",
+      "type": "Office Visit",
+      "department": "Southern Mississippi Heart Center-Gulfport",
+      "care_team": {
+        "name": "Zayed, Mahmoud H, MD",
+        "contact_info": "228-872-4040 (Work)\n228-575-8020\n228-875-2387 (Fax)"
+      },
+      "facility": {
+        "name": "Southern Mississippi Heart Center-Gulfport",
+        "address": "3704 BIENVILLEBLVD STEB OCEANSPRINGS, MS 39564\n15190 Community Road Ste 260 GULFPORT, MS 39503-3483"
+      },
+      "_source": "Page 4, table rows 3-4"
+    },
+    {
+      "date": "04/30/2024 10:20 AM CDT",
+      "type": "Office Visit",
+      "department": "Rheumatology Services",
+      "care_team": {
+        "name": "Carroll, Matthew B, MD",
+        "contact_info": "228-205-6830\n228-872-8768 (Work)\n228-872-9112 (Fax)"
+      },
+      "facility": {
+        "name": "Rheumatology Services",
+        "address": "3603 BIENVILLEBLVD STE 100 BILOXI, MS 39532-2128\n967 Cedar Lake Rd OCEANSPRINGS, MS 39564"
+      },
+      "_source": "Page 4, table rows 1-2"
+    },
+    {
+      "date": "04/22/2024 9:20 AM CDT",
+      "type": "Office Visit",
+      "department": "Primary Care Services",
+      "care_team": {
+        "name": "Hand, Hoyet A, MD",
+        "contact_info": "228-206-7054 (Work)\n228-604-0905 (Fax)"
+      },
+      "facility": {
+        "name": "Singing River Gulfport Primary Care Services",
+        "address": "350 COWANRD GULFPORT, MS 39507-2008\n350 Cowan Road GULFPORT, MS 39505-2008"
+      },
+      "_source": "Page 3, table rows 4-5"
+    },
+    {
+      "date": "04/19/2024 10:00 AM CDT",
+      "type": "Appointment",
+      "department": "Primary Care Services",
+      "facility": {
+        "name": "Singing River Gulfport Primary Care Services",
+        "address": "350 Cowan Road GULFPORT, MS 39505-2008"
+      },
+      "_source": "Page 3, table rows 2-3"
+    },
+    {
+      "date": "06/30/2023",
+      "type": "Orders Only",
+      "department": "Primary Care Services",
+      "description": "Mixeddyslipidemia (Primary Dx); Essentialhypertension, benign; Postoperativeanemia Leg Pain",
+      "care_team": {
+        "name": "Hand, Hoyet A, MD",
+        "contact_info": "228-206-7054 (Work)\n228-604-0905 (Fax)"
+      },
+      "facility": {
+        "name": "Singing River Gulfport Primary Care Services",
+        "address": "350 COWANRD GULFPORT, MS 39507-2008\n350 Cowan Road GULFPORT, MS 39505-2008"
+      },
+      "_source": "Page 1, table rows 1-2"
+    }
+  ],
+  "diagnoses": [
+    {
+      "diagnosis": "Unspecifiedanemia",
+      "context": "Visit diagnoses",
+      "_source": "Page 11, paragraph 8"
+    },
+    {
+      "diagnosis": "Postoperativeanemia",
+      "context": "Visit diagnoses",
+      "_source": "Page 11, paragraph 7"
+    },
+    {
+      "diagnosis": "Postoperativeanemia",
+      "context": "Encounter 06/30/2023 description",
+      "_source": "Page 1, table row 1"
+    },
+    {
+      "diagnosis": "Legpain",
+      "context": "Visit diagnoses",
+      "_source": "Page 11, paragraph 6"
+    },
+    {
+      "diagnosis": "Leg Pain",
+      "context": "Encounter 06/30/2023 description",
+      "_source": "Page 1, table row 1"
+    },
+    {
+      "diagnosis": "Essentialhypertension,benign",
+      "context": "Visit diagnoses",
+      "_source": "Page 11, paragraph 5"
+    },
+    {
+      "diagnosis": "Essentialhypertension, benign",
+      "context": "Encounter 06/30/2023 description",
+      "_source": "Page 1, table row 1"
+    },
+    {
+      "diagnosis": "Mixeddyslipidemia-Primary",
+      "context": "Visit diagnoses",
+      "_source": "Page 11, paragraph 4"
+    },
+    {
+      "diagnosis": "Mixeddyslipidemia (Primary Dx)",
+      "context": "Encounter 06/30/2023 description",
+      "_source": "Page 1, table row 1"
+    },
+    {
+      "diagnosis": "PHQ-9 Depression Total Score: 0",
+      "date": "03/28/2023 8:56 AM CDT",
+      "context": "Additional health concerns",
+      "_source": "Page 12, paragraph 4"
+    },
+    {
+      "diagnosis": "PHQ-2 Depression Total Score: 0",
+      "date": "03/28/2023 8:56 AM CDT",
+      "context": "Additional health concerns",
+      "_source": "Page 12, paragraph 5"
+    }
+  ],
+  "laboratory_results": [
+    {
+      "test": "Non HDL Chol. (LDL+VLDL)",
+      "value": "94",
+      "unit": "mg/d L",
+      "reference_range": "<=130",
+      "date": "07/03/2023 9:15 AM CDT",
+      "analysis_time": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITAL LAB",
+      "authorizing_provider": "Hoyet AHand MD",
+      "specimen_type": "Blood",
+      "interpretation_comment": "Optimal <=130 mg/d L",
+      "_source": [
+        "Page 10, table row 7",
+        "Page 11, paragraph 3"
+      ]
+    },
+    {
+      "test": "VLDL Cholesterol Cal",
+      "value": "32",
+      "unit": "mg/d L",
+      "reference_range": "<30",
+      "interpretation": "H",
+      "date": "07/03/2023 9:15 AM CDT",
+      "analysis_time": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITAL LAB",
+      "authorizing_provider": "Hoyet AHand MD",
+      "specimen_type": "Blood",
+      "_source": "Page 10, table row 6"
+    },
+    {
+      "test": "LDL Calculated",
+      "value": "62",
+      "unit": "mg/d L",
+      "reference_range": "0-100",
+      "date": "07/03/2023 9:15 AM CDT",
+      "analysis_time": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITAL LAB",
+      "authorizing_provider": "Hoyet AHand MD",
+      "specimen_type": "Blood",
+      "interpretation_comment": "Optimal <100 mg/d L",
+      "_source": [
+        "Page 10, table row 5",
+        "Page 10, paragraph 5"
+      ]
+    },
+    {
+      "test": "HDL",
+      "value": "54",
+      "unit": "mg/d L",
+      "reference_range": "40-59",
+      "date": "07/03/2023 9:15 AM CDT",
+      "analysis_time": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITAL LAB",
+      "authorizing_provider": "Hoyet AHand MD",
+      "specimen_type": "Blood",
+      "interpretation_comment": "Low (undesirable,highrisk): <40.0 mg/d L",
+      "_source": [
+        "Page 10, table row 4",
+        "Page 10, paragraph 3"
+      ]
+    },
+    {
+      "test": "Cholesterol",
+      "value": "147",
+      "unit": "mg/d L",
+      "reference_range": "<200",
+      "date": "07/03/2023 9:15 AM CDT",
+      "analysis_time": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITAL LAB",
+      "authorizing_provider": "Hoyet AHand MD",
+      "specimen_type": "Blood",
+      "interpretation_comment": "Low-risklevels (desirable)<200 mg/d L",
+      "_source": [
+        "Page 9, table row 2",
+        "Page 10, paragraph 2"
+      ]
+    },
+    {
+      "test": "Triglycerides",
+      "value": "158",
+      "unit": "mg/d L",
+      "reference_range": "0-149",
+      "interpretation": "H",
+      "date": "07/03/2023 9:15 AM CDT",
+      "analysis_time": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITAL LAB",
+      "authorizing_provider": "Hoyet AHand MD",
+      "specimen_type": "Blood",
+      "interpretation_comment": "Borderlinehigh: 150-199 mg/d L",
+      "_source": [
+        "Page 9, table row 1",
+        "Page 9, paragraph 4"
+      ]
+    },
+    {
+      "test": "TSH Ultra Sensitive",
+      "value": "1.320",
+      "unit": "m IU/m L",
+      "reference_range": "0.358-3.740",
+      "date": "07/03/2023 9:15 AM CDT",
+      "analysis_time": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITAL LAB",
+      "authorizing_provider": "Hoyet AHand MD",
+      "specimen_type": "Blood",
+      "_source": "Page 9, table row 1"
+    },
+    {
+      "test": "eGFR CKD-EPI",
+      "value": "58",
+      "unit": "ml/min/1. 73 m 2",
+      "reference_range": ">90",
+      "interpretation": "L",
+      "date": "07/03/2023 9:15 AM CDT",
+      "analysis_time": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITAL LAB",
+      "authorizing_provider": "Hoyet AHand MD",
+      "specimen_type": "Blood",
+      "interpretation_comment": "Estimatedusing CKD-EPIequationbasedonstandardizedserumcreatinine,age,andsex",
+      "_source": [
+        "Page 8, table row 2",
+        "Page 8, paragraph 4"
+      ]
+    },
+    {
+      "test": "Anion Gap",
+      "value": "5.0",
+      "unit": "mmol/L",
+      "reference_range": "8.0-16.0",
+      "interpretation": "L",
+      "date": "07/03/2023 9:15 AM CDT",
+      "analysis_time": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITAL LAB",
+      "authorizing_provider": "Hoyet AHand MD",
+      "specimen_type": "Blood",
+      "_source": "Page 8, table row 1"
+    },
+    {
+      "test": "Calcium",
+      "value": "9.5",
+      "unit": "mg/d L",
+      "reference_range": "8.5-10.1",
+      "date": "07/03/2023 9:15 AM CDT",
+      "analysis_time": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITAL LAB",
+      "authorizing_provider": "Hoyet AHand MD",
+      "specimen_type": "Blood",
+      "_source": "Page 7, table row 8"
+    },
+    {
+      "test": "Glucose",
+      "value": "94",
+      "unit": "mg /d L",
+      "reference_range": "74-106",
+      "date": "07/03/2023 9:15 AM CDT",
+      "analysis_time": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITAL LAB",
+      "authorizing_provider": "Hoyet AHand MD",
+      "specimen_type": "Blood",
+      "_source": "Page 7, table row 7"
+    },
+    {
+      "test": "Creatinine",
+      "value": "0.96",
+      "unit": "mg/d L",
+      "reference_range": "0.55-1.02",
+      "date": "07/03/2023 9:15 AM CDT",
+      "analysis_time": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITAL LAB",
+      "authorizing_provider": "Hoyet AHand MD",
+      "specimen_type": "Blood",
+      "_source": "Page 7, table row 6"
+    },
+    {
+      "test": "BUN",
+      "value": "15",
+      "unit": "mg/d L",
+      "reference_range": "7-18",
+      "date": "07/03/2023 9:15 AM CDT",
+      "analysis_time": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITAL LAB",
+      "authorizing_provider": "Hoyet AHand MD",
+      "specimen_type": "Blood",
+      "_source": "Page 7, table row 5"
+    },
+    {
+      "test": "CO2",
+      "value": "27",
+      "unit": "mmol/L",
+      "reference_range": "21-32",
+      "date": "07/03/2023 9:15 AM CDT",
+      "analysis_time": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITAL LAB",
+      "authorizing_provider": "Hoyet AHand MD",
+      "specimen_type": "Blood",
+      "_source": "Page 7, table row 4"
+    },
+    {
+      "test": "Chloride",
+      "value": "108",
+      "unit": "mmol/L",
+      "reference_range": "98-107",
+      "interpretation": "H",
+      "date": "07/03/2023 9:15 AM CDT",
+      "analysis_time": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITAL LAB",
+      "authorizing_provider": "Hoyet AHand MD",
+      "specimen_type": "Blood",
+      "_source": "Page 7, table row 3"
+    },
+    {
+      "test": "Potassium",
+      "value": "4.0",
+      "unit": "mmol/L",
+      "reference_range": "3.5-5.1",
+      "date": "07/03/2023 9:15 AM CDT",
+      "analysis_time": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITAL LAB",
+      "authorizing_provider": "Hoyet AHand MD",
+      "specimen_type": "Blood",
+      "_source": "Page 7, table row 2"
+    },
+    {
+      "test": "Sodium",
+      "value": "140",
+      "unit": "mmol/L",
+      "reference_range": "136-145",
+      "date": "07/03/2023 9:15 AM CDT",
+      "analysis_time": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITAL LAB",
+      "authorizing_provider": "Hoyet AHand MD",
+      "specimen_type": "Blood",
+      "_source": "Page 6, table row 1"
+    },
+    {
+      "test": "Iron Saturation",
+      "value": "15",
+      "unit": "%",
+      "reference_range": "20-55",
+      "interpretation": "L",
+      "date": "07/03/2023 9:15 AM CDT",
+      "analysis_time": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITAL LAB",
+      "authorizing_provider": "Hoyet AHand MD",
+      "specimen_type": "Blood",
+      "_source": "Page 6, table row 3"
+    },
+    {
+      "test": "TIBC",
+      "value": "279",
+      "unit": "ug /d L",
+      "reference_range": "250-450",
+      "date": "07/03/2023 9:15 AM CDT",
+      "analysis_time": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITAL LAB",
+      "authorizing_provider": "Hoyet AHand MD",
+      "specimen_type": "Blood",
+      "_source": "Page 6, table row 2"
+    },
+    {
+      "test": "Iron",
+      "value": "41",
+      "unit": "ug /d L",
+      "reference_range": "50-170",
+      "interpretation": "L",
+      "date": "07/03/2023 9:15 AM CDT",
+      "analysis_time": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITAL LAB",
+      "authorizing_provider": "Hoyet AHand MD",
+      "specimen_type": "Blood",
+      "_source": "Page 6, table row 1"
+    },
+    {
+      "test": "Ferritin",
+      "value": "266.8",
+      "unit": "ng/m L",
+      "reference_range": "8.0-252.0",
+      "interpretation": "H",
+      "date": "07/03/2023 9:15 AM CDT",
+      "analysis_time": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITAL LAB",
+      "authorizing_provider": "Hoyet AHand MD",
+      "specimen_type": "Blood",
+      "_source": "Page 5, table row 1"
+    }
+  ],
+  "functional_status": [
+    {
+      "assessment": "Because of a physical, mental or emotional condition, does this person have serious difficulty concentrating, remembering, or making decisions?",
+      "response": "No",
+      "date_of_assessment": "06/14/2023",
+      "_source": "Page 3, paragraph 7"
+    },
+    {
+      "assessment": "Because of a physical, mental or emotional condition, does this patient have difficulty doing errands alone such as visiting the doctor's office or shopping?",
+      "response": "No",
+      "date_of_assessment": "06/14/2023",
+      "_source": "Page 3, paragraph 6"
+    },
+    {
+      "assessment": "Does this person have difficulty dressing or bathing?",
+      "response": "No",
+      "date_of_assessment": "06/14/2023",
+      "_source": "Page 3, paragraph 5"
+    },
+    {
+      "assessment": "Does this person have serious difficulty walking or climbing stairs?",
+      "response": "Yes",
+      "date_of_assessment": "06/14/2023",
+      "_source": "Page 3, paragraph 4"
+    },
+    {
+      "assessment": "Patient's Vision Adequate to Safely Complete Daily Activities",
+      "response": "Yes",
+      "date_of_assessment": "06/19/2023",
+      "_source": "Page 3, paragraph 3"
+    },
+    {
+      "assessment": "Is the person deaf or does he/she have difficulty hearing?",
+      "response": "No",
+      "date_of_assessment": "06/19/2023",
+      "_source": "Page 3, paragraph 2"
+    },
+    {
+      "assessment": "In the last 10 days, have you been in contact with someone who was confirmed or suspected to have Coronavirus/COVID-19?",
+      "response": "No/Unsure",
+      "date_recorded": "6/19/2023 5:23 AM CDT",
+      "_source": "Page 3, paragraph 1"
+    }
+  ],
+  "social_history": {
+    "tobacco_use": [
+      {
+        "type": "Smoking Tobacco",
+        "status": "Former",
+        "subtype": "Cigarettes",
+        "quit_date": "1991",
+        "comments": "patient states quit 30 years ago",
+        "_source": "Page 1, table row 1"
+      },
+      {
+        "type": "Smokeless Tobacco",
+        "status": "Never",
+        "_source": "Page 1, table row 2"
+      }
+    ],
+    "alcohol_use": {
+      "status": "Not Currently",
+      "standard_drinks_per_week": "0",
+      "_source": "Page 1, table row 4"
+    },
+    "phq2_score": {
+      "score": "0",
+      "date_recorded": "03/28/2023",
+      "_source": "Page 1, table row 5"
+    },
+    "_source": [
+      "Page 1, table 'Social history'"
+    ]
+  },
+  "care_team": [
+    {
+      "member_name": "Alexander, Amie L, NP",
+      "specialty": "Gastroenterology",
+      "_source": "Page 4, table rows 5-6"
+    },
+    {
+      "member_name": "Zayed, Mahmoud H, MD",
+      "specialty": "Southern Mississippi Heart Center-Gulfport",
+      "_source": "Page 4, table rows 3-4"
+    },
+    {
+      "member_name": "Carroll, Matthew B, MD",
+      "specialty": "Rheumatology Services",
+      "_source": "Page 4, table rows 1-2"
+    },
+    {
+      "member_name": "Hand, Hoyet A, MD",
+      "relationship": "PCP-General",
+      "specialty": "Family Medicine",
+      "start_date": "9/25/20",
+      "npi": "1225340599",
+      "contact_info": "228-206-7054 (Work)\n228-604-0905 (Fax)",
+      "_source": [
+        "Page 1, table row 1",
+        "Page 3, table rows 4-5",
+        "Page 8, paragraph 7",
+        "Page 9, paragraph 7",
+        "Page 5, paragraph 7",
+        "Page 6, paragraph 7",
+        "Page 12, table row 1"
+      ]
+    }
+  ],
+  "patient_summary": "Olivia, a 73-year-old female, presents with a complex medical history including mixed dyslipidemia and benign essential hypertension. She also has a history of leg pain and anemia, specifically postoperative and unspecified types. Recent laboratory results from July 2023 show several abnormalities including elevated ferritin (266.8 ng/mL), low iron (41 ug/dL), low iron saturation (15%), low Anion Gap (5.0 mmol/L), elevated chloride (108 mmol/L), and mildly elevated triglycerides (158 mg/dL) and VLDL Cholesterol (32 mg/dL). Her eGFR is mildly decreased at 58 ml/min/1.73m^2. Functional status indicates difficulty walking or climbing stairs but adequate vision and no difficulty with hearing, dressing, bathing, errands, or cognitive function. She is a former smoker, having quit in 1991, and does not currently consume alcohol. Future appointments are scheduled with Primary Care, Rheumatology, Cardiology, and Gastroenterology, indicating ongoing multi-specialty management."
+}
+```

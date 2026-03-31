@@ -1,0 +1,6 @@
+QUESTION:
+What are the patient's recent diagnoses?
+
+ANSWER:
+No visit diagnoses are on file for the recent encounters.  
+Associated diagnosis for the scheduled procedure: "Special screening for malignant neoplasms, colon" (colonoscopy with biopsy).

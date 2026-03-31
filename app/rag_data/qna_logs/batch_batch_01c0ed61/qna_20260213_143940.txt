@@ -1,0 +1,5 @@
+QUESTION:
+What medications is the patient currently taking?
+
+ANSWER:
+Atorvastatin; diabetes medication (including insulin — noted the patient takes it twice daily and wishes to get off insulin).

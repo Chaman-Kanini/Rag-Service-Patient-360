@@ -1,0 +1,20 @@
+QUESTION:
+give me social history
+
+ANSWER:
+**Social history**
+
+**Tobacco Use**
+*   **Smoking Tobacco:** Former Cigarettes. Quit: 1991. Comments: patient states quit 30 years ago.
+*   **Smokeless Tobacco:** Never.
+
+**Alcohol Use**
+*   **Standard Drinks/Week:** Not Currently 0 (1 standard drink=0.6 oz pure alcohol).
+
+**PHQ-2 Answer**
+*   **Patient Health Questionnaire-2 Score:** 0. Date Recorded: 03/28/2023.
+
+**Sex and Gender Information**
+*   **Sex Assigned at Birth:** Not on file.
+*   **Gender Identity:** Female. Date Recorded: 11/19/2021.
+*   **Sexual Orientation:** Not on file.

@@ -1,0 +1,36 @@
+QUESTION:
+Show me the latest lab results
+
+ANSWER:
+Here are the most recent lab results available in the record (collection: 07/03/2023 9:15 AM; received 07/03/2023 10:06 AM):
+
+Basic metabolic panel
+- Sodium: 140 mmol/L (ref 136–145) — normal  
+- Potassium: 4.0 mmol/L (ref 3.5–5.1) — normal  
+- Chloride: 108 mmol/L (ref 98–107) — high  
+- CO2: 27 mmol/L (ref 21–32) — normal  
+- BUN: 15 mg/dL (ref 7–18) — normal  
+- Creatinine: 0.96 mg/dL (ref 0.55–1.02) — normal  
+- Glucose: 94 mg/dL (ref 74–106) — normal  
+- Calcium: 9.5 mg/dL (ref 8.5–10.1) — normal  
+- Anion gap: 5.0 mmol/L (ref 8.0–16.0) — low  
+- eGFR (CKD‑EPI): 58 mL/min/1.73 m2 (ref >90) — low (moderate decrease)
+
+Iron studies / ferritin
+- Iron: 41 µg/dL (ref 50–170) — low  
+- TIBC: 279 µg/dL (ref 250–450) — normal  
+- Iron saturation: 15% (ref 20–55%) — low  
+- Ferritin: 266.8 ng/mL (ref 8.0–252.0) — high
+
+Lipid panel
+- Triglycerides: 158 mg/dL (ref 0–149) — high (borderline)  
+- Cholesterol (total): 147 mg/dL (ref <200) — normal (desirable)  
+- HDL: 54 mg/dL (ref 40–59) — normal  
+- LDL (calculated): 62 mg/dL (ref 0–100) — optimal  
+- VLDL (calculated): 32 mg/dL (ref <30) — high  
+- Non‑HDL cholesterol: 94 mg/dL (ref ≤130) — normal
+
+Thyroid
+- TSH (Ultra Sensitive): 1.320 mIU/mL (ref 0.358–3.740) — normal
+
+If you want, I can highlight only abnormal results, generate a printable summary, or help interpret any specific abnormal results.

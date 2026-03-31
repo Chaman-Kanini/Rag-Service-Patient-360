@@ -1,0 +1,5 @@
+QUESTION:
+What medications is the patient currently taking?
+
+ANSWER:
+The provided context does not contain information about the medications the patient is currently taking.

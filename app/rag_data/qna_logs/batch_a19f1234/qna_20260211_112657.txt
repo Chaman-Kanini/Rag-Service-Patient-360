@@ -1,0 +1,5 @@
+QUESTION:
+What medications is the patient currently taking?
+
+ANSWER:
+The only medication explicitly named in the record is atorvastatin (refill request). The note also documents she is taking diabetes medication—specifically insulin (patient “takes it twice/day” and “wishes to get off insulin”).

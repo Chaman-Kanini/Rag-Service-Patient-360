@@ -1,0 +1,5 @@
+QUESTION:
+What medications is the patient currently taking?
+
+ANSWER:
+No medications are listed in the provided record.

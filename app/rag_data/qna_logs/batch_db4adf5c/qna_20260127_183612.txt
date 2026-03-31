@@ -1,0 +1,5 @@
+QUESTION:
+What medications is the patient currently taking?
+
+ANSWER:
+The patient is currently taking Atorvastatin, as indicated by refill requests.

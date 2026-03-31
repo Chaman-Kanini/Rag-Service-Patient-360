@@ -1,0 +1,5 @@
+QUESTION:
+What are the patient's recent diagnoses?
+
+ANSWER:
+No visit diagnoses are on file for the encounters. The only documented associated diagnosis is "special screening for malignant neoplasms, colon" (for the colonoscopy with biopsy).

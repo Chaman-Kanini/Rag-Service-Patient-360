@@ -1,0 +1,700 @@
+```json
+{
+  "patient": {
+    "name": "Olivia",
+    "dob": "05/05/1952",
+    "age": "73",
+    "gender": "Female",
+    "patient_id": "104",
+    "contact": {
+      "phone": "+13105561256"
+    },
+    "_source": [
+      "Document 2, Patient Information section",
+      "Document 3, Patient Information section",
+      "Document 4, Patient Information",
+      "Document 5, Patient Information section",
+      "Document 6, Patient Information section"
+    ]
+  },
+  "encounters": [
+    {
+      "date": "08/18/2025",
+      "type": "Ancillary Procedure",
+      "facility": "LGHKISSELHILL 51PetersRoad Lititz,PA17543-7685",
+      "contact_info": {
+        "phone": "717-627-2400"
+      },
+      "_source": [
+        "Document 1, paragraph 5"
+      ]
+    },
+    {
+      "date": "04/25/2025",
+      "type": "OfficeVisit",
+      "provider": "Darlington,Andrew,DO",
+      "department": "PiedmontHeartofNewnan",
+      "facility": "1267Highway54West Fayetteville,GA30214",
+      "contact_info": {
+        "work_phone": "770-716-0051"
+      },
+      "_source": [
+        "Document 3, Encounter details table, 04/25 OfficeVisit"
+      ]
+    },
+    {
+      "date": "04/23/2025",
+      "type": "OfficeVisit",
+      "provider": "Kandaswamy,Shankar,MD",
+      "department": "PiedmontPhysicians PulmonaryandSleep MedicineNewnan",
+      "facility": "745PoplarRoad NEWNAN,GA30265",
+      "contact_info": {
+        "work_phone": "770-400-1000",
+        "fax_phone": "404-367-3558"
+      },
+      "_source": [
+        "Document 3, Encounter details table, 04/23 OfficeVisit"
+      ]
+    },
+    {
+      "date": "04/21/2025",
+      "type": "OfficeVisit",
+      "provider": "Jhaveri,Ami,MD",
+      "department": "Hematology&Medical Oncology",
+      "facility": "2102HARRISBURGPIKE LANCASTER,PA17601",
+      "contact_info": {
+        "work_phone": "717-544-9400",
+        "fax_phone": "717-544-9401"
+      },
+      "_source": [
+        "Document 1, paragraph 4"
+      ]
+    },
+    {
+      "date": "02/21/2025",
+      "type": "Hospital Encounter",
+      "provider": "Haroon,Mustafa,MD",
+      "department": "Peri-OpServices",
+      "facility": "PiedmontNewnanHospital 1200LOWER FAYETTEVILLEROAD NEWNAN,GA30265-1618",
+      "contact_info": {
+        "work_phone": "678-631-4610",
+        "fax_phone": "678-631-4611"
+      },
+      "_source": [
+        "Document 3, Encounter details table, 02/21 Hospital Encounter"
+      ]
+    },
+    {
+      "date": "02/20/2025",
+      "type": "OfficeVisit",
+      "provider": "Dooley,JohnDavid,MD",
+      "department": "AtlantaVascularSpecialists -Newnan",
+      "facility": "1233HWY54WEST SUITE210 FAYETTEVILLE,GA30214-4542",
+      "contact_info": {
+        "work_phone": "404-524-0095",
+        "fax_phone": "404-658-9558"
+      },
+      "_source": [
+        "Document 3, Encounter details table, 02/20 OfficeVisit"
+      ]
+    },
+    {
+      "date": "02/06/2025",
+      "type": "Telemedicine",
+      "provider": "Calamia,Courtney,RPh",
+      "department": "FamilyMedicineLincoln",
+      "facility": "424CLOVERLEAFROAD Elizabethtown,PA17322",
+      "contact_info": {
+        "work_phone": "717-283-9573"
+      },
+      "description": "DischargeDisposition:Home /SelfCare",
+      "_source": [
+        "Document 1, paragraph 3"
+      ]
+    },
+    {
+      "date": "02/03/2025",
+      "type": "OfficeVisit",
+      "provider": "Hershey,CurtisL,MD",
+      "department": "FamilyMedicineLincoln",
+      "facility": "101LARKSPURLANE Ephrata,PA17522",
+      "contact_info": {
+        "work_phone": "717-738-0660",
+        "fax_phone": "717-738-0658"
+      },
+      "description": "DischargeDisposition:Home /SelfCare",
+      "_source": [
+        "Document 1, paragraph 2"
+      ]
+    },
+    {
+      "date": "04/30/2024",
+      "type": "OfficeVisit",
+      "provider": "Carroll,MatthewB,MD",
+      "department": "RheumatologyServices",
+      "facility": "3603BIENVILLEBLVD STE100 OCEANSPRINGS,MS",
+      "_source": [
+        "Document 7, Encounter details table, 04/30 OfficeVisit"
+      ]
+    },
+    {
+      "date": "04/22/2024",
+      "type": "OfficeVisit",
+      "provider": "Hand,HoyetA,MD",
+      "department": "SingingRiverGulfport PrimaryCareServices",
+      "facility": "350COWANRD",
+      "_source": [
+        "Document 5, Plan of treatment, Upcoming Encounters, second entry"
+      ]
+    },
+    {
+      "date": "04/19/2024",
+      "type": "Appointment",
+      "department": "SingingRiverGulfport PrimaryCareServices",
+      "facility": "350CowanRoad GULFPORT,MS39505-2008",
+      "contact_info": {
+        "phone": "228-206-7054"
+      },
+      "_source": [
+        "Document 5, Plan of treatment, Upcoming Encounters, first entry"
+      ]
+    },
+    {
+      "date": "07/11/2023",
+      "type": "Travel",
+      "_source": [
+        "Document 3, Encounter details table, 07/11 Travel"
+      ]
+    },
+    {
+      "date": "06/30/2023",
+      "type": "OrdersOnly",
+      "provider": "Hand,HoyetA,MD",
+      "department": "SingingRiverGulfport PrimaryCareServices",
+      "facility": "350CowanRoad GULFPORT,MS39505-2008",
+      "contact_info": {
+        "work_phone": "228-206-7054",
+        "fax_phone": "228-604-0905"
+      },
+      "_source": [
+        "Document 6, Encounter details table, 06/30 OrdersOnly"
+      ]
+    }
+  ],
+  "diagnoses": [
+    {
+      "diagnosis": "Mixeddyslipidemia (Primary Dx)",
+      "date": "06/30/2023",
+      "context": "from encounter description",
+      "_source": [
+        "Document 6, Encounter details table, 06/30 OrdersOnly description"
+      ]
+    },
+    {
+      "diagnosis": "Essentialhypertension, benign",
+      "date": "06/30/2023",
+      "context": "from encounter description",
+      "_source": [
+        "Document 6, Encounter details table, 06/30 OrdersOnly description"
+      ]
+    },
+    {
+      "diagnosis": "Postoperativeanemia",
+      "date": "06/30/2023",
+      "context": "from encounter description",
+      "_source": [
+        "Document 6, Encounter details table, 06/30 OrdersOnly description"
+      ]
+    },
+    {
+      "diagnosis": "LegPain",
+      "date": "06/30/2023",
+      "context": "from encounter description",
+      "_source": [
+        "Document 6, Encounter details table, 06/30 OrdersOnly description"
+      ]
+    }
+  ],
+  "procedures": [
+    {
+      "procedure": "COLONOSCOPY,WITH BIOPSY",
+      "date": "02/21/2025",
+      "provider": "Haroon,Mustafa,MD",
+      "department": "Peri-OpServices",
+      "facility": "PiedmontNewnanHospital 1200LOWER FAYETTEVILLEROAD NEWNAN,GA30265-1618",
+      "start_time": "8:33AM EST",
+      "end_time": "9:11AM EST",
+      "_source": [
+        "Document 3, Encounter details table, 02/21 Surgery"
+      ]
+    }
+  ],
+  "laboratory_results": [
+    {
+      "test": "LGResultComponent(DM)",
+      "value": "<8.0",
+      "context": "LGResult 7",
+      "date": "10/22/2024 10:58 AM EDT",
+      "author": "Nigon,Katy A,LPN",
+      "_source": [
+        "Document 2, Goals section, LGResultComponent(DM)"
+      ]
+    }
+  ],
+  "vitals": [
+    {
+      "type": "Blood Pressure",
+      "value": "128/78",
+      "date": "01/11/2025 09:30 AM EST",
+      "_source": [
+        "Document 1, Goals section"
+      ]
+    }
+  ],
+  "social_history": {
+    "alcohol_use": {
+      "status": "No",
+      "standard_drinks_per_week": "0",
+      "_source": [
+        "Document 3, Social history, AlcoholUse",
+        "Document 6, Social history, AlcoholUse"
+      ]
+    },
+    "phq2_score": {
+      "score": "0",
+      "date_recorded": "03/28/2023",
+      "_source": [
+        "Document 6, Social history, PHQ-2"
+      ]
+    },
+    "sex_and_gender_information": [
+      {
+        "type": "SexAssignedatBirth",
+        "value": "Notonfile",
+        "_source": [
+          "Document 3, Social history, SexandGenderInformation",
+          "Document 6, Social history, SexandGenderInformation"
+        ]
+      },
+      {
+        "type": "LegalSex",
+        "value": "Male",
+        "date_recorded": "06/19/2013 02:39 AM EDT",
+        "_source": [
+          "Document 3, Social history, SexandGenderInformation"
+        ]
+      },
+      {
+        "type": "GenderIdentity",
+        "value": "Female",
+        "date_recorded": "11/19/2021 06:43 AM CST",
+        "_source": [
+          "Document 6, Social history, SexandGenderInformation"
+        ]
+      },
+      {
+        "type": "SexualOrientation",
+        "value": "Notonfile",
+        "_source": [
+          "Document 3, Social history, SexandGenderInformation",
+          "Document 4, SexualOrientation",
+          "Document 6, Social history, SexandGenderInformation"
+        ]
+      }
+    ],
+    "covid19_exposure": [
+      {
+        "question": "Inthelast10days,haveyoubeenincontactwithsomeone whowasconfirmedorsuspectedtohaveCoronavirus /COVID-19?",
+        "response": "No/Unsure",
+        "date_recorded": "07/11/2023 08:35 AM EDT",
+        "_source": [
+          "Document 3, Social history, COVID-19Exposure"
+        ]
+      },
+      {
+        "question": "Inthelast10days,haveyoubeenincontactwithsomeone whowasconfirmedorsuspectedtohaveCoronavirus /COVID-19?",
+        "response": "No/Unsure",
+        "date_recorded": "06/19/2023 05:23 AM CDT",
+        "_source": [
+          "Document 5, COVID-19Exposure"
+        ]
+      }
+    ],
+    "smokeless_tobacco_use": {
+      "status": "Never",
+      "_source": [
+        "Document 3, Social history, TobaccoUse",
+        "Document 6, Social history, TobaccoUse"
+      ]
+    }
+  },
+  "functional_status": [
+    {
+      "question": "Isthepersondeafordoeshe/shehavedifficultyhearing?",
+      "response": "No",
+      "date_of_assessment": "06/19/2023",
+      "_source": [
+        "Document 5, Functional status, first entry"
+      ]
+    },
+    {
+      "question": "Patient'sVisionAdequatetoSafelyCompleteDailyActivities",
+      "response": "Yes",
+      "date_of_assessment": "06/19/2023",
+      "_source": [
+        "Document 5, Functional status, second entry"
+      ]
+    },
+    {
+      "question": "Doesthispersonhaveseriousdifficultywalkingorclimbingstairs?",
+      "response": "Yes",
+      "date_of_assessment": "06/14/2023",
+      "_source": [
+        "Document 5, Functional status, third entry"
+      ]
+    },
+    {
+      "question": "Doesthispersonhavedifficultydressingorbathing?",
+      "response": "No",
+      "date_of_assessment": "06/14/2023",
+      "_source": [
+        "Document 5, Functional status, fourth entry"
+      ]
+    },
+    {
+      "question": "Becauseofaphysical,mentaloremotionalcondition,doesthispatienthavedifficultydoingerrandsalonesuchasvisitingthedoctor'sofficeorshopping?",
+      "response": "No",
+      "date_of_assessment": "06/14/2023",
+      "_source": [
+        "Document 5, Functional status, fifth entry"
+      ]
+    }
+  ],
+  "cognitive_status": [
+    {
+      "question": "Becauseofaphysical,mentaloremotionalcondition,doesthispersonhaveseriousdifficultyconcentrating,remembering,ormakingdecisions?",
+      "response": "No",
+      "date_of_assessment": "06/14/2023",
+      "_source": [
+        "Document 5, CognitiveStatus"
+      ]
+    }
+  ],
+  "plans_and_followups": [
+    {
+      "goal": "Blood Pressure <140/90",
+      "type": "Blood Pressure",
+      "recent_progress": "128/78(01/11/20259:30AMEST)",
+      "stated_problems": "No",
+      "author": "Nigon,Katy A,LPN",
+      "_source": [
+        "Document 1, Goals section"
+      ]
+    },
+    {
+      "goal": "Eat 3 meals and 0-1 Snack(s) per day",
+      "type": "In-home monitoring",
+      "recent_progress": "Ontrack(03/22/2024 8:35AMEDT)",
+      "stated_problems": "No",
+      "author": "Gress, Pamela,RN",
+      "_source": [
+        "Document 2, Goals section, first entry"
+      ]
+    },
+    {
+      "goal": "Take diabetes medication as directed",
+      "type": "In-home monitoring",
+      "recent_progress": "Ontrack(03/22/2024 8:37AMEDT)",
+      "stated_problems": "No",
+      "author": "Gress, Pamela,RN",
+      "_source": [
+        "Document 2, Goals section, second entry"
+      ]
+    },
+    {
+      "goal": "Check my blood sugar 3 times/day",
+      "type": "In-home monitoring",
+      "recent_progress": "Ontrack(03/22/2024 8:37AMEDT)",
+      "stated_problems": "No",
+      "author": "Gress, Pamela,RN",
+      "_source": [
+        "Document 2, Goals section, third entry"
+      ]
+    },
+    {
+      "instruction": "Fasting/beforemeals:80-120",
+      "context": "Bloodsugar goals",
+      "_source": [
+        "Document 2, Goals section, blood sugar goals"
+      ]
+    },
+    {
+      "instruction": "2hoursaftermealsandbedtime:<150-180",
+      "context": "Bloodsugar goals",
+      "_source": [
+        "Document 2, Goals section, blood sugar goals"
+      ]
+    },
+    {
+      "instruction": "Pttakesittwice/day",
+      "context": "Bloodsugar goals",
+      "_source": [
+        "Document 2, Goals section, blood sugar goals"
+      ]
+    },
+    {
+      "goal": "Bring your meter and blood sugar log/food log to all medical appointments",
+      "type": "In-home monitoring",
+      "recent_progress": "Ontrack(03/22/2024 8:36AMEDT)",
+      "stated_problems": "No",
+      "author": "Gress, Pamela,RN",
+      "_source": [
+        "Document 2, Goals section, fourth entry"
+      ]
+    },
+    {
+      "goal": "Always carry a fast acting sugar source",
+      "type": "In-home monitoring",
+      "recent_progress": "Ontrack(03/22/2024 8:36AMEDT)",
+      "stated_problems": "No",
+      "author": "Gress, Pamela,RN",
+      "_source": [
+        "Document 2, Goals section, fifth entry"
+      ]
+    },
+    {
+      "goal": "Make an appointment with Eye doctor in the next 3 Months",
+      "type": "In-home monitoring",
+      "recent_progress": "Notontrack(03/22/20248:37AMEDT)",
+      "stated_problems": "No",
+      "author": "Gress, Pamela,RN",
+      "_source": [
+        "Document 2, Goals section, sixth entry"
+      ]
+    },
+    {
+      "goal": "Wellness:patient-stated",
+      "type": "LG Patient-Stated (Wellness)",
+      "recent_progress": "Notontrack(03/22/20248:37AMEDT)",
+      "stated_problems": "No",
+      "author": "Fleming, Shelly-Ann,CMA",
+      "_source": [
+        "Document 2, Goals section, seventh entry"
+      ]
+    },
+    {
+      "goal": "LGResultComponent(DM)<8.0",
+      "type": "LGResult 7",
+      "recent_progress": "(10/22/202410:58AMEDT)",
+      "stated_problems": "No",
+      "author": "Nigon,Katy A,LPN",
+      "_source": [
+        "Document 2, Goals section, LGResultComponent(DM)"
+      ]
+    }
+  ],
+  "care_team": [
+    {
+      "provider": "Hershey,CurtisL,MD",
+      "department": "FamilyMedicineLincoln",
+      "_source": [
+        "Document 1, paragraph 2"
+      ]
+    },
+    {
+      "provider": "Calamia,Courtney,RPh",
+      "department": "FamilyMedicineLincoln",
+      "_source": [
+        "Document 1, paragraph 3"
+      ]
+    },
+    {
+      "provider": "Jhaveri,Ami,MD",
+      "department": "Hematology&Medical Oncology",
+      "_source": [
+        "Document 1, paragraph 4"
+      ]
+    },
+    {
+      "provider": "Nigon,Katy A,LPN",
+      "_source": [
+        "Document 1, Goals section",
+        "Document 2, Goals section, LGResultComponent(DM)"
+      ]
+    },
+    {
+      "provider": "Gress, Pamela,RN",
+      "_source": [
+        "Document 2, Goals section, first entry",
+        "Document 2, Goals section, second entry",
+        "Document 2, Goals section, third entry",
+        "Document 2, Goals section, fourth entry",
+        "Document 2, Goals section, fifth entry",
+        "Document 2, Goals section, sixth entry"
+      ]
+    },
+    {
+      "provider": "Fleming, Shelly-Ann,CMA",
+      "_source": [
+        "Document 2, Goals section, seventh entry"
+      ]
+    },
+    {
+      "provider": "Dooley,JohnDavid,MD",
+      "department": "AtlantaVascularSpecialists -Newnan",
+      "_source": [
+        "Document 3, Encounter details table, 02/20 OfficeVisit"
+      ]
+    },
+    {
+      "provider": "Haroon,Mustafa,MD",
+      "department": "Peri-OpServices",
+      "_source": [
+        "Document 3, Encounter details table, 02/21 Hospital Encounter",
+        "Document 3, Encounter details table, 02/21 Surgery"
+      ]
+    },
+    {
+      "provider": "Kandaswamy,Shankar,MD",
+      "department": "PiedmontPhysicians PulmonaryandSleep MedicineNewnan",
+      "_source": [
+        "Document 3, Encounter details table, 04/23 OfficeVisit"
+      ]
+    },
+    {
+      "provider": "Darlington,Andrew,DO",
+      "department": "PiedmontHeartofNewnan",
+      "_source": [
+        "Document 3, Encounter details table, 04/25 OfficeVisit"
+      ]
+    },
+    {
+      "provider": "Hand,HoyetA,MD",
+      "department": "SingingRiverGulfport PrimaryCareServices",
+      "_source": [
+        "Document 5, Plan of treatment, Upcoming Encounters, second entry",
+        "Document 6, Encounter details table, 06/30 OrdersOnly"
+      ]
+    },
+    {
+      "provider": "Carroll,MatthewB,MD",
+      "department": "RheumatologyServices",
+      "_source": [
+        "Document 7, Encounter details table, 04/30 OfficeVisit"
+      ]
+    }
+  ],
+  "facilities": [
+    {
+      "name": "101LARKSPURLANE Ephrata,PA17522",
+      "_source": [
+        "Document 1, paragraph 2"
+      ]
+    },
+    {
+      "name": "424CLOVERLEAFROAD Elizabethtown,PA17322",
+      "_source": [
+        "Document 1, paragraph 3"
+      ]
+    },
+    {
+      "name": "2102HARRISBURGPIKE LANCASTER,PA17601",
+      "_source": [
+        "Document 1, paragraph 4"
+      ]
+    },
+    {
+      "name": "LGHKISSELHILL 51PetersRoad Lititz,PA17543-7685",
+      "_source": [
+        "Document 1, paragraph 5"
+      ]
+    },
+    {
+      "name": "1233HWY54WEST SUITE210 FAYETTEVILLE,GA30214-4542",
+      "_source": [
+        "Document 3, Encounter details table, 02/20 OfficeVisit"
+      ]
+    },
+    {
+      "name": "PiedmontNewnanHospital 1200LOWER FAYETTEVILLEROAD NEWNAN,GA30265-1618",
+      "_source": [
+        "Document 3, Encounter details table, 02/21 Hospital Encounter",
+        "Document 3, Encounter details table, 02/21 Surgery"
+      ]
+    },
+    {
+      "name": "745PoplarRoad NEWNAN,GA30265",
+      "_source": [
+        "Document 3, Encounter details table, 04/23 OfficeVisit"
+      ]
+    },
+    {
+      "name": "1267Highway54West Fayetteville,GA30214",
+      "_source": [
+        "Document 3, Encounter details table, 04/25 OfficeVisit"
+      ]
+    },
+    {
+      "name": "350CowanRoad GULFPORT,MS39505-2008",
+      "_source": [
+        "Document 5, Plan of treatment, Upcoming Encounters, first entry",
+        "Document 6, Encounter details table, 06/30 OrdersOnly"
+      ]
+    },
+    {
+      "name": "350COWANRD",
+      "_source": [
+        "Document 5, Plan of treatment, Upcoming Encounters, second entry"
+      ]
+    },
+    {
+      "name": "3603BIENVILLEBLVD STE100 OCEANSPRINGS,MS",
+      "_source": [
+        "Document 7, Encounter details table, 04/30 OfficeVisit"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "text": "Patient wishes to get off insulin.",
+      "_source": [
+        "Document 2, Goals section, Note"
+      ]
+    }
+  ],
+  "conflicts": [
+    {
+      "entity_type": "social_history",
+      "entity_name": "tobacco_use",
+      "conflict_description": "Conflicting smoking status and history.",
+      "variants": [
+        {
+          "value": {
+            "type": "SmokingTobacco",
+            "status": "EveryDay",
+            "product": "Cigarettes",
+            "packs_per_day": "0.5",
+            "years_used": "50"
+          },
+          "_source": [
+            "Document 3, Social history, TobaccoUse"
+          ]
+        },
+        {
+          "value": {
+            "type": "SmokingTobacco",
+            "status": "Former",
+            "product": "Cigarettes",
+            "quit_date": "1991",
+            "comments": "patient states quit 30 years ago"
+          },
+          "_source": [
+            "Document 6, Social history, TobaccoUse"
+          ]
+        }
+      ]
+    }
+  ],
+  "patient_summary": "Olivia, a 73-year-old female, presents with a complex medical history. Key diagnoses include mixed dyslipidemia, essential hypertension (benign), postoperative anemia, and leg pain, all identified in June 2023. She underwent a colonoscopy with biopsy in February 2025. Her blood pressure was 128/78 in January 2025, with a goal of <140/90. Recent laboratory results from October 2024 show a diabetes component result of <8.0. Functional status indicates difficulty walking or climbing stairs but adequate vision and no difficulty hearing, dressing, bathing, or doing errands. Cognitive status shows no serious difficulty concentrating or remembering. Social history reveals conflicting information regarding tobacco use, with one record indicating current daily smoking and another stating she quit in 1991. Alcohol use is denied. She has an expressed goal to discontinue insulin."
+}
+```

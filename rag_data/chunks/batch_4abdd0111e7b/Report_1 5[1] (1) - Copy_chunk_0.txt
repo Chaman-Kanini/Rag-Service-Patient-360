@@ -1,0 +1,79 @@
+
+[Page 1]
+OliviaSingingRiverHealthSystemPatientRecord03/20/2024
+PATIENT INFORMATION: Type: ProgressNote
+Olivia Source: SingingRiverHealthSystem
+Received:03/20/202408:24PM
+Phone +13105561256 Modified: 03/20/202408:24PM
+(H):
+DOB: 05/05/1952
+Gender: Female Age: 73
+Patient 104
+ID: ...
+TableofContents:
+Encounter Details Social History FunctionalStatus
+Planof Treatment Results VisitDiagnoses
+Additional Health Concerns CareTeams
+Encounter details
+Date Type Department CareTeam(Latest Description
+Contact Info)
+06/30 OrdersOnly Hand,HoyetA,MD Mixeddyslipidemia(Primary
+/2023 SingingRiverGulfport Dx);
+PrimaryCareServices 350COWANRD Essentialhypertension,
+benign;
+350CowanRoad GULFPORT,MS39507-2008 Postoperativeanemia
+LegPain
+GULFPORT,MS39505-2008 228-206-7054(Work)
+228-206-7054 228-604-0905(Fax)
+Social history
+TobaccoUse Types Packs/Day Years Date
+Used
+SmokingTobacco:Former Cigarettes Quit:1991
+SmokelessTobacco:Never
+Comments:patientstatesquit30yearsago
+AlcoholUse StandardDrinks/Week Comments
+NotCurrently 0(1standarddrink=0.6oz
+purealcohol)
+PHQ-2 Answer DateRecorded
+PatientHealthQuestionnaire-2Score 0 03/28/2023
+SexandGenderInformation Value DateRecorded
+SexAssignedatBirth Notonfile
+GenderIdentity Female 11/19/20216:43AMCST
+PrintedfromHealthGorillaSecureClinicalNetwork.Copyright©2025HealthGorillaInc.
+https://www.healthgorilla.com
+Thecontentsofthisdocumentand/orfaxtransmissionareintendedonlyfortheuseoftheindividualorentitytowhichtheyareaddressedandmay
+containinformationthatislegallyprivileged,confidentialandexemptfromdisclosure,includingprotectedhealthinformation.Ifyouarenotthe
+intendedrecipient,youareherebynotifiedthatanydissemination,distributionorcopyingofthisdocumentisstrictlyprohibited.Ifyouhavereceived
+orobtainedthisdocumentorfaxtransmissioninerror,pleasenotifytheoriginalsenderorcontactHealthGorillaInc.at1-734-446-7455
+immediatelybytelephoneorbyemailatprivacy@healthgorilla.comanddeletethisdocumentimmediately.
+Page1of12
+[Page 2]
+OliviaSingingRiverHealthSystemPatientRecord03/20/2024
+SexualOrientation Notonfile
+PrintedfromHealthGorillaSecureClinicalNetwork.Copyright©2025HealthGorillaInc.
+https://www.healthgorilla.com
+Thecontentsofthisdocumentand/orfaxtransmissionareintendedonlyfortheuseoftheindividualorentitytowhichtheyareaddressedandmay
+containinformationthatislegallyprivileged,confidentialandexemptfromdisclosure,includingprotectedhealthinformation.Ifyouarenotthe
+intendedrecipient,youareherebynotifiedthatanydissemination,distributionorcopyingofthisdocumentisstrictlyprohibited.Ifyouhavereceived
+orobtainedthisdocumentorfaxtransmissioninerror,pleasenotifytheoriginalsenderorcontactHealthGorillaInc.at1-734-446-7455
+immediatelybytelephoneorbyemailatprivacy@healthgorilla.comanddeletethisdocumentimmediately.
+Page2of12
+[Page 3]
+OliviaSingingRiverHealthSystemPatientRecord03/20/2024
+PATIENT INFORMATION: Type: Progress Note
+Olivia Source: SingingRiverHealthSystem
+Received:03/20/202408:24PM
+Phone +1310556 1256 Modified: 03/20/202408:24PM
+(H):
+DOB: 05/05/1952
+Gender: Female Age: 73
+Patient 104
+ID: ...
+COVID-19Exposure Response DateRecorded
+Inthelast10days,haveyoubeenincontactwithsomeone No/Unsure 6/19/20235:23AMCDT
+whowasconfirmedorsuspectedtohaveCoronavirus
+/COVID-19?
+documentedasof thisencounter
+Functional status
+FunctionalStatus Response DateofAssessment
+Isthepersondeafordoeshe/shehavedifficultyhearing? No 06/19/2023

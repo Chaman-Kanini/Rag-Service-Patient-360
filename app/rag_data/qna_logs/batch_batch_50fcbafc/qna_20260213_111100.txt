@@ -1,0 +1,17 @@
+QUESTION:
+Summarize the patient's medical history
+
+ANSWER:
+73-year-old female (DOB 05/05/1952) with the following documented medical history and care:
+
+- Type 2 diabetes mellitus: on diabetes medications including insulin (patient takes insulin twice daily), monitors blood sugar (goal and plan: check 3×/day); most recent reported diabetes control LG result/A1c ~7. Patient has expressed a desire to stop insulin.
+- Hyperlipidemia (documented as “hyperlipidemia associated with type 2 diabetes”); atorvastatin refill requested.
+- Cardiovascular care: followed by cardiology and vascular specialists (multiple cardiology/vascular providers listed).
+- Renal/endocrine/oncology involvement: history of care with endocrinology and nephrology; hematology/oncology and surgical teams listed (oncology care noted in 2020–2021).
+- Infectious history: MRSA of the right breast (9/3–9/4/2020); COVID-19 infection (recovered 01/04/2021).
+- Symptoms/functional status: documented difficulty walking/climbing stairs; vision adequate for daily activities.
+- Preventive/diagnostic procedures: colonoscopy with biopsy scheduled 02/21/2025.
+- Social history: tobacco use documented (former smoker); no current alcohol use documented.
+- Recent vitals/labs: blood pressure reported 128/78 (goal <140/90); ALT 10 U/L (01/08/2021); PHQ‑9 score 0 (03/28/2023).
+
+Care is multi-disciplinary with primary care, cardiology, endocrinology, oncology/hematology, nephrology, rheumatology and gastroenterology involvement.

@@ -1,0 +1,27 @@
+QUESTION:
+list the lab results
+
+ANSWER:
+Last Lipid Panel (07/17/2020 09:41 AM)
+- CHOLTOTAL: 136
+- TG: 101
+- HDLCHOL: 38 (L)
+- LDLCHOL: 78
+
+Last BMP (01/11/2021 05:31 AM)
+- GLUCOSE: 199 (H)
+- SODIUM: 134 (L)
+- POTASSIUM: 4.4
+- CHLORIDE: 97 (L)
+- BUN: 37 (H)
+- CREATININE: 1.1 (H)
+- CALCIUM: 8.1 (L)
+- GFR: 50 (A)
+
+Last LFTs (01/08/2021 05:00 AM)
+- Alkaline Phosphatase: 58 U/L (ref 34–144)
+- AST (SGOT): 8 (L) U/L (ref 13–40)
+- ALT (SGPT): 10 U/L (ref 7–52)
+
+Additional result noted:
+- LG Result Component (DM): 7 (10/22/2024 10:58 AM EDT)

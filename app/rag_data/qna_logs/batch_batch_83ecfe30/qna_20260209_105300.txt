@@ -1,0 +1,5 @@
+QUESTION:
+What medications is the patient currently taking?
+
+ANSWER:
+The provided record does not list any current medications — no active medication list is documented in the excerpts given.

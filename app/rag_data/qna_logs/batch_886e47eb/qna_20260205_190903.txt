@@ -1,0 +1,5 @@
+QUESTION:
+What medications is the patient currently taking?
+
+ANSWER:
+The record shows atorvastatin (refill requested) and diabetes medication—specifically insulin (patient is on insulin, noted as taking it twice daily and wishes to get off).

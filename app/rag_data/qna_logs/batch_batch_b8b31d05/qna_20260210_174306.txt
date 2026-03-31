@@ -1,0 +1,39 @@
+QUESTION:
+what are the lab results that accounts for the diagnoses and diseases patient has?
+
+ANSWER:
+Here are the pertinent laboratory results from the record that correlate with the patient’s documented diagnoses:
+
+- Diabetes / glycemic control
+  - Hemoglobin A1c: 7% (LG Result Component (DM) — 10/22/2024)
+  - Glucose: 199 mg/dL (high) — 01/11/2021; Glucose 94 mg/dL — 07/03/2023
+
+- Hyperlipidemia / lipid panel (07/03/2023)
+  - Triglycerides: 158 mg/dL (borderline high)
+  - Total cholesterol: 147 mg/dL
+  - HDL: 54 mg/dL
+  - LDL (calculated): 62 mg/dL
+  - VLDL (calculated): 32 mg/dL (high)
+  - Non-HDL cholesterol: 94 mg/dL
+
+- Kidney function / possible CKD
+  - eGFR (CKD‑EPI): 58 mL/min/1.73 m2 (low) — 07/03/2023
+  - Prior GFR: 50 mL/min/1.73 m2 — 01/11/2021
+  - Creatinine: 1.1 mg/dL (high) — 01/11/2021; 0.96 mg/dL — 07/03/2023
+  - BUN: 37 mg/dL (high) — 01/11/2021
+
+- Iron studies / iron deficiency evidence (07/03/2023)
+  - Iron: 41 µg/dL (low; ref 50–170)
+  - Iron saturation: 15% (low; ref 20–55%)
+  - TIBC: 279 µg/dL (within referenced range)
+
+- Other notable chemistry abnormalities
+  - Chloride: 108 mmol/L (high) — 07/03/2023
+  - Anion gap: 5.0 mmol/L (low) — 07/03/2023
+  - Sodium: 134 mmol/L (low) — 01/11/2021
+  - Calcium: 8.1 mg/dL (low) — 01/11/2021
+
+- Liver tests (01/08/2021)
+  - Alkaline phosphatase 58 U/L, AST 8 U/L (low), ALT 10 U/L — within/near normal ranges
+
+These lab results (A1c/glucose, lipid panel, reduced eGFR/raised creatinine/BUN, and low iron/iron saturation) are the primary values supporting the patient’s diagnoses such as diabetes, hyperlipidemia, renal impairment, and iron deficiency.

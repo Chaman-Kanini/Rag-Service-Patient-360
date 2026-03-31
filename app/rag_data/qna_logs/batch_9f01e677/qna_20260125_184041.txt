@@ -1,0 +1,6 @@
+QUESTION:
+give me a two line summary of the patient
+
+ANSWER:
+Olivia is a 73-year-old female diagnosed with type 2 diabetes mellitus, hyperlipidemia, and essential hypertension.
+She is a former smoker and experiences functional difficulties with walking, dressing, bathing, and errands.

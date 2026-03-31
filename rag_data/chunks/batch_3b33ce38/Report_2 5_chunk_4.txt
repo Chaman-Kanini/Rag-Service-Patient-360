@@ -1,0 +1,76 @@
+Network.Copyright©2025HealthGorillaInc.
+https://www.healthgorilla.com
+Thecontentsofthisdocumentand/orfaxtransmissionareintendedonlyfortheuseoftheindividualorentitytowhichtheyareaddressedandmay
+containinformationthatislegallyprivileged,confidentialandexemptfromdisclosure,includingprotectedhealthinformation.Ifyouarenotthe
+intendedrecipient,youareherebynotifiedthatanydissemination,distributionorcopyingofthisdocumentisstrictlyprohibited.Ifyouhavereceived
+orobtainedthisdocumentorfaxtransmissioninerror,pleasenotifytheoriginalsenderorcontactHealthGorillaInc.at1-844-446-7455
+Page5of9
+[Page 6]
+Test PiedmontHealthcarePatientRecord01/21/2025
+PATIENT INFORMATION: Type: ClinicalNote
+Olivia Source: PiedmontHealthcare
+Received:01/21/202508:22PM
+Phone : +13105561256 Modified: 01/21/202508:22PM
+DOB: 05/05/1952
+Gender: Female Age: 73
+PatientID: 104
+Goal Patient Associated RecentProgress Patient- Author
+Goal Problems Stated?
+Type
+In-home Ontrack(03/22/2024 No Gress,
+Eat3mealsand0-1Snack(s)per monitoring 8:35AMEDT) Pamela,RN
+day
+In-home Ontrack(03/22/2024 No Gress,
+Takediabetesmedicationas monitoring 8:37AMEDT) Pamela,RN
+directed
+In-home Ontrack(03/22/2024 No Gress,
+Checkmybloodsugar3times/day monitoring 8:37AMEDT) Pamela,RN
+Note:Formattingofthisnotemightbedifferentfromtheoriginal.
+Bloodsugargoals:
+Fasting/beforemeals:80-120
+2hoursaftermealsandbedtime:<150-180
+Pttakesittwice/day
+In-home Ontrack(03/22/2024 No Gress,
+Bringyourmeterandbloodsugar monitoring 8:36AMEDT) Pamela,RN
+log/foodlogtoallmedical
+appointments
+In-home Ontrack(03/22/2024 No Gress,
+Alwayscarryafastactingsugar monitoring 8:36AMEDT) Pamela,RN
+source
+In-home Notontrack(03/22 No Gress,
+MakeanappointmentwithEye monitoring /20248:37AMEDT) Pamela,RN
+doctorinthenext3Months
+LG Notontrack(03/22 No Fleming,
+Wellness:patient-stated Patient- /20248:37AMEDT) Shelly-Ann,
+Stated CMA
+(Wellness)
+Note:Formattingofthisnotemightbedifferentfromtheoriginal.
+Patientwishestogetoffinsulin.
+LGResult 7(10/22/202410:58 No Nigon,Katy
+LGResultComponent(DM)<8.0 Compone AMEDT) A,LPN
+nt(DM)
+documentedasof thisencounter
+Visit diagnoses
+PrintedfromHealthGorillaSecureClinicalNetwork.Copyright©2025HealthGorillaInc.
+https://www.healthgorilla.com
+Thecontentsofthisdocumentand/orfaxtransmissionareintendedonlyfortheuseoftheindividualorentitytowhichtheyareaddressedandmay
+containinformationthatislegallyprivileged,confidentialandexemptfromdisclosure,includingprotectedhealthinformation.Ifyouarenotthe
+intendedrecipient,youareherebynotifiedthatanydissemination,distributionorcopyingofthisdocumentisstrictlyprohibited.Ifyouhavereceived
+orobtainedthisdocumentorfaxtransmissioninerror,pleasenotifytheoriginalsenderorcontactHealthGorillaInc.at1-844-446-7455
+immediatelybytelephoneorbyemailatprivacy@healthgorilla.comanddeletethisdocumentimmediately.
+Page6of9
+[Page 7]
+OliviaPiedmont HealthcarePatientRecord01/21/2025
+PATIENT INFORMATION: Type: ClinicalNote
+Olivia Source: PiedmontHealthcare
+Received:01/21/202508:22PM
+Phone : +13105561256 Modified: 01/21/202508:22PM
+DOB: 05/05/1952
+Gender: Female Age: 73
+PatientID: 104
+Diagnosis
+Hyperlipidemiaassociatedwithtype2diabetesmellitus(CMS/HCC)(CMS/HCC)
+documentedinthisencounter
+Additional health concerns
+Infection Onset Last ResolvedTime
+Date Indicated

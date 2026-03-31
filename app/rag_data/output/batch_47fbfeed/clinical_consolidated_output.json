@@ -1,0 +1,979 @@
+{
+  "patient": {
+    "name": "Olivia",
+    "dob": "05/05/1952",
+    "gender": "Female",
+    "age": "73",
+    "patient_id": "104",
+    "phone": "+1 310 556 1256",
+    "_source": [
+      "Document: Report_1%205%5B1%5D%20(1)%20(1)%20(1).pdf, Page: 3, Section: PATIENT INFORMATION:",
+      "Document: Report_2%206%20(2).pdf, Page: 1, Section: PATIENT INFORMATION:",
+      "Document: Report_3%205%20(1).pdf, Page: 1, Section: PATIENT INFORMATION:"
+    ]
+  },
+  "diagnoses": [
+    {
+      "diagnosis": "Hyperlipidemia associated with type 2 diabetes mellitus (CMS/HCC) (CMS/HCC)",
+      "status": "documented",
+      "_source": [
+        "Document: Report_2%206%20(2).pdf, Page: 7, Section: Visit diagnoses"
+      ]
+    }
+  ],
+  "clinical_timeline": [
+    {
+      "date": "01/12/2021",
+      "event_type": "encounter",
+      "title": "Refill Request (Atorvastatin)",
+      "details": "Refill Request (Atorvastatin / CVS)",
+      "provider": "Roberts, Justin D, DO",
+      "_source": [
+        "Document: Report_2%206%20(2).pdf, Page: 1, Section: Encounter details"
+      ]
+    },
+    {
+      "date": "01/11/2025",
+      "event_type": "vitals",
+      "title": "Blood Pressure",
+      "details": "Blood Pressure 128/78",
+      "provider": "Nigon, Katy A, LPN",
+      "_source": [
+        "Document: Report_2%206%20(2).pdf, Page: 5, Section: Goals"
+      ]
+    },
+    {
+      "date": "03/28/2023",
+      "event_type": "encounter",
+      "title": "PHQ Scores",
+      "details": "PHQ-9 Depression Total Score: 0; PHQ-2 Depression Total Score: 0",
+      "_source": [
+        "Document: Report_1%205%5B1%5D%20(1)%20(1)%20(1).pdf, Page: 12, Section: Additional health concerns"
+      ]
+    },
+    {
+      "date": "07/03/2023",
+      "event_type": "lab",
+      "title": "Lab Results (20 tests)",
+      "details": "Multiple labs including ferritin, iron studies, BMP, and lipid panel",
+      "sub_items": [
+        {
+          "test": "Ferritin",
+          "value": "266.8",
+          "unit": "ng/mL",
+          "reference_range": "8.0 - 252.0",
+          "interpretation": "High"
+        },
+        {
+          "test": "Iron",
+          "value": "41",
+          "unit": "ug/dL",
+          "reference_range": "50 - 170",
+          "interpretation": "Low"
+        },
+        {
+          "test": "TIBC",
+          "value": "279",
+          "unit": "ug/dL",
+          "reference_range": "250 - 450",
+          "interpretation": "Normal"
+        },
+        {
+          "test": "Iron Saturation",
+          "value": "15",
+          "unit": "%",
+          "reference_range": "20 - 55",
+          "interpretation": "Low"
+        },
+        {
+          "test": "Sodium",
+          "value": "140",
+          "unit": "mmol/L",
+          "reference_range": "136 - 145",
+          "interpretation": "Normal"
+        },
+        {
+          "test": "Potassium",
+          "value": "4.0",
+          "unit": "mmol/L",
+          "reference_range": "3.5 - 5.1",
+          "interpretation": "Normal"
+        },
+        {
+          "test": "Chloride",
+          "value": "108",
+          "unit": "mmol/L",
+          "reference_range": "98 - 107",
+          "interpretation": "High"
+        },
+        {
+          "test": "CO2",
+          "value": "27",
+          "unit": "mmol/L",
+          "reference_range": "21 - 32",
+          "interpretation": "Normal"
+        },
+        {
+          "test": "BUN",
+          "value": "15",
+          "unit": "mg/dL",
+          "reference_range": "7 - 18",
+          "interpretation": "Normal"
+        },
+        {
+          "test": "Creatinine",
+          "value": "0.96",
+          "unit": "mg/dL",
+          "reference_range": "0.55 - 1.02",
+          "interpretation": "Normal"
+        },
+        {
+          "test": "Glucose",
+          "value": "94",
+          "unit": "mg/dL",
+          "reference_range": "74 - 106",
+          "interpretation": "Normal"
+        },
+        {
+          "test": "Calcium",
+          "value": "9.5",
+          "unit": "mg/dL",
+          "reference_range": "8.5 - 10.1",
+          "interpretation": "Normal"
+        },
+        {
+          "test": "Anion Gap",
+          "value": "5.0",
+          "unit": "mmol/L",
+          "reference_range": "8.0 - 16.0",
+          "interpretation": "Low"
+        },
+        {
+          "test": "eGFR CKD-EPI",
+          "value": "58",
+          "unit": "ml/min/1.73m2",
+          "reference_range": ">90",
+          "interpretation": "Low"
+        },
+        {
+          "test": "Triglycerides",
+          "value": "158",
+          "unit": "mg/dL",
+          "reference_range": "0 - 149",
+          "interpretation": "High"
+        },
+        {
+          "test": "Cholesterol",
+          "value": "147",
+          "unit": "mg/dL",
+          "reference_range": "<200",
+          "interpretation": "Normal"
+        },
+        {
+          "test": "HDL",
+          "value": "54",
+          "unit": "mg/dL",
+          "reference_range": "40 - 59",
+          "interpretation": "Normal"
+        },
+        {
+          "test": "LDL Calculated",
+          "value": "62",
+          "unit": "mg/dL",
+          "reference_range": "0 - 100",
+          "interpretation": "Normal"
+        },
+        {
+          "test": "VLDL Cholesterol Cal",
+          "value": "32",
+          "unit": "mg/dL",
+          "reference_range": "<30",
+          "interpretation": "High"
+        },
+        {
+          "test": "Non HDL Chol.",
+          "value": "94",
+          "unit": "mg/dL",
+          "reference_range": "<=130",
+          "interpretation": "Normal"
+        }
+      ],
+      "provider": "Hoyet A Hand MD",
+      "facility": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": [
+        "Document: Report_1%205%5B1%5D%20(1)%20(1)%20(1).pdf, Page: 5, Section: Results",
+        "Document: Report_1%205%5B1%5D%20(1)%20(1)%20(1).pdf, Page: 6, Section: (ABNORMAL) Iron & Iron Binding Capacity",
+        "Document: Report_1%205%5B1%5D%20(1)%20(1)%20(1).pdf, Page: 7, Section: (ABNORMAL) Basic metabolic panel",
+        "Document: Report_1%205%5B1%5D%20(1)%20(1)%20(1).pdf, Page: 8, Section: (ABNORMAL) Lipid panel",
+        "Document: Report_1%205%5B1%5D%20(1)%20(1)%20(1).pdf, Page: 10, Section: (ABNORMAL) Lipid panel"
+      ]
+    },
+    {
+      "date": "02/03/2025",
+      "event_type": "encounter",
+      "title": "Office Visit (Family Medicine)",
+      "details": "Office Visit with discharge disposition: Home /Self Care",
+      "provider": "Lincoln Hershey, Curtis L, MD",
+      "_source": [
+        "Document: Report_2%206%20(2).pdf, Page: 5, Section: Encounter details"
+      ]
+    },
+    {
+      "date": "02/06/2025",
+      "event_type": "encounter",
+      "title": "Telemedicine (Family Medicine)",
+      "details": "Telemedicine encounter with discharge disposition: Home /Self Care",
+      "provider": "Calamia, Courtney, RPh",
+      "_source": [
+        "Document: Report_2%206%20(2).pdf, Page: 5, Section: Encounter details"
+      ]
+    },
+    {
+      "date": "02/21/2025",
+      "event_type": "procedure",
+      "title": "Colonoscopy, with biopsy",
+      "details": "COLONOSCOPY, WITH BIOPSY",
+      "provider": "Haroon, Mustafa, MD",
+      "facility": "Piedmont Newnan Hospital",
+      "_source": [
+        "Document: Report_3%205%20(1).pdf, Page: 2, Section: Encounter details",
+        "Document: Report_3%205%20(1).pdf, Page: 2, Section: Surgery"
+      ]
+    },
+    {
+      "date": "04/21/2025",
+      "event_type": "encounter",
+      "title": "Hematology & Medical Oncology Visit",
+      "details": "Office Visit scheduled in Hematology & Medical Oncology",
+      "provider": "Jhaveri, Ami, MD",
+      "facility": "2102 HARRISBURG PIKE",
+      "_source": [
+        "Document: Report_2%206%20(2).pdf, Page: 5, Section: Encounter details"
+      ]
+    },
+    {
+      "date": "08/18/2025",
+      "event_type": "procedure",
+      "title": "Ancillary Procedure (KISSEL HILL)",
+      "details": "Ancillary Procedure scheduled",
+      "_source": [
+        "Document: Report_2%206%20(2).pdf, Page: 5, Section: Upcoming Encounters"
+      ]
+    }
+  ],
+  "procedures": [
+    {
+      "procedure": "COLONOSCOPY, WITH BIOPSY",
+      "date": "02/21/2025",
+      "provider": "Haroon, Mustafa, MD",
+      "_source": [
+        "Document: Report_3%205%20(1).pdf, Page: 2, Section: Surgery"
+      ]
+    }
+  ],
+  "laboratory_results": [
+    {
+      "test": "Ferritin",
+      "value": "266.8",
+      "unit": "ng/mL",
+      "reference_range": "8.0 - 252.0",
+      "interpretation": "High",
+      "date": "07/03/2023",
+      "_source": [
+        "Document: Report_1%205%5B1%5D%20(1)%20(1)%20(1).pdf, Page: 5, Section: Results"
+      ]
+    },
+    {
+      "test": "Iron",
+      "value": "41",
+      "unit": "ug/dL",
+      "reference_range": "50 - 170",
+      "interpretation": "Low",
+      "date": "07/03/2023",
+      "_source": [
+        "Document: Report_1%205%5B1%5D%20(1)%20(1)%20(1).pdf, Page: 6, Section: (ABNORMAL) Iron & Iron Binding Capacity"
+      ]
+    },
+    {
+      "test": "TIBC",
+      "value": "279",
+      "unit": "ug/dL",
+      "reference_range": "250 - 450",
+      "interpretation": "Normal",
+      "date": "07/03/2023",
+      "_source": [
+        "Document: Report_1%205%5B1%5D%20(1)%20(1)%20(1).pdf, Page: 6, Section: (ABNORMAL) Iron & Iron Binding Capacity"
+      ]
+    },
+    {
+      "test": "Iron Saturation",
+      "value": "15",
+      "unit": "%",
+      "reference_range": "20 - 55",
+      "interpretation": "Low",
+      "date": "07/03/2023",
+      "_source": [
+        "Document: Report_1%205%5B1%5D%20(1)%20(1)%20(1).pdf, Page: 6, Section: (ABNORMAL) Iron & Iron Binding Capacity"
+      ]
+    },
+    {
+      "test": "Sodium",
+      "value": "140",
+      "unit": "mmol/L",
+      "reference_range": "136 - 145",
+      "interpretation": "Normal",
+      "date": "07/03/2023",
+      "_source": [
+        "Document: Report_1%205%5B1%5D%20(1)%20(1)%20(1).pdf, Page: 7, Section: (ABNORMAL) Basic metabolic panel"
+      ]
+    },
+    {
+      "test": "Potassium",
+      "value": "4.0",
+      "unit": "mmol/L",
+      "reference_range": "3.5 - 5.1",
+      "interpretation": "Normal",
+      "date": "07/03/2023",
+      "_source": [
+        "Document: Report_1%205%5B1%5D%20(1)%20(1)%20(1).pdf, Page: 7, Section: (ABNORMAL) Basic metabolic panel"
+      ]
+    },
+    {
+      "test": "Chloride",
+      "value": "108",
+      "unit": "mmol/L",
+      "reference_range": "98 - 107",
+      "interpretation": "High",
+      "date": "07/03/2023",
+      "_source": [
+        "Document: Report_1%205%5B1%5D%20(1)%20(1)%20(1).pdf, Page: 7, Section: (ABNORMAL) Basic metabolic panel"
+      ]
+    },
+    {
+      "test": "CO2",
+      "value": "27",
+      "unit": "mmol/L",
+      "reference_range": "21 - 32",
+      "interpretation": "Normal",
+      "date": "07/03/2023",
+      "_source": [
+        "Document: Report_1%205%5B1%5D%20(1)%20(1)%20(1).pdf, Page: 7, Section: (ABNORMAL) Basic metabolic panel"
+      ]
+    },
+    {
+      "test": "BUN",
+      "value": "15",
+      "unit": "mg/dL",
+      "reference_range": "7 - 18",
+      "interpretation": "Normal",
+      "date": "07/03/2023",
+      "_source": [
+        "Document: Report_1%205%5B1%5D%20(1)%20(1)%20(1).pdf, Page: 7, Section: (ABNORMAL) Basic metabolic panel"
+      ]
+    },
+    {
+      "test": "Creatinine",
+      "value": "0.96",
+      "unit": "mg/dL",
+      "reference_range": "0.55 - 1.02",
+      "interpretation": "Normal",
+      "date": "07/03/2023",
+      "_source": [
+        "Document: Report_1%205%5B1%5D%20(1)%20(1)%20(1).pdf, Page: 7, Section: (ABNORMAL) Basic metabolic panel"
+      ]
+    },
+    {
+      "test": "Glucose",
+      "value": "94",
+      "unit": "mg/dL",
+      "reference_range": "74 - 106",
+      "interpretation": "Normal",
+      "date": "07/03/2023",
+      "_source": [
+        "Document: Report_1%205%5B1%5D%20(1)%20(1)%20(1).pdf, Page: 7, Section: (ABNORMAL) Basic metabolic panel"
+      ]
+    },
+    {
+      "test": "Calcium",
+      "value": "9.5",
+      "unit": "mg/dL",
+      "reference_range": "8.5 - 10.1",
+      "interpretation": "Normal",
+      "date": "07/03/2023",
+      "_source": [
+        "Document: Report_1%205%5B1%5D%20(1)%20(1)%20(1).pdf, Page: 7, Section: (ABNORMAL) Basic metabolic panel"
+      ]
+    },
+    {
+      "test": "Anion Gap",
+      "value": "5.0",
+      "unit": "mmol/L",
+      "reference_range": "8.0 - 16.0",
+      "interpretation": "Low",
+      "date": "07/03/2023",
+      "_source": [
+        "Document: Report_1%205%5B1%5D%20(1)%20(1)%20(1).pdf, Page: 8, Section: (ABNORMAL) Basic metabolic panel"
+      ]
+    },
+    {
+      "test": "eGFR CKD-EPI",
+      "value": "58",
+      "unit": "ml/min/1.73m2",
+      "reference_range": ">90",
+      "interpretation": "Low",
+      "date": "07/03/2023",
+      "_source": [
+        "Document: Report_1%205%5B1%5D%20(1)%20(1)%20(1).pdf, Page: 8, Section: (ABNORMAL) Basic metabolic panel"
+      ]
+    },
+    {
+      "test": "Triglycerides",
+      "value": "158",
+      "unit": "mg/dL",
+      "reference_range": "0 - 149",
+      "interpretation": "High",
+      "date": "07/03/2023",
+      "_source": [
+        "Document: Report_1%205%5B1%5D%20(1)%20(1)%20(1).pdf, Page: 8, Section: (ABNORMAL) Lipid panel"
+      ]
+    },
+    {
+      "test": "Cholesterol",
+      "value": "147",
+      "unit": "mg/dL",
+      "reference_range": "<200",
+      "interpretation": "Normal",
+      "date": "07/03/2023",
+      "_source": [
+        "Document: Report_1%205%5B1%5D%20(1)%20(1)%20(1).pdf, Page: 10, Section: (ABNORMAL) Lipid panel"
+      ]
+    },
+    {
+      "test": "HDL",
+      "value": "54",
+      "unit": "mg/dL",
+      "reference_range": "40 - 59",
+      "interpretation": "Normal",
+      "date": "07/03/2023",
+      "_source": [
+        "Document: Report_1%205%5B1%5D%20(1)%20(1)%20(1).pdf, Page: 10, Section: (ABNORMAL) Lipid panel"
+      ]
+    },
+    {
+      "test": "LDL Calculated",
+      "value": "62",
+      "unit": "mg/dL",
+      "reference_range": "0 - 100",
+      "interpretation": "Normal",
+      "date": "07/03/2023",
+      "_source": [
+        "Document: Report_1%205%5B1%5D%20(1)%20(1)%20(1).pdf, Page: 10, Section: (ABNORMAL) Lipid panel"
+      ]
+    },
+    {
+      "test": "VLDL Cholesterol Cal",
+      "value": "32",
+      "unit": "mg/dL",
+      "reference_range": "<30",
+      "interpretation": "High",
+      "date": "07/03/2023",
+      "_source": [
+        "Document: Report_1%205%5B1%5D%20(1)%20(1)%20(1).pdf, Page: 10, Section: (ABNORMAL) Lipid panel"
+      ]
+    },
+    {
+      "test": "Non HDL Chol.",
+      "value": "94",
+      "unit": "mg/dL",
+      "reference_range": "<=130",
+      "interpretation": "Normal",
+      "date": "07/03/2023",
+      "_source": [
+        "Document: Report_1%205%5B1%5D%20(1)%20(1)%20(1).pdf, Page: 10, Section: (ABNORMAL) Lipid panel"
+      ]
+    }
+  ],
+  "vitals": [
+    {
+      "vital": "Blood Pressure",
+      "value": "128/78",
+      "date": "01/11/2025 9:30 AM EST",
+      "_source": [
+        "Document: Report_2%206%20(2).pdf, Page: 5, Section: Goals"
+      ]
+    }
+  ],
+  "medications": [
+    {
+      "medication": "Atorvastatin",
+      "order": "Refill Request",
+      "notes": "Refill Request Atorvastatin / CVS",
+      "_source": [
+        "Document: Report_2%206%20(2).pdf, Page: 1, Section: Reason for Visit"
+      ]
+    }
+  ],
+  "social_history": {
+    "smoking": [
+      {
+        "text": "Smoking Tobacco: Former Cigarettes 0.3 2 03/22/1971 - 03/22/1973",
+        "_source": [
+          "Document: Report_2%206%20(2).pdf, Page: 1, Section: Social history"
+        ]
+      },
+      {
+        "text": "Smoking Tobacco: Every Day Cigarettes 0.5 50",
+        "_source": [
+          "Document: Report_3%205%20(1).pdf, Page: 1, Section: Social history"
+        ]
+      }
+    ],
+    "alcohol": [
+      {
+        "text": "Not Currently 0 (1 standard drink = 0.6 oz pure alcohol)",
+        "_source": [
+          "Document: Report_2%206%20(2).pdf, Page: 1, Section: Social history"
+        ]
+      }
+    ]
+  },
+  "functional_status": [
+    {
+      "question": "Is the person deaf or does he/she have difficulty hearing?",
+      "answer": "No",
+      "date": "06/19/2023",
+      "_source": [
+        "Document: Report_1%205%5B1%5D%20(1)%20(1)%20(1).pdf, Page: 3, Section: Functional Status"
+      ]
+    },
+    {
+      "question": "Patient's Vision Adequate to Safely Complete Daily Activities",
+      "answer": "Yes",
+      "date": "06/19/2023",
+      "_source": [
+        "Document: Report_1%205%5B1%5D%20(1)%20(1)%20(1).pdf, Page: 3, Section: Functional Status"
+      ]
+    },
+    {
+      "question": "Does this person have serious difficulty walking or climbing stairs?",
+      "answer": "Yes",
+      "date": "06/14/2023",
+      "_source": [
+        "Document: Report_1%205%5B1%5D%20(1)%20(1)%20(1).pdf, Page: 3, Section: Functional Status"
+      ]
+    },
+    {
+      "question": "Does this person have difficulty dressing or bathing?",
+      "answer": "No",
+      "date": "06/14/2023",
+      "_source": [
+        "Document: Report_1%205%5B1%5D%20(1)%20(1)%20(1).pdf, Page: 3, Section: Functional Status"
+      ]
+    },
+    {
+      "question": "Because of a physical, mental or emotional condition, does this patient have difficulty doing errands alone such as visiting the doctor's office or shopping?",
+      "answer": "No",
+      "date": "06/14/2023",
+      "_source": [
+        "Document: Report_1%205%5B1%5D%20(1)%20(1)%20(1).pdf, Page: 3, Section: Functional Status"
+      ]
+    },
+    {
+      "question": "Because of a physical, mental or emotional condition, does this person have serious difficulty concentrating, remembering, or making decisions?",
+      "answer": "No",
+      "date": "06/14/2023",
+      "_source": [
+        "Document: Report_1%205%5B1%5D%20(1)%20(1)%20(1).pdf, Page: 3, Section: Cognitive Status"
+      ]
+    },
+    {
+      "question": "Difficulty hearing?",
+      "answer": "No",
+      "date": "01/05/2021",
+      "_source": [
+        "Document: Report_2%206%20(2).pdf, Page: 3, Section: Functional status"
+      ]
+    },
+    {
+      "question": "Difficulty seeing even with glasses?",
+      "answer": "No",
+      "date": "01/05/2021",
+      "_source": [
+        "Document: Report_2%206%20(2).pdf, Page: 3, Section: Functional status"
+      ]
+    },
+    {
+      "question": "Difficulty walking or climbing stairs?",
+      "answer": "Yes",
+      "date": "01/05/2021",
+      "_source": [
+        "Document: Report_2%206%20(2).pdf, Page: 3, Section: Functional status"
+      ]
+    },
+    {
+      "question": "Difficulty dressing or bathing?",
+      "answer": "Yes",
+      "date": "01/05/2021",
+      "_source": [
+        "Document: Report_2%206%20(2).pdf, Page: 3, Section: Functional status"
+      ]
+    },
+    {
+      "question": "Difficulty doing errands alone?",
+      "answer": "Yes",
+      "date": "01/05/2021",
+      "_source": [
+        "Document: Report_2%206%20(2).pdf, Page: 3, Section: Functional status"
+      ]
+    }
+  ],
+  "care_team": [
+    {
+      "name": "Hand, Hoyet A, MD",
+      "relationship": "PCP - General",
+      "specialty": "Family Medicine",
+      "_source": [
+        "Document: Report_1%205%5B1%5D%20(1)%20(1)%20(1).pdf, Page: 12, Section: Care teams"
+      ]
+    },
+    {
+      "name": "Hershey, Curtis L, MD",
+      "relationship": "PCP - General",
+      "specialty": "Family Practice",
+      "_source": [
+        "Document: Report_2%206%20(2).pdf, Page: 7, Section: Care teams"
+      ]
+    },
+    {
+      "name": "Pradhan Shrestha, Deepika, MD",
+      "relationship": "Endocrinologist",
+      "specialty": "Endocrinology, Diabetes & Metabolism",
+      "_source": [
+        "Document: Report_2%206%20(2).pdf, Page: 8, Section: Care teams"
+      ]
+    },
+    {
+      "name": "Roberts, Justin D, DO",
+      "relationship": "Consulting Physician",
+      "specialty": "AMB - Cardiology - General",
+      "_source": [
+        "Document: Report_2%206%20(2).pdf, Page: 8, Section: Care teams"
+      ]
+    },
+    {
+      "name": "Kandaswamy, Shankar, MD",
+      "relationship": "PCP - General",
+      "specialty": "Pulmonary Disease",
+      "_source": [
+        "Document: Report_3%205%20(1).pdf, Page: 4, Section: Care teams"
+      ]
+    }
+  ],
+  "facilities": [
+    {
+      "name": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": [
+        "Document: Report_1%205%5B1%5D%20(1)%20(1)%20(1).pdf, Page: 5, Section: Results"
+      ]
+    },
+    {
+      "name": "Piedmont Newnan Hospital",
+      "_source": [
+        "Document: Report_3%205%20(1).pdf, Page: 2, Section: Encounter details"
+      ]
+    }
+  ],
+  "plans_and_followups": [
+    {
+      "plan": "Refill Request Atorvastatin / CVS",
+      "type": "order",
+      "status": "pending",
+      "provider": "Roberts, Justin D, DO",
+      "_source": [
+        "Document: Report_2%206%20(2).pdf, Page: 1, Section: Reason for Visit"
+      ]
+    },
+    {
+      "plan": "Make an appointment with Eye doctor in the next 3 Months",
+      "type": "follow_up",
+      "status": "pending",
+      "_source": [
+        "Document: Report_2%206%20(2).pdf, Page: 6, Section: Goals"
+      ]
+    },
+    {
+      "plan": "Always carry a fast acting sugar source",
+      "type": "instruction",
+      "status": "active",
+      "_source": [
+        "Document: Report_2%206%20(2).pdf, Page: 6, Section: Goals"
+      ]
+    },
+    {
+      "plan": "Bring your meter and blood sugar log/food log to all medical appointments",
+      "type": "instruction",
+      "status": "active",
+      "_source": [
+        "Document: Report_2%206%20(2).pdf, Page: 6, Section: Goals"
+      ]
+    },
+    {
+      "plan": "Check my blood sugar 3 times/day",
+      "type": "monitoring",
+      "status": "active",
+      "_source": [
+        "Document: Report_2%206%20(2).pdf, Page: 6, Section: Goals"
+      ]
+    },
+    {
+      "plan": "Eat 3 meals and 0-1 Snack (s) per day",
+      "type": "lifestyle",
+      "status": "active",
+      "_source": [
+        "Document: Report_2%206%20(2).pdf, Page: 6, Section: Goals"
+      ]
+    },
+    {
+      "plan": "Patient wishes to get off insulin.",
+      "type": "treatment",
+      "status": "pending",
+      "_source": [
+        "Document: Report_2%206%20(2).pdf, Page: 6, Section: Miscellaneous notes"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "note": "PHQ-9 Depression Total Score: 0",
+      "date": "03/28/2023 8:56 AM CDT",
+      "_source": [
+        "Document: Report_1%205%5B1%5D%20(1)%20(1)%20(1).pdf, Page: 12, Section: Additional health concerns"
+      ]
+    },
+    {
+      "note": "PHQ-2 Depression Total Score: 0",
+      "date": "03/28/2023 8:56 AM CDT",
+      "_source": [
+        "Document: Report_1%205%5B1%5D%20(1)%20(1)%20(1).pdf, Page: 12, Section: Additional health concerns"
+      ]
+    },
+    {
+      "note": "Last Lipid Panel: CHOLTOTAL 136 (07/17/2020 09:41 AM); TG 101; HDLCHOL 38 (L); LDLCHOL 78",
+      "_source": [
+        "Document: Report_2%206%20(2).pdf, Page: 4, Section: Miscellaneous notes"
+      ]
+    },
+    {
+      "note": "Last BMP: GLUCOSE 199 (H) 01/11/2021 05:31 AM; SODIUM 134 (L); POTASSIUM 4.4; CHLORIDE 97 (L); BUN 37 (H); CREATININE 1.1 (H); CALCIUM 8.1 (L); GFR 50 (A)",
+      "_source": [
+        "Document: Report_2%206%20(2).pdf, Page: 4, Section: Miscellaneous notes"
+      ]
+    }
+  ],
+  "conflicts": [
+    {
+      "entity_type": "patient",
+      "entity_name": "DOB",
+      "conflict_description": "Multiple different DOB values found in documents",
+      "variants": [
+        {
+          "value": "05/05/1952",
+          "_source": "Document: Report_1%205%5B1%5D%20(1)%20(1)%20(1).pdf, Page: 3, Section: PATIENT INFORMATION:"
+        },
+        {
+          "value": "05/05/1952",
+          "_source": "Document: Report_2%206%20(2).pdf, Page: 1, Section: PATIENT INFORMATION:"
+        },
+        {
+          "value": "07/21/1954",
+          "_source": "Document: Report_2%206%20(2).pdf, Page: 4, Section: PATIENT INFORMATION:"
+        },
+        {
+          "value": "05/05/195",
+          "_source": "Document: Report_3%205%20(1).pdf, Page: 2, Section: Encounter details"
+        }
+      ]
+    },
+    {
+      "entity_type": "patient",
+      "entity_name": "Legal Sex",
+      "conflict_description": "Different legal sex entries found across documents",
+      "variants": [
+        {
+          "value": "Female",
+          "_source": "Document: Report_2%206%20(2).pdf, Page: 3, Section: Sex and Gender Information"
+        },
+        {
+          "value": "Male",
+          "_source": "Document: Report_3%205%20(1).pdf, Page: 1, Section: Sex and Gender Information"
+        }
+      ]
+    },
+    {
+      "entity_type": "social_history",
+      "entity_name": "Smoking Tobacco",
+      "conflict_description": "Conflicting smoking history entries (Former vs Every Day)",
+      "variants": [
+        {
+          "value": "Smoking Tobacco: Former Cigarettes 0.3 2 03/22/1971 - 03/22/1973",
+          "_source": "Document: Report_2%206%20(2).pdf, Page: 1, Section: Social history"
+        },
+        {
+          "value": "Smoking Tobacco: Every Day Cigarettes 0.5 50",
+          "_source": "Document: Report_3%205%20(1).pdf, Page: 1, Section: Social history"
+        }
+      ]
+    }
+  ],
+  "patient_summary": "• 73/Female patient\n• Primary Dx: Hyperlipidemia assoc with type 2 diabetes mellitus\n• Key Procedures: Colonoscopy with biopsy\n• Active Meds: 1 medications including Atorvastatin\n• Critical Labs: Ferritin 266.8 (H); Iron 41 (L); eGFR 58 (L)\n• Key History: Smoking tobacco history present",
+  "_source_document_count": 3,
+  "_source_document_names": [
+    "Report_1%205%5B1%5D%20(1)%20(1)%20(1).pdf",
+    "Report_2%206%20(2).pdf",
+    "Report_3%205%20(1).pdf"
+  ],
+  "icd10_codes": [
+    {
+      "diagnosis": "Hyperlipidemia associated with type 2 diabetes mellitus (CMS/HCC) (CMS/HCC)",
+      "icd10_code": "E7849",
+      "description": "Other hyperlipidemia",
+      "confidence": 0.85,
+      "candidates": [
+        {
+          "chunk_id": "icd10_E1165",
+          "code": "E1165",
+          "short_description": "Type 2 diabetes mellitus with hyperglycemia",
+          "long_description": "Type 2 diabetes mellitus with hyperglycemia",
+          "distance": 0.9445950984954834
+        },
+        {
+          "chunk_id": "icd10_E1100",
+          "code": "E1100",
+          "short_description": "Type 2 diab w hyprosm w/o nonket hyprgly-hypros coma (NKHHC)",
+          "long_description": "Type 2 diabetes mellitus with hyperosmolarity without nonketotic hyperglycemic-hyperosmolar coma (NKHHC)",
+          "distance": 0.9563670754432678
+        },
+        {
+          "chunk_id": "icd10_E782",
+          "code": "E782",
+          "short_description": "Mixed hyperlipidemia",
+          "long_description": "Mixed hyperlipidemia",
+          "distance": 0.9717398881912231
+        },
+        {
+          "chunk_id": "icd10_E7849",
+          "code": "E7849",
+          "short_description": "Other hyperlipidemia",
+          "long_description": "Other hyperlipidemia",
+          "distance": 0.9722347855567932
+        },
+        {
+          "chunk_id": "icd10_E1300",
+          "code": "E1300",
+          "short_description": "Oth diab w hyprosm w/o nonket hyprgly-hypros coma (NKHHC)",
+          "long_description": "Other specified diabetes mellitus with hyperosmolarity without nonketotic hyperglycemic-hyperosmolar coma (NKHHC)",
+          "distance": 0.9742709398269653
+        },
+        {
+          "chunk_id": "icd10_E1101",
+          "code": "E1101",
+          "short_description": "Type 2 diabetes mellitus with hyperosmolarity with coma",
+          "long_description": "Type 2 diabetes mellitus with hyperosmolarity with coma",
+          "distance": 1.0153385400772095
+        },
+        {
+          "chunk_id": "icd10_O24112",
+          "code": "O24112",
+          "short_description": "Pre-existing type 2 diabetes mellitus, in pregnancy, second trimester",
+          "long_description": "Pre-existing type 2 diabetes mellitus, in pregnancy, second trimester",
+          "distance": 1.0223753452301025
+        },
+        {
+          "chunk_id": "icd10_E1365",
+          "code": "E1365",
+          "short_description": "Other specified diabetes mellitus with hyperglycemia",
+          "long_description": "Other specified diabetes mellitus with hyperglycemia",
+          "distance": 1.0343228578567505
+        },
+        {
+          "chunk_id": "icd10_O24912",
+          "code": "O24912",
+          "short_description": "Unspecified diabetes mellitus in pregnancy, second trimester",
+          "long_description": "Unspecified diabetes mellitus in pregnancy, second trimester",
+          "distance": 1.0394606590270996
+        },
+        {
+          "chunk_id": "icd10_E0800",
+          "code": "E0800",
+          "short_description": "Diab d/t undrl cond w hyprosm w/o nonket hyprgly-hypros coma",
+          "long_description": "Diabetes mellitus due to underlying condition with hyperosmolarity without nonketotic hyperglycemic-hyperosmolar coma (NKHHC)",
+          "distance": 1.0449466705322266
+        }
+      ]
+    }
+  ],
+  "cpt_codes": [
+    {
+      "procedure": "COLONOSCOPY, WITH BIOPSY",
+      "cpt_code": "45380",
+      "description": "Colonoscopy and biopsy",
+      "confidence": 0.95,
+      "candidates": [
+        {
+          "chunk_id": "cpt_44389",
+          "code": "44389",
+          "description": "Colonoscopy with biopsy",
+          "distance": 0.29185914993286133
+        },
+        {
+          "chunk_id": "cpt_45380",
+          "code": "45380",
+          "description": "Colonoscopy and biopsy",
+          "distance": 0.37657374143600464
+        },
+        {
+          "chunk_id": "cpt_45378",
+          "code": "45378",
+          "description": "Diagnostic colonoscopy",
+          "distance": 0.6322927474975586
+        },
+        {
+          "chunk_id": "cpt_44100",
+          "code": "44100",
+          "description": "Biopsy of bowel",
+          "distance": 0.6529700756072998
+        },
+        {
+          "chunk_id": "cpt_45384",
+          "code": "45384",
+          "description": "Colonoscopy w/lesion removal",
+          "distance": 0.6893249154090881
+        },
+        {
+          "chunk_id": "cpt_45390",
+          "code": "45390",
+          "description": "Colonoscopy w/resection",
+          "distance": 0.693360447883606
+        },
+        {
+          "chunk_id": "cpt_45385",
+          "code": "45385",
+          "description": "Colonoscopy w/lesion removal",
+          "distance": 0.6939918398857117
+        },
+        {
+          "chunk_id": "cpt_44401",
+          "code": "44401",
+          "description": "Colonoscopy with ablation",
+          "distance": 0.6960334777832031
+        },
+        {
+          "chunk_id": "cpt_46607",
+          "code": "46607",
+          "description": "Diagnostic anoscopy & biopsy",
+          "distance": 0.7075385451316833
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+]
+OliviaSingingRiverHealthSystemPatientRecord03/20/2024
+PATIENT INFORMATION: Type: Progress Note
+Olivia Source: SingingRiverHealthSystem
+Received:03/20/202408:24PM
+Phone +1310556 1256 Modified: 03/20/202408:24PM
+(H):
+DOB: 05/05/1952
+Gender: Female Age: 73
+Patient 104
+ID: ...
+COVID-19Exposure Response DateRecorded
+Inthelast10days,haveyoubeenincontactwithsomeone No/Unsure 6/19/20235:23AMCDT
+whowasconfirmedorsuspectedtohaveCoronavirus
+/COVID-19?
+documentedasof thisencounter
+Functional status
+FunctionalStatus Response DateofAssessment
+Isthepersondeafordoeshe/shehavedifficultyhearing? No 06/19/2023
+Patient'sVisionAdequatetoSafelyCompleteDailyActivities Yes 06/19/2023
+Doesthispersonhaveseriousdifficultywalkingorclimbing Yes 06/14/2023
+stairs?
+Doesthispersonhavedifficultydressingorbathing? No 06/14/2023
+Becauseofaphysical,mentaloremotionalcondition,does No 06/14/2023
+thispatienthavedifficultydoingerrandsalonesuchas
+visitingthedoctor'sofficeorshopping?
+CognitiveStatus Response DateofAssessment
+Becauseofaphysical,mentaloremotionalcondition,does No 06/14/2023
+thispersonhaveseriousdifficultyconcentrating,
+remembering,ormakingdecisions?
+documentedasof thisencounter
+Plan of treatment
+Upcoming Encounters
+Date Type Department CareTeam(Latest Description
+ContactInfo)
+04/19 Appointment
+/202410: SingingRiverGulfport
+00AM PrimaryCareServices
+CDT
+350CowanRoad
+GULFPORT,MS39505-2008
+228-206-7054
+04/22 OfficeVisit Hand,HoyetA,MD
+/20249: SingingRiverGulfport
+20AM PrimaryCareServices 350COWANRD
+CDT
+PrintedfromHealthGorillaSecureClinicalNetwork.Copyright©2025HealthGorillaInc.
+https://www.healthgorilla.com
+Thecontentsofthisdocumentand/orfaxtransmissionareintendedonlyfortheuseoftheindividualorentitytowhichtheyareaddressedandmay
+containinformationthatislegallyprivileged,confidentialandexemptfromdisclosure,includingprotectedhealthinformation.Ifyouarenotthe
+intendedrecipient,youareherebynotifiedthatanydissemination,distributionorcopyingofthisdocumentisstrictlyprohibited.Ifyouhavereceived
+orobtainedthisdocumentorfaxtransmissioninerror,pleasenotifytheoriginalsenderorcontactHealthGorillaInc.at1-734-446-7455
+immediatelybytelephoneorbyemailatprivacy@healthgorilla.comanddeletethisdocumentimmediately.
+Page3of12
+[Page 4]
+OliviaSingingRiverHealthSystemPatientRecord03/20/2024
+PATIENT INFORMATION: Type: Progress Note
+Olivia Source: SingingRiverHealthSystem
+Received:03/20/202408:24PM
+Phone +1310556 1256 Modified: 03/20/202408:24PM
+(H):
+DOB: 05/05/1952
+Gender: Female Age: 73
+Patient 104
+ID: ...
+Date Type Department CareTeam(Latest Description
+ContactInfo)
+350CowanRoad GULFPORT,MS39507-2008
+GULFPORT,MS39505-2008 228-206-7054(Work)
+228-206-7054 228-604-0905(Fax)
+04/30 OfficeVisit Carroll,MatthewB,MD
+/202410: RheumatologyServices
+20AM 3603BIENVILLEBLVD
+CDT 967CedarLakeRd
+STE100
+BILOXI,MS39532-2128
+OCEANSPRINGS,MS
+228-205-6830 39564
+228-872-8768(Work)
+228-872-9112(Fax)
+05/01 OfficeVisit Zayed,MahmoudH,MD
+/20249: SouthernMississippiHeart
+00AM Center-Gulfport 3704BIENVILLEBLVD
+CDT
+15190CommunityRoad STEB
+Ste260 OCEANSPRINGS,MS
+39564
+GULFPORT,MS39503-3483

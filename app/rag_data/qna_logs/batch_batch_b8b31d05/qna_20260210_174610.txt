@@ -1,0 +1,54 @@
+QUESTION:
+what are the planned followups of this patient, first give a list of completed visits and their findings, and then give the planned ones
+
+ANSWER:
+Completed visits and findings
+
+- 01/21/2025 — Piedmont Healthcare (Clinical note)
+  - Diagnosis documented: Hyperlipidemia associated with type 2 diabetes mellitus.
+  - Medication request: Atorvastatin refill.
+  - Recent labs/metrics noted: LG (A1c) result = 7 (10/22/2024).
+  - Additional items: MRSA history (R breast, 9/3–9/4/2020) and prior COVID-19 recovery (1/4/2021).
+  - Care team entries include PCP Hershey, Curtis L, MD.
+
+- 02/03/2025 — Office visit, Family Medicine Lincoln (Hershey, Curtis L, MD)
+  - Discharge disposition: Home / Self Care.
+  - (No other specific exam findings recorded in the provided text.)
+
+- 02/06/2025 — Telemedicine, Family Medicine Lincoln (Calamia, Courtney, RPh)
+  - Discharge disposition: Home / Self Care.
+  - (No other specific exam findings recorded in the provided text.)
+
+- 07/03/2023 — Singing River Gulfport (laboratory / progress note)
+  - Basic metabolic / lab values recorded:
+    - Potassium 4.0 mmol/L
+    - Chloride 108 mmol/L (high)
+    - CO2 27 mmol/L
+    - BUN 15 mg/dL
+    - Creatinine 0.96–1.02 mg/dL
+    - Glucose 94–106 mg/dL
+    - Calcium 9.5–10.1 mg/dL
+    - Anion gap 5.0 mmol/L (low)
+    - eGFR (CKD-EPI) 58 ml/min/1.73m2 (low)
+  - Functional status: difficulty walking or climbing stairs = Yes; vision adequate; no difficulty dressing/bathing.
+  - PHQ-9 / PHQ-2 scores documented elsewhere as 0 (03/28/2023).
+
+- 10/22/2024 — Diabetes metric
+  - LG Result Component (DM) reported as 7 (A1c) (documented in Piedmont note).
+
+Planned follow-ups / upcoming encounters (as listed in the chart)
+
+- 02/20/2025 — Office visit, Atlanta Vascular Specialists (Dooley, John David, MD), Newnan (listed in Continuity of Care upcoming encounters).
+
+- 02/21/2025 — Hospital encounter / Peri-Op Services, Piedmont Newnan Hospital (Haroon, Mustafa, MD).
+  - 02/21/2025 — COLONOSCOPY, WITH BIOPSY (scheduled procedure; time listed 8:33 AM EST).
+
+- 04/21/2025 — Office visit, Hematology & Medical Oncology (Jhaveri, Ami, MD) — 11:00 AM (listed in upcoming encounters).
+
+- 04/23/2025 — Office visit, Pulmonary and Sleep Medicine, Piedmont Physicians (Kandaswamy, Shankar, MD) — 10:00 AM (listed in upcoming encounters).
+
+- 04/25/2025 — Office visit, Piedmont Heart of Newnan (Darlington, Andrew, DO) — 9:30 AM (listed in upcoming encounters).
+
+- 08/18/2025 — Ancillary procedure at LGH KISSEL HILL (listed in upcoming encounters).
+
+(Also, in the Singing River record from 03/20/2024 there were scheduled/mentioned upcoming primary care and specialty visits: 04/19/2024 primary care, 04/22/2024 primary care with Hand, Hoyet A, MD, 04/30/2024 rheumatology, 05/01/2024 cardiology, and 06/05/2024 gastroenterology — these appear as planned in that 03/20/2024 note.)

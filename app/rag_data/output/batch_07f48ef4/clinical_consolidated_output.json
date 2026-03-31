@@ -1,0 +1,771 @@
+```json
+{
+  "patient": {
+    "name": "Olivia",
+    "dob": "05/05/1952",
+    "age": "73",
+    "sex": "Female",
+    "patient_id": "104",
+    "contact": {
+      "phone": "+13105561256"
+    },
+    "_source": [
+      "Page 5 of 9",
+      "Page 1 of 4",
+      "Page 2 of 4",
+      "Page 3 of 4",
+      "Page 4 of 4",
+      "Page 1 of 12",
+      "Page 2 of 12",
+      "Page 3 of 12",
+      "Page 4 of 12",
+      "Page 5 of 12",
+      "Page 6 of 12",
+      "Page 7 of 12",
+      "Page 8 of 12",
+      "Page 9 of 12"
+    ]
+  },
+  "encounters": [
+    {
+      "date": "08/18/2025 10: 00 AM EDT",
+      "type": "Ancillary Procedure",
+      "facility": "LGHKISSELHILL",
+      "contact_info": "51 Peters Road Lititz, PA 17543-7685 717-627-2400",
+      "_source": "Page 5 of 9, Upcoming Encounters table"
+    },
+    {
+      "date": "04/25/2025 9: 30 AM EDT",
+      "type": "Office Visit",
+      "facility": "Piedmont Heart of Newnan",
+      "care_team": {
+        "name": "Darlington, Andrew, DO",
+        "contact_info": "Piedmont Heart of Newnan 1267 Highway 54 West 795 Poplar Road, Suite 400 Ste 2200 Newnan, GA 30265-2590 Fayetteville, GA 30214 770-716-0051 770-716-0051 (Work) 770-716-0087 (Fax)"
+      },
+      "_source": "Page 3 of 4, Encounter details table"
+    },
+    {
+      "date": "04/23/2025 10: 00 AM EDT",
+      "type": "Office Visit",
+      "department": "Pulmonary and Sleep Medicine",
+      "facility": "Piedmont Physicians",
+      "care_team": {
+        "name": "Kandaswamy, Shankar, MD",
+        "contact_info": "Piedmont Physicians 745 Poplar Road Newnan NEWNAN, GA 30265 2301 Newnan Crossing Boulevard Suite 200 770-400-1000 (Work) 404-367-3558 (Fax)"
+      },
+      "_source": "Page 2 of 4, Encounter details table"
+    },
+    {
+      "date": "04/21/2025 11: 00 AM EDT",
+      "type": "Office Visit",
+      "department": "Hematology&Medical Oncology",
+      "care_team": {
+        "name": "Jhaveri, Ami, MD",
+        "contact_info": "2102 HARRISBURGPIKE 2102 Harrisburg Pike LANCASTER, PA 17601 Lancaster, PA 17604 717-544-9400 (Work) 717-544-9400 717-544-9401 (Fax)"
+      },
+      "_source": "Page 5 of 9, Upcoming Encounters table"
+    },
+    {
+      "date": "05/01/2024 9: 00 AM CDT",
+      "type": "Office Visit",
+      "facility": "Southern Mississippi Heart Center-Gulfport",
+      "care_team": {
+        "name": "Zayed, Mahmoud H, MD",
+        "contact_info": "Southern Mississippi Heart Center-Gulfport 3704 BIENVILLEBLVD 15190 Community Road STEB Ste 260 OCEANSPRINGS, MS 39564 GULFPORT, MS 39503-3483 228-872-4040"
+      },
+      "_source": "Page 4 of 12, Upcoming Encounters table"
+    },
+    {
+      "date": "04/30/2024 10: 20 AM CDT",
+      "type": "Office Visit",
+      "department": "Rheumatology Services",
+      "care_team": {
+        "name": "Carroll, Matthew B, MD",
+        "contact_info": "3603 BIENVILLEBLVD 967 Cedar Lake Rd STE 100 BILOXI, MS 39532-2128 OCEANSPRINGS, MS 39564 228-205-6830 228-872-8768 (Work) 228-872-9112 (Fax)"
+      },
+      "_source": "Page 4 of 12, Upcoming Encounters table"
+    },
+    {
+      "date": "04/22/2024 9: 20 AM CDT",
+      "type": "Office Visit",
+      "department": "Primary Care Services",
+      "facility": "Singing River Gulfport",
+      "care_team": {
+        "name": "Hand, Hoyet A, MD",
+        "contact_info": "Singing River Gulfport 350 COWANRD 350 Cowan Road GULFPORT, MS 39507-2008 GULFPORT, MS 39505-2008 228-206-7054 (Work) 228-206-7054 228-604-0905 (Fax)"
+      },
+      "_source": "Page 3 of 12, Upcoming Encounters table"
+    },
+    {
+      "date": "04/19/2024 10: 00 AM CDT",
+      "type": "Appointment",
+      "department": "Primary Care Services",
+      "facility": "Singing River Gulfport",
+      "contact_info": "350 Cowan Road GULFPORT, MS 39505-2008 228-206-7054",
+      "_source": "Page 3 of 12, Upcoming Encounters table"
+    },
+    {
+      "date": "02/21/2025 8: 33 AM EST-02/21/2025 9: 11 AM EST",
+      "type": "Surgery",
+      "department": "Peri-Op Services",
+      "facility": "Piedmont Newnan Hospital",
+      "description": "COLONOSCOPY, WITH BIOPSY",
+      "care_team": {
+        "name": "Haroon, Mustafa, MD",
+        "contact_info": "Piedmont Newnan Hospital 1200 LOWER FAYETTEVILLEROAD 745 POPLARRD SUITEB NEWNAN, GA 30265-1618 NEWNAN, GA 30265 770-400-1000 678-631-4610 (Work) 678-631-4611 (Fax)"
+      },
+      "_source": "Page 2 of 4, Encounter details table"
+    },
+    {
+      "date": "02/21/2025 8: 33 AM EST",
+      "type": "Hospital Encounter",
+      "department": "Peri-Op Services",
+      "facility": "Piedmont Newnan Hospital",
+      "care_team": {
+        "name": "Haroon, Mustafa, MD",
+        "contact_info": "Piedmont Newnan Hospital 1200 LOWER FAYETTEVILLEROAD 745 POPLARRD SUITEB NEWNAN, GA 30265-1618 NEWNAN, GA 30265 770-400-1000 678-631-4610 (Work) 678-631-4611 (Fax)"
+      },
+      "_source": "Page 2 of 4, Encounter details table"
+    },
+    {
+      "date": "02/20/2025 1: 15 PM EST",
+      "type": "Office Visit",
+      "facility": "Atlanta Vascular Specialists",
+      "care_team": {
+        "name": "Dooley, John David, MD",
+        "contact_info": "Atlanta Vascular Specialists 1233 HWY 54 WEST 2201 Newnan Crossing Blvd SUITE 210 Suite 200 FAYETTEVILLE, GA 30214-4542 Newnan, GA 30265-2251 404-524-0095 (Work) 404-524-0095 404-658-9558 (Fax)"
+      },
+      "_source": "Page 2 of 4, Encounter details table"
+    },
+    {
+      "date": "02/06/2025 8: 30 AM EST",
+      "type": "Telemedicine",
+      "department": "Family Medicine Lincoln",
+      "facility": "Lincoln",
+      "description": "Discharge Disposition: Home /Self Care",
+      "care_team": {
+        "name": "Calamia, Courtney, RPh",
+        "contact_info": "424 CLOVERLEAFROAD 101 Larkspur Lane Elizabethtown, PA 17322 Ephrata, PA 17522-8402 717-283-9573 (Work) 717-738-0660"
+      },
+      "_source": "Page 5 of 9, Upcoming Encounters table"
+    },
+    {
+      "date": "02/03/2025 9: 40 AM EST",
+      "type": "Office Visit",
+      "department": "Family Medicine Lincoln",
+      "facility": "Lincoln",
+      "description": "Discharge Disposition: Home /Self Care",
+      "care_team": {
+        "name": "Hershey, Curtis L, MD",
+        "contact_info": "101 LARKSPURLANE 101 Larkspur Lane Ephrata, PA 17522 Ephrata, PA 17522-8402 717-738-0660 (Work) 717-738-0660 717-738-0658 (Fax)"
+      },
+      "_source": "Page 5 of 9, Upcoming Encounters table"
+    },
+    {
+      "date": "07/11/2023",
+      "type": "Travel",
+      "_source": "Page 1 of 4, Encounter details table"
+    },
+    {
+      "date": "06/30/2023",
+      "type": "Orders Only",
+      "department": "Primary Care Services",
+      "facility": "Singing River Gulfport",
+      "description": "Mixed dyslipidemia (Primary Dx); Essential hypertension, benign; Postoperative anemia Leg Pain",
+      "care_team": {
+        "name": "Hand, Hoyet A, MD",
+        "contact_info": "Singing River Gulfport 350 COWANRD 350 Cowan Road GULFPORT, MS 39507-2008 GULFPORT, MS 39505-2008 228-206-7054 (Work) 228-206-7054 228-604-0905 (Fax)"
+      },
+      "_source": "Page 1 of 12, Encounter details table"
+    }
+  ],
+  "diagnoses": [
+    {
+      "diagnosis": "Mixed dyslipidemia",
+      "status": "Primary Dx",
+      "_source": "Page 1 of 12, Encounter details table"
+    },
+    {
+      "diagnosis": "Essential hypertension, benign",
+      "_source": "Page 1 of 12, Encounter details table"
+    },
+    {
+      "diagnosis": "Postoperative anemia",
+      "_source": "Page 1 of 12, Encounter details table"
+    },
+    {
+      "diagnosis": "Leg Pain",
+      "_source": "Page 1 of 12, Encounter details table"
+    },
+    {
+      "diagnosis": "Special screening for malignant neoplasms, colon",
+      "context": "Associated with procedure COLONOSCOPY, WITH BIOPSY",
+      "_source": "Page 3 of 4, Scheduled Procedures table"
+    }
+  ],
+  "procedures": [
+    {
+      "procedure": "COLONOSCOPY, WITH BIOPSY",
+      "date": "02/21/2025 8: 33 AM EST",
+      "_source": [
+        "Page 2 of 4, Encounter details table",
+        "Page 3 of 4, Scheduled Procedures table"
+      ]
+    }
+  ],
+  "laboratory_results": [
+    {
+      "test": "LGResult Component (DM)",
+      "date": "10/22/2024 10: 58 AM EDT",
+      "value": "<8.0",
+      "interpretation": "Component (DM) documented as of this encounter",
+      "_source": "Page 6 of 9, LGResult Component (DM)"
+    },
+    {
+      "test": "TSH Ultra Sensitive",
+      "value": "1.320",
+      "unit": "m IU/m L",
+      "reference_range": "0.358-3.740",
+      "date": "07/03/2023 10: 45 AM CDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "specimen_source": "Blood",
+      "collection_time": "07/03/2023 9: 15 AM CDT",
+      "received_time": "07/03/2023 10: 06 AM CDT",
+      "authorizing_provider": "Hoyet A Hand MD",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Page 9 of 12, TSH Ultra Sensitive result"
+    },
+    {
+      "test": "eGFRCKD-EPI",
+      "value": "58",
+      "unit": "ml /min/1.73 m 2",
+      "reference_range": ">90",
+      "interpretation": "(L)",
+      "date": "07/03/2023 10: 45 AM CDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "specimen_source": "Blood",
+      "collection_time": "07/03/2023 9: 15 AM CDT",
+      "received_time": "07/03/2023 10: 06 AM CDT",
+      "authorizing_provider": "Hoyet A Hand MD",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "comment": "Estimated using CKD-EPI equation based on standardized serum creatinine, age, and sex\nDESCRIPTION eGFRm L/min/1.73 m 2\nMild Decrease 60-89\nModerate Decrease 30-59\nSevere Decrease 15-29\nKidney Failure <15 (or dialysis)",
+      "_source": "Page 8 of 12, eGFRCKD-EPI result"
+    },
+    {
+      "test": "Anion Gap",
+      "value": "5.0",
+      "unit": "mmol/L",
+      "reference_range": "8.0-16.0",
+      "interpretation": "(L)",
+      "date": "07/03/2023 10: 45 AM CDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "specimen_source": "Blood",
+      "collection_time": "07/03/2023 9: 15 AM CDT",
+      "received_time": "07/03/2023 10: 06 AM CDT",
+      "authorizing_provider": "Hoyet A Hand MD",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Page 8 of 12, Anion Gap result"
+    },
+    {
+      "test": "Calcium",
+      "value": "9.5",
+      "unit": "mg/d L",
+      "reference_range": "8.5-10.1",
+      "date": "07/03/2023 10: 45 AM CDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "specimen_source": "Blood",
+      "collection_time": "07/03/2023 9: 15 AM CDT",
+      "received_time": "07/03/2023 10: 06 AM CDT",
+      "authorizing_provider": "Hoyet A Hand MD",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Page 7 of 12, Basic metabolic panel results"
+    },
+    {
+      "test": "Glucose",
+      "value": "94",
+      "unit": "mg /d L",
+      "reference_range": "74-106",
+      "date": "07/03/2023 10: 45 AM CDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "specimen_source": "Blood",
+      "collection_time": "07/03/2023 9: 15 AM CDT",
+      "received_time": "07/03/2023 10: 06 AM CDT",
+      "authorizing_provider": "Hoyet A Hand MD",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Page 7 of 12, Basic metabolic panel results"
+    },
+    {
+      "test": "Creatinine",
+      "value": "0.96",
+      "unit": "mg/d L",
+      "reference_range": "0.55-1.02",
+      "date": "07/03/2023 10: 45 AM CDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "specimen_source": "Blood",
+      "collection_time": "07/03/2023 9: 15 AM CDT",
+      "received_time": "07/03/2023 10: 06 AM CDT",
+      "authorizing_provider": "Hoyet A Hand MD",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Page 7 of 12, Basic metabolic panel results"
+    },
+    {
+      "test": "BUN",
+      "value": "15",
+      "unit": "mg/d L",
+      "reference_range": "7-18",
+      "date": "07/03/2023 10: 45 AM CDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "specimen_source": "Blood",
+      "collection_time": "07/03/2023 9: 15 AM CDT",
+      "received_time": "07/03/2023 10: 06 AM CDT",
+      "authorizing_provider": "Hoyet A Hand MD",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Page 7 of 12, Basic metabolic panel results"
+    },
+    {
+      "test": "CO2",
+      "value": "27",
+      "unit": "mmol/L",
+      "reference_range": "21-32",
+      "date": "07/03/2023 10: 45 AM CDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "specimen_source": "Blood",
+      "collection_time": "07/03/2023 9: 15 AM CDT",
+      "received_time": "07/03/2023 10: 06 AM CDT",
+      "authorizing_provider": "Hoyet A Hand MD",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Page 7 of 12, Basic metabolic panel results"
+    },
+    {
+      "test": "Chloride",
+      "value": "108",
+      "unit": "mmol/L",
+      "reference_range": "98-107",
+      "interpretation": "(H)",
+      "date": "07/03/2023 10: 45 AM CDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "specimen_source": "Blood",
+      "collection_time": "07/03/2023 9: 15 AM CDT",
+      "received_time": "07/03/2023 10: 06 AM CDT",
+      "authorizing_provider": "Hoyet A Hand MD",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Page 7 of 12, Basic metabolic panel results"
+    },
+    {
+      "test": "Potassium",
+      "value": "4.0",
+      "unit": "mmol/L",
+      "reference_range": "3.5-5.1",
+      "date": "07/03/2023 10: 45 AM CDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "specimen_source": "Blood",
+      "collection_time": "07/03/2023 9: 15 AM CDT",
+      "received_time": "07/03/2023 10: 06 AM CDT",
+      "authorizing_provider": "Hoyet A Hand MD",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Page 7 of 12, Basic metabolic panel results"
+    },
+    {
+      "test": "Sodium",
+      "value": "140",
+      "unit": "mmol/L",
+      "reference_range": "136-145",
+      "date": "07/03/2023 10: 45 AM CDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "specimen_source": "Blood",
+      "collection_time": "07/03/2023 9: 15 AM CDT",
+      "received_time": "07/03/2023 10: 06 AM CDT",
+      "authorizing_provider": "Hoyet A Hand MD",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Page 6 of 12, Basic metabolic panel results"
+    },
+    {
+      "test": "Iron Saturation",
+      "value": "15",
+      "unit": "%",
+      "reference_range": "20-55",
+      "interpretation": "(L)",
+      "date": "07/03/2023 10: 45 AM CDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "specimen_source": "Blood",
+      "collection_time": "07/03/2023 9: 15 AM CDT",
+      "received_time": "07/03/2023 10: 06 AM CDT",
+      "authorizing_provider": "Hoyet A Hand MD",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Page 6 of 12, Iron& Iron Binding Capacity results"
+    },
+    {
+      "test": "TIBC",
+      "value": "279",
+      "unit": "ug /d L",
+      "reference_range": "250-450",
+      "date": "07/03/2023 10: 45 AM CDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "specimen_source": "Blood",
+      "collection_time": "07/03/2023 9: 15 AM CDT",
+      "received_time": "07/03/2023 10: 06 AM CDT",
+      "authorizing_provider": "Hoyet A Hand MD",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Page 6 of 12, Iron& Iron Binding Capacity results"
+    },
+    {
+      "test": "Iron",
+      "value": "41",
+      "unit": "ug /d L",
+      "reference_range": "50-170",
+      "interpretation": "(L)",
+      "date": "07/03/2023 10: 45 AM CDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "specimen_source": "Blood",
+      "collection_time": "07/03/2023 9: 15 AM CDT",
+      "received_time": "07/03/2023 10: 06 AM CDT",
+      "authorizing_provider": "Hoyet A Hand MD",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Page 6 of 12, Iron& Iron Binding Capacity results"
+    },
+    {
+      "test": "Alkaline Phosphatase",
+      "date": "01/08/2021 05: 00 AM",
+      "value": "58",
+      "unit": "U/L",
+      "reference_range": "34-144",
+      "interpretation": "Final",
+      "_source": "Page 4 of 9, Alkaline Phosphatase result"
+    },
+    {
+      "test": "AST (SGOT)",
+      "date": "01/08/2021 05: 00 AM",
+      "value": "8",
+      "unit": "U/L",
+      "reference_range": "13-40",
+      "interpretation": "(L)Final",
+      "_source": "Page 4 of 9, AST (SGOT) result"
+    },
+    {
+      "test": "ALT (SGPT)",
+      "date": "01/08/2021 05: 00 AM",
+      "value": "10",
+      "unit": "U/L",
+      "reference_range": "7-52",
+      "interpretation": "Final",
+      "_source": "Page 4 of 9, ALT (SGPT) result"
+    }
+  ],
+  "vitals": [
+    {
+      "type": "Blood Pressure",
+      "value": "128/78",
+      "date": "01/11/2025 9: 30 AM EST",
+      "_source": "Page 5 of 9, Goals table"
+    }
+  ],
+  "social_history": [
+    {
+      "category": "Tobacco Use",
+      "type": "Smokeless Tobacco",
+      "status": "Never",
+      "_source": [
+        "Page 1 of 4, Social history table",
+        "Page 1 of 12, Social history table"
+      ]
+    },
+    {
+      "category": "Alcohol Use",
+      "status": "No",
+      "standard_drinks_per_week": "0",
+      "comments": "(1 standard drink=0.6 oz pure alcohol)",
+      "_source": [
+        "Page 1 of 4, Social history table",
+        "Page 1 of 12, Social history table"
+      ]
+    },
+    {
+      "category": "PHQ-2",
+      "item": "Patient Health Questionnaire-2 Score",
+      "value": "0",
+      "date_recorded": "03/28/2023",
+      "_source": "Page 1 of 12, Social history table"
+    },
+    {
+      "category": "Sex and Gender Information",
+      "item": "Sex Assigned at Birth",
+      "value": "Not on file",
+      "_source": [
+        "Page 1 of 4, Social history table",
+        "Page 1 of 12, Social history table"
+      ]
+    },
+    {
+      "category": "Sex and Gender Information",
+      "item": "Legal Sex",
+      "value": "Male",
+      "date_recorded": "06/19/2013 2: 39 AM EDT",
+      "_source": "Page 1 of 4, Social history table"
+    },
+    {
+      "category": "Sex and Gender Information",
+      "item": "Gender Identity",
+      "value": "Female",
+      "date_recorded": "11/19/2021 6: 43 AM CST",
+      "_source": "Page 1 of 12, Social history table"
+    },
+    {
+      "category": "Sex and Gender Information",
+      "item": "Sexual Orientation",
+      "value": "Not on file",
+      "_source": [
+        "Page 1 of 4, Social history table",
+        "Page 2 of 12, Social history table"
+      ]
+    },
+    {
+      "category": "COVID-19 Exposure Response",
+      "question": "In the last 10 days, have you been in contact with someone who was confirmed or suspected to have Coronavirus /COVID-19?",
+      "response": "No/Unsure",
+      "date_recorded": "7/11/2023 8: 35 AM EDT",
+      "_source": "Page 1 of 4, COVID-19 Exposure Response table"
+    },
+    {
+      "category": "COVID-19 Exposure Response",
+      "question": "In the last 10 days, have you been in contact with someone who was confirmed or suspected to have Coronavirus /COVID-19?",
+      "response": "No/Unsure",
+      "date_recorded": "6/19/2023 5: 23 AM CDT",
+      "_source": "Page 3 of 12, COVID-19 Exposure Response table"
+    }
+  ],
+  "functional_status": [
+    {
+      "question": "Is the person deaf or does he/she have difficulty hearing?",
+      "response": "No",
+      "date_of_assessment": "06/19/2023",
+      "_source": "Page 3 of 12, Functional status table"
+    },
+    {
+      "question": "Patient's Vision Adequateto Safely Complete Daily Activities",
+      "response": "Yes",
+      "date_of_assessment": "06/19/2023",
+      "_source": "Page 3 of 12, Functional status table"
+    },
+    {
+      "question": "Does this person have serious difficulty walking or climbing stairs?",
+      "response": "Yes",
+      "date_of_assessment": "06/14/2023",
+      "_source": "Page 3 of 12, Functional status table"
+    },
+    {
+      "question": "Does this person have difficulty dressing or bathing?",
+      "response": "No",
+      "date_of_assessment": "06/14/2023",
+      "_source": "Page 3 of 12, Functional status table"
+    },
+    {
+      "question": "Because of a physical, mental or emotional condition, does this patient have difficulty doing errands alone such as visiting the doctor's office or shopping?",
+      "response": "No",
+      "date_of_assessment": "06/14/2023",
+      "_source": "Page 3 of 12, Functional status table"
+    },
+    {
+      "question": "Because of a physical, mental or emotional condition, does this person have serious difficulty concentrating, remembering, or making decisions?",
+      "response": "No",
+      "date_of_assessment": "06/14/2023",
+      "_source": "Page 3 of 12, Functional status table"
+    }
+  ],
+  "care_team": [
+    {
+      "member_name": "Kandaswamy, Shankar, MD",
+      "relationship": "PCP-General",
+      "specialty": "Pulmonary Disease",
+      "start_date": "9/10/21",
+      "end_date": "1/22/24",
+      "npi": "1689657181",
+      "contact_info": "2301 Newnan Crossing Blvd Suite 200 Newnan, GA 30265 770-683-6921 (Work)",
+      "_source": "Page 3 of 4, Care teams table"
+    },
+    {
+      "member_name": "Guthikonda, Sasidhar, MD",
+      "relationship": "Cardiologist",
+      "specialty": "Cardiovascular Disease",
+      "start_date": "7/13/21",
+      "npi": "1851595367",
+      "contact_info": "795 Poplar Road STE 400 Newnan, GA 30265 770-716-0051 (Work) 678-423-4960 (Fax)",
+      "_source": "Page 4 of 4, Care teams table"
+    },
+    {
+      "member_name": "Darlington, Andrew, DO",
+      "relationship": "Primary Cardiologist",
+      "specialty": "Advanced Heart Failure and Transplant Cardiology",
+      "start_date": "9/10/21",
+      "npi": "1942352851",
+      "contact_info": "1267 Highway 54 West Ste",
+      "_source": "Page 4 of 4, Care teams table"
+    },
+    {
+      "member_name": "Pradhan Shrestha, Deepika, MD",
+      "relationship": "Endocrinologist",
+      "specialty": "Endocrinology, Diabetes& Metabolism",
+      "start_date": "9/9/19",
+      "end_date": "6/14/22",
+      "npi": "1902035041",
+      "contact_info": "2112 Harrisburg Pike Suite 200 LANCASTER, PA 17604 717-544-3059 (Work) 717-544-3638 (Fax)",
+      "_source": "Page 8 of 9, Care teams table"
+    },
+    {
+      "member_name": "Roberts, Justin D, DO",
+      "relationship": "Consulting Physician",
+      "specialty": "AMB- Cardiology-General Co-managementlongterm",
+      "start_date": "1/13/20",
+      "end_date": "6/14/22",
+      "npi": "1528111028",
+      "contact_info": "217 HARRISBURGPIKE SUITE 200 LANCASTER, PA 17603 717-544-8300 (Work) 717-397-8407 (Fax)",
+      "_source": "Page 8 of 9, Care teams table"
+    },
+    {
+      "member_name": "Kaplan, Marnie, MD",
+      "relationship": "Surgeon",
+      "specialty": "General Surgery",
+      "start_date": "7/6/20",
+      "end_date": "6/14/22",
+      "npi": "1487856621",
+      "contact_info": "2104 HARRISBURGPIKE SUITE 200 Lancaster, PA 17601-2644 717-544-3626 (Work) 717-544-3628 (Fax)",
+      "_source": "Page 8 of 9, Care teams table"
+    },
+    {
+      "member_name": "Wozney, Jocelyn L, MD",
+      "relationship": "Oncologist",
+      "specialty": "Hematology and Oncology",
+      "start_date": "9/14/20",
+      "end_date": "11/8/21",
+      "npi": "1861650863",
+      "contact_info": "2102 HARRISBURGPIKE LANCASTER, PA 17601 717-544-9400 (Work)",
+      "_source": "Page 8 of 9, Care teams table"
+    },
+    {
+      "member_name": "Thomas, Gretchen K, RN",
+      "relationship": "Registered Nurse",
+      "start_date": "9/14/20",
+      "end_date": "7/19/21",
+      "contact_info": "17604",
+      "_source": "Page 9 of 9, Care teams table"
+    },
+    {
+      "member_name": "Sharma, Rajiv, MD",
+      "specialty": "Nephrology",
+      "start_date": "9/14/20",
+      "npi": "1973711133",
+      "contact_info": "2110 HARRISBURGPIKE SUITE 310 LANCASTER, PA 17604 717-544-3232 (Work) 717-544-3237 (Fax)",
+      "_source": "Page 9 of 9, Care teams table"
+    }
+  ],
+  "plans_and_followups": [
+    {
+      "plan": "Eat 3 meals and 0-1 Snack (s) per day",
+      "status": "Ontrack",
+      "date": "03/22/2024 8: 35 AM EDT",
+      "author": "Gress, Pamela, RN",
+      "type": "In-home monitoring",
+      "_source": "Page 6 of 9, Goals table"
+    },
+    {
+      "plan": "Take diabetes medication as directed",
+      "status": "Ontrack",
+      "date": "03/22/2024 8: 37 AM EDT",
+      "author": "Gress, Pamela, RN",
+      "type": "In-home monitoring",
+      "_source": "Page 6 of 9, Goals table"
+    },
+    {
+      "plan": "Check my blood sugar 3 times/day",
+      "status": "Ontrack",
+      "date": "03/22/2024 8: 37 AM EDT",
+      "author": "Gress, Pamela, RN",
+      "type": "In-home monitoring",
+      "_source": "Page 6 of 9, Goals table"
+    },
+    {
+      "plan": "Bring your meter and blood sugar log/food log to all medical appointments",
+      "status": "Ontrack",
+      "date": "03/22/2024 8: 36 AM EDT",
+      "author": "Gress, Pamela, RN",
+      "type": "In-home monitoring",
+      "_source": "Page 6 of 9, Goals table"
+    },
+    {
+      "plan": "Always carry a fast acting sugar source",
+      "status": "Ontrack",
+      "date": "03/22/2024 8: 36 AM EDT",
+      "author": "Gress, Pamela, RN",
+      "type": "In-home monitoring",
+      "_source": "Page 6 of 9, Goals table"
+    },
+    {
+      "plan": "Make an appointment with Eye doctor in the next 3 Months",
+      "status": "Not on track",
+      "date": "03/22/2024 8: 37 AM EDT",
+      "author": "Gress, Pamela, RN",
+      "type": "In-home monitoring",
+      "_source": "Page 6 of 9, Goals table"
+    },
+    {
+      "plan": "Wellness: patient-stated Patient-Stated (Wellness)",
+      "status": "Not on track",
+      "date": "03/22/2024 8: 37 AM EDT",
+      "author": "Fleming, Shelly-Ann, CMA",
+      "type": "LG",
+      "_source": "Page 6 of 9, Goals table"
+    },
+    {
+      "plan": "Fasting/before meals: 80-120",
+      "type": "Blood sugar goals",
+      "_source": "Page 6 of 9, Blood sugar goals"
+    },
+    {
+      "plan": "2 hours after meals and bedtime: <150-180",
+      "type": "Blood sugar goals",
+      "_source": "Page 6 of 9, Blood sugar goals"
+    },
+    {
+      "plan": "Pt takes it twice/day",
+      "type": "Blood sugar goals",
+      "_source": "Page 6 of 9, Blood sugar goals"
+    },
+    {
+      "plan": "Patient wishes to get off insulin.",
+      "type": "Wellness goal",
+      "_source": "Page 6 of 9, Note below Wellness goal"
+    }
+  ],
+  "conflicts": [
+    {
+      "entity_type": "social_history",
+      "entity_name": "Smoking Tobacco Status",
+      "conflict_description": "Patient's smoking status is conflicting across records. One indicates current smoking ('Every Day'), another indicates former smoking with a quit date.",
+      "variants": [
+        {
+          "value": {
+            "category": "Tobacco Use",
+            "type": "Smoking Tobacco",
+            "status": "Every Day",
+            "sub_type": "Cigarettes",
+            "packs_per_day": "0.5",
+            "years_used": "50"
+          },
+          "_source": "Page 1 of 4, Social history table"
+        },
+        {
+          "value": {
+            "category": "Tobacco Use",
+            "type": "Smoking Tobacco",
+            "status": "Former",
+            "sub_type": "Cigarettes",
+            "quit_date": "1991",
+            "comments": "patient states quit 30 years ago"
+          },
+          "_source": "Page 1 of 12, Social history table"
+        }
+      ]
+    }
+  ],
+  "patient_summary": "Olivia, a 73-year-old female, presents with several chronic conditions including mixed dyslipidemia, essential hypertension, postoperative anemia, and leg pain. She is also undergoing special screening for malignant neoplasms of the colon, with a colonoscopy with biopsy scheduled for February 21, 2025.\n\nRecent laboratory results indicate mild renal impairment (eGFR 58 ml/min/1.73 m2), low iron and iron saturation, and a low anion gap, with elevated chloride. Her last recorded blood pressure was 128/78 on January 11, 2025. She has diabetes management goals focusing on medication adherence, blood sugar monitoring, and a desire to discontinue insulin. Functional status assessments show no significant hearing, vision, dressing, bathing, errands, or cognitive difficulties, but she reports serious difficulty walking or climbing stairs. Her smoking history presents conflicting information, with one record stating current smoking and another indicating she quit in 1991."
+}
+```

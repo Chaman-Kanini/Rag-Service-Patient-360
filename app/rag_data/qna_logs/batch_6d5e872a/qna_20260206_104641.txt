@@ -1,0 +1,5 @@
+QUESTION:
+What medications is the patient currently taking?
+
+ANSWER:
+The record lists atorvastatin (refill requested via CVS) and diabetes medication—specifically insulin (patient takes it twice daily and has stated she wishes to get off insulin).

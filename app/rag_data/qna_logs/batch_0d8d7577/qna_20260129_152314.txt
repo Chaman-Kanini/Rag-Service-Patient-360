@@ -1,0 +1,5 @@
+QUESTION:
+What medications is the patient currently taking?
+
+ANSWER:
+The record documents a refill request for atorvastatin (Atorvastatin/CVS). No other current medications are listed in the provided context.

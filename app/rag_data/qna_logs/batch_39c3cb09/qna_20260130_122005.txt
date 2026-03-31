@@ -1,0 +1,28 @@
+QUESTION:
+give me summary of patient
+
+ANSWER:
+Brief summary (from provided record):
+
+- Patient: Olivia, Female, DOB 05/05/1952 (age 73). Patient ID 104. Phone: +1 310 556 1256.
+- Primary care: Hoyet A. Hand, MD (PCP, Singing River Gulfport).
+- Active/problem list noted in encounter (06/30/2023): mixed dyslipidemia (primary), essential hypertension (benign), postoperative anemia, leg pain.
+- Functional/cognitive status:
+  - Hearing: no difficulty (06/19/2023).
+  - Vision: adequate for daily activities (06/19/2023).
+  - Serious difficulty walking or climbing stairs: Yes (06/14/2023).
+  - Difficulty dressing/bathing: No (06/14/2023).
+  - Difficulty doing errands alone: No (06/14/2023).
+  - Serious difficulty concentrating/remembering/making decisions: No (06/14/2023).
+- Mental health screening: PHQ-2 = 0; PHQ-9 = 0 (03/28/2023).
+- Social history: Former cigarette smoker (quit 1991). No current alcohol use recorded.
+- Selected labs (07/03/2023):
+  - Ferritin 266.8 ng/mL (high; ref 8.0–252.0).
+  - Chloride 108 mmol/L (high; ref 98–107).
+  - Anion gap 5.0 mmol/L (low; ref 8–16).
+  - eGFR (CKD-EPI) 58 mL/min/1.73m2 (low; ref >90).
+  - Potassium 4.0 mmol/L, CO2 27 mmol/L, BUN 15 mg/dL, Creatinine ~0.96 mg/dL, Glucose 94 mg/dL, Calcium 9.5 mg/dL.
+- Appointments/planned follow-up (selected): Primary care and follow-ups at Singing River Gulfport (04/19/2024, 04/22/2024), Rheumatology (04/30/2024), Cardiology (05/01/2024 and 11/26/2024), Gastroenterology (06/05/2024).
+- Other care team members referenced: Matthew B. Carroll, MD (Rheumatology); Mahmoud H. Zayed, MD (Cardiology); Amie L. Alexander, NP (Gastroenterology).
+
+If you want, I can produce a one-page problem list with dates or extract all abnormal lab values in a table.

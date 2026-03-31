@@ -1,0 +1,36 @@
+QUESTION:
+Show me the latest lab results
+
+ANSWER:
+The most recent lab result in the provided records is:
+
+- LG Result Component (DM): 7 — dated 10/22/2024 10:58 AM EDT (target noted as < 8.0 in the record)
+
+Recent prior laboratory panels (07/03/2023, Singing River Hospital):
+
+Basic Metabolic Panel (07/03/2023, collected 9:15 AM)
+- Sodium: 140 mmol/L
+- Potassium: 4.0 mmol/L
+- Chloride: 108 mmol/L (H)
+- CO2: 27 mmol/L
+- BUN: 15 mg/dL
+- Creatinine: 0.96 mg/dL
+- Glucose: 94 mg/dL
+- Calcium: 9.5 mg/dL
+- Anion Gap: 5.0 mmol/L (L)
+- eGFR (CKD‑EPI): 58 ml/min/1.73m2 (L)
+
+Lipid Panel (07/03/2023)
+- Triglycerides: 158 mg/dL (H)
+- Total Cholesterol: 147 mg/dL
+- HDL: 54 mg/dL
+- LDL (calculated): 62 mg/dL
+- VLDL (calculated): 32 mg/dL (H)
+- Non‑HDL Cholesterol: 94 mg/dL
+
+Iron & Iron Binding (07/03/2023)
+- Iron: 41 µg/dL (L)
+- TIBC: 279 µg/dL
+- Iron saturation: 15% (L)
+
+If you’d like, I can display any specific panel in more detail or list additional/older lab entries shown in the record.

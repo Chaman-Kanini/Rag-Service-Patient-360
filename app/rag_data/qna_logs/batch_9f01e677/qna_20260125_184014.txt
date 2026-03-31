@@ -1,0 +1,6 @@
+QUESTION:
+What medications is the patient currently taking?
+
+ANSWER:
+Based on the context provided, the patient is currently taking:
+*   Atorvastatin

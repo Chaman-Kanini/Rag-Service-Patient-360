@@ -1,0 +1,808 @@
+{
+  "patient": {
+    "name": "Olivia",
+    "dob": "05/05/1952",
+    "gender": "Female",
+    "age": "73",
+    "patient_id": "104",
+    "phone_home": "+1 310 556 1256",
+    "_source": "Page 1-12 Header: PATIENT INFORMATION: Olivia; Phone (H): +1 310 556 1256; DOB: 05/05/1952; Gender: Female; Age: 73; Patient ID: 104"
+  },
+  "encounters": [
+    {
+      "date": "06/30/2023",
+      "type": "Orders Only",
+      "department": "Singing River Gulfport Primary Care Services",
+      "care_team": "Hand, Hoyet A, MD",
+      "address": "350 Cowan Road GULFPORT, MS 39507-2008",
+      "description": "Mixed dyslipidemia (Primary Dx); Essential hypertension, benign; Postoperative anemia Leg Pain",
+      "_source": "Page 1 Encounter Details: Date 06/30/2023 Orders Only Singing River Gulfport Primary Care Services 350 Cowan Road Hand, Hoyet A, MD Mixed dyslipidemia (Primary Dx); Essential hypertension, benign; Postoperative anemia Leg Pain"
+    },
+    {
+      "date": "04/19/2024",
+      "type": "Appointment",
+      "department": "Singing River Gulfport Primary Care Services",
+      "address": "350 Cowan Road GULFPORT, MS 39505-2008",
+      "time": "10:00 AM CDT",
+      "_source": "Page 3 Plan of treatment Upcoming Encounters Date 04/19/2024 Appointment Singing River Gulfport Primary Care Services 350 Cowan Road GULFPORT, MS 39505-2008 10:00 AM CDT"
+    },
+    {
+      "date": "04/22/2024",
+      "type": "Office Visit",
+      "department": "Primary Care Services",
+      "care_team": "Hand, Hoyet A, MD",
+      "address": "350 COWAN RD GULFPORT, MS 39507-2008",
+      "time": "9:20 AM CDT",
+      "description": "COVID-19 Exposure Response recorded 6/19/2023 5:23 AM CDT",
+      "_source": "Page 3-4 Plan of treatment Upcoming Encounters Date 04/22/2024 9:20 AM Office Visit Singing River Gulfport Hand, Hoyet A, MD Primary Care Services 350 COWAN RD GULFPORT, MS 39507-2008 COVID-19 Exposure Response Date Recorded In the last 10 days, have you been in contact with someone who was confirmed or suspected to have Coronavirus /COVID-19? No / Unsure 6/19/2023 5:23 AM CDT"
+    },
+    {
+      "date": "04/30/2024",
+      "type": "Office Visit",
+      "department": "Rheumatology Services",
+      "care_team": "Carroll, Matthew B, MD",
+      "address": "3603 BIENVILLE BLVD BILOXI, MS 39532-2128",
+      "time": "10:20 AM CDT",
+      "_source": "Page 3 Plan of treatment Upcoming Encounters Date 04/30/2024 10:20 AM Office Visit Rheumatology Services Carroll, Matthew B, MD 3603 BIENVILLE BLVD BILOXI, MS 39532-2128"
+    },
+    {
+      "date": "05/01/2024",
+      "type": "Office Visit",
+      "department": "Southern Mississippi Heart Center - Gulfport",
+      "care_team": "Zayed, Mahmoud H, MD",
+      "address": "3704 BIENVILLE BLVD GULFPORT, MS 39503-3483",
+      "time": "9:00 AM CDT",
+      "_source": "Page 3-4 Plan of treatment Upcoming Encounters Date 05/01/2024 9:00 AM Office Visit Southern Mississippi Heart Center - Gulfport Zayed, Mahmoud H, MD 3704 BIENVILLE BLVD GULFPORT, MS 39503-3483"
+    },
+    {
+      "date": "05/01/2024",
+      "type": "Office Visit",
+      "department": "Southern Mississippi Heart Center - Gulfport",
+      "care_team": "Zayed, Mahmoud H, MD",
+      "address": "3704 BIENVILLE BLVD GULFPORT, MS 39503-3483",
+      "time": "9:00 AM CDT",
+      "_source": "Page 3 Plan of treatment (duplicate entry) Date 05/01/2024 9:00 AM Office Visit Southern Mississippi Heart Center - Gulfport Zayed, Mahmoud H, MD 3704 BIENVILLE BLVD GULFPORT, MS 39503-3483"
+    },
+    {
+      "date": "06/05/2024",
+      "type": "Office Visit",
+      "department": "Gastroenterology",
+      "care_team": "Alexander, Amie L, NP",
+      "address": "15190 COMMUNITY RD GULFPORT, MS 39503-3483",
+      "time": "9:40 AM CDT",
+      "_source": "Page 3-4 Plan of treatment Upcoming Encounters Date 06/05/2024 9:40 AM Office Visit Singing River Gulfport Alexander, Amie L, NP Gastroenterology 15190 COMMUNITY RD GULFPORT, MS 39503-3483"
+    },
+    {
+      "date": "11/26/2024",
+      "type": "Office Visit",
+      "department": "Southern Mississippi Heart Center - Gulfport",
+      "time": "1:00 PM CST",
+      "address": "15190 Community Road Ste 260 GULFPORT, MS 39503-3483",
+      "_source": "Page 3 Plan of treatment Upcoming Encounters Date 11/26/2024 Office Visit Southern Mississippi Heart Center - Gulfport 1:00 PM CST 15190 Community Road Ste 260 GULFPORT, MS 39503-3483"
+    }
+  ],
+  "encounter_timeline": [
+    {
+      "date": "06/30/2023",
+      "event": "Orders Only encounter documenting Mixed dyslipidemia (Primary Dx); Essential hypertension, benign; Postoperative anemia; Leg Pain",
+      "_source": "Page 1 Encounter Details Date 06/30/2023 Orders Only Singing River Gulfport Primary Care Services Mixed dyslipidemia (Primary Dx); Essential hypertension, benign; Postoperative anemia Leg Pain"
+    },
+    {
+      "date": "07/03/2023",
+      "event": "Laboratory testing performed (multiple panels) with results reported 07/03/2023 10:45 AM CDT",
+      "_source": "Pages 5-11 Results sections: (ABNORMAL) Ferritin (07/03/2023 9:15 AM CDT); (ABNORMAL) Iron & Iron Binding Capacity (07/03/2023 9:15 AM CDT); (ABNORMAL) Basic metabolic panel (07/03/2023 9:15 AM CDT); (Gulfport) TSH Ultra Sensitive (07/03/2023 9:15 AM CDT); (ABNORMAL) Lipid panel (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "date": "03/28/2023",
+      "event": "PHQ-9 Depression Total Score: 0; PHQ-2 Depression Total Score: 0",
+      "_source": "Page 12 Additional health concerns Assessment Noted Time PHQ-9 Depression Total Score: 0 03/28/2023 8:56 AM CDT PHQ-2 Depression Total Score: 0 03/28/2023 8:56 AM CDT"
+    },
+    {
+      "date": "04/19/2024",
+      "event": "Planned Appointment at Singing River Gulfport Primary Care Services 10:00 AM CDT",
+      "_source": "Page 3 Plan of treatment Upcoming Encounters Date 04/19/2024 Appointment Singing River Gulfport Primary Care Services 10:00 AM CDT"
+    }
+  ],
+  "diagnoses": [
+    {
+      "diagnosis": "Mixed dyslipidemia - Primary",
+      "_source": "Page 11 Visit diagnoses: Mixed dyslipidemia - Primary"
+    },
+    {
+      "diagnosis": "Essential hypertension, benign",
+      "_source": "Page 11 Visit diagnoses: Essential hypertension, benign"
+    },
+    {
+      "diagnosis": "Leg pain",
+      "_source": "Page 11 Visit diagnoses: Leg pain"
+    },
+    {
+      "diagnosis": "Postoperative anemia",
+      "_source": "Page 11 Visit diagnoses: Postoperative anemia"
+    },
+    {
+      "diagnosis": "Unspecified anemia",
+      "_source": "Page 11 Visit diagnoses: Unspecified anemia"
+    }
+  ],
+  "diagnosis_intelligence": [],
+  "procedures": [],
+  "procedure_medical_necessity": [],
+  "laboratory_results": [
+    {
+      "test_name": "Ferritin",
+      "result_text": "Ferritin 266.8 (H) 8.0 - 252.0 ng/mL",
+      "collection_time": "07/03/2023 9:15 AM CDT",
+      "result_time": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Page 5 Results (ABNORMAL) Ferritin (07/03/2023 9:15 AM CDT) Component Value Ref Range Test Method Analysis Time Performed At Ferritin 266.8 (H) 8.0 - 252.0 ng/mL 07/03/2023 10:45 AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test_name": "Iron",
+      "result_text": "Iron 41 (L) 50 - 170 ug/dL",
+      "collection_time": "07/03/2023 9:15 AM CDT",
+      "result_time": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Page 6 (ABNORMAL) Iron & Iron Binding Capacity (07/03/2023 9:15 AM CDT) Component Value Ref Range Iron 41 (L) 50 - 170 ug/dL 07/03/2023 10:45 AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test_name": "TIBC",
+      "result_text": "TIBC 279 250 - 450 ug/dL",
+      "collection_time": "07/03/2023 9:15 AM CDT",
+      "result_time": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Page 6 (ABNORMAL) Iron & Iron Binding Capacity (07/03/2023 9:15 AM CDT) Component Value Ref Range TIBC 279 250 - 450 ug/dL 07/03/2023 10:45 AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test_name": "Iron Saturation",
+      "result_text": "Iron Saturation 15 (L) 20 - 55 %",
+      "collection_time": "07/03/2023 9:15 AM CDT",
+      "result_time": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Page 6 (ABNORMAL) Iron & Iron Binding Capacity (07/03/2023 9:15 AM CDT) Component Value Ref Range Iron Saturation 15 (L) 20 - 55 % 07/03/2023 10:45 AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test_name": "Sodium",
+      "result_text": "Sodium 140 136 - 145 mmol/L",
+      "collection_time": "07/03/2023 9:15 AM CDT",
+      "result_time": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Page 6-7 (ABNORMAL) Basic metabolic panel (07/03/2023 9:15 AM CDT) Component Value Ref Range Sodium 140 136 - 145 mmol/L 07/03/2023 10:45 AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test_name": "Potassium",
+      "result_text": "Potassium 4.0 3.5 - 5.1 mmol/L",
+      "collection_time": "07/03/2023 9:15 AM CDT",
+      "result_time": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Page 7 (ABNORMAL) Basic metabolic panel (07/03/2023 9:15 AM CDT) Component Value Ref Range Potassium 4.0 3.5 - 5.1 mmol/L 07/03/2023 10:45 AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test_name": "Chloride",
+      "result_text": "Chloride 108 (H) 98 - 107 mmol/L",
+      "collection_time": "07/03/2023 9:15 AM CDT",
+      "result_time": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Page 7 (ABNORMAL) Basic metabolic panel (07/03/2023 9:15 AM CDT) Component Value Ref Range Chloride 108 (H) 98 - 107 mmol/L 07/03/2023 10:45 AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test_name": "CO2",
+      "result_text": "CO2 27 21 - 32 mmol/L",
+      "collection_time": "07/03/2023 9:15 AM CDT",
+      "result_time": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Page 7 (ABNORMAL) Basic metabolic panel (07/03/2023 9:15 AM CDT) Component Value Ref Range CO2 27 21 - 32 mmol/L 07/03/2023 10:45 AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test_name": "BUN",
+      "result_text": "BUN 15 7 - 18 mg/dL",
+      "collection_time": "07/03/2023 9:15 AM CDT",
+      "result_time": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Page 7 (ABNORMAL) Basic metabolic panel (07/03/2023 9:15 AM CDT) Component Value Ref Range BUN 15 7 - 18 mg/dL 07/03/2023 10:45 AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test_name": "Creatinine",
+      "result_text": "Creatinine 0.96 0.55 - 1.02 mg/dL",
+      "collection_time": "07/03/2023 9:15 AM CDT",
+      "result_time": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Page 7 (ABNORMAL) Basic metabolic panel (07/03/2023 9:15 AM CDT) Component Value Ref Range Creatinine 0.96 0.55 - 1.02 mg/dL 07/03/2023 10:45 AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test_name": "Glucose",
+      "result_text": "Glucose 94 74 - 106 mg/dL",
+      "collection_time": "07/03/2023 9:15 AM CDT",
+      "result_time": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Page 7 (ABNORMAL) Basic metabolic panel (07/03/2023 9:15 AM CDT) Component Value Ref Range Glucose 94 74 - 106 mg/dL 07/03/2023 10:45 AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test_name": "Calcium",
+      "result_text": "Calcium 9.5 8.5 - 10.1 mg/dL",
+      "collection_time": "07/03/2023 9:15 AM CDT",
+      "result_time": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Page 7 (ABNORMAL) Basic metabolic panel (07/03/2023 9:15 AM CDT) Component Value Ref Range Calcium 9.5 8.5 - 10.1 mg/dL 07/03/2023 10:45 AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test_name": "Anion Gap",
+      "result_text": "Anion Gap 5.0 (L) 8.0 - 16.0 mmol/L",
+      "collection_time": "07/03/2023 9:15 AM CDT",
+      "result_time": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Page 8 (ABNORMAL) Basic metabolic panel (07/03/2023 9:15 AM CDT) Component Value Ref Range Anion Gap 5.0 (L) 8.0 - 16.0 mmol/L 07/03/2023 10:45 AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test_name": "eGFR CKD-EPI",
+      "result_text": "eGFR CKD-EPI 58 (L) >90 ml/min/1.73m2",
+      "collection_time": "07/03/2023 9:15 AM CDT",
+      "result_time": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "comment": "Comment: CKD-EPI GFR INTERPRETATION GUIDELINES Estimated using CKD-EPI equation based on standardized serum creatinine, age, and sex DESCRIPTION eGFR mL/min/1.73m2 Mild Decrease 60 - 89 Moderate Decrease 30 - 59 Severe Decrease 15 - 29 Kidney Failure <15 (or dialysis)",
+      "_source": "Page 8 (ABNORMAL) Basic metabolic panel (07/03/2023 9:15 AM CDT) Component Value Ref Range eGFR CKD-EPI 58 (L) >90 ml/min/1.73m2 07/03/2023 10:45 AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test_name": "TSH Ultra Sensitive",
+      "result_text": "TSH Ultra Sensitive 1.320 0.358 - 3.740 mIU/mL",
+      "collection_time": "07/03/2023 9:15 AM CDT",
+      "result_time": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Page 9 (Gulfport) TSH Ultra Sensitive (07/03/2023 9:15 AM CDT) Component Value Ref Range TSH Ultra Sensitive 1.320 0.358 - 3.740 mIU/mL 07/03/2023 10:45 AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test_name": "Triglycerides",
+      "result_text": "Triglycerides 158 (H) 0 - 149 mg/dL",
+      "collection_time": "07/03/2023 9:15 AM CDT",
+      "result_time": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "comment": "Comment: Borderline high: 150 - 199 mg/dL High: 200 - 499 mg/dL Very High: >= 500 mg/dL",
+      "_source": "Page 9-10 (ABNORMAL) Lipid panel (07/03/2023 9:15 AM CDT) Component Value Ref Range Triglycerides 158 (H) 0 - 149 mg/dL 07/03/2023 10:45 AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test_name": "Cholesterol",
+      "result_text": "Cholesterol 147 <200 mg/dL",
+      "collection_time": "07/03/2023 9:15 AM CDT",
+      "result_time": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "comment": "Comment: Low-risk levels (desirable) <200 mg/dL Moderate-risk levels (borderline) 200 - 239 mg/dL High-risk levels >= 240 mg/dL",
+      "_source": "Page 9-10 (ABNORMAL) Lipid panel (07/03/2023 9:15 AM CDT) Component Value Ref Range Cholesterol 147 <200 mg/dL 07/03/2023 10:45 AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test_name": "HDL",
+      "result_text": "HDL 54 40 - 59 mg/dL",
+      "collection_time": "07/03/2023 9:15 AM CDT",
+      "result_time": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "comment": "Comment: Low (undesirable, high risk): <40.0 mg/dL High (desirable, low risk): >= 60.0 mg/dL",
+      "_source": "Page 10 (ABNORMAL) Lipid panel (07/03/2023 9:15 AM CDT) Component Value Ref Range HDL 54 40 - 59 mg/dL 07/03/2023 10:45 AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test_name": "LDL Calculated",
+      "result_text": "LDL Calculated 62 0 - 100 mg/dL",
+      "collection_time": "07/03/2023 9:15 AM CDT",
+      "result_time": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "comment": "Comment: Optimal <100 mg/dL Above optimal: 100-129 mg/dL Borderline high: 130 - 159 mg/dL High: 160 - 189 mg/dL Very High: >= 190 mg/dL",
+      "_source": "Page 10 (ABNORMAL) Lipid panel (07/03/2023 9:15 AM CDT) Component Value Ref Range LDL Calculated 62 0 - 100 mg/dL 07/03/2023 10:45 AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test_name": "VLDL Cholesterol Cal",
+      "result_text": "VLDL Cholesterol Cal 32 (H) <30 mg/dL",
+      "collection_time": "07/03/2023 9:15 AM CDT",
+      "result_time": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Page 10 (ABNORMAL) Lipid panel (07/03/2023 9:15 AM CDT) Component Value Ref Range VLDL Cholesterol Cal 32 (H) <30 mg/dL 07/03/2023 10:45 AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test_name": "Non HDL Chol.",
+      "result_text": "Non HDL Chol. 94 <=130 (LDL+VLDL) mg/dL",
+      "collection_time": "07/03/2023 9:15 AM CDT",
+      "result_time": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Page 10 (ABNORMAL) Lipid panel (07/03/2023 9:15 AM CDT) Component Value Ref Range Non HDL Chol. 94 <=130 (LDL+VLDL) mg/dL 07/03/2023 10:45 AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    }
+  ],
+  "vitals": [],
+  "social_history": {
+    "tobacco_use": {
+      "Smoking Tobacco": "Former Cigarettes Quit: 1991",
+      "Smokeless Tobacco": "Never",
+      "Comments": "patient states quit 30 years ago",
+      "_source": "Page 1 Social history Tobacco Use Types Packs/Day Years Used Date Smoking Tobacco: Former Cigarettes Quit: 1991 Smokeless Tobacco: Never Comments: patient states quit 30 years ago"
+    },
+    "alcohol_use": {
+      "Alcohol Use": "Not Currently",
+      "Standard Drinks/Week": "0 (1 standard drink = 0.6 oz pure alcohol)",
+      "_source": "Page 1 Social history Alcohol Use Standard Drinks/Week Comments Not Currently 0 (1 standard drink = 0.6 oz pure alcohol)"
+    },
+    "mental_health_screening": {
+      "PHQ-2 Score": "0",
+      "date_recorded": "03/28/2023",
+      "_source": "Page 1 Social history PHQ-2 Answer Date Recorded Patient Health Questionnaire-2 Score 0 03/28/2023"
+    },
+    "sex_and_gender_information": {
+      "Sex Assigned at Birth": "Not on file",
+      "Gender Identity": "Female 11/19/2021 6:43 AM CST",
+      "Sexual Orientation": "Not on file",
+      "_source": "Page 1-2 Social history Sex and Gender Information Value Date Recorded Sex Assigned at Birth Not on file Gender Identity Female 11/19/2021 6:43 AM CST Sexual Orientation Not on file"
+    },
+    "_source": "Pages 1-2 Social history sections"
+  },
+  "functional_status": [
+    {
+      "question": "Is the person deaf or does he/she have difficulty hearing?",
+      "answer": "No",
+      "date_of_assessment": "06/19/2023",
+      "_source": "Page 3 Functional status Is the person deaf or does he/she have difficulty hearing? No 06/19/2023"
+    },
+    {
+      "question": "Patient's Vision Adequate to Safely Complete Daily Activities",
+      "answer": "Yes",
+      "date_of_assessment": "06/19/2023",
+      "_source": "Page 3 Functional status Patient's Vision Adequate to Safely Complete Daily Activities Yes 06/19/2023"
+    },
+    {
+      "question": "Does this person have serious difficulty walking or climbing stairs?",
+      "answer": "Yes",
+      "date_of_assessment": "06/14/2023",
+      "_source": "Page 3 Functional status Does this person have serious difficulty walking or climbing stairs? Yes 06/14/2023"
+    },
+    {
+      "question": "Does this person have difficulty dressing or bathing?",
+      "answer": "No",
+      "date_of_assessment": "06/14/2023",
+      "_source": "Page 3 Functional status Does this person have difficulty dressing or bathing? No 06/14/2023"
+    },
+    {
+      "question": "Because of a physical, mental or emotional condition, does this patient have difficulty doing errands alone such as visiting the doctor's office or shopping?",
+      "answer": "No",
+      "date_of_assessment": "06/14/2023",
+      "_source": "Page 3 Functional status Because of a physical, mental or emotional condition, does this patient have difficulty doing errands alone such as visiting the doctor's office or shopping? No 06/14/2023"
+    },
+    {
+      "question": "Because of a physical, mental or emotional condition, does this person have serious difficulty concentrating, remembering, or making decisions?",
+      "answer": "No",
+      "date_of_assessment": "06/14/2023",
+      "_source": "Page 3 Cognitive Status Because of a physical, mental or emotional condition, does this person have serious difficulty concentrating, remembering, or making decisions? No 06/14/2023"
+    }
+  ],
+  "care_team": [
+    {
+      "name": "Hand, Hoyet A, MD",
+      "NPI": "1225340599",
+      "phone_work": "228-206-7054 (Work)",
+      "fax": "228-604-0905 (Fax)",
+      "relationship": "PCP - General",
+      "specialty": "Family Medicine",
+      "start_date": "9/25/20",
+      "_source": "Page 12 Care teams Team Member Hand, Hoyet A, MD NPI: 1225340599 228-206-7054 (Work) 228-604-0905 (Fax) PCP - General Family Medicine Start Date 9/25/20"
+    }
+  ],
+  "plans_and_followups": [
+    {
+      "upcoming_appointment": "04/19/2024 10:00 AM CDT Singing River Gulfport Primary Care Services 350 Cowan Road",
+      "_source": "Page 3 Plan of treatment Upcoming Encounters Date 04/19/2024 Appointment Singing River Gulfport Primary Care Services 350 Cowan Road 10:00 AM CDT"
+    },
+    {
+      "upcoming_appointment": "04/22/2024 9:20 AM CDT Office Visit Singing River Gulfport Hand, Hoyet A, MD",
+      "_source": "Page 3 Plan of treatment Upcoming Encounters Date 04/22/2024 9:20 AM Office Visit Singing River Gulfport Hand, Hoyet A, MD"
+    },
+    {
+      "upcoming_appointment": "04/30/2024 10:20 AM CDT Office Visit Rheumatology Services Carroll, Matthew B, MD",
+      "_source": "Page 3 Plan of treatment Upcoming Encounters Date 04/30/2024 10:20 AM Office Visit Rheumatology Services Carroll, Matthew B, MD"
+    },
+    {
+      "upcoming_appointment": "05/01/2024 9:00 AM CDT Office Visit Southern Mississippi Heart Center - Gulfport Zayed, Mahmoud H, MD",
+      "_source": "Page 3 Plan of treatment Upcoming Encounters Date 05/01/2024 9:00 AM Office Visit Southern Mississippi Heart Center - Gulfport Zayed, Mahmoud H, MD"
+    },
+    {
+      "upcoming_appointment": "06/05/2024 9:40 AM CDT Office Visit Singing River Gulfport Alexander, Amie L, NP Gastroenterology",
+      "_source": "Page 3 Plan of treatment Upcoming Encounters Date 06/05/2024 9:40 AM Office Visit Singing River Gulfport Alexander, Amie L, NP Gastroenterology"
+    },
+    {
+      "upcoming_appointment": "11/26/2024 1:00 PM CST Office Visit Southern Mississippi Heart Center - Gulfport",
+      "_source": "Page 3 Plan of treatment Upcoming Encounters Date 11/26/2024 Office Visit Southern Mississippi Heart Center - Gulfport 1:00 PM CST"
+    }
+  ],
+  "notes": [
+    {
+      "note": "Type: Progress Note; Source: Singing River Health System; Received: 03/20/2024 08:24 PM; Printed from Health Gorilla Secure Clinical Network.",
+      "_source": "Page 1 Header: Oliva Singing River Health System Patient Record 03/20/2024 Type: Progress Note Source: Singing River Health System Received: 03/20/2024 08:24 PM Printed from Health Gorilla Secure Clinical Network."
+    }
+  ],
+  "conflicts": [],
+  "patient_summary": "Olivia (DOB 05/05/1952, Female, Patient ID 104) had an Orders Only encounter on 06/30/2023 documenting mixed dyslipidemia (primary), essential hypertension (benign), postoperative anemia, and leg pain. Multiple laboratory panels were performed on 07/03/2023 with results reported 07/03/2023 10:45 AM CDT including Ferritin 266.8 (H) ng/mL; Iron 41 (L) ug/dL; Iron Saturation 15 (L) %; TIBC 279 ug/dL; Basic metabolic panel components (Sodium 140 mmol/L; Potassium 4.0 mmol/L; Chloride 108 (H) mmol/L; CO2 27 mmol/L; BUN 15 mg/dL; Creatinine 0.96 mg/dL; Glucose 94 mg/dL; Calcium 9.5 mg/dL; Anion Gap 5.0 (L) mmol/L; eGFR CKD-EPI 58 (L) ml/min/1.73m2); TSH Ultra Sensitive 1.320 mIU/mL; Lipid panel with Triglycerides 158 (H) mg/dL, Cholesterol 147 mg/dL, HDL 54 mg/dL, LDL Calculated 62 mg/dL, VLDL Cholesterol Cal 32 (H) mg/dL, Non HDL Chol. 94 mg/dL. Social history notes former cigarette smoker (quit 1991) and no current alcohol use. Functional assessments and PHQ screening scores are documented. Primary care provider: Hand, Hoyet A, MD (PCP, Family Medicine). Upcoming appointments are listed (04/19/2024 through 11/26/2024). All information is extracted verbatim from the provided record.",
+  "icd10_codes": [
+    {
+      "diagnosis": "Mixed dyslipidemia - Primary",
+      "icd10_code": "E782",
+      "description": "Mixed hyperlipidemia",
+      "confidence": 0.95,
+      "candidates": [
+        {
+          "chunk_id": "icd10_E782",
+          "code": "E782",
+          "short_description": "Mixed hyperlipidemia",
+          "long_description": "Mixed hyperlipidemia",
+          "distance": 0.8490712642669678
+        },
+        {
+          "chunk_id": "icd10_D751",
+          "code": "D751",
+          "short_description": "Secondary polycythemia",
+          "long_description": "Secondary polycythemia",
+          "distance": 0.9765689969062805
+        },
+        {
+          "chunk_id": "icd10_E7849",
+          "code": "E7849",
+          "short_description": "Other hyperlipidemia",
+          "long_description": "Other hyperlipidemia",
+          "distance": 0.9998451471328735
+        },
+        {
+          "chunk_id": "icd10_E7841",
+          "code": "E7841",
+          "short_description": "Other hyperlipidemia",
+          "long_description": "Elevated Lipoprotein(a)",
+          "distance": 1.0330510139465332
+        },
+        {
+          "chunk_id": "icd10_E785",
+          "code": "E785",
+          "short_description": "Hyperlipidemia, unspecified",
+          "long_description": "Hyperlipidemia, unspecified",
+          "distance": 1.0667423009872437
+        },
+        {
+          "chunk_id": "icd10_E1365",
+          "code": "E1365",
+          "short_description": "Other specified diabetes mellitus with hyperglycemia",
+          "long_description": "Other specified diabetes mellitus with hyperglycemia",
+          "distance": 1.1219663619995117
+        },
+        {
+          "chunk_id": "icd10_D6859",
+          "code": "D6859",
+          "short_description": "Other primary thrombophilia",
+          "long_description": "Other primary thrombophilia",
+          "distance": 1.1307013034820557
+        },
+        {
+          "chunk_id": "icd10_D581",
+          "code": "D581",
+          "short_description": "Hereditary elliptocytosis",
+          "long_description": "Hereditary elliptocytosis",
+          "distance": 1.1358063220977783
+        },
+        {
+          "chunk_id": "icd10_K30",
+          "code": "K30",
+          "short_description": "Functional dyspepsia",
+          "long_description": "Functional dyspepsia",
+          "distance": 1.1420987844467163
+        },
+        {
+          "chunk_id": "icd10_D732",
+          "code": "D732",
+          "short_description": "Chronic congestive splenomegaly",
+          "long_description": "Chronic congestive splenomegaly",
+          "distance": 1.1508278846740723
+        }
+      ]
+    },
+    {
+      "diagnosis": "Essential hypertension, benign",
+      "icd10_code": "I10",
+      "description": "Essential (primary) hypertension",
+      "confidence": 0.98,
+      "candidates": [
+        {
+          "chunk_id": "icd10_I10",
+          "code": "I10",
+          "short_description": "Essential (primary) hypertension",
+          "long_description": "Essential (primary) hypertension",
+          "distance": 0.6150155067443848
+        },
+        {
+          "chunk_id": "icd10_I159",
+          "code": "I159",
+          "short_description": "Secondary hypertension, unspecified",
+          "long_description": "Secondary hypertension, unspecified",
+          "distance": 0.643639087677002
+        },
+        {
+          "chunk_id": "icd10_I158",
+          "code": "I158",
+          "short_description": "Other secondary hypertension",
+          "long_description": "Other secondary hypertension",
+          "distance": 0.7579105496406555
+        },
+        {
+          "chunk_id": "icd10_O1003",
+          "code": "O1003",
+          "short_description": "Pre-existing essential hypertension comp the puerperium",
+          "long_description": "Pre-existing essential hypertension complicating the puerperium",
+          "distance": 0.885312557220459
+        },
+        {
+          "chunk_id": "icd10_I169",
+          "code": "I169",
+          "short_description": "Hypertensive crisis, unspecified",
+          "long_description": "Hypertensive crisis, unspecified",
+          "distance": 0.8928350210189819
+        },
+        {
+          "chunk_id": "icd10_O10012",
+          "code": "O10012",
+          "short_description": "Pre-existing essential htn comp pregnancy, second trimester",
+          "long_description": "Pre-existing essential hypertension complicating pregnancy, second trimester",
+          "distance": 0.8934652805328369
+        },
+        {
+          "chunk_id": "icd10_I151",
+          "code": "I151",
+          "short_description": "Hypertension secondary to other renal disorders",
+          "long_description": "Hypertension secondary to other renal disorders",
+          "distance": 0.8977857828140259
+        },
+        {
+          "chunk_id": "icd10_O10019",
+          "code": "O10019",
+          "short_description": "Pre-existing essential htn comp pregnancy, unsp trimester",
+          "long_description": "Pre-existing essential hypertension complicating pregnancy, unspecified trimester",
+          "distance": 0.8991125226020813
+        },
+        {
+          "chunk_id": "icd10_O1002",
+          "code": "O1002",
+          "short_description": "Pre-existing essential hypertension complicating childbirth",
+          "long_description": "Pre-existing essential hypertension complicating childbirth",
+          "distance": 0.9133890271186829
+        },
+        {
+          "chunk_id": "icd10_G932",
+          "code": "G932",
+          "short_description": "Benign intracranial hypertension",
+          "long_description": "Benign intracranial hypertension",
+          "distance": 0.9175617098808289
+        }
+      ]
+    },
+    {
+      "diagnosis": "Leg pain",
+      "icd10_code": "M79606",
+      "description": "Pain in leg, unspecified",
+      "confidence": 0.9,
+      "candidates": [
+        {
+          "chunk_id": "icd10_M79606",
+          "code": "M79606",
+          "short_description": "Pain in leg, unspecified",
+          "long_description": "Pain in leg, unspecified",
+          "distance": 0.38378459215164185
+        },
+        {
+          "chunk_id": "icd10_M79669",
+          "code": "M79669",
+          "short_description": "Pain in unspecified lower leg",
+          "long_description": "Pain in unspecified lower leg",
+          "distance": 0.4634816646575928
+        },
+        {
+          "chunk_id": "icd10_M79662",
+          "code": "M79662",
+          "short_description": "Pain in left lower leg",
+          "long_description": "Pain in left lower leg",
+          "distance": 0.558303952217102
+        },
+        {
+          "chunk_id": "icd10_M79661",
+          "code": "M79661",
+          "short_description": "Pain in right lower leg",
+          "long_description": "Pain in right lower leg",
+          "distance": 0.5826222896575928
+        },
+        {
+          "chunk_id": "icd10_M79605",
+          "code": "M79605",
+          "short_description": "Pain in left leg",
+          "long_description": "Pain in left leg",
+          "distance": 0.5856834053993225
+        },
+        {
+          "chunk_id": "icd10_M79604",
+          "code": "M79604",
+          "short_description": "Pain in right leg",
+          "long_description": "Pain in right leg",
+          "distance": 0.5918288230895996
+        },
+        {
+          "chunk_id": "icd10_M79659",
+          "code": "M79659",
+          "short_description": "Pain in unspecified thigh",
+          "long_description": "Pain in unspecified thigh",
+          "distance": 0.637832522392273
+        },
+        {
+          "chunk_id": "icd10_M79652",
+          "code": "M79652",
+          "short_description": "Pain in left thigh",
+          "long_description": "Pain in left thigh",
+          "distance": 0.7050203084945679
+        },
+        {
+          "chunk_id": "icd10_M79651",
+          "code": "M79651",
+          "short_description": "Pain in right thigh",
+          "long_description": "Pain in right thigh",
+          "distance": 0.7315862774848938
+        },
+        {
+          "chunk_id": "icd10_S8011XS",
+          "code": "S8011XS",
+          "short_description": "Contusion of right lower leg, sequela",
+          "long_description": "Contusion of right lower leg, sequela",
+          "distance": 0.7324367761611938
+        }
+      ]
+    },
+    {
+      "diagnosis": "Postoperative anemia",
+      "icd10_code": "D62",
+      "description": "Acute posthemorrhagic anemia",
+      "confidence": 0.95,
+      "candidates": [
+        {
+          "chunk_id": "icd10_D62",
+          "code": "D62",
+          "short_description": "Acute posthemorrhagic anemia",
+          "long_description": "Acute posthemorrhagic anemia",
+          "distance": 0.7996997833251953
+        },
+        {
+          "chunk_id": "icd10_D649",
+          "code": "D649",
+          "short_description": "Anemia, unspecified",
+          "long_description": "Anemia, unspecified",
+          "distance": 0.8113377094268799
+        },
+        {
+          "chunk_id": "icd10_D464",
+          "code": "D464",
+          "short_description": "Refractory anemia, unspecified",
+          "long_description": "Refractory anemia, unspecified",
+          "distance": 0.8173104524612427
+        },
+        {
+          "chunk_id": "icd10_D4620",
+          "code": "D4620",
+          "short_description": "Refractory anemia with excess of blasts, unspecified",
+          "long_description": "Refractory anemia with excess of blasts, unspecified",
+          "distance": 0.8836820721626282
+        },
+        {
+          "chunk_id": "icd10_O9902",
+          "code": "O9902",
+          "short_description": "Anemia complicating childbirth",
+          "long_description": "Anemia complicating childbirth",
+          "distance": 0.9046656489372253
+        },
+        {
+          "chunk_id": "icd10_D6489",
+          "code": "D6489",
+          "short_description": "Other specified anemias",
+          "long_description": "Other specified anemias",
+          "distance": 0.9061535000801086
+        },
+        {
+          "chunk_id": "icd10_D558",
+          "code": "D558",
+          "short_description": "Other anemias due to enzyme disorders",
+          "long_description": "Other anemias due to enzyme disorders",
+          "distance": 0.9169375896453857
+        },
+        {
+          "chunk_id": "icd10_D509",
+          "code": "D509",
+          "short_description": "Iron deficiency anemia, unspecified",
+          "long_description": "Iron deficiency anemia, unspecified",
+          "distance": 0.9180118441581726
+        },
+        {
+          "chunk_id": "icd10_D559",
+          "code": "D559",
+          "short_description": "Anemia due to enzyme disorder, unspecified",
+          "long_description": "Anemia due to enzyme disorder, unspecified",
+          "distance": 0.9198699593544006
+        },
+        {
+          "chunk_id": "icd10_D4621",
+          "code": "D4621",
+          "short_description": "Refractory anemia with excess of blasts 1",
+          "long_description": "Refractory anemia with excess of blasts 1",
+          "distance": 0.9324067831039429
+        }
+      ]
+    },
+    {
+      "diagnosis": "Unspecified anemia",
+      "icd10_code": "D649",
+      "description": "Anemia, unspecified",
+      "confidence": 0.99,
+      "candidates": [
+        {
+          "chunk_id": "icd10_D649",
+          "code": "D649",
+          "short_description": "Anemia, unspecified",
+          "long_description": "Anemia, unspecified",
+          "distance": 0.31020450592041016
+        },
+        {
+          "chunk_id": "icd10_D509",
+          "code": "D509",
+          "short_description": "Iron deficiency anemia, unspecified",
+          "long_description": "Iron deficiency anemia, unspecified",
+          "distance": 0.5003243088722229
+        },
+        {
+          "chunk_id": "icd10_D464",
+          "code": "D464",
+          "short_description": "Refractory anemia, unspecified",
+          "long_description": "Refractory anemia, unspecified",
+          "distance": 0.5088286995887756
+        },
+        {
+          "chunk_id": "icd10_D559",
+          "code": "D559",
+          "short_description": "Anemia due to enzyme disorder, unspecified",
+          "long_description": "Anemia due to enzyme disorder, unspecified",
+          "distance": 0.5505387783050537
+        },
+        {
+          "chunk_id": "icd10_D6489",
+          "code": "D6489",
+          "short_description": "Other specified anemias",
+          "long_description": "Other specified anemias",
+          "distance": 0.5629322528839111
+        },
+        {
+          "chunk_id": "icd10_D619",
+          "code": "D619",
+          "short_description": "Aplastic anemia, unspecified",
+          "long_description": "Aplastic anemia, unspecified",
+          "distance": 0.5838309526443481
+        },
+        {
+          "chunk_id": "icd10_A219",
+          "code": "A219",
+          "short_description": "Tularemia, unspecified",
+          "long_description": "Tularemia, unspecified",
+          "distance": 0.6226856708526611
+        },
+        {
+          "chunk_id": "icd10_D4620",
+          "code": "D4620",
+          "short_description": "Refractory anemia with excess of blasts, unspecified",
+          "long_description": "Refractory anemia with excess of blasts, unspecified",
+          "distance": 0.6478679180145264
+        },
+        {
+          "chunk_id": "icd10_D529",
+          "code": "D529",
+          "short_description": "Folate deficiency anemia, unspecified",
+          "long_description": "Folate deficiency anemia, unspecified",
+          "distance": 0.6863097548484802
+        },
+        {
+          "chunk_id": "icd10_D599",
+          "code": "D599",
+          "short_description": "Acquired hemolytic anemia, unspecified",
+          "long_description": "Acquired hemolytic anemia, unspecified",
+          "distance": 0.6924223899841309
+        }
+      ]
+    }
+  ]
+}

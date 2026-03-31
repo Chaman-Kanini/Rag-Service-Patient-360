@@ -1,0 +1,77 @@
+{
+  "batch_id": "batch_df4cc680",
+  "finalized_at": "2026-02-06T15:43:20.812792",
+  "icd10_codes": [
+    {
+      "id": "icd10_Mixed dyslipidemia_E782",
+      "type": "icd10",
+      "sourceItem": "Mixed dyslipidemia",
+      "code": "E782",
+      "description": "Mixed hyperlipidemia",
+      "isAISuggested": true,
+      "isAccepted": true
+    },
+    {
+      "id": "icd10_Essential hypertension, benign_I10",
+      "type": "icd10",
+      "sourceItem": "Essential hypertension, benign",
+      "code": "I10",
+      "description": "Essential (primary) hypertension",
+      "isAISuggested": true,
+      "isAccepted": true
+    },
+    {
+      "id": "icd10_Postoperative anemia_D62",
+      "type": "icd10",
+      "sourceItem": "Postoperative anemia",
+      "code": "D62",
+      "description": "Acute posthemorrhagic anemia",
+      "isAISuggested": true,
+      "isAccepted": true
+    },
+    {
+      "id": "icd10_Leg pain_M79606",
+      "type": "icd10",
+      "sourceItem": "Leg pain",
+      "code": "M79606",
+      "description": "Pain in leg, unspecified",
+      "isAISuggested": true,
+      "isAccepted": true
+    },
+    {
+      "id": "icd10_Unspecified anemia_D649",
+      "type": "icd10",
+      "sourceItem": "Unspecified anemia",
+      "code": "D649",
+      "description": "Anemia, unspecified",
+      "isAISuggested": true,
+      "isAccepted": true
+    },
+    {
+      "id": "icd10_Hyperlipidemia associated with type 2 diabetes mellitus (CMS/HCC)_E782",
+      "type": "icd10",
+      "sourceItem": "Hyperlipidemia associated with type 2 diabetes mellitus (CMS/HCC)",
+      "code": "E782",
+      "description": "Mixed hyperlipidemia",
+      "isAISuggested": true,
+      "isAccepted": true
+    }
+  ],
+  "cpt_codes": [
+    {
+      "id": "cpt_COLONOSCOPY, WITH BIOPSY_45380",
+      "type": "cpt",
+      "sourceItem": "COLONOSCOPY, WITH BIOPSY",
+      "code": "45380",
+      "description": "Colonoscopy and biopsy",
+      "isAISuggested": true,
+      "isAccepted": true
+    }
+  ],
+  "summary": {
+    "total_icd10": 6,
+    "total_cpt": 1,
+    "ai_suggested_accepted": 7,
+    "manually_added": 0
+  }
+}

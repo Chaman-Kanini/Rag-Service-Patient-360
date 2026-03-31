@@ -1,0 +1,5 @@
+QUESTION:
+What allergies does the patient have?
+
+ANSWER:
+No allergies are documented in the provided record.

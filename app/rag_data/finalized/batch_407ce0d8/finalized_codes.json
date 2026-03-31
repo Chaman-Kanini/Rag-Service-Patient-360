@@ -1,0 +1,104 @@
+{
+  "batch_id": "batch_407ce0d8",
+  "finalized_at": "2026-02-12T13:04:34.547817",
+  "icd10_codes": [
+    {
+      "id": "icd10_Mixed dyslipidemia - Primary_E782",
+      "type": "icd10",
+      "sourceItem": "Mixed dyslipidemia - Primary",
+      "code": "E782",
+      "description": "Mixed hyperlipidemia",
+      "isAISuggested": true,
+      "isAccepted": true
+    },
+    {
+      "id": "icd10_Essential hypertension, benign_I10",
+      "type": "icd10",
+      "sourceItem": "Essential hypertension, benign",
+      "code": "I10",
+      "description": "Essential (primary) hypertension",
+      "isAISuggested": true,
+      "isAccepted": true
+    },
+    {
+      "id": "icd10_Leg pain_M79606",
+      "type": "icd10",
+      "sourceItem": "Leg pain",
+      "code": "M79606",
+      "description": "Pain in leg, unspecified",
+      "isAISuggested": true,
+      "isAccepted": true
+    },
+    {
+      "id": "icd10_Postoperative anemia_D62",
+      "type": "icd10",
+      "sourceItem": "Postoperative anemia",
+      "code": "D62",
+      "description": "Acute posthemorrhagic anemia",
+      "isAISuggested": true,
+      "isAccepted": true
+    },
+    {
+      "id": "icd10_Unspecified anemia_D649",
+      "type": "icd10",
+      "sourceItem": "Unspecified anemia",
+      "code": "D649",
+      "description": "Anemia, unspecified",
+      "isAISuggested": true,
+      "isAccepted": true
+    },
+    {
+      "id": "icd10_Hyperlipidemia associated with type 2 diabetes mellitus (CMS/HCC)_E7849",
+      "type": "icd10",
+      "sourceItem": "Hyperlipidemia associated with type 2 diabetes mellitus (CMS/HCC)",
+      "code": "E7849",
+      "description": "Other hyperlipidemia",
+      "isAISuggested": true,
+      "isAccepted": true
+    },
+    {
+      "id": "icd10_MRSA_A4901",
+      "type": "icd10",
+      "sourceItem": "MRSA",
+      "code": "A4901",
+      "description": "Methicillin suscep staph infection, unsp site (Methicillin susceptible Staphylococcus aureus infection, unspecified site)",
+      "isAISuggested": true,
+      "isAccepted": true
+    },
+    {
+      "id": "icd10_COVID-19_U071",
+      "type": "icd10",
+      "sourceItem": "COVID-19",
+      "code": "U071",
+      "description": "COVID-19",
+      "isAISuggested": true,
+      "isAccepted": true
+    },
+    {
+      "id": "icd10_Postprocedural hypertension_I973",
+      "type": "icd10",
+      "sourceItem": "Postprocedural hypertension",
+      "code": "I973",
+      "description": "Postprocedural hypertension",
+      "isAISuggested": false,
+      "isAccepted": true
+    }
+  ],
+  "cpt_codes": [
+    {
+      "id": "cpt_Colonoscopy with biopsy_44389_custom",
+      "type": "cpt",
+      "sourceItem": "Colonoscopy with biopsy",
+      "code": "44389",
+      "description": "Colonoscopy with biopsy",
+      "isAISuggested": false,
+      "isAccepted": true
+    }
+  ],
+  "summary": {
+    "total_icd10": 9,
+    "total_cpt": 1,
+    "ai_suggested_accepted": 8,
+    "manually_added": 2
+  }
+}

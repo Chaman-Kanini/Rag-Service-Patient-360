@@ -1,0 +1,521 @@
+{
+  "patient": {
+    "name": "Olivia",
+    "dob": "05/05/1952",
+    "age": "73",
+    "sex": "female",
+    "id": "104",
+    "phone": "+1310 5561256",
+    "_source": [
+      "[Page 2] PATIENT INFORMATION block: \"DOB: 05/05/1952 Gender: Patient female Age: 73 ID: 104 Phone: +1310 5561256\"",
+      "[Page 3] PATIENT INFORMATION block: \"DOB: 05/05/1952 Gender: female Age 73 Patient 104 ID: Phone: +1310 5561256\"",
+      "[Page 1] PATIENT INFORMATION block: \"DOB: 05/05/195 Gender: Patient female 104 Age: 73 ID: Phone: +1310 5561256\"",
+      "[Page 4] PATIENT INFORMATION block: \"DOB: 05/05/195 Gender: Patient female 104 Age: 73 ID: Phone: +1310 5561256\""
+    ]
+  },
+  "encounters": [
+    {
+      "date": "04/25/2025 9:30 AM EDT",
+      "type": "Office Visit",
+      "department": "Piedmont Heart of Newnan",
+      "care_team": "Darlington, Andrew, DO",
+      "description": "1267 Highway 54 West 795 Poplar Road, Suite 400 Ste 2200 Fayetteville, GA 30214 770-716-0051 770-716-0051 (Work) 770-716-0087 (Fax)",
+      "_source": "[Page 3] Date Type Department Care Team (Latest Contact Info) block: \"04/25 /2025 9: 30 AM EDT Office Visit Piedmont Heart of Newnan Darlington, Andrew, DO 1267 Highway 54 West 795 Poplar Road, Suite 400 Ste 2200 Fayetteville, GA 30214 770-716-0051 770-716-0051 (Work) 770-716-0087 (Fax)\""
+    },
+    {
+      "date": "04/23/2025 10:00 AM EDT",
+      "type": "Office Visit",
+      "department": "Pulmonary and Sleep Medicine Newnan",
+      "care_team": "Kandaswamy, Shankar, MD",
+      "description": "745 Poplar Road NEWNAN, GA 30265 2301 Newnan Crossing Boulevard Suite 200 770-400-1000 (Work) 404-367-3558 (Fax)",
+      "_source": "[Page 2] Date Type Department Care Team (Latest Contact Info) block: \"04/23 /2025 10: 00 AM EDT Office Visit Piedmont Physicians Kandaswamy, Shankar, MD Pulmonary and Sleep Medicine Newnan 745 Poplar Road NEWNAN, GA 30265 2301 Newnan Crossing Boulevard Suite 200 770-400-1000 (Work) 404-367-3558 (Fax)\""
+    },
+    {
+      "date": "02/21/2025 9:11 AM EST",
+      "type": "Surgery",
+      "department": "Peri-Op Services",
+      "care_team": "Haroon, Mustafa, MD",
+      "description": "Piedmont Newnan Hospital COLONOSCOPY, WITH BIOPSY 745 POPLAR RD SUITE B NEWNAN, GA 30265-1618 770-400-1000 678-631-4610 (Work) 678-631-4611 (Fax)",
+      "_source": "[Page 2] Date Type Department Care Team (Latest Contact Info) block: \"02/21 /2025 8: Surgery Piedmont Newnan Hospital Haroon, Mustafa, MD COLONOSCOPY, WITH BIOPSY 33 AM Peri-Op Services 1200 LOWER EST - 02 FAYETTEVILLE ROAD /21/2025 745 POPLAR RD 9:11 AM SUITE B EST NEWNAN, GA 30265-1618 770-400-1000 NEWNAN, GA 30265 678-631-4610 (Work) 678-631-4611 (Fax)\""
+    },
+    {
+      "date": "02/21/2025 8:33 AM EST",
+      "type": "Hospital Encounter",
+      "department": "Peri-Op Services",
+      "care_team": "Haroon, Mustafa, MD",
+      "description": "Piedmont Newnan Hospital 1200 LOWER FAYETTEVILLE ROAD 745 POPLAR RD SUITE B NEWNAN, GA 30265 770-400-1000 678-631-4610 (Work) 678-631-4611 (Fax)",
+      "_source": "[Page 2] Date Type Department Care Team (Latest Contact Info) block: \"02/21 /2025 8: 33 AM Peri-Op Services 1200 LOWER EST - 02 FAYETTEVILLE ROAD /21/2025 745 POPLAR RD SUITE B EST NEWNAN, GA 30265-1618 770-400-1000 NEWNAN, GA 30265 678-631-4610 (Work) 678-631-4611 (Fax)\""
+    },
+    {
+      "date": "02/20/2025 1:15 PM EST",
+      "type": "Office Visit",
+      "department": "Atlanta Vascular Specialists - Newnan",
+      "care_team": "Dooley, John David, MD",
+      "description": "1233 HWY 54 WEST 2201 Newnan Crossing Blvd SUITE 210 Suite 200 FAYETTEVILLE, GA 30214- Newnan, GA 30265-2251 404-524-0095 404-524-0095 (Work) 404-658-9558 (Fax)",
+      "_source": "[Page 2] Date Type Department Care Team (Latest Contact Info) block: \"02/20 /2025 1: Office Visit Atlanta Vascular Specialists Dooley, John David, MD 15 PM - Newnan 1233 HWY 54 WEST EST 2201 Newnan Crossing Blvd SUITE 210 Suite 200 FAYETTEVILLE, GA 30214- Newnan, GA 30265-2251 4542 404-524-0095 404-524-0095 (Work) 404-658-9558 (Fax)\""
+    },
+    {
+      "date": "07/11/2023",
+      "type": "Travel",
+      "department": "Social history",
+      "description": "Encounter details entry: Travel",
+      "_source": "[Page 1] Encounter details table: \"07/11 /2023 Travel Social history\""
+    }
+  ],
+  "diagnoses": [
+    {
+      "diagnosis": "Special screening for malignant neoplasms, colon",
+      "status": "documented as of this encounter",
+      "date": "02/21/2025 8:33 AM EST",
+      "_source": "[Page 3] Scheduled Procedures block: \"COLONOSCOPY, WITH BIOPSY Special screening for malignant neoplasms, colon 02/21/2025 8:33 AM EST documented as of this encounter\""
+    },
+    {
+      "diagnosis": "Not on file",
+      "status": "documented in this encounter",
+      "_source": [
+        "[Page 2] Visit diagnoses block: \"Not on file documented in this encounter\"",
+        "[Page 3] Visit diagnoses block: \"Not on file documented in this encounter\""
+      ]
+    }
+  ],
+  "procedures": [
+    {
+      "procedure": "COLONOSCOPY, WITH BIOPSY",
+      "date": "02/21/2025 8:33 AM EST",
+      "context": "Scheduled Procedures",
+      "_source": "[Page 3] Scheduled Procedures block: \"COLONOSCOPY, WITH BIOPSY Special screening for malignant neoplasms, colon 02/21/2025 8:33 AM EST documented as of this encounter\""
+    },
+    {
+      "procedure": "COLONOSCOPY, WITH BIOPSY",
+      "date": "02/21/2025 9:11 AM EST",
+      "context": "Surgery",
+      "_source": "[Page 2] Surgery block: \"02/21 /2025 8: Surgery Piedmont Newnan Hospital Haroon, Mustafa, MD COLONOSCOPY, WITH BIOPSY 33 AM Peri-Op Services 1200 LOWER EST - 02 FAYETTEVILLE ROAD /21/2025 745 POPLAR RD 9:11 AM SUITE B EST NEWNAN, GA 30265-1618 770-400-1000 NEWNAN, GA 30265 678-631-4610 (Work) 678-631-4611 (Fax)\""
+    }
+  ],
+  "social_history": {
+    "tobacco_use": [
+      {
+        "text": "Smoking Tobacco: Every Day Cigarettes 0.5 50",
+        "_source": "[Page 1] Social History table: \"Smoking Tobacco: Every Day Cigarettes 0.5 50\""
+      },
+      {
+        "text": "Smokeless Tobacco: Never",
+        "_source": "[Page 1] Social History table: \"Smokeless Tobacco: Never\""
+      }
+    ],
+    "alcohol_use": [
+      {
+        "text": "Alcohol Use Standard Drinks/Week Comments No 0 (1 standard drink = 0.6 oz pure alcohol)",
+        "_source": "[Page 1] Social History table: \"Alcohol Use Standard Drinks/Week Comments No 0 (1 standard drink = 0.6 oz pure alcohol)\""
+      }
+    ],
+    "covid_19_exposure_response": [
+      {
+        "text": "In the last 10 days, have you been in contact with someone who was confirmed or suspected to have Coronavirus /COVID-19? No / Unsure 7/11/2023 8:35 AM EDT documented as of this encounter",
+        "_source": "[Page 1] COVID-19 Exposure Response Date Recorded block: \"In the last 10 days, have you been in contact with someone who was confirmed or suspected to have Coronavirus /COVID-19? No / Unsure 7/11/2023 8:35 AM EDT documented as of this encounter\""
+      }
+    ],
+    "sex_and_gender_information": [
+      {
+        "text": "Sex Assigned at Birth Not on file",
+        "_source": "[Page 1] Sex and Gender Information block: \"Sex Assigned at Birth Not on file\""
+      },
+      {
+        "text": "Legal Sex Male 06/19/2013 2:39 AM EDT",
+        "_source": "[Page 1] Sex and Gender Information block: \"Legal Sex Male 06/19/2013 2:39 AM EDT\""
+      },
+      {
+        "text": "Gender Identity Not on file",
+        "_source": "[Page 1] Sex and Gender Information block: \"Gender Identity Not on file\""
+      },
+      {
+        "text": "Sexual Orientation Not on file",
+        "_source": "[Page 1] Sex and Gender Information block: \"Sexual Orientation Not on file\""
+      }
+    ]
+  },
+  "care_team": [
+    {
+      "name": "Kandaswamy, Shankar, MD",
+      "npi": "1689657181",
+      "address": "2301 Newnan Crossing Blvd Suite 200 Newnan, GA 30265",
+      "phone": "770-683-6921 (Work)",
+      "relationship": "PCP - General",
+      "specialty": "Pulmonary Disease",
+      "start_date": "9/10/21",
+      "end_date": "1/22/24",
+      "_source": "[Page 2] Care teams block: \"Kandaswamy, Shankar, MD NPI: 1689657181 2301 Newnan Crossing Blvd Suite 200 Newnan, GA 30265 770-683-6921 (Work) PCP - General Pulmonary Disease 9/10/21 1/22/24\""
+    },
+    {
+      "name": "Guthikonda, Sasidhar, MD",
+      "npi": "1851595367",
+      "address": "795 Poplar Road STE 400 Newnan, GA 30265",
+      "phone": "770-716-0051 (Work)",
+      "specialty": "Cardiologist Cardiovascular Disease",
+      "start_date": "7/13/21",
+      "_source": "[Page 4] Team Member block: \"Guthikonda, Sasidhar, MD NPI: 1851595367 795 Poplar Road STE 400 Newnan, GA 30265 770-716-0051 (Work) 678-423-4960 (Fax) Cardiologist Cardiovascular Disease 7/13/21\""
+    },
+    {
+      "name": "Darlington, Andrew, DO",
+      "npi": "1942352851",
+      "address": "1267 Highway 54 West Ste 2200 Fayetteville, GA 30214",
+      "phone": "770-716-0051 (Work)",
+      "specialty": "Primary Cardiologist Advanced Heart Failure and Transplant Cardiology",
+      "start_date": "9/10/21",
+      "_source": "[Page 4] Team Member block: \"Darlington, Andrew, DO NPI: 1942352851 1267 Highway 54 West Ste 2200 Fayetteville, GA 30214 770-716-0051 (Work) 770-716-0087 (Fax) Primary Cardiologist Advanced Heart Failure and Transplant Cardiology 9/10/21\""
+    },
+    {
+      "name": "Dooley, John David, MD",
+      "relationship": "Care Team (Latest Contact Info)",
+      "specialty": "Atlanta Vascular Specialists",
+      "address": "1233 HWY 54 WEST 2201 Newnan Crossing Blvd SUITE 210 Suite 200 FAYETTEVILLE, GA 30214- Newnan, GA 30265-2251",
+      "phone": "404-524-0095 (Work)",
+      "_source": "[Page 2] Date Type Department Care Team (Latest Contact Info) block: \"02/20 /2025 ... Office Visit Atlanta Vascular Specialists Dooley, John David, MD ... 404-524-0095 (Work)\""
+    },
+    {
+      "name": "Haroon, Mustafa, MD",
+      "relationship": "Care Team (Latest Contact Info)",
+      "specialty": "Peri-Op Services",
+      "address": "Piedmont Newnan Hospital 745 POPLAR RD SUITE B NEWNAN, GA 30265-1618",
+      "phone": "770-400-1000",
+      "_source": "[Page 2] Date Type Department Care Team (Latest Contact Info) block: \"02/21 /2025 ... Hospital Encounter Piedmont Newnan Hospital Haroon, Mustafa, MD ... Peri-Op Services 1200 LOWER FAYETTEVILLE ROAD 745 POPLAR RD SUITE B NEWNAN, GA 30265\""
+    }
+  ],
+  "plans_and_followups": [
+    {
+      "text": "Plan of treatment Upcoming Encounters",
+      "_source": "[Page 1] Plan of treatment block: \"Plan of treatment Upcoming Encounters\""
+    },
+    {
+      "text": "Scheduled Procedures: COLONOSCOPY, WITH BIOPSY Special screening for malignant neoplasms, colon 02/21/2025 8:33 AM EST documented as of this encounter",
+      "_source": "[Page 3] Scheduled Procedures block: \"COLONOSCOPY, WITH BIOPSY Special screening for malignant neoplasms, colon 02/21/2025 8:33 AM EST documented as of this encounter\""
+    }
+  ],
+  "notes": [
+    {
+      "text": "Test4 Piedmont Healthcare Patient Record 02/19/2025 Page 1 of 4 Source: Piedmont Healthcare Received: 02/19/2025 04:00 PM Modified: 02/19/2025 04:00 PM",
+      "_source": "[Page 1] Document header"
+    },
+    {
+      "text": "Printed from Health Gorilla Secure Clinical Network. Copyright © 2025 Health Gorilla Inc. https://www.healthgorilla.com",
+      "_source": "[Page 1] Footer"
+    }
+  ],
+  "conflicts": [
+    {
+      "entity_type": "patient.sex",
+      "entity_name": "Legal sex vs recorded gender",
+      "conflict_description": "Document contains conflicting sex/gender entries: 'Gender: female' and 'Legal Sex Male 06/19/2013 2:39 AM EDT'. Both are explicitly present and conflict.",
+      "variants": [
+        {
+          "value": "female",
+          "_source": "[Page 2] PATIENT INFORMATION block: \"Gender: Patient female\""
+        },
+        {
+          "value": "Legal Sex Male 06/19/2013 2:39 AM EDT",
+          "_source": "[Page 1] Sex and Gender Information block: \"Legal Sex Male 06/19/2013 2:39 AM EDT\""
+        }
+      ]
+    },
+    {
+      "entity_type": "procedure",
+      "entity_name": "COLONOSCOPY, WITH BIOPSY",
+      "conflict_description": "Procedure 'COLONOSCOPY, WITH BIOPSY' has conflicting date/time entries in the document: '02/21/2025 8:33 AM EST' (Scheduled Procedures) vs '02/21/2025 9:11 AM EST' (Surgery).",
+      "variants": [
+        {
+          "value": "02/21/2025 8:33 AM EST",
+          "_source": "[Page 3] Scheduled Procedures block: \"02/21/2025 8:33 AM EST\""
+        },
+        {
+          "value": "02/21/2025 9:11 AM EST",
+          "_source": "[Page 2] Surgery block: \"02/21/2025 9:11 AM SUITE B EST\""
+        }
+      ]
+    }
+  ],
+  "patient_summary": "Olivia, a 73-year-old female (recorded), DOB 05/05/1952, has a scheduled colonoscopy with biopsy documented for 02/21/2025 (procedure recorded as COLONOSCOPY, WITH BIOPSY). Recent encounters include office visits with Atlanta Vascular Specialists (02/20/2025), Piedmont peri‑operative services and surgery (02/21/2025), pulmonary clinic (04/23/2025), and cardiology (04/25/2025). Social history documents daily cigarette use (Cigarettes 0.5, 50 years), no smokeless tobacco, and no alcohol use (0 drinks/week). Care team members include Shankar Kandaswamy, MD; Sasidhar Guthikonda, MD; Andrew Darlington, DO; John David Dooley, MD; and Mustafa Haroon, MD. Notable conflict: document contains both 'female' and 'Legal Sex Male 06/19/2013 2:39 AM EDT'. Primary documented reason for procedure: \"Special screening for malignant neoplasms, colon.\"",
+  "icd10_codes": [
+    {
+      "diagnosis": "Special screening for malignant neoplasms, colon",
+      "icd10_code": "C189",
+      "description": "Malignant neoplasm of colon, unspecified",
+      "confidence": 0.35,
+      "candidates": [
+        {
+          "chunk_id": "icd10_C189",
+          "code": "C189",
+          "short_description": "Malignant neoplasm of colon, unspecified",
+          "long_description": "Malignant neoplasm of colon, unspecified",
+          "distance": 0.400493860244751
+        },
+        {
+          "chunk_id": "icd10_C184",
+          "code": "C184",
+          "short_description": "Malignant neoplasm of transverse colon",
+          "long_description": "Malignant neoplasm of transverse colon",
+          "distance": 0.49966979026794434
+        },
+        {
+          "chunk_id": "icd10_C186",
+          "code": "C186",
+          "short_description": "Malignant neoplasm of descending colon",
+          "long_description": "Malignant neoplasm of descending colon",
+          "distance": 0.5110111832618713
+        },
+        {
+          "chunk_id": "icd10_C182",
+          "code": "C182",
+          "short_description": "Malignant neoplasm of ascending colon",
+          "long_description": "Malignant neoplasm of ascending colon",
+          "distance": 0.5310450792312622
+        },
+        {
+          "chunk_id": "icd10_C188",
+          "code": "C188",
+          "short_description": "Malignant neoplasm of overlapping sites of colon",
+          "long_description": "Malignant neoplasm of overlapping sites of colon",
+          "distance": 0.5421929955482483
+        },
+        {
+          "chunk_id": "icd10_D126",
+          "code": "D126",
+          "short_description": "Benign neoplasm of colon, unspecified",
+          "long_description": "Benign neoplasm of colon, unspecified",
+          "distance": 0.5716562271118164
+        },
+        {
+          "chunk_id": "icd10_D374",
+          "code": "D374",
+          "short_description": "Neoplasm of uncertain behavior of colon",
+          "long_description": "Neoplasm of uncertain behavior of colon",
+          "distance": 0.5799340009689331
+        },
+        {
+          "chunk_id": "icd10_C187",
+          "code": "C187",
+          "short_description": "Malignant neoplasm of sigmoid colon",
+          "long_description": "Malignant neoplasm of sigmoid colon",
+          "distance": 0.6276267170906067
+        },
+        {
+          "chunk_id": "icd10_D124",
+          "code": "D124",
+          "short_description": "Benign neoplasm of descending colon",
+          "long_description": "Benign neoplasm of descending colon",
+          "distance": 0.6833544969558716
+        },
+        {
+          "chunk_id": "icd10_C260",
+          "code": "C260",
+          "short_description": "Malignant neoplasm of intestinal tract, part unspecified",
+          "long_description": "Malignant neoplasm of intestinal tract, part unspecified",
+          "distance": 0.7034280300140381
+        }
+      ]
+    },
+    {
+      "diagnosis": "Not on file",
+      "icd10_code": "V0591XS",
+      "description": "Pedestrian on roller-skates injured in collision with railway train or railway vehicle, unspecified whether traffic or nontraffic accident, sequela",
+      "confidence": 0.15,
+      "candidates": [
+        {
+          "chunk_id": "icd10_V817XXS",
+          "code": "V817XXS",
+          "short_description": "Occ of rail trn/veh inj in derail w/o antecedent clsn, sqla",
+          "long_description": "Occupant of railway train or railway vehicle injured in derailment without antecedent collision, sequela",
+          "distance": 1.6406636238098145
+        },
+        {
+          "chunk_id": "icd10_V980XXS",
+          "code": "V980XXS",
+          "short_description": "Accident to, on or w cable-car, not on rails, sequela",
+          "long_description": "Accident to, on or involving cable-car, not on rails, sequela",
+          "distance": 1.6427936553955078
+        },
+        {
+          "chunk_id": "icd10_V652XXS",
+          "code": "V652XXS",
+          "short_description": "Person outsd hv veh inj in clsn w rail trn/veh nontraf, sqla",
+          "long_description": "Person on outside of heavy transport vehicle injured in collision with railway train or railway vehicle in nontraffic accident, sequela",
+          "distance": 1.6589289903640747
+        },
+        {
+          "chunk_id": "icd10_V0611XS",
+          "code": "V0611XS",
+          "short_description": "Ped on rolr-skt inj in clsn w nonmtr vehicle in traf, sqla",
+          "long_description": "Pedestrian on roller-skates injured in collision with other nonmotor vehicle in traffic accident, sequela",
+          "distance": 1.6635249853134155
+        },
+        {
+          "chunk_id": "icd10_V810XXS",
+          "code": "V810XXS",
+          "short_description": "Occ of rail trn/veh inj in clsn w mtr veh nontraf, sequela",
+          "long_description": "Occupant of railway train or railway vehicle injured in collision with motor vehicle in nontraffic accident, sequela",
+          "distance": 1.6658614873886108
+        },
+        {
+          "chunk_id": "icd10_Y9357",
+          "code": "Y9357",
+          "short_description": "Activity, non-running track and field events",
+          "long_description": "Activity, non-running track and field events",
+          "distance": 1.6692347526550293
+        },
+        {
+          "chunk_id": "icd10_V0591XS",
+          "code": "V0591XS",
+          "short_description": "Ped on rolr-skt inj in clsn w rail trn/veh, unsp, sequela",
+          "long_description": "Pedestrian on roller-skates injured in collision with railway train or railway vehicle, unspecified whether traffic or nontraffic accident, sequela",
+          "distance": 1.6706349849700928
+        },
+        {
+          "chunk_id": "icd10_V05931S",
+          "code": "V05931S",
+          "short_description": "Ped on stnd electr scoot inj in clsn train/veh, unsp, sqla",
+          "long_description": "Pedestrian on standing electric scooter injured in collision with railway train or railway vehicle, unspecified whether traffic or nontraffic accident, sequela",
+          "distance": 1.6755203008651733
+        },
+        {
+          "chunk_id": "icd10_R87624",
+          "code": "R87624",
+          "short_description": "Cytologic evidence of malignancy on smear of vagina",
+          "long_description": "Cytologic evidence of malignancy on smear of vagina",
+          "distance": 1.6778864860534668
+        },
+        {
+          "chunk_id": "icd10_V05031S",
+          "code": "V05031S",
+          "short_description": "Ped on stnd electr scoot inj in clsn train/veh nontraf, sqla",
+          "long_description": "Pedestrian on standing electric scooter injured in collision with railway train or railway vehicle in nontraffic accident, sequela",
+          "distance": 1.67974853515625
+        }
+      ]
+    }
+  ],
+  "cpt_codes": [
+    {
+      "procedure": "COLONOSCOPY, WITH BIOPSY",
+      "cpt_code": "45380",
+      "description": "Colonoscopy and biopsy",
+      "confidence": 0.95,
+      "candidates": [
+        {
+          "chunk_id": "cpt_44389",
+          "code": "44389",
+          "description": "Colonoscopy with biopsy",
+          "distance": 0.29185914993286133
+        },
+        {
+          "chunk_id": "cpt_45380",
+          "code": "45380",
+          "description": "Colonoscopy and biopsy",
+          "distance": 0.37657368183135986
+        },
+        {
+          "chunk_id": "cpt_45378",
+          "code": "45378",
+          "description": "Diagnostic colonoscopy",
+          "distance": 0.6322929859161377
+        },
+        {
+          "chunk_id": "cpt_44100",
+          "code": "44100",
+          "description": "Biopsy of bowel",
+          "distance": 0.6529698371887207
+        },
+        {
+          "chunk_id": "cpt_45384",
+          "code": "45384",
+          "description": "Colonoscopy w/lesion removal",
+          "distance": 0.6893248558044434
+        },
+        {
+          "chunk_id": "cpt_45390",
+          "code": "45390",
+          "description": "Colonoscopy w/resection",
+          "distance": 0.6933605074882507
+        },
+        {
+          "chunk_id": "cpt_45385",
+          "code": "45385",
+          "description": "Colonoscopy w/lesion removal",
+          "distance": 0.6939917802810669
+        },
+        {
+          "chunk_id": "cpt_44401",
+          "code": "44401",
+          "description": "Colonoscopy with ablation",
+          "distance": 0.6960335969924927
+        },
+        {
+          "chunk_id": "cpt_46607",
+          "code": "46607",
+          "description": "Diagnostic anoscopy & biopsy",
+          "distance": 0.7075386047363281
+        }
+      ]
+    },
+    {
+      "procedure": "COLONOSCOPY, WITH BIOPSY",
+      "cpt_code": "45380",
+      "description": "Colonoscopy and biopsy",
+      "confidence": 0.95,
+      "candidates": [
+        {
+          "chunk_id": "cpt_44389",
+          "code": "44389",
+          "description": "Colonoscopy with biopsy",
+          "distance": 0.29185914993286133
+        },
+        {
+          "chunk_id": "cpt_45380",
+          "code": "45380",
+          "description": "Colonoscopy and biopsy",
+          "distance": 0.37657368183135986
+        },
+        {
+          "chunk_id": "cpt_45378",
+          "code": "45378",
+          "description": "Diagnostic colonoscopy",
+          "distance": 0.6322929859161377
+        },
+        {
+          "chunk_id": "cpt_44100",
+          "code": "44100",
+          "description": "Biopsy of bowel",
+          "distance": 0.6529698371887207
+        },
+        {
+          "chunk_id": "cpt_45384",
+          "code": "45384",
+          "description": "Colonoscopy w/lesion removal",
+          "distance": 0.6893248558044434
+        },
+        {
+          "chunk_id": "cpt_45390",
+          "code": "45390",
+          "description": "Colonoscopy w/resection",
+          "distance": 0.6933605074882507
+        },
+        {
+          "chunk_id": "cpt_45385",
+          "code": "45385",
+          "description": "Colonoscopy w/lesion removal",
+          "distance": 0.6939917802810669
+        },
+        {
+          "chunk_id": "cpt_44401",
+          "code": "44401",
+          "description": "Colonoscopy with ablation",
+          "distance": 0.6960335969924927
+        },
+        {
+          "chunk_id": "cpt_46607",
+          "code": "46607",
+          "description": "Diagnostic anoscopy & biopsy",
+          "distance": 0.7075386047363281
+        }
+      ]
+    }
+  ]
+}

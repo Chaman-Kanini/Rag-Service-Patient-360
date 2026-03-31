@@ -1,0 +1,662 @@
+{
+  "patient": {
+    "name": "Olivia",
+    "dob": "05/05/1952",
+    "age": "73",
+    "sex": "Female",
+    "phone": "+13105561256",
+    "patient_id": "104",
+    "_source": [
+      "SingingRiverHealthSystem Progress Note Received: 03/20/2024 Page 1",
+      "SingingRiverHealthSystem Progress Note Received: 03/20/2024 Page 6",
+      "PiedmontHealthcare ClinicalNote Received: 01/21/2025 Page 6"
+    ]
+  },
+  "encounters": [
+    {
+      "date": "07/11/2023",
+      "type": "Travel",
+      "description": "Travel",
+      "department": "Social history",
+      "_source": "PiedmontHealthcare ContinuityofCare Document Received: 02/19/2025 Page 1 (EncounterDetails)"
+    },
+    {
+      "date": "06/30/2023",
+      "type": "OrdersOnly",
+      "department": "PrimaryCareServices",
+      "care_team": "Hand, Hoyet A, MD",
+      "description": "Mixeddyslipidemia(Primary Dx); Essentialhypertension, benign; Postoperativeanemia LegPain",
+      "_source": "SingingRiverHealthSystem Progress Note Received: 03/20/2024 Page 1 (Encounter details)"
+    },
+    {
+      "date": "02/20/2025",
+      "type": "OfficeVisit",
+      "department": "AtlantaVascularSpecialists",
+      "care_team": "Dooley, John David, MD",
+      "description": "OfficeVisit - Newnan",
+      "_source": "PiedmontHealthcare ContinuityofCare Document Received: 02/19/2025 Page 2 (Encounter details)"
+    },
+    {
+      "date": "02/21/2025",
+      "type": "Hospital Encounter",
+      "department": "PiedmontNewnanHospital",
+      "care_team": "Haroon, Mustafa, MD",
+      "description": "Hospital Encounter Peri-OpServices",
+      "_source": "PiedmontHealthcare ContinuityofCare Document Received: 02/19/2025 Page 2 (Encounter details)"
+    },
+    {
+      "date": "02/21/2025",
+      "type": "Surgery",
+      "department": "Peri-OpServices",
+      "care_team": "Haroon, Mustafa, MD",
+      "description": "COLONOSCOPY,WITH BIOPSY",
+      "_source": "PiedmontHealthcare ContinuityofCare Document Received: 02/19/2025 Page 2 (Encounter details)"
+    },
+    {
+      "date": "01/12/2021",
+      "type": "Refill",
+      "department": "TheHeartGroupOfLGHealth",
+      "care_team": "Roberts, Justin D, DO",
+      "description": "RefillRequest(Atorvastatin/CVS)",
+      "_source": "PiedmontHealthcare ClinicalNote Received: 01/21/2025 Page 1 (Encounter details)"
+    },
+    {
+      "date": "04/19/2024",
+      "type": "Appointment",
+      "department": "PrimaryCareServices",
+      "description": "Appointment 04/19/2024 10:00AM SingingRiverGulfport PrimaryCareServices 350CowanRoad",
+      "_source": "SingingRiverHealthSystem Progress Note Received: 03/20/2024 Page 3 (Plan of treatment Upcoming Encounters)"
+    },
+    {
+      "date": "04/22/2024",
+      "type": "OfficeVisit",
+      "department": "PrimaryCareServices",
+      "care_team": "Hand, Hoyet A, MD",
+      "description": "OfficeVisit 04/22/2024 9:20AM SingingRiverGulfport",
+      "_source": "SingingRiverHealthSystem Progress Note Received: 03/20/2024 Page 3 (Plan of treatment Upcoming Encounters)"
+    },
+    {
+      "date": "04/30/2024",
+      "type": "OfficeVisit",
+      "department": "RheumatologyServices",
+      "care_team": "Carroll, Matthew B, MD",
+      "description": "OfficeVisit 04/30/2024 10:20AM RheumatologyServices",
+      "_source": "SingingRiverHealthSystem Progress Note Received: 03/20/2024 Page 3 (Plan of treatment Upcoming Encounters)"
+    },
+    {
+      "date": "05/01/2024",
+      "type": "OfficeVisit",
+      "department": "SouthernMississippiHeartCenter-Gulfport",
+      "care_team": "Zayed, Mahmoud H, MD",
+      "description": "OfficeVisit 05/01/2024 9:00AM SouthernMississippiHeartCenter-Gulfport",
+      "_source": "SingingRiverHealthSystem Progress Note Received: 03/20/2024 Page 3 (Plan of treatment Upcoming Encounters)"
+    }
+  ],
+  "diagnoses": [
+    {
+      "diagnosis": "Hyperlipidemiaassociatedwithtype2diabetesmellitus(CMS/HCC)(CMS/HCC)",
+      "status": "documented in this encounter",
+      "_source": [
+        "PiedmontHealthcare ClinicalNote Received: 01/21/2025 Page 7 (Visit diagnoses)",
+        "PiedmontHealthcare ClinicalNote Received: 01/21/2025 Page 7 (Visit diagnoses)"
+      ]
+    },
+    {
+      "diagnosis": "Mixeddyslipidemia(Primary Dx)",
+      "status": "documented as of this encounter",
+      "_source": "SingingRiverHealthSystem Progress Note Received: 03/20/2024 Page 1 (Encounter details)"
+    },
+    {
+      "diagnosis": "Essentialhypertension, benign",
+      "status": "documented as of this encounter",
+      "_source": "SingingRiverHealthSystem Progress Note Received: 03/20/2024 Page 1 (Encounter details)"
+    },
+    {
+      "diagnosis": "Postoperativeanemia",
+      "status": "documented as of this encounter",
+      "_source": "SingingRiverHealthSystem Progress Note Received: 03/20/2024 Page 1 (Encounter details)"
+    },
+    {
+      "diagnosis": "LegPain",
+      "status": "documented as of this encounter",
+      "_source": "SingingRiverHealthSystem Progress Note Received: 03/20/2024 Page 1 (Encounter details)"
+    },
+    {
+      "diagnosis": "MRSA",
+      "onset_date": "09/03/2020",
+      "last_indicated": "09/04/2020",
+      "site": "Rbreast",
+      "_source": "PiedmontHealthcare ClinicalNote Received: 01/21/2025 Page 7 (Additional health concerns Infection MRSA)"
+    },
+    {
+      "diagnosis": "COVID-19",
+      "onset_date": "01/04/2021",
+      "last_indicated": "01/04/2021",
+      "resolved_date": "01/24/2021 4:02PMEST",
+      "comment": "recovered",
+      "_source": "PiedmontHealthcare ClinicalNote Received: 01/21/2025 Page 7 (Additional health concerns Infection COVID-19)"
+    }
+  ],
+  "procedures": [
+    {
+      "procedure": "COLONOSCOPY,WITH BIOPSY",
+      "date": "02/21/2025",
+      "provider": "Haroon, Mustafa, MD",
+      "_source": "PiedmontHealthcare ContinuityofCare Document Received: 02/19/2025 Page 2 (Encounter details Surgery)"
+    },
+    {
+      "procedure": "LGHKISSELHILL",
+      "date": "08/18/2025",
+      "_source": "PiedmontHealthcare ClinicalNote Received: 01/21/2025 Page 6 (08/18 Ancillary Procedure LGHKISSELHILL)"
+    }
+  ],
+  "laboratory_results": [
+    {
+      "test": "Iron",
+      "value": "41(L)",
+      "unit": "ug/dL",
+      "reference_range": "50-170ug/dL",
+      "date": "07/03/2023 10:45AM CDT",
+      "_source": "SingingRiverHealthSystem Progress Note Received: 03/20/2024 Page 6 (Iron & Iron Binding Capacity 07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test": "TIBC",
+      "value": "279",
+      "unit": "ug/dL",
+      "reference_range": "250-450ug/dL",
+      "date": "07/03/2023 10:45AM CDT",
+      "_source": "SingingRiverHealthSystem Progress Note Received: 03/20/2024 Page 6 (Iron & Iron Binding Capacity 07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test": "IronSaturation",
+      "value": "15(L)",
+      "unit": "%",
+      "reference_range": "20-55%",
+      "date": "07/03/2023 10:45AM CDT",
+      "_source": "SingingRiverHealthSystem Progress Note Received: 03/20/2024 Page 6 (Iron & Iron Binding Capacity 07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test": "Sodium",
+      "value": "140",
+      "unit": "mmol/L",
+      "reference_range": "136-145",
+      "date": "07/03/2023 10:45AM CDT",
+      "_source": "SingingRiverHealthSystem Progress Note Received: 03/20/2024 Page 6 (Basic metabolic panel 07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test": "TSHUltraSensitive",
+      "value": "1.320",
+      "unit": "mIU/mL",
+      "reference_range": "0.358-3.740",
+      "date": "07/03/2023 10:45AM CDT",
+      "_source": "SingingRiverHealthSystem Progress Note Received: 03/20/2024 Page 9 (TSH Ultra Sensitive 07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test": "Triglycerides",
+      "value": "158(H)",
+      "unit": "mg/dL",
+      "reference_range": "0-149",
+      "date": "07/03/2023 10:45AM CDT",
+      "_source": "SingingRiverHealthSystem Progress Note Received: 03/20/2024 Page 10 (Lipid panel 07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test": "Cholesterol",
+      "value": "147",
+      "unit": "mg/dL",
+      "reference_range": "<200",
+      "date": "07/03/2023 10:45AM CDT",
+      "_source": "SingingRiverHealthSystem Progress Note Received: 03/20/2024 Page 10 (Lipid panel 07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test": "HDL",
+      "value": "54",
+      "unit": "mg/dL",
+      "reference_range": "40-59",
+      "date": "07/03/2023 10:45AM CDT",
+      "_source": "SingingRiverHealthSystem Progress Note Received: 03/20/2024 Page 10 (Lipid panel 07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test": "LDLCalculated",
+      "value": "62",
+      "unit": "mg/dL",
+      "reference_range": "0-100",
+      "date": "07/03/2023 10:45AM CDT",
+      "_source": "SingingRiverHealthSystem Progress Note Received: 03/20/2024 Page 10 (Lipid panel 07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test": "VLDLCholesterolCal",
+      "value": "32(H)",
+      "unit": "mg/dL",
+      "reference_range": "<30mg/dL",
+      "date": "07/03/2023 10:45AM CDT",
+      "_source": "SingingRiverHealthSystem Progress Note Received: 03/20/2024 Page 10 (Lipid panel 07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test": "NonHDLChol.",
+      "value": "94",
+      "unit": "mg/dL",
+      "reference_range": "<=130",
+      "date": "07/03/2023 10:45AM CDT",
+      "_source": "SingingRiverHealthSystem Progress Note Received: 03/20/2024 Page 10 (Lipid panel 07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test": "Potassium",
+      "value": "4.0",
+      "unit": "mmol/L",
+      "reference_range": "3.5-5.1",
+      "date": "07/03/2023 10:45AM CDT",
+      "_source": "SingingRiverHealthSystem Progress Note Received: 03/20/2024 Page 7 (Basic metabolic panel 07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test": "Chloride",
+      "value": "108(H)",
+      "unit": "mmol/L",
+      "reference_range": "98-107",
+      "date": "07/03/2023 10:45AM CDT",
+      "_source": "SingingRiverHealthSystem Progress Note Received: 03/20/2024 Page 7 (Basic metabolic panel 07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test": "CO2",
+      "value": "27",
+      "unit": "mmol/L",
+      "reference_range": "21-32",
+      "date": "07/03/2023 10:45AM CDT",
+      "_source": "SingingRiverHealthSystem Progress Note Received: 03/20/2024 Page 7 (Basic metabolic panel 07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test": "BUN",
+      "value": "15",
+      "unit": "mg/dL",
+      "reference_range": "7-18",
+      "date": "07/03/2023 10:45AM CDT",
+      "_source": "SingingRiverHealthSystem Progress Note Received: 03/20/2024 Page 7 (Basic metabolic panel 07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test": "Creatinine",
+      "value": "0.96",
+      "unit": "mg/dL",
+      "reference_range": "0.55-1.02",
+      "date": "07/03/2023 10:45AM CDT",
+      "_source": "SingingRiverHealthSystem Progress Note Received: 03/20/2024 Page 7 (Basic metabolic panel 07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test": "Glucose",
+      "value": "94",
+      "unit": "mg/dL",
+      "reference_range": "74-106mg/dL",
+      "date": "07/03/2023 10:45AM CDT",
+      "_source": "SingingRiverHealthSystem Progress Note Received: 03/20/2024 Page 7 (Basic metabolic panel 07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test": "Calcium",
+      "value": "9.5",
+      "unit": "mg/dL",
+      "reference_range": "8.5-10.1",
+      "date": "07/03/2023 10:45AM CDT",
+      "_source": "SingingRiverHealthSystem Progress Note Received: 03/20/2024 Page 7 (Basic metabolic panel 07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test": "AnionGap",
+      "value": "5.0(L)",
+      "unit": "mmol/L",
+      "reference_range": "8.0-16.0",
+      "date": "07/03/2023 10:45AM CDT",
+      "_source": "SingingRiverHealthSystem Progress Note Received: 03/20/2024 Page 8 (Basic metabolic panel 07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test": "eGFRCKD-EPI",
+      "value": "58(L)",
+      "unit": "ml/min/1.73m2",
+      "reference_range": ">90",
+      "date": "07/03/2023 10:45AM CDT",
+      "comment": "CKD-EPIGFRINTERPRETATIONGUIDELINES EstimatedusingCKD-EPIequationbasedonstandardizedserumcreatinine,age,andsex",
+      "_source": "SingingRiverHealthSystem Progress Note Received: 03/20/2024 Page 8 (Basic metabolic panel 07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test": "CHOLTOTAL",
+      "value": "136",
+      "date": "07/17/2020 09:41AM",
+      "_source": "PiedmontHealthcare ClinicalNote Received: 01/21/2025 Page 4 (Last THG provider visit LastLipidPanel)"
+    },
+    {
+      "test": "TG",
+      "value": "101",
+      "date": "07/17/2020 09:41 AM",
+      "_source": "PiedmontHealthcare ClinicalNote Received: 01/21/2025 Page 4 (LastLipidPanel)"
+    },
+    {
+      "test": "HDLCHOL",
+      "value": "38 (L)",
+      "date": "07/17/2020 09:41 AM",
+      "_source": "PiedmontHealthcare ClinicalNote Received: 01/21/2025 Page 4 (LastLipidPanel)"
+    },
+    {
+      "test": "LDLCHOL",
+      "value": "78",
+      "date": "07/17/2020 09:41 AM",
+      "_source": "PiedmontHealthcare ClinicalNote Received: 01/21/2025 Page 4 (LastLipidPanel)"
+    },
+    {
+      "test": "GLUCOSE",
+      "value": "199 (H)",
+      "date": "01/11/2021 05:31 AM",
+      "_source": "PiedmontHealthcare ClinicalNote Received: 01/21/2025 Page 4 (Last BMP)"
+    },
+    {
+      "test": "SODIUM",
+      "value": "134 (L)",
+      "date": "01/11/2021 05:31 AM",
+      "_source": "PiedmontHealthcare ClinicalNote Received: 01/21/2025 Page 4 (Last BMP)"
+    },
+    {
+      "test": "CHLORIDE",
+      "value": "97 (L)",
+      "date": "01/11/2021 05:31 AM",
+      "_source": "PiedmontHealthcare ClinicalNote Received: 01/21/2025 Page 4 (Last BMP)"
+    },
+    {
+      "test": "BUN",
+      "value": "37 (H)",
+      "date": "01/11/2021 05:31 AM",
+      "_source": "PiedmontHealthcare ClinicalNote Received: 01/21/2025 Page 4 (Last BMP)"
+    },
+    {
+      "test": "CREATININE",
+      "value": "1.1 (H)",
+      "date": "01/11/2021 05:31 AM",
+      "_source": "PiedmontHealthcare ClinicalNote Received: 01/21/2025 Page 4 (Last BMP)"
+    },
+    {
+      "test": "CALCIUM",
+      "value": "8.1 (L)",
+      "date": "01/11/2021 05:31 AM",
+      "_source": "PiedmontHealthcare ClinicalNote Received: 01/21/2025 Page 4 (Last BMP)"
+    },
+    {
+      "test": "GFR",
+      "value": "50 (A)",
+      "date": "01/11/2021 05:31 AM",
+      "_source": "PiedmontHealthcare ClinicalNote Received: 01/21/2025 Page 4 (Last BMP)"
+    },
+    {
+      "test": "Alkaline Phosphatase",
+      "value": "58",
+      "reference_range": "34-144U/L",
+      "date": "01/08/2021 05:00AM",
+      "_source": "PiedmontHealthcare ClinicalNote Received: 01/21/2025 Page 4 (Last LFTS)"
+    },
+    {
+      "test": "AST (SGOT)",
+      "value": "8(L)",
+      "reference_range": "13-40U/L",
+      "date": "01/08/2021 05:00AM",
+      "_source": "PiedmontHealthcare ClinicalNote Received: 01/21/2025 Page 4 (Last LFTS)"
+    },
+    {
+      "test": "ALT (SGPT)",
+      "value": "107-52U/L",
+      "date": "01/08/2021 05:00AM",
+      "_source": "PiedmontHealthcare ClinicalNote Received: 01/21/2025 Page 4 (Last LFTS)"
+    }
+  ],
+  "vitals": [
+    {
+      "vital": "BloodPressure",
+      "value": "128/78",
+      "date": "01/11/2025 9:30AM EST",
+      "_source": "PiedmontHealthcare ClinicalNote Received: 01/21/2025 Page 5 (Goals BloodPressure<140/90 128/78(01/11/2025 9:30AM EST))"
+    }
+  ],
+  "social_history": [
+    {
+      "field": "SmokingTobacco",
+      "value": "Former Cigarettes Quit:1991",
+      "_source": "SingingRiverHealthSystem Progress Note Received: 03/20/2024 Page 1 (Social history)"
+    },
+    {
+      "field": "SmokingTobacco",
+      "value": "EveryDay Cigarettes 0.5 50",
+      "_source": "PiedmontHealthcare ContinuityofCare Document Received: 02/19/2025 Page 1 (Social history Tobacco Use)"
+    },
+    {
+      "field": "SmokingTobacco",
+      "value": "Former Cigarettes 0.3 2 03/22/1971-03/22/1973",
+      "_source": "PiedmontHealthcare ClinicalNote Received: 01/21/2025 Page 1 (Social history)"
+    },
+    {
+      "field": "Alcohol Use",
+      "value": "NotCurrently 0(1standarddrink=0.6oz purealcohol)",
+      "_source": "SingingRiverHealthSystem Progress Note Received: 03/20/2024 Page 2 (Social history)"
+    },
+    {
+      "field": "Alcohol Use",
+      "value": "No 0(1standarddrink=0.6oz purealcohol)",
+      "_source": "PiedmontHealthcare ContinuityofCare Document Received: 02/19/2025 Page 1 (Social history)"
+    },
+    {
+      "field": "Sex and Gender Information",
+      "value": "LegalSex Male 06/19/2013 2:39AMEDT",
+      "_source": "PiedmontHealthcare ContinuityofCare Document Received: 02/19/2025 Page 1 (Sex and Gender Information)"
+    },
+    {
+      "field": "Sex and Gender Information",
+      "value": "GenderIdentity Female 11/19/2021 6:43AM CST",
+      "_source": "SingingRiverHealthSystem Progress Note Received: 03/20/2024 Page 2 (Sex and Gender Information)"
+    }
+  ],
+  "functional_status": [
+    {
+      "question": "Isthepersondeafordoeshe/shehavedifficultyhearing?",
+      "response": "No",
+      "date_of_assessment": "06/19/2023",
+      "_source": "SingingRiverHealthSystem Progress Note Received: 03/20/2024 Page 3 (Functional status)"
+    },
+    {
+      "question": "Patient'sVisionAdequatetoSafelyCompleteDailyActivities",
+      "response": "Yes",
+      "date_of_assessment": "06/19/2023",
+      "_source": "SingingRiverHealthSystem Progress Note Received: 03/20/2024 Page 3 (Functional status)"
+    },
+    {
+      "question": "Doesthispersonhaveseriousdifficultywalkingorclimbingstairs?",
+      "response": "Yes",
+      "date_of_assessment": "06/14/2023",
+      "_source": "SingingRiverHealthSystem Progress Note Received: 03/20/2024 Page 3 (Functional status)"
+    },
+    {
+      "question": "Doesthispersonhavedifficultydressingorbathing?",
+      "response": "No",
+      "date_of_assessment": "06/14/2023",
+      "_source": "SingingRiverHealthSystem Progress Note Received: 03/20/2024 Page 3 (Functional status)"
+    },
+    {
+      "question": "Becauseofaphysical,mentaloremotionalcondition,doesthispatienthavedifficultydoingerrandsalonesuchasvisitingthedoctor'sofficeorshopping?",
+      "response": "No",
+      "date_of_assessment": "06/14/2023",
+      "_source": "SingingRiverHealthSystem Progress Note Received: 03/20/2024 Page 3 (Functional status)"
+    },
+    {
+      "question": "Becauseofaphysical,mentaloremotionalcondition,doesthispersonhaveseriousdifficultyconcentrating,remembering,ormakingdecisions?",
+      "response": "No",
+      "date_of_assessment": "06/14/2023",
+      "_source": "SingingRiverHealthSystem Progress Note Received: 03/20/2024 Page 3 (Functional status)"
+    },
+    {
+      "question": "Difficultyseeingevenwithglasses?:",
+      "response": "No",
+      "date_of_assessment": "01/05/2021 1:00AM EST",
+      "_source": "SingingRiverHealthSystem Progress Note Received: 03/20/2024 Page 12 (Assessment Author 01/05/2021)"
+    },
+    {
+      "question": "Difficultywalkingorclimbingstairs?:",
+      "response": "No",
+      "date_of_assessment": "01/05/2021 1:00AM EST",
+      "_source": "SingingRiverHealthSystem Progress Note Received: 03/20/2024 Page 12 (Assessment Author 01/05/2021)"
+    },
+    {
+      "question": "Difficultydressingorbathing?:",
+      "response": "Yes",
+      "date_of_assessment": "01/05/2021 1:00AM EST",
+      "_source": "SingingRiverHealthSystem Progress Note Received: 03/20/2024 Page 12 (Assessment Author 01/05/2021)"
+    },
+    {
+      "question": "Difficultydoingerrandsalone?:",
+      "response": "Yes",
+      "date_of_assessment": "01/05/2021 1:00AM EST",
+      "_source": "SingingRiverHealthSystem Progress Note Received: 03/20/2024 Page 12 (Assessment Author 01/05/2021)"
+    }
+  ],
+  "care_team": [
+    {
+      "name": "Hand, Hoyet A, MD",
+      "relationship": "PCP-General",
+      "specialty": "FamilyMedicine",
+      "start_date": "9/25/20",
+      "contact": "228-206-7054(Work)",
+      "_source": "SingingRiverHealthSystem Progress Note Received: 03/20/2024 Page 12 (Care teams)"
+    },
+    {
+      "name": "Pradhan Shrestha, Deepika, MD",
+      "relationship": "Endocrinologist",
+      "specialty": "Endocrinology,Diabetes&Metabolism",
+      "start_date": "9/9/19",
+      "end_date": "6/14/22",
+      "contact": "717-544-3059(Work)",
+      "_source": "SingingRiverHealthSystem Progress Note Received: 03/20/2024 Page 9 (Care teams)"
+    },
+    {
+      "name": "Roberts, Justin D, DO",
+      "relationship": "ConsultingPhysician",
+      "specialty": "Cardiology-General",
+      "start_date": "1/13/20",
+      "end_date": "6/14/22",
+      "_source": "SingingRiverHealthSystem Progress Note Received: 03/20/2024 Page 9 (Care teams)"
+    },
+    {
+      "name": "Kaplan, Marnie, MD",
+      "relationship": "Surgeon General",
+      "specialty": "Surgery",
+      "start_date": "7/6/20",
+      "end_date": "6/14/22",
+      "_source": "SingingRiverHealthSystem Progress Note Received: 03/20/2024 Page 9 (Care teams)"
+    },
+    {
+      "name": "Wozney, Jocelyn L, MD",
+      "relationship": "Oncologist",
+      "specialty": "HematologyandOncology",
+      "start_date": "9/14/20",
+      "end_date": "11/8/21",
+      "_source": "SingingRiverHealthSystem Progress Note Received: 03/20/2024 Page 9 (Care teams)"
+    },
+    {
+      "name": "Hershey, Curtis L, MD",
+      "relationship": "PCP-General",
+      "specialty": "FamilyPractice",
+      "start_date": "4/15/19",
+      "contact": "717-738-0660(Work)",
+      "_source": "PiedmontHealthcare ClinicalNote Received: 01/21/2025 Page 7 (Care teams)"
+    },
+    {
+      "name": "Dooley, John David, MD",
+      "relationship": "Care Team",
+      "specialty": "AtlantaVascularSpecialists",
+      "_source": "PiedmontHealthcare ContinuityofCare Document Received: 02/19/2025 Page 2 (Encounter details)"
+    },
+    {
+      "name": "Haroon, Mustafa, MD",
+      "relationship": "Care Team",
+      "specialty": "PiedmontNewnanHospital",
+      "_source": "PiedmontHealthcare ContinuityofCare Document Received: 02/19/2025 Page 2 (Encounter details)"
+    }
+  ],
+  "plans_and_followups": [
+    {
+      "plan": "MakeanappointmentwithEye doctorinthenext3Months",
+      "status": "Notontrack(03/22/2024 8:37AM EDT)",
+      "_source": "PiedmontHealthcare ClinicalNote Received: 01/21/2025 Page 6 (Goals)"
+    },
+    {
+      "plan": "Bringyourmeterandbloodsugarlog/foodlogtoallmedicalappointments",
+      "status": "Ontrack(03/22/2024 8:36AM EDT)",
+      "_source": "PiedmontHealthcare ClinicalNote Received: 01/21/2025 Page 6 (Goals)"
+    },
+    {
+      "plan": "Upcoming Encounters listed (04/19/2024, 04/22/2024, 04/30/2024, 05/01/2024)",
+      "_source": "SingingRiverHealthSystem Progress Note Received: 03/20/2024 Page 3 (Plan of treatment Upcoming Encounters)"
+    }
+  ],
+  "notes": [
+    {
+      "text": "PHQ-9DepressionTotalScore:0 03/28/2023 8:56AM CDT",
+      "_source": "SingingRiverHealthSystem Progress Note Received: 03/20/2024 Page 12 (Additional health concerns Assessment Noted Time)"
+    },
+    {
+      "text": "PHQ-2DepressionTotalScore:0 03/28/2023 8:56AM CDT",
+      "_source": "SingingRiverHealthSystem Progress Note Received: 03/20/2024 Page 12 (Additional health concerns Assessment Noted Time)"
+    },
+    {
+      "text": "TelephoneEncounter-Torres,Lizza-01/13/2021 3:52PM EST: Formattingofthisnoteisdifferentfromtheoriginal. Lipid-related RefillRequest Atorvastatin",
+      "_source": "PiedmontHealthcare ClinicalNote Received: 01/21/2025 Page 4 (Miscellaneous notes)"
+    },
+    {
+      "text": "Patientwishestogetoffinsulin.",
+      "_source": "PiedmontHealthcare ClinicalNote Received: 01/21/2025 Page 6 (Goals Note:Formattingofthisnotemightbedifferentfromtheoriginal.)"
+    },
+    {
+      "text": "RefillRequest Atorvastatin/CVS",
+      "_source": "PiedmontHealthcare ClinicalNote Received: 01/21/2025 Page 1 (Reason for visit)"
+    }
+  ],
+  "conflicts": [
+    {
+      "entity_type": "patient_demographics",
+      "entity_name": "dob",
+      "conflict_description": "Multiple different dates of birth found in documents.",
+      "variants": [
+        {
+          "value": "05/05/1952",
+          "_source": "SingingRiverHealthSystem Progress Note Received: 03/20/2024 Page 1; SingingRiverHealthSystem Progress Note Received: 03/20/2024 Page 6"
+        },
+        {
+          "value": "07/21/1954",
+          "_source": "PiedmontHealthcare ClinicalNote Received: 01/21/2025 Page 4 (Test Piedmont Healthcare Patient Record 01/21/2025 Page 4)"
+        }
+      ]
+    },
+    {
+      "entity_type": "social_history",
+      "entity_name": "smoking_tobacco",
+      "conflict_description": "Conflicting tobacco use entries (former vs every day; differing pack/day and years).",
+      "variants": [
+        {
+          "value": "Former Cigarettes Quit:1991",
+          "_source": "SingingRiverHealthSystem Progress Note Received: 03/20/2024 Page 1 (Social history)"
+        },
+        {
+          "value": "EveryDay Cigarettes 0.5 50",
+          "_source": "PiedmontHealthcare ContinuityofCare Document Received: 02/19/2025 Page 1 (Social history)"
+        },
+        {
+          "value": "Former Cigarettes 0.3 2 03/22/1971-03/22/1973",
+          "_source": "PiedmontHealthcare ClinicalNote Received: 01/21/2025 Page 1 (Social history)"
+        }
+      ]
+    },
+    {
+      "entity_type": "social_history",
+      "entity_name": "legal_sex / gender_identity",
+      "conflict_description": "Conflicting sex/gender entries across documents.",
+      "variants": [
+        {
+          "value": "LegalSex Male 06/19/2013 2:39AMEDT",
+          "_source": "PiedmontHealthcare ContinuityofCare Document Received: 02/19/2025 Page 1 (Sex and Gender Information)"
+        },
+        {
+          "value": "GenderIdentity Female 11/19/2021 6:43AM CST",
+          "_source": "SingingRiverHealthSystem Progress Note Received: 03/20/2024 Page 2 (Sex and Gender Information)"
+        }
+      ]
+    }
+  ],
+  "patient_summary": "Patient Olivia, female, age 73 (DOB documented as 05/05/1952 in multiple records). Primary documented problems include hyperlipidemia associated with type 2 diabetes mellitus and mixed dyslipidemia; additional diagnoses recorded include essential hypertension, postoperative anemia, and leg pain. Major procedure recorded: COLONOSCOPY,WITH BIOPSY on 02/21/2025 (Haroon, Mustafa, MD). Notable laboratory abnormalities from 07/03/2023: Iron 41(L), IronSaturation 15(L), Triglycerides 158(H), VLDLCholesterolCal 32(H), Chloride 108(H), AnionGap 5.0(L), eGFRCKD-EPI 58(L). Medication-related notes include an Atorvastatin refill request and a recorded patient statement: \"Patientwishestogetoffinsulin.\" Multiple care team members documented across records, including Hand, Hoyet A, MD (PCP). Conflicting demographic and social-history entries (DOB, smoking history, legal sex/gender) are preserved in conflicts."
+}

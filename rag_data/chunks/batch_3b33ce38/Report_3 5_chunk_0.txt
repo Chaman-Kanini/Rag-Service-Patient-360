@@ -1,0 +1,102 @@
+
+[Page 1]
+Test4PiedmontHealthcarePatientRecord02/19/2025
+PATIENT INFORMATION: Type:ContinuityofCare
+Olivia Document
+Source: PiedmontHealthcare
+Received: 02/19/202504:00PM
+DOB: 05/05/195 Modified: 02/19/202504:00
+PM
+Gender: female Age: 73
+Patient 104
+ID:
+Phone: +13105561256
+TableofContents:
+Encounter Details SocialHistory PlanofTreatment
+Visit Diagnoses Care Teams
+Encounter details
+Date Type Department CareTeam(Latest Description
+Contact Info)
+07/11 Travel
+/2023
+Social history
+TobaccoUse Types Packs/Day Years Date
+Used
+SmokingTobacco:EveryDay Cigarettes 0.5 50
+SmokelessTobacco:Never
+AlcoholUse StandardDrinks/Week Comments
+No 0(1standarddrink=0.6oz
+purealcohol)
+SexandGenderInformation Value DateRecorded
+SexAssignedatBirth Notonfile
+LegalSex Male 06/19/20132:39AMEDT
+GenderIdentity Notonfile
+SexualOrientation Notonfile
+COVID-19Exposure Response DateRecorded
+Inthelast10days,haveyoubeenincontactwithsomeone No/Unsure 7/11/20238:35AMEDT
+whowasconfirmedorsuspectedtohaveCoronavirus
+/COVID-19?
+documentedasof thisencounter
+Plan of treatment
+Upcoming Encounters
+PrintedfromHealthGorillaSecureClinicalNetwork.Copyright©2025HealthGorillaInc.
+https://www.healthgorilla.com
+Thecontentsofthisdocumentand/orfaxtransmissionareintendedonlyfortheuseoftheindividualorentitytowhichtheyareaddressedandmay
+containinformationthatislegallyprivileged,confidentialandexemptfromdisclosure,includingprotectedhealthinformation.Ifyouarenotthe
+intendedrecipient,youareherebynotifiedthatanydissemination,distributionorcopyingofthisdocumentisstrictlyprohibited.Ifyouhavereceived
+orobtainedthisdocumentorfaxtransmissioninerror,pleasenotifytheoriginalsenderorcontactHealthGorillaInc.at1-844-446-7455
+Page1of4
+[Page 2]
+Test4PiedmontHealthcarePatientRecord02/19/2025
+PATIENT INFORMATION: Type:ContinuityofCare
+Olivia Document
+Source: PiedmontHealthcare
+Received: 02/19/202504:00PM
+DOB: 05/05/1952 Modified: 02/19/202504:00
+PM
+Gender: female Age: 73
+Patient 104
+ID:
+Phone: +13105561256
+Date Type Department CareTeam(Latest Description
+ContactInfo)
+02/20 OfficeVisit Dooley,JohnDavid,MD
+/20251: AtlantaVascularSpecialists
+15PM -Newnan 1233HWY54WEST
+EST
+2201NewnanCrossingBlvd SUITE210
+Suite200 FAYETTEVILLE,GA30214-
+4542
+Newnan,GA30265-2251
+404-524-0095(Work)
+404-524-0095
+404-658-9558(Fax)
+02/21 Hospital Haroon,Mustafa,MD
+/20258: Encounter PiedmontNewnanHospital
+33AM Peri-OpServices 1200LOWER
+EST FAYETTEVILLEROAD
+745POPLARRD
+SUITEB
+NEWNAN,GA30265-1618
+NEWNAN,GA30265
+770-400-1000
+678-631-4610(Work)
+678-631-4611(Fax)
+02/21 Surgery Haroon,Mustafa,MD COLONOSCOPY,WITH
+/20258: PiedmontNewnanHospital BIOPSY
+33AM Peri-OpServices 1200LOWER
+EST-02 FAYETTEVILLEROAD
+/21/2025 745POPLARRD
+9:11AM SUITEB
+EST NEWNAN,GA30265-1618
+NEWNAN,GA30265
+770-400-1000
+678-631-4610(Work)
+678-631-4611(Fax)
+04/23 OfficeVisit Kandaswamy,Shankar,MD
+/202510: PiedmontPhysicians
+00AM PulmonaryandSleep 745PoplarRoad
+EDT MedicineNewnan
+NEWNAN,GA30265
+2301NewnanCrossing
+Boulevard 770-400-100

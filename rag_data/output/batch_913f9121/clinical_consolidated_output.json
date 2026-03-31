@@ -1,0 +1,739 @@
+```json
+{
+  "document_metadata": {
+    "document_type": "Progress Note",
+    "source_organization": "SingingRiverHealthSystem",
+    "received_date": "03/20/202408:24PM",
+    "modified_date": "03/20/202408:24PM",
+    "_source": "Page 1: PATIENT INFORMATION",
+    "document_date": "03/20/2024"
+  },
+  "patient": {
+    "name": "Olivia",
+    "phone": "+13105561256 (H)",
+    "dob": "05/05/1952",
+    "gender": "Female",
+    "age": "73",
+    "patient_id": "104",
+    "_source": "Page 1: PATIENT INFORMATION"
+  },
+  "encounters": [
+    {
+      "date": "06/30/2023",
+      "type": "OrdersOnly",
+      "department": "PrimaryCareServices",
+      "facility": "SingingRiverGulfport",
+      "facility_address": "350 Cowan Road GULFPORT, MS 39505-2008",
+      "provider": {
+        "name": "Hand, Hoyet A, MD",
+        "phone": "228-206-7054 (Work)",
+        "fax": "228-604-0905 (Fax)",
+        "address": "350 COWAN RD GULFPORT, MS 39507-2008"
+      },
+      "description": "Mixeddyslipidemia (Primary Dx); Essentialhypertension, benign; Postoperativeanemia LegPain",
+      "_source": "Page 1: Encounter details"
+    }
+  ],
+  "social_history": {
+    "tobacco_use": [
+      {
+        "type": "Smoking Tobacco",
+        "status": "Former",
+        "detail": "Cigarettes",
+        "quit_date": "1991",
+        "comment": "patient states quit 30 years ago",
+        "_source": "Page 1: Social history"
+      },
+      {
+        "type": "Smokeless Tobacco",
+        "status": "Never",
+        "_source": "Page 1: Social history"
+      }
+    ],
+    "alcohol_use": {
+      "status": "Not Currently",
+      "standard_drinks_per_week": "0",
+      "comment": "1 standard drink=0.6oz pure alcohol",
+      "_source": "Page 1: Social history"
+    },
+    "patient_health_questionnaire_2_score": {
+      "score": "0",
+      "date_recorded": "03/28/2023",
+      "_source": "Page 1: Social history"
+    },
+    "sex_and_gender_information": {
+      "sex_assigned_at_birth": "Not on file",
+      "gender_identity": "Female",
+      "gender_identity_date_recorded": "11/19/20216:43AMCST",
+      "_source": "Page 1: Social history"
+    },
+    "sexual_orientation": "Not on file",
+    "_source": "Page 2: SexualOrientation"
+  },
+  "functional_status": [
+    {
+      "assessment": "In the last 10 days, have you been in contact with someone who was confirmed or suspected to have Coronavirus / COVID-19?",
+      "response": "No/Unsure",
+      "date_of_assessment": "6/19/20235:23AMCDT",
+      "_source": "Page 3: COVID-19Exposure Response"
+    },
+    {
+      "assessment": "Is the person deaf or does he/she have difficulty hearing?",
+      "response": "No",
+      "date_of_assessment": "06/19/2023",
+      "_source": "Page 3: Functional status"
+    },
+    {
+      "assessment": "Patient's Vision Adequate to Safely Complete Daily Activities",
+      "response": "Yes",
+      "date_of_assessment": "06/19/2023",
+      "_source": "Page 3: Functional status"
+    },
+    {
+      "assessment": "Does this person have serious difficulty walking or climbing stairs?",
+      "response": "Yes",
+      "date_of_assessment": "06/14/2023",
+      "_source": "Page 3: Functional status"
+    },
+    {
+      "assessment": "Does this person have difficulty dressing or bathing?",
+      "response": "No",
+      "date_of_assessment": "06/14/2023",
+      "_source": "Page 3: Functional status"
+    },
+    {
+      "assessment": "Because of a physical, mental or emotional condition, does this patient have difficulty doing errands alone such as visiting the doctor's office or shopping?",
+      "response": "No",
+      "date_of_assessment": "06/14/2023",
+      "_source": "Page 3: Functional status"
+    },
+    {
+      "assessment": "Because of a physical, mental or emotional condition, does this person have serious difficulty concentrating, remembering, or making decisions?",
+      "response": "No",
+      "date_of_assessment": "06/14/2023",
+      "_source": "Page 3: Cognitive Status"
+    }
+  ],
+  "plans_and_followups": [
+    {
+      "type": "Appointment",
+      "date": "04/19/202410:00AMCDT",
+      "department": "PrimaryCareServices",
+      "facility": "SingingRiverGulfport",
+      "facility_address": "350 Cowan Road GULFPORT, MS 39505-2008",
+      "facility_phone": "228-206-7054",
+      "_source": "Page 3: Plan of treatment"
+    },
+    {
+      "type": "OfficeVisit",
+      "date": "04/22/20249:20AMCDT",
+      "department": "PrimaryCareServices",
+      "facility": "SingingRiverGulfport",
+      "facility_address": "350 Cowan Road GULFPORT, MS 39505-2008",
+      "facility_phone": "228-206-7054",
+      "provider": {
+        "name": "Hand, Hoyet A, MD",
+        "address": "350 COWAN RD GULFPORT, MS 39507-2008",
+        "phone": "228-206-7054 (Work)",
+        "fax": "228-604-0905 (Fax)"
+      },
+      "_source": "Page 3: Plan of treatment"
+    },
+    {
+      "type": "OfficeVisit",
+      "date": "04/30/202410:20AMCDT",
+      "department": "Rheumatology Services",
+      "facility_address": "3603 BIENVILLE BLVD STE 100 BILOXI, MS 39532-2128",
+      "facility": "OCEAN SPRINGS, MS 39564",
+      "provider": {
+        "name": "Carroll, Matthew B, MD",
+        "address": "967 Cedar Lake Rd OCEANSPRINGS,MS 39564",
+        "phone": "228-205-6830",
+        "work_phone": "228-872-8768 (Work)",
+        "fax": "228-872-9112 (Fax)"
+      },
+      "_source": "Page 4: Plan of treatment"
+    },
+    {
+      "type": "OfficeVisit",
+      "date": "05/01/20249:00AMCDT",
+      "department": "Southern Mississippi Heart Center-Gulfport",
+      "facility_address": "15190 Community Road Ste 260 GULFPORT, MS 39503-3483",
+      "facility": "3704 BIENVILLE BLVD STEB OCEANSPRINGS, MS 39564",
+      "provider": {
+        "name": "Zayed, Mahmoud H, MD",
+        "work_phone": "228-872-4040 (Work)",
+        "phone": "228-575-8020",
+        "fax": "228-875-2387 (Fax)"
+      },
+      "_source": "Page 4: Plan of treatment"
+    },
+    {
+      "type": "OfficeVisit",
+      "date": "06/05/20249:40AMCDT",
+      "department": "Gastroenterology",
+      "facility": "SingingRiverGulfport",
+      "facility_address": "15190 Community Road STE 230 GULFPORT, MS 39503-3483",
+      "provider": {
+        "name": "Alexander, Amie L, NP",
+        "address": "15190 COMMUNITY RD STE 230 GULFPORT, MS 39503-3483",
+        "phone": "228-575-7104",
+        "work_phone": "228-575-7104 (Work)",
+        "fax": "228-539-6766 (Fax)"
+      },
+      "_source": "Page 4: Plan of treatment"
+    },
+    {
+      "type": "OfficeVisit",
+      "date": "11/26/20241:00PMCST",
+      "department": "Southern Mississippi Heart Center-Gulfport",
+      "facility_address": "15190 Community Road Ste 260 GULFPORT, MS 39503-3483",
+      "facility_phone": "228-575-8020",
+      "_source": "Page 4: Plan of treatment"
+    }
+  ],
+  "laboratory_results": [
+    {
+      "test_panel": "Ferritin",
+      "test": "Ferritin",
+      "date": "07/03/2023 9:15 AM CDT",
+      "value": "266.8",
+      "unit": "ng/mL",
+      "reference_range": "8.0-252.0",
+      "interpretation": "H",
+      "analysis_time": "07/03/202310:45AMCDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "specimen_source": "Blood",
+      "collection_method": "Collection/Unknown",
+      "collection_time": "07/03/20239:15AMCDT",
+      "received_time": "07/03/202310:06AMCDT",
+      "authorizing_provider": "HoyetAHandMD",
+      "result_type": "LABBLOODORDERABLES",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITALLAB",
+      "performing_organization_address": "15200COMMUNITY RD GULFPORT,MS 39503,USA",
+      "_source": "Page 5: Results (ABNORMAL) Ferritin (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test_panel": "Iron & Iron Binding Capacity",
+      "test": "Iron",
+      "date": "07/03/2023 9:15 AM CDT",
+      "value": "41",
+      "unit": "ug/dL",
+      "reference_range": "50-170",
+      "interpretation": "L",
+      "analysis_time": "07/03/202310:45AMCDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "specimen_source": "Blood",
+      "collection_method": "Collection/Unknown",
+      "collection_time": "07/03/20239:15AMCDT",
+      "received_time": "07/03/202310:06AMCDT",
+      "authorizing_provider": "HoyetAHandMD",
+      "result_type": "LABBLOODORDERABLES",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITALLAB",
+      "performing_organization_address": "15200COMMUNITY RD GULFPORT,MS 39503,USA",
+      "_source": "Page 6: (ABNORMAL) Iron& Iron Binding Capacity(07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test_panel": "Iron & Iron Binding Capacity",
+      "test": "TIBC",
+      "date": "07/03/2023 9:15 AM CDT",
+      "value": "279",
+      "unit": "ug/dL",
+      "reference_range": "250-450",
+      "analysis_time": "07/03/202310:45AMCDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "specimen_source": "Blood",
+      "collection_method": "Collection/Unknown",
+      "collection_time": "07/03/20239:15AMCDT",
+      "received_time": "07/03/202310:06AMCDT",
+      "authorizing_provider": "HoyetAHandMD",
+      "result_type": "LABBLOODORDERABLES",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITALLAB",
+      "performing_organization_address": "15200COMMUNITY RD GULFPORT,MS 39503,USA",
+      "_source": "Page 6: (ABNORMAL) Iron& Iron Binding Capacity(07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test_panel": "Iron & Iron Binding Capacity",
+      "test": "IronSaturation",
+      "date": "07/03/2023 9:15 AM CDT",
+      "value": "15",
+      "unit": "%",
+      "reference_range": "20-55",
+      "interpretation": "L",
+      "analysis_time": "07/03/202310:45AMCDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "specimen_source": "Blood",
+      "collection_method": "Collection/Unknown",
+      "collection_time": "07/03/20239:15AMCDT",
+      "received_time": "07/03/202310:06AMCDT",
+      "authorizing_provider": "HoyetAHandMD",
+      "result_type": "LABBLOODORDERABLES",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITALLAB",
+      "performing_organization_address": "15200COMMUNITY RD GULFPORT,MS 39503,USA",
+      "_source": "Page 6: (ABNORMAL) Iron& Iron Binding Capacity(07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test_panel": "Basic metabolic panel",
+      "test": "Sodium",
+      "date": "07/03/2023 9:15 AM CDT",
+      "value": "140",
+      "unit": "mmol/L",
+      "reference_range": "136-145",
+      "analysis_time": "07/03/202310:45AMCDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "specimen_source": "Blood",
+      "collection_method": "Collection/Unknown",
+      "collection_time": "07/03/20239:15AMCDT",
+      "received_time": "07/03/202310:06AMCDT",
+      "authorizing_provider": "HoyetAHandMD",
+      "result_type": "LABBLOODORDERABLES",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITALLAB",
+      "performing_organization_address": "15200COMMUNITY RD GULFPORT,MS 39503,USA",
+      "_source": "Page 6: (ABNORMAL) Basic metabolic panel (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test_panel": "Basic metabolic panel",
+      "test": "Potassium",
+      "date": "07/03/2023 9:15 AM CDT",
+      "value": "4.0",
+      "unit": "mmol/L",
+      "reference_range": "3.5-5.1",
+      "analysis_time": "07/03/202310:45AMCDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "specimen_source": "Blood",
+      "collection_method": "Collection/Unknown",
+      "collection_time": "07/03/20239:15AMCDT",
+      "received_time": "07/03/202310:06AMCDT",
+      "authorizing_provider": "HoyetAHandMD",
+      "result_type": "LABBLOODORDERABLES",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITALLAB",
+      "performing_organization_address": "15200COMMUNITY RD GULFPORT,MS 39503,USA",
+      "_source": "Page 7: (ABNORMAL) Basic metabolic panel (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test_panel": "Basic metabolic panel",
+      "test": "Chloride",
+      "date": "07/03/2023 9:15 AM CDT",
+      "value": "108",
+      "unit": "mmol/L",
+      "reference_range": "98-107",
+      "interpretation": "H",
+      "analysis_time": "07/03/202310:45AMCDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "specimen_source": "Blood",
+      "collection_method": "Collection/Unknown",
+      "collection_time": "07/03/20239:15AMCDT",
+      "received_time": "07/03/202310:06AMCDT",
+      "authorizing_provider": "HoyetAHandMD",
+      "result_type": "LABBLOODORDERABLES",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITALLAB",
+      "performing_organization_address": "15200COMMUNITY RD GULFPORT,MS 39503,USA",
+      "_source": "Page 7: (ABNORMAL) Basic metabolic panel (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test_panel": "Basic metabolic panel",
+      "test": "CO2",
+      "date": "07/03/2023 9:15 AM CDT",
+      "value": "27",
+      "unit": "mmol/L",
+      "reference_range": "21-32",
+      "analysis_time": "07/03/202310:45AMCDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "specimen_source": "Blood",
+      "collection_method": "Collection/Unknown",
+      "collection_time": "07/03/20239:15AMCDT",
+      "received_time": "07/03/202310:06AMCDT",
+      "authorizing_provider": "HoyetAHandMD",
+      "result_type": "LABBLOODORDERABLES",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITALLAB",
+      "performing_organization_address": "15200COMMUNITY RD GULFPORT,MS 39503,USA",
+      "_source": "Page 7: (ABNORMAL) Basic metabolic panel (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test_panel": "Basic metabolic panel",
+      "test": "BUN",
+      "date": "07/03/2023 9:15 AM CDT",
+      "value": "15",
+      "unit": "mg/dL",
+      "reference_range": "7-18",
+      "analysis_time": "07/03/202310:45AMCDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "specimen_source": "Blood",
+      "collection_method": "Collection/Unknown",
+      "collection_time": "07/03/20239:15AMCDT",
+      "received_time": "07/03/202310:06AMCDT",
+      "authorizing_provider": "HoyetAHandMD",
+      "result_type": "LABBLOODORDERABLES",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITALLAB",
+      "performing_organization_address": "15200COMMUNITY RD GULFPORT,MS 39503,USA",
+      "_source": "Page 7: (ABNORMAL) Basic metabolic panel (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test_panel": "Basic metabolic panel",
+      "test": "Creatinine",
+      "date": "07/03/2023 9:15 AM CDT",
+      "value": "0.96",
+      "unit": "mg/dL",
+      "reference_range": "0.55-1.02",
+      "analysis_time": "07/03/202310:45AMCDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "specimen_source": "Blood",
+      "collection_method": "Collection/Unknown",
+      "collection_time": "07/03/20239:15AMCDT",
+      "received_time": "07/03/202310:06AMCDT",
+      "authorizing_provider": "HoyetAHandMD",
+      "result_type": "LABBLOODORDERABLES",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITALLAB",
+      "performing_organization_address": "15200COMMUNITY RD GULFPORT,MS 39503,USA",
+      "_source": "Page 7: (ABNORMAL) Basic metabolic panel (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test_panel": "Basic metabolic panel",
+      "test": "Glucose",
+      "date": "07/03/2023 9:15 AM CDT",
+      "value": "94",
+      "unit": "mg/dL",
+      "reference_range": "74-106",
+      "analysis_time": "07/03/202310:45AMCDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "specimen_source": "Blood",
+      "collection_method": "Collection/Unknown",
+      "collection_time": "07/03/20239:15AMCDT",
+      "received_time": "07/03/202310:06AMCDT",
+      "authorizing_provider": "HoyetAHandMD",
+      "result_type": "LABBLOODORDERABLES",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITALLAB",
+      "performing_organization_address": "15200COMMUNITY RD GULFPORT,MS 39503,USA",
+      "_source": "Page 7: (ABNORMAL) Basic metabolic panel (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test_panel": "Basic metabolic panel",
+      "test": "Calcium",
+      "date": "07/03/2023 9:15 AM CDT",
+      "value": "9.5",
+      "unit": "mg/dL",
+      "reference_range": "8.5-10.1",
+      "analysis_time": "07/03/202310:45AMCDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "specimen_source": "Blood",
+      "collection_method": "Collection/Unknown",
+      "collection_time": "07/03/20239:15AMCDT",
+      "received_time": "07/03/202310:06AMCDT",
+      "authorizing_provider": "HoyetAHandMD",
+      "result_type": "LABBLOODORDERABLES",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITALLAB",
+      "performing_organization_address": "15200COMMUNITY RD GULFPORT,MS 39503,USA",
+      "_source": "Page 7: (ABNORMAL) Basic metabolic panel (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test_panel": "Basic metabolic panel",
+      "test": "AnionGap",
+      "date": "07/03/2023 9:15 AM CDT",
+      "value": "5.0",
+      "unit": "mmol/L",
+      "reference_range": "8.0-16.0",
+      "interpretation": "L",
+      "analysis_time": "07/03/202310:45AMCDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "specimen_source": "Blood",
+      "collection_method": "Collection/Unknown",
+      "collection_time": "07/03/20239:15AMCDT",
+      "received_time": "07/03/202310:06AMCDT",
+      "authorizing_provider": "HoyetAHandMD",
+      "result_type": "LABBLOODORDERABLES",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITALLAB",
+      "performing_organization_address": "15200COMMUNITY RD GULFPORT,MS 39503,USA",
+      "_source": "Page 8: (ABNORMAL) Basic metabolic panel (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test_panel": "Basic metabolic panel",
+      "test": "eGFRCKD-EPI",
+      "date": "07/03/2023 9:15 AM CDT",
+      "value": "58",
+      "unit": "ml/min/1.73m2",
+      "reference_range": ">90",
+      "interpretation": "L",
+      "analysis_time": "07/03/202310:45AMCDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "comment": "Estimated using CKD-EPI equation based on standardized serum creatinine, age, and sex. DESCRIPTION: Mild Decrease 60-89, Moderate Decrease 30-59, Severe Decrease 15-29, Kidney Failure <15 (or dialysis)",
+      "specimen_source": "Blood",
+      "collection_method": "Collection/Unknown",
+      "collection_time": "07/03/20239:15AMCDT",
+      "received_time": "07/03/202310:06AMCDT",
+      "authorizing_provider": "HoyetAHandMD",
+      "result_type": "LABBLOODORDERABLES",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITALLAB",
+      "performing_organization_address": "15200COMMUNITY RD GULFPORT,MS 39503,USA",
+      "_source": "Page 8: (ABNORMAL) Basic metabolic panel (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test_panel": "TSH Ultra Sensitive",
+      "test": "TSHUltraSensitive",
+      "date": "07/03/2023 9:15 AM CDT",
+      "value": "1.320",
+      "unit": "mIU/mL",
+      "reference_range": "0.358-3.740",
+      "analysis_time": "07/03/202310:45AMCDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "specimen_source": "Blood",
+      "collection_method": "Collection/Unknown",
+      "collection_time": "07/03/20239:15AMCDT",
+      "received_time": "07/03/202310:06AMCDT",
+      "authorizing_provider": "HoyetAHandMD",
+      "result_type": "LABBLOODORDERABLES",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITALLAB",
+      "performing_organization_address": "15200COMMUNITY RD GULFPORT,MS 39503,USA",
+      "_source": "Page 8: (Gulfport) TSH Ultra Sensitive (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test_panel": "Lipid panel",
+      "test": "Triglycerides",
+      "date": "07/03/2023 9:15 AM CDT",
+      "value": "158",
+      "unit": "mg/dL",
+      "reference_range": "0-149",
+      "interpretation": "H",
+      "analysis_time": "07/03/202310:45AMCDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "comment": "Borderline high: 150-199mg/dL, High: 200-499mg/dL, Very High: >=500mg/dL",
+      "specimen_source": "Blood",
+      "collection_method": "Collection/Unknown",
+      "collection_time": "07/03/20239:15AMCDT",
+      "received_time": "07/03/202310:06AMCDT",
+      "authorizing_provider": "HoyetAHandMD",
+      "result_type": "LABBLOODORDERABLES",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITALLAB",
+      "performing_organization_address": "15200COMMUNITY RD GULFPORT,MS 39503,USA",
+      "_source": "Page 9: (ABNORMAL) Lipidpanel (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test_panel": "Lipid panel",
+      "test": "Cholesterol",
+      "date": "07/03/2023 9:15 AM CDT",
+      "value": "147",
+      "unit": "mg/dL",
+      "reference_range": "<200",
+      "analysis_time": "07/03/202310:45AMCDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "comment": "Low-risk levels (desirable) <200mg/dL, Moderate-risk levels (borderline) 200-239mg/dL, High-risk levels >=240mg/dL",
+      "specimen_source": "Blood",
+      "collection_method": "Collection/Unknown",
+      "collection_time": "07/03/20239:15AMCDT",
+      "received_time": "07/03/202310:06AMCDT",
+      "authorizing_provider": "HoyetAHandMD",
+      "result_type": "LABBLOODORDERABLES",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITALLAB",
+      "performing_organization_address": "15200COMMUNITY RD GULFPORT,MS 39503,USA",
+      "_source": "Page 9: (ABNORMAL) Lipidpanel (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test_panel": "Lipid panel",
+      "test": "HDL",
+      "date": "07/03/2023 9:15 AM CDT",
+      "value": "54",
+      "unit": "mg/dL",
+      "reference_range": "40-59",
+      "analysis_time": "07/03/202310:45AMCDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "comment": "Low (undesirable, high risk): <40.0mg/dL, High (desirable, low risk): >=60.0mg/dL",
+      "specimen_source": "Blood",
+      "collection_method": "Collection/Unknown",
+      "collection_time": "07/03/20239:15AMCDT",
+      "received_time": "07/03/202310:06AMCDT",
+      "authorizing_provider": "HoyetAHandMD",
+      "result_type": "LABBLOODORDERABLES",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITALLAB",
+      "performing_organization_address": "15200COMMUNITY RD GULFPORT,MS 39503,USA",
+      "_source": "Page 10: (ABNORMAL) Lipidpanel (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test_panel": "Lipid panel",
+      "test": "LDLCalculated",
+      "date": "07/03/2023 9:15 AM CDT",
+      "value": "62",
+      "unit": "mg/dL",
+      "reference_range": "0-100",
+      "analysis_time": "07/03/202310:45AMCDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "comment": "Optimal <100mg/dL, Above optimal: 100-129mg/dL, Borderline high: 130-159mg/dL, High: 160-189mg/dL, Very High: >=190mg/dL",
+      "specimen_source": "Blood",
+      "collection_method": "Collection/Unknown",
+      "collection_time": "07/03/20239:15AMCDT",
+      "received_time": "07/03/202310:06AMCDT",
+      "authorizing_provider": "HoyetAHandMD",
+      "result_type": "LABBLOODORDERABLES",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITALLAB",
+      "performing_organization_address": "15200COMMUNITY RD GULFPORT,MS 39503,USA",
+      "_source": "Page 10: (ABNORMAL) Lipidpanel (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test_panel": "Lipid panel",
+      "test": "VLDLCholesterolCal",
+      "date": "07/03/2023 9:15 AM CDT",
+      "value": "32",
+      "unit": "mg/dL",
+      "reference_range": "<30",
+      "interpretation": "H",
+      "analysis_time": "07/03/202310:45AMCDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "specimen_source": "Blood",
+      "collection_method": "Collection/Unknown",
+      "collection_time": "07/03/20239:15AMCDT",
+      "received_time": "07/03/202310:06AMCDT",
+      "authorizing_provider": "HoyetAHandMD",
+      "result_type": "LABBLOODORDERABLES",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITALLAB",
+      "performing_organization_address": "15200COMMUNITY RD GULFPORT,MS 39503,USA",
+      "_source": "Page 10: (ABNORMAL) Lipidpanel (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test_panel": "Lipid panel",
+      "test": "NonHDLChol. (LDL+VLDL)",
+      "date": "07/03/2023 9:15 AM CDT",
+      "value": "94",
+      "unit": "mg/dL",
+      "reference_range": "<=130",
+      "analysis_time": "07/03/202310:45AMCDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "specimen_source": "Blood",
+      "collection_method": "Collection/Unknown",
+      "collection_time": "07/03/20239:15AMCDT",
+      "received_time": "07/03/202310:06AMCDT",
+      "authorizing_provider": "HoyetAHandMD",
+      "result_type": "LABBLOODORDERABLES",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITALLAB",
+      "performing_organization_address": "15200COMMUNITY RD GULFPORT,MS 39503,USA",
+      "_source": "Page 10: (ABNORMAL) Lipidpanel (07/03/2023 9:15 AM CDT)"
+    }
+  ],
+  "diagnoses": [
+    {
+      "diagnosis": "Mixeddyslipidemia (Primary Dx)",
+      "_source": "Page 1: Encounter details"
+    },
+    {
+      "diagnosis": "Essentialhypertension, benign",
+      "_source": "Page 1: Encounter details"
+    },
+    {
+      "diagnosis": "Postoperativeanemia",
+      "_source": "Page 1: Encounter details"
+    },
+    {
+      "diagnosis": "LegPain",
+      "_source": "Page 1: Encounter details"
+    },
+    {
+      "diagnosis": "Mixeddyslipidemia-Primary",
+      "_source": "Page 11: Visit diagnoses"
+    },
+    {
+      "diagnosis": "Essentialhypertension,benign",
+      "_source": "Page 11: Visit diagnoses"
+    },
+    {
+      "diagnosis": "Legpain",
+      "_source": "Page 11: Visit diagnoses"
+    },
+    {
+      "diagnosis": "Postoperativeanemia",
+      "_source": "Page 11: Visit diagnoses"
+    },
+    {
+      "diagnosis": "Unspecifiedanemia",
+      "_source": "Page 11: Visit diagnoses"
+    }
+  ],
+  "notes": [
+    {
+      "text": "patient states quit 30 years ago",
+      "context": "social_history.tobacco_use",
+      "_source": "Page 1: Social history"
+    },
+    {
+      "text": "documentedasof thisencounter",
+      "context": "functional_status",
+      "_source": "Page 3: Functional status"
+    },
+    {
+      "text": "documentedasof thisencounter",
+      "context": "plans_and_followups",
+      "_source": "Page 5: Plan of treatment"
+    },
+    {
+      "text": "CKD-EPIGFRINTERPRETATIONGUIDELINES Estimated using CKD-EPI equation based on standardized serum creatinine, age, and sex DESCRIPTION eGFRmL/min/1.73m2 MildDecrease 60-89 ModerateDecrease 30-59 SevereDecrease 15-29 KidneyFailure <15(ordialysis)",
+      "context": "laboratory_results.eGFRCKD-EPI",
+      "_source": "Page 8: (ABNORMAL) Basic metabolic panel (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "text": "Borderlinehigh: 150-199mg/dL High: 200-499mg/dL VeryHigh: >=500mg/dL",
+      "context": "laboratory_results.Triglycerides",
+      "_source": "Page 9: (ABNORMAL) Lipidpanel (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "text": "Low-risklevels(desirable)<200mg/dL Moderate-risklevels(borderline)200-239mg/dL High-risklevels>=240mg/dL",
+      "context": "laboratory_results.Cholesterol",
+      "_source": "Page 10: (ABNORMAL) Lipidpanel (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "text": "Low(undesirable,highrisk): <40.0mg/dL High(desirable,lowrisk): >=60.0mg/dL",
+      "context": "laboratory_results.HDL",
+      "_source": "Page 10: (ABNORMAL) Lipidpanel (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "text": "Optimal <100mg/dL Aboveoptimal: 100-129mg/dL Borderlinehigh: 130-159mg/dL High: 160-189mg/dL VeryHigh: >=190mg/dL",
+      "context": "laboratory_results.LDLCalculated",
+      "_source": "Page 10: (ABNORMAL) Lipidpanel (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "text": "Optimal <=130mg/dL Aboveoptimal: 131-159mg/dL Borderlinehigh: 160-189mg/dL High: 190-219mg/dL VeryHigh: >=220mg/dL",
+      "context": "laboratory_results.NonHDLChol",
+      "_source": "Page 10: (ABNORMAL) Lipidpanel (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "text": "documentedinthisencounter",
+      "context": "laboratory_results",
+      "_source": "Page 11: (ABNORMAL) Lipidpanel (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "text": "documented inthis encounter",
+      "context": "diagnoses",
+      "_source": "Page 11: Visit diagnoses"
+    },
+    {
+      "text": "documentedasof thisencounter",
+      "context": "additional_health_concerns",
+      "_source": "Page 12: Additional health concerns"
+    },
+    {
+      "text": "documentedasof thisencounter",
+      "context": "care_teams",
+      "_source": "Page 12: Care teams"
+    }
+  ],
+  "care_team": [
+    {
+      "name": "Hand, Hoyet A, MD",
+      "relationship": "PCP-General",
+      "specialty": "FamilyMedicine",
+      "start_date": "9/25/20",
+      "npi": "1225340599",
+      "phone": "228-206-7054 (Work)",
+      "fax": "228-604-0905 (Fax)",
+      "_source": "Page 12: Care teams"
+    }
+  ],
+  "assessments": [
+    {
+      "assessment": "PHQ-9DepressionTotalScore:0",
+      "noted_time": "03/28/20238:56AMCDT",
+      "_source": "Page 12: Additional health concerns"
+    },
+    {
+      "assessment": "PHQ-2DepressionTotalScore:0",
+      "noted_time": "03/28/20238:56AMCDT",
+      "_source": "Page 12: Additional health concerns"
+    }
+  ]
+}
+```

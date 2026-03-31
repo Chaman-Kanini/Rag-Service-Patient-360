@@ -1,0 +1,16 @@
+QUESTION:
+Summarize the patient's medical history
+
+ANSWER:
+Olivia is a 73-year-old female. Her medical history includes diagnoses of mixed dyslipidemia, essential hypertension (benign), and a past episode of postoperative anemia, along with reported leg pain.
+
+Regarding her social history, she is a former smoker, having quit in 1991 (noted as 30 years ago as of 2023). She does not currently consume alcohol.
+
+Her functional status, as of January 5, 2021, indicates difficulty walking or climbing stairs, difficulty dressing or bathing, and difficulty doing errands alone. She does not report difficulty hearing, seeing (even with glasses), concentrating, remembering, or making decisions.
+
+Significant lab findings include:
+*   On July 17, 2020, she had low HDL Cholesterol (38 L), consistent with dyslipidemia.
+*   On January 11, 2021, lab results showed high Glucose (199 H), low Sodium (134 L), low Chloride (97 L), high BUN (37 H), high Creatinine (1.1 H), low Calcium (8.1 L), and a GFR of 50 (A), indicating reduced kidney function.
+*   On July 3, 2023, her Chloride was high (108 H), Anion Gap was low (5.0 L), and eGFRCKD-EPI was 58 (L), further indicating reduced kidney function, although her Glucose, BUN, and Creatinine were within normal range on this date.
+
+She receives Atorvastatin for lipid management, and her blood pressure goal is less than 140/90, with a recent reading of 128/78 on January 11, 2025.

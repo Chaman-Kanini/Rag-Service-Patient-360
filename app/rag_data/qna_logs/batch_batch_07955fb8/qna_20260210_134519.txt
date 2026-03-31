@@ -1,0 +1,9 @@
+QUESTION:
+What are the patient's recent diagnoses?
+
+ANSWER:
+- Mixed dyslipidemia (Primary)
+- Essential hypertension, benign
+- Leg pain
+- Postoperative anemia
+- Unspecified anemia

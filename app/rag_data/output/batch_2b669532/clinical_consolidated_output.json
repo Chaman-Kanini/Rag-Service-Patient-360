@@ -1,0 +1,684 @@
+{
+  "patient": {
+    "name": "Olivia",
+    "dob": "05/05/1952",
+    "age": "73",
+    "sex": "Female",
+    "contact": {
+      "phone": "+1 310 556 1256"
+    },
+    "patient_id": "104",
+    "_source": [
+      "Singing River Health System Progress Note - Page 1 - PATIENT INFORMATION - Received: 03/20/2024 08:24 PM",
+      "Singing River Health System Progress Note - Page 3 - PATIENT INFORMATION - Received: 03/20/2024 08:24 PM",
+      "Piedmont Healthcare Continuity of Care Document - Page 1 - PATIENT INFORMATION - Received: 02/19/2025 04:00 PM",
+      "Piedmont Healthcare Clinical Note - Page 1 - PATIENT INFORMATION - Received: 01/21/2025 08:22 PM"
+    ]
+  },
+  "encounters": [
+    {
+      "date": "02/21/2025",
+      "type": "Surgery",
+      "department": "Peri-Op Services",
+      "facility": "Piedmont Newnan Hospital",
+      "description": "COLONOSCOPY, WITH BIOPSY",
+      "care_team": "Haroon, Mustafa, MD",
+      "_source": "Piedmont Healthcare Continuity of Care Document - Page 2 - Encounter details - Surgery - Peri-Op Services - 02/21/2025 8:33 AM EST"
+    },
+    {
+      "date": "02/21/2025",
+      "type": "Hospital Encounter",
+      "department": "Peri-Op Services",
+      "facility": "Piedmont Newnan Hospital",
+      "care_team": "Haroon, Mustafa, MD",
+      "_source": "Piedmont Healthcare Continuity of Care Document - Page 2 - Encounter details - Hospital Encounter - 02/21/2025 8:33 AM EST"
+    },
+    {
+      "date": "02/20/2025",
+      "type": "Office Visit",
+      "department": "Atlanta Vascular Specialists - Newnan",
+      "care_team": "Dooley, John David, MD",
+      "description": "Office Visit 02/20/2025 1:15 PM EST",
+      "_source": "Piedmont Healthcare Continuity of Care Document - Page 2 - Encounter details - Office Visit - 02/20/2025 1:15 PM EST"
+    },
+    {
+      "date": "07/11/2023",
+      "type": "Travel",
+      "department": "",
+      "description": "Travel",
+      "_source": "Piedmont Healthcare Continuity of Care Document - Page 1 - Encounter details - Date: 07/11/2023"
+    },
+    {
+      "date": "06/30/2023",
+      "type": "Orders Only",
+      "department": "Primary Care Services",
+      "facility": "Singing River Gulfport",
+      "care_team": "Hand, Hoyet A, MD",
+      "description": "Orders Only Singing River Gulfport Primary Care Services 350 Cowan Road Hand, Hoyet A, MD Mixed dyslipidemia (Primary Dx); Essential hypertension, benign; Postoperative anemia Leg Pain",
+      "_source": "Singing River Health System Progress Note - Page 1 - Encounter details - 06/30/2023 Orders Only"
+    }
+  ],
+  "diagnoses": [
+    {
+      "diagnosis": "Mixed dyslipidemia - Primary",
+      "status": "",
+      "date": "06/30/2023",
+      "_source": [
+        "Singing River Health System Progress Note - Page 11 - Visit diagnoses - documented in this encounter",
+        "Singing River Health System Progress Note - Page 1 - Encounter details - 06/30/2023 Orders Only"
+      ]
+    },
+    {
+      "diagnosis": "Essential hypertension, benign",
+      "status": "",
+      "date": "06/30/2023",
+      "_source": [
+        "Singing River Health System Progress Note - Page 11 - Visit diagnoses - documented in this encounter",
+        "Singing River Health System Progress Note - Page 1 - Encounter details - 06/30/2023 Orders Only"
+      ]
+    },
+    {
+      "diagnosis": "Postoperative anemia",
+      "status": "",
+      "date": "06/30/2023",
+      "_source": [
+        "Singing River Health System Progress Note - Page 11 - Visit diagnoses - documented in this encounter",
+        "Singing River Health System Progress Note - Page 1 - Encounter details - 06/30/2023 Orders Only"
+      ]
+    },
+    {
+      "diagnosis": "Leg pain",
+      "status": "",
+      "date": "06/30/2023",
+      "_source": [
+        "Singing River Health System Progress Note - Page 11 - Visit diagnoses - documented in this encounter",
+        "Singing River Health System Progress Note - Page 1 - Encounter details - 06/30/2023 Orders Only"
+      ]
+    },
+    {
+      "diagnosis": "Unspecified anemia",
+      "status": "",
+      "date": "06/30/2023",
+      "_source": [
+        "Singing River Health System Progress Note - Page 11 - Visit diagnoses - documented in this encounter"
+      ]
+    },
+    {
+      "diagnosis": "Hyperlipidemia associated with type 2 diabetes mellitus (CMS/HCC) (CMS/HCC)",
+      "status": "",
+      "date": "01/21/2025",
+      "_source": [
+        "Piedmont Healthcare Clinical Note - Page 7 - Visit diagnoses - Documented in this encounter - Received: 01/21/2025 08:22 PM"
+      ]
+    }
+  ],
+  "procedures": [
+    {
+      "procedure": "COLONOSCOPY, WITH BIOPSY",
+      "date": "02/21/2025",
+      "provider": "Haroon, Mustafa, MD",
+      "_source": [
+        "Piedmont Healthcare Continuity of Care Document - Page 2 - Encounter details - Surgery - COLONOSCOPY, WITH BIOPSY - 02/21/2025 8:33 AM EST",
+        "Piedmont Healthcare Continuity of Care Document - Page 2 - Scheduled Procedures - COLONOSCOPY, WITH BIOPSY - 02/21/2025 8:33 AM EST"
+      ]
+    }
+  ],
+  "laboratory_results": [
+    {
+      "test": "Ferritin",
+      "value": "266.8 (H)",
+      "unit": "ng/mL",
+      "reference_range": "8.0 - 252.0",
+      "date": "07/03/2023 10:45 AM CDT",
+      "_source": "Singing River Health System Progress Note - Page 5 - Results (ABNORMAL) Ferritin (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test": "Iron",
+      "value": "41 (L)",
+      "unit": "ug/dL",
+      "reference_range": "50 - 170",
+      "date": "07/03/2023 10:45 AM CDT",
+      "_source": "Singing River Health System Progress Note - Page 6 - (ABNORMAL) Iron & Iron Binding Capacity (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test": "TIBC",
+      "value": "279",
+      "unit": "ug/dL",
+      "reference_range": "250 - 450",
+      "date": "07/03/2023 10:45 AM CDT",
+      "_source": "Singing River Health System Progress Note - Page 6 - (ABNORMAL) Iron & Iron Binding Capacity (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test": "Iron Saturation",
+      "value": "15 (L)",
+      "unit": "%",
+      "reference_range": "20 - 55",
+      "date": "07/03/2023 10:45 AM CDT",
+      "_source": "Singing River Health System Progress Note - Page 6 - (ABNORMAL) Iron & Iron Binding Capacity (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test": "Sodium",
+      "value": "140",
+      "unit": "mmol/L",
+      "reference_range": "136 - 145",
+      "date": "07/03/2023 10:45 AM CDT",
+      "_source": "Singing River Health System Progress Note - Page 6-7 - (ABNORMAL) Basic metabolic panel (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test": "Potassium",
+      "value": "4.0",
+      "unit": "mmol/L",
+      "reference_range": "3.5 - 5.1",
+      "date": "07/03/2023 10:45 AM CDT",
+      "_source": "Singing River Health System Progress Note - Page 7 - (ABNORMAL) Basic metabolic panel (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test": "Chloride",
+      "value": "108 (H)",
+      "unit": "mmol/L",
+      "reference_range": "98 - 107",
+      "date": "07/03/2023 10:45 AM CDT",
+      "_source": "Singing River Health System Progress Note - Page 7 - (ABNORMAL) Basic metabolic panel (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test": "CO2",
+      "value": "27",
+      "unit": "mmol/L",
+      "reference_range": "21 - 32",
+      "date": "07/03/2023 10:45 AM CDT",
+      "_source": "Singing River Health System Progress Note - Page 7 - (ABNORMAL) Basic metabolic panel (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test": "BUN",
+      "value": "15",
+      "unit": "mg/dL",
+      "reference_range": "7 - 18",
+      "date": "07/03/2023 10:45 AM CDT",
+      "_source": "Singing River Health System Progress Note - Page 7 - (ABNORMAL) Basic metabolic panel (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test": "Creatinine",
+      "value": "0.96",
+      "unit": "mg/dL",
+      "reference_range": "0.55 - 1.02",
+      "date": "07/03/2023 10:45 AM CDT",
+      "_source": "Singing River Health System Progress Note - Page 7 - (ABNORMAL) Basic metabolic panel (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test": "Glucose",
+      "value": "94",
+      "unit": "mg/dL",
+      "reference_range": "74 - 106",
+      "date": "07/03/2023 10:45 AM CDT",
+      "_source": "Singing River Health System Progress Note - Page 7 - (ABNORMAL) Basic metabolic panel (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test": "Calcium",
+      "value": "9.5",
+      "unit": "mg/dL",
+      "reference_range": "8.5 - 10.1",
+      "date": "07/03/2023 10:45 AM CDT",
+      "_source": "Singing River Health System Progress Note - Page 7 - (ABNORMAL) Basic metabolic panel (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test": "Anion Gap",
+      "value": "5.0 (L)",
+      "unit": "mmol/L",
+      "reference_range": "8.0 - 16.0",
+      "date": "07/03/2023 10:45 AM CDT",
+      "_source": "Singing River Health System Progress Note - Page 8 - Component Anion Gap 5.0 (L) 8.0 - 16.0 mmol/L 07/03/2023 10:45 AM CDT"
+    },
+    {
+      "test": "eGFR CKD-EPI",
+      "value": "58 (L)",
+      "unit": "ml/min/1.73m2",
+      "reference_range": ">90",
+      "date": "07/03/2023 10:45 AM CDT",
+      "_source": "Singing River Health System Progress Note - Page 8 - Component eGFR CKD-EPI 58 (L) >90 ml/min/1.73m2 07/03/2023 10:45 AM CDT"
+    },
+    {
+      "test": "TSH Ultra Sensitive",
+      "value": "1.320",
+      "unit": "mIU/mL",
+      "reference_range": "0.358 - 3.740",
+      "date": "07/03/2023 10:45 AM CDT",
+      "_source": "Singing River Health System Progress Note - Page 9 - (Gulfport) TSH Ultra Sensitive (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test": "Triglycerides",
+      "value": "158 (H)",
+      "unit": "mg/dL",
+      "reference_range": "0 - 149",
+      "date": "07/03/2023 10:45 AM CDT",
+      "_source": "Singing River Health System Progress Note - Page 9-10 - (ABNORMAL) Lipid panel (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test": "Cholesterol",
+      "value": "147",
+      "unit": "mg/dL",
+      "reference_range": "<200",
+      "date": "07/03/2023 10:45 AM CDT",
+      "_source": "Singing River Health System Progress Note - Page 10 - (ABNORMAL) Lipid panel (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test": "HDL",
+      "value": "54",
+      "unit": "mg/dL",
+      "reference_range": "40 - 59",
+      "date": "07/03/2023 10:45 AM CDT",
+      "_source": "Singing River Health System Progress Note - Page 10 - (ABNORMAL) Lipid panel (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test": "LDL Calculated",
+      "value": "62",
+      "unit": "mg/dL",
+      "reference_range": "0 - 100",
+      "date": "07/03/2023 10:45 AM CDT",
+      "_source": "Singing River Health System Progress Note - Page 10 - (ABNORMAL) Lipid panel (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test": "VLDL Cholesterol Cal",
+      "value": "32 (H)",
+      "unit": "mg/dL",
+      "reference_range": "<30",
+      "date": "07/03/2023 10:45 AM CDT",
+      "_source": "Singing River Health System Progress Note - Page 10-11 - (ABNORMAL) Lipid panel (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test": "Non HDL Chol.",
+      "value": "94",
+      "unit": "mg/dL",
+      "reference_range": "<=130",
+      "date": "07/03/2023 10:45 AM CDT",
+      "_source": "Singing River Health System Progress Note - Page 10-11 - (ABNORMAL) Lipid panel (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test": "CHOLTOTAL",
+      "value": "136",
+      "unit": "",
+      "reference_range": "",
+      "date": "07/17/2020 09:41 AM",
+      "_source": "Piedmont Healthcare Clinical Note - Page 4 - Miscellaneous notes - Last Lipid Panel - 07/17/2020 09:41 AM"
+    },
+    {
+      "test": "TG",
+      "value": "101",
+      "unit": "",
+      "reference_range": "",
+      "date": "07/17/2020 09:41 AM",
+      "_source": "Piedmont Healthcare Clinical Note - Page 4 - Miscellaneous notes - Last Lipid Panel - 07/17/2020 09:41 AM"
+    },
+    {
+      "test": "HDLCHOL",
+      "value": "38 (L)",
+      "unit": "",
+      "reference_range": "",
+      "date": "07/17/2020 09:41 AM",
+      "_source": "Piedmont Healthcare Clinical Note - Page 4 - Miscellaneous notes - Last Lipid Panel - 07/17/2020 09:41 AM"
+    },
+    {
+      "test": "LDLCHOL",
+      "value": "78",
+      "unit": "",
+      "reference_range": "",
+      "date": "07/17/2020 09:41 AM",
+      "_source": "Piedmont Healthcare Clinical Note - Page 4 - Miscellaneous notes - Last Lipid Panel - 07/17/2020 09:41 AM"
+    },
+    {
+      "test": "GLUCOSE",
+      "value": "199 (H)",
+      "unit": "",
+      "reference_range": "",
+      "date": "01/11/2021 05:31 AM",
+      "_source": "Piedmont Healthcare Clinical Note - Page 4 - Miscellaneous notes - Last BMP - 01/11/2021 05:31 AM"
+    },
+    {
+      "test": "SODIUM",
+      "value": "134 (L)",
+      "unit": "",
+      "reference_range": "",
+      "date": "01/11/2021 05:31 AM",
+      "_source": "Piedmont Healthcare Clinical Note - Page 4 - Miscellaneous notes - Last BMP - 01/11/2021 05:31 AM"
+    },
+    {
+      "test": "POTASSIUM",
+      "value": "4.4",
+      "unit": "",
+      "reference_range": "",
+      "date": "01/11/2021 05:31 AM",
+      "_source": "Piedmont Healthcare Clinical Note - Page 4 - Miscellaneous notes - Last BMP - 01/11/2021 05:31 AM"
+    },
+    {
+      "test": "CHLORIDE",
+      "value": "97 (L)",
+      "unit": "",
+      "reference_range": "",
+      "date": "01/11/2021 05:31 AM",
+      "_source": "Piedmont Healthcare Clinical Note - Page 4 - Miscellaneous notes - Last BMP - 01/11/2021 05:31 AM"
+    },
+    {
+      "test": "BUN",
+      "value": "37 (H)",
+      "unit": "",
+      "reference_range": "",
+      "date": "01/11/2021 05:31 AM",
+      "_source": "Piedmont Healthcare Clinical Note - Page 4 - Miscellaneous notes - Last BMP - 01/11/2021 05:31 AM"
+    },
+    {
+      "test": "CREATININE",
+      "value": "1.1 (H)",
+      "unit": "",
+      "reference_range": "",
+      "date": "01/11/2021 05:31 AM",
+      "_source": "Piedmont Healthcare Clinical Note - Page 4 - Miscellaneous notes - Last BMP - 01/11/2021 05:31 AM"
+    },
+    {
+      "test": "CALCIUM",
+      "value": "8.1 (L)",
+      "unit": "",
+      "reference_range": "",
+      "date": "01/11/2021 05:31 AM",
+      "_source": "Piedmont Healthcare Clinical Note - Page 4 - Miscellaneous notes - Last BMP - 01/11/2021 05:31 AM"
+    },
+    {
+      "test": "GFR",
+      "value": "50 (A)",
+      "unit": "",
+      "reference_range": "",
+      "date": "01/11/2021 05:31 AM",
+      "_source": "Piedmont Healthcare Clinical Note - Page 4 - Miscellaneous notes - Last BMP - 01/11/2021 05:31 AM"
+    },
+    {
+      "test": "Alkaline Phosphatase",
+      "value": "58",
+      "unit": "U/L",
+      "reference_range": "34 - 144",
+      "date": "01/08/2021 05:00 AM",
+      "_source": "Piedmont Healthcare Clinical Note - Page 4 - Miscellaneous notes - Last LFTS - 01/08/2021 05:00 AM"
+    },
+    {
+      "test": "AST (SGOT)",
+      "value": "8 (L)",
+      "unit": "U/L",
+      "reference_range": "13 - 40",
+      "date": "01/08/2021 05:00 AM",
+      "_source": "Piedmont Healthcare Clinical Note - Page 4 - Miscellaneous notes - Last LFTS - 01/08/2021 05:00 AM"
+    },
+    {
+      "test": "ALT (SGPT)",
+      "value": "10",
+      "unit": "U/L",
+      "reference_range": "7 - 52",
+      "date": "01/08/2021 05:00 AM",
+      "_source": "Piedmont Healthcare Clinical Note - Page 4 - Miscellaneous notes - Last LFTS - 01/08/2021 05:00 AM"
+    }
+  ],
+  "vitals": [
+    {
+      "type": "Blood Pressure",
+      "value": "128/78",
+      "date": "01/11/2025 9:30 AM EST",
+      "_source": "Piedmont Healthcare Clinical Note - Page 5-6 - Goals - Blood Pressure < 140/90 - Recent Progress 128/78 (01/11/2025 9:30 AM EST)"
+    }
+  ],
+  "social_history": [
+    {
+      "item": "Smoking Tobacco",
+      "value": "Former Cigarettes Quit: 1991",
+      "date_recorded": "",
+      "_source": "Singing River Health System Progress Note - Page 1 - Social history - Smoking Tobacco: Former Cigarettes Quit: 1991 Comments: patient states quit 30 years ago"
+    },
+    {
+      "item": "Smoking Tobacco",
+      "value": "Every Day Cigarettes 0.5 50",
+      "date_recorded": "07/11/2023",
+      "_source": "Piedmont Healthcare Continuity of Care Document - Page 1 - Social history - Smoking Tobacco: Every Day Cigarettes 0.5 50 - Date: 07/11/2023"
+    },
+    {
+      "item": "Smoking Tobacco",
+      "value": "Former Cigarettes 0.3 2 03/22/1971 - 03/22/1973",
+      "date_recorded": "01/12/2021",
+      "_source": "Piedmont Healthcare Clinical Note - Page 1 - Social history - Smoking Tobacco: Former Cigarettes 0.3 2 03/22/1971 - 03/22/1973"
+    },
+    {
+      "item": "Alcohol Use",
+      "value": "Not Currently 0",
+      "date_recorded": "",
+      "_source": [
+        "Singing River Health System Progress Note - Page 1 - Social history - Alcohol Use Not Currently 0",
+        "Piedmont Healthcare Continuity of Care Document - Page 1 - Social history - Alcohol Use No 0"
+      ]
+    }
+  ],
+  "functional_status": [
+    {
+      "question": "Is the person deaf or does he/she have difficulty hearing?",
+      "response": "No",
+      "date_of_assessment": "06/19/2023",
+      "_source": "Singing River Health System Progress Note - Page 3 - Functional Status - Is the person deaf or does he/she have difficulty hearing? No 06/19/2023"
+    },
+    {
+      "question": "Patient's Vision Adequate to Safely Complete Daily Activities",
+      "response": "Yes",
+      "date_of_assessment": "06/19/2023",
+      "_source": "Singing River Health System Progress Note - Page 3 - Functional Status - Patient's Vision Adequate to Safely Complete Daily Activities Yes 06/19/2023"
+    },
+    {
+      "question": "Does this person have serious difficulty walking or climbing stairs?",
+      "response": "Yes",
+      "date_of_assessment": "06/14/2023",
+      "_source": "Singing River Health System Progress Note - Page 3 - Functional Status - Does this person have serious difficulty walking or climbing stairs? Yes 06/14/2023"
+    },
+    {
+      "question": "Does this person have difficulty dressing or bathing?",
+      "response": "No",
+      "date_of_assessment": "06/14/2023",
+      "_source": "Singing River Health System Progress Note - Page 3 - Functional Status - Does this person have difficulty dressing or bathing? No 06/14/2023"
+    },
+    {
+      "question": "Because of a physical, mental or emotional condition, does this patient have difficulty doing errands alone such as visiting the doctor's office or shopping?",
+      "response": "No",
+      "date_of_assessment": "06/14/2023",
+      "_source": "Singing River Health System Progress Note - Page 3 - Functional Status - Because of a physical, mental or emotional condition, does this patient have difficulty doing errands alone such as visiting the doctor's office or shopping? No 06/14/2023"
+    },
+    {
+      "question": "Difficulty hearing?",
+      "response": "No",
+      "date_of_assessment": "01/05/2021",
+      "_source": "Piedmont Healthcare Clinical Note - Page 3 - Functional status - Difficulty hearing?: No 01/05/2021 1:00 AM EST"
+    },
+    {
+      "question": "Difficulty seeing even with glasses?",
+      "response": "No",
+      "date_of_assessment": "01/05/2021",
+      "_source": "Piedmont Healthcare Clinical Note - Page 3 - Functional status - Difficulty seeing even with glasses?: No 01/05/2021 1:00 AM EST"
+    },
+    {
+      "question": "Difficulty walking or climbing stairs?",
+      "response": "Yes",
+      "date_of_assessment": "01/05/2021",
+      "_source": "Piedmont Healthcare Clinical Note - Page 3 - Functional status - Difficulty walking or climbing stairs?: Yes 01/05/2021 1:00 AM EST"
+    },
+    {
+      "question": "Difficulty dressing or bathing?",
+      "response": "Yes",
+      "date_of_assessment": "01/05/2021",
+      "_source": "Piedmont Healthcare Clinical Note - Page 3 - Functional status - Difficulty dressing or bathing?: Yes 01/05/2021 1:00 AM EST"
+    },
+    {
+      "question": "Difficulty doing errands alone?",
+      "response": "Yes",
+      "date_of_assessment": "01/05/2021",
+      "_source": "Piedmont Healthcare Clinical Note - Page 3 - Functional status - Difficulty doing errands alone?: Yes 01/05/2021 1:00 AM EST"
+    }
+  ],
+  "care_team": [
+    {
+      "name": "Hand, Hoyet A, MD",
+      "relationship": "PCP - General",
+      "specialty": "Family Medicine",
+      "start_date": "9/25/20",
+      "contact": "228-206-7054 (Work); 228-604-0905 (Fax)",
+      "_source": "Singing River Health System Progress Note - Page 12 - Care teams - Hand, Hoyet A, MD NPI: 1225340599 9/25/20"
+    },
+    {
+      "name": "Kandaswamy, Shankar, MD",
+      "relationship": "PCP - General",
+      "specialty": "Pulmonary Disease",
+      "start_date": "9/10/21",
+      "end_date": "1/22/24",
+      "contact": "2301 Newnan Crossing Blvd Suite 200 Newnan, GA 30265 770-683-6921 (Work)",
+      "_source": "Piedmont Healthcare Continuity of Care Document - Page 3 - Care teams - Kandaswamy, Shankar, MD NPI: 1689657181"
+    },
+    {
+      "name": "Guthikonda, Sasidhar, MD",
+      "relationship": "Cardiologist",
+      "specialty": "Cardiovascular Disease",
+      "start_date": "7/13/21",
+      "contact": "795 Poplar Road STE 400 Newnan, GA 30265 770-716-0051 (Work)",
+      "_source": "Piedmont Healthcare Continuity of Care Document - Page 4 - Care teams - Guthikonda, Sasidhar, MD NPI: 1851595367"
+    },
+    {
+      "name": "Darlington, Andrew, DO",
+      "relationship": "Primary Cardiologist",
+      "specialty": "Advanced Heart Failure and Transplant Cardiology",
+      "start_date": "9/10/21",
+      "contact": "1267 Highway 54 West Ste 2200 Fayetteville, GA 30214 770-716-0051 (Work)",
+      "_source": "Piedmont Healthcare Continuity of Care Document - Page 4 - Care teams - Darlington, Andrew, DO NPI: 1942352851"
+    },
+    {
+      "name": "Hershey, Curtis L, MD",
+      "relationship": "PCP - General",
+      "specialty": "Family Practice",
+      "start_date": "4/15/19",
+      "contact": "1261 Division Highway Suite 1 EPHRATA, PA 17522 717-738-0660 (Work)",
+      "_source": "Piedmont Healthcare Clinical Note - Page 7-8 - Care teams - Hershey, Curtis L, MD NPI: 1346285574"
+    },
+    {
+      "name": "Pradhan Shrestha, Deepika, MD",
+      "relationship": "Endocrinologist",
+      "specialty": "Endocrinology, Diabetes & Metabolism",
+      "start_date": "9/9/19",
+      "end_date": "6/14/22",
+      "contact": "2112 Harrisburg Pike Suite 200 LANCASTER, PA 17604 717-544-3059 (Work)",
+      "_source": "Piedmont Healthcare Clinical Note - Page 8 - Care teams - Pradhan Shrestha, Deepika, MD NPI: 1902035041"
+    },
+    {
+      "name": "Roberts, Justin D, DO",
+      "relationship": "Consulting Physician",
+      "specialty": "AMB - Cardiology - General",
+      "start_date": "1/13/20",
+      "end_date": "6/14/22",
+      "contact": "217 HARRISBURG PIKE SUITE 200 LANCASTER, PA 17603 717-544-8300 (Work)",
+      "_source": "Piedmont Healthcare Clinical Note - Page 8 - Care teams - Roberts, Justin D, DO NPI: 1528111028"
+    }
+  ],
+  "plans_and_followups": [
+    {
+      "plan": "Upcoming Encounter - Appointment 04/19/2024 10:00 AM - Singing River Gulfport Primary Care Services - 350 Cowan Road",
+      "_source": "Singing River Health System Progress Note - Page 3 - Plan of treatment - Upcoming Encounters - 04/19/2024 10:00 AM"
+    },
+    {
+      "plan": "Office Visit 04/22/2024 9:20 AM - Singing River Gulfport - Hand, Hoyet A, MD - Primary Care Services",
+      "_source": "Singing River Health System Progress Note - Page 3 - Plan of treatment - Upcoming Encounters - 04/22/2024 9:20 AM"
+    },
+    {
+      "plan": "Office Visit 04/30/2024 10:20 AM - Rheumatology Services - Carroll, Matthew B, MD",
+      "_source": "Singing River Health System Progress Note - Page 3 - Plan of treatment - Upcoming Encounters - 04/30/2024 10:20 AM"
+    },
+    {
+      "plan": "Office Visit 05/01/2024 9:00 AM - Southern Mississippi Heart Center - Zayed, Mahmoud H, MD",
+      "_source": "Singing River Health System Progress Note - Page 3 - Plan of treatment - Upcoming Encounters - 05/01/2024 9:00 AM"
+    },
+    {
+      "plan": "COLONOSCOPY, WITH BIOPSY - Special screening for malignant neoplasms, colon - 02/21/2025 8:33 AM EST",
+      "_source": "Piedmont Healthcare Continuity of Care Document - Page 3 - Scheduled Procedures - COLONOSCOPY, WITH BIOPSY - 02/21/2025 8:33 AM EST"
+    }
+  ],
+  "notes": [
+    {
+      "text": "PHQ-9 Depression Total Score: 0 03/28/2023 8:56 AM CDT",
+      "_source": "Singing River Health System Progress Note - Page 12 - Additional health concerns - PHQ-9 Depression Total Score: 0 03/28/2023 8:56 AM CDT"
+    },
+    {
+      "text": "PHQ-2 Depression Total Score: 0 03/28/2023 8:56 AM CDT",
+      "_source": "Singing River Health System Progress Note - Page 12 - Additional health concerns - PHQ-2 Depression Total Score: 0 03/28/2023 8:56 AM CDT"
+    },
+    {
+      "text": "Visit diagnoses documented in this encounter: Mixed dyslipidemia - Primary; Essential hypertension, benign; Leg pain; Postoperative anemia; Unspecified anemia",
+      "_source": "Singing River Health System Progress Note - Page 11 - Visit diagnoses - documented in this encounter"
+    },
+    {
+      "text": "Refill Request Atorvastatin / CVS - Reason for Visit documented 01/12/2021",
+      "_source": "Piedmont Healthcare Clinical Note - Page 1 - Reason for Visit - Refill Request Atorvastatin / CVS - 01/12/2021"
+    },
+    {
+      "text": "Miscellaneous notes: Lipid-related Refill Request Atorvastatin; Last THG provider office visit: 11/17/20 Next OV:2/19/2021",
+      "_source": "Piedmont Healthcare Clinical Note - Page 4 - Miscellaneous notes"
+    },
+    {
+      "text": "Additional health concerns: MRSA Most Recent Date: 9/4/20 Most Recent Site: R breast Original Date: 9/3/20 Original Site: R breast; COVID-19 recovered 01/04/2021",
+      "_source": "Piedmont Healthcare Clinical Note - Page 7 - Additional health concerns"
+    }
+  ],
+  "conflicts": [
+    {
+      "entity_type": "demographics",
+      "entity_name": "Legal sex / Gender",
+      "conflict_description": "Conflicting records for legal sex / gender: Singing River and most documents list Female; one Piedmont document lists Legal Sex Male.",
+      "variants": [
+        {
+          "value": "Female",
+          "_source": "Singing River Health System Progress Note - Page 1 - PATIENT INFORMATION - Gender: Female - Received: 03/20/2024 08:24 PM"
+        },
+        {
+          "value": "Female",
+          "_source": "Piedmont Healthcare Clinical Note - Page 1 - PATIENT INFORMATION - Gender: Female - Received: 01/21/2025 08:22 PM"
+        },
+        {
+          "value": "Legal Sex Male 06/19/2013 2:39 AM EDT",
+          "_source": "Piedmont Healthcare Continuity of Care Document - Page 1 - Social history - Sex and Gender Information - Legal Sex Male 06/19/2013 2:39 AM EDT"
+        }
+      ]
+    },
+    {
+      "entity_type": "demographics",
+      "entity_name": "Date of Birth",
+      "conflict_description": "Conflicting DOB values present in records.",
+      "variants": [
+        {
+          "value": "05/05/1952",
+          "_source": "Singing River Health System Progress Note - Page 1 - PATIENT INFORMATION - DOB: 05/05/1952 - Received: 03/20/2024 08:24 PM"
+        },
+        {
+          "value": "05/05/1952",
+          "_source": "Piedmont Healthcare Clinical Note - Page 1 - PATIENT INFORMATION - DOB: 05/05/1952 - Received: 01/21/2025 08:22 PM"
+        },
+        {
+          "value": "07/21/1954",
+          "_source": "Piedmont Healthcare Clinical Note - Page 4 - PATIENT INFORMATION - DOB: 07/21/1954 - Received: 01/21/2025 08:22 PM"
+        }
+      ]
+    },
+    {
+      "entity_type": "social_history",
+      "entity_name": "Smoking Tobacco",
+      "conflict_description": "Conflicting smoking history entries: 'Former' quit 1991 vs 'Every Day' 0.5 pack/day 50 years vs former with specific early 1970s dates.",
+      "variants": [
+        {
+          "value": "Former Cigarettes Quit: 1991 Comments: patient states quit 30 years ago",
+          "_source": "Singing River Health System Progress Note - Page 1 - Social history - Smoking Tobacco: Former Cigarettes Quit: 1991 Comments: patient states quit 30 years ago"
+        },
+        {
+          "value": "Every Day Cigarettes 0.5 50",
+          "_source": "Piedmont Healthcare Continuity of Care Document - Page 1 - Social history - Smoking Tobacco: Every Day Cigarettes 0.5 50 - 07/11/2023"
+        },
+        {
+          "value": "Former Cigarettes 0.3 2 03/22/1971 - 03/22/1973",
+          "_source": "Piedmont Healthcare Clinical Note - Page 1 - Social history - Smoking Tobacco: Former Cigarettes 0.3 2 03/22/1971 - 03/22/1973"
+        }
+      ]
+    }
+  ],
+  "patient_summary": "Olivia, female, age 73. Active problems documented include Mixed dyslipidemia, Essential hypertension, Hyperlipidemia associated with type 2 diabetes mellitus, postoperative/unspecified anemia, and leg pain. Major recent procedure: COLONOSCOPY, WITH BIOPSY (02/21/2025, Haroon, Mustafa, MD). Key laboratory findings (07/03/2023): Ferritin 266.8 (H) ng/mL; Iron 41 (L) ug/dL; Iron Saturation 15 (L) %; eGFR CKD-EPI 58 (L) ml/min/1.73m2; Triglycerides 158 (H) mg/dL; LDL Calculated 62 mg/dL; TSH Ultra Sensitive 1.320 mIU/mL. Multiple care teams are documented including Hand Hoyet A, MD (PCP) and several Piedmont specialists. Note: demographic conflicts present in the record (DOB and legal sex) and variable smoking history across sources; these conflicts are preserved in the consolidated record."
+}

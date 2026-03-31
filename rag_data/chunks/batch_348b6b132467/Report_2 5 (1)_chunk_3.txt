@@ -1,0 +1,44 @@
+yourpartner,ex-partneror
+familymember?
+Depression Answer DateRecorded
+PHQ-9Score 3 11/17/2020
+PrintedfromHealthGorillaSecureClinicalNetwork.Copyright©2025HealthGorillaInc.
+https://www.healthgorilla.com
+Thecontentsofthisdocumentand/orfaxtransmissionareintendedonlyfortheuseoftheindividualorentitytowhichtheyareaddressedandmay
+containinformationthatislegallyprivileged,confidentialandexemptfromdisclosure,includingprotectedhealthinformation.Ifyouarenotthe
+intendedrecipient,youareherebynotifiedthatanydissemination,distributionorcopyingofthisdocumentisstrictlyprohibited.Ifyouhavereceived
+orobtainedthisdocumentorfaxtransmissioninerror,pleasenotifytheoriginalsenderorcontactHealthGorillaInc.at1-844-446-7455
+immediatelybytelephoneorbyemailatprivacy@healthgorilla.comanddeletethisdocumentimmediately.
+Page2of9
+[Page 3]
+Test PiedmontHealthcarePatientRecord01/21/2025
+PATIENT INFORMATION: Type: ClinicalNote
+Olivia Source: PiedmontHealthcare
+Received:01/21/202508:22PM
+Phone : +13105561256 Modified: 01/21/202508:22PM
+DOB: 05/05/1952
+Gender: Female Age: 73
+PatientID: 104
+Pregnant Comments
+No
+SexandGenderInformation Value DateRecorded
+SexAssignedatBirth Notonfile
+LegalSex Female 12/17/20125:59PMEST
+GenderIdentity Notonfile
+SexualOrientation Notonfile
+documentedasof thisencounter
+Functional status
+Difficultyhearing?:
+Answer DateofAssessment Author
+No 01/05/20211:00AMEST
+Difficultyseeingevenwithglasses?:
+Answer DateofAssessment Author
+No 01/05/20211:00AMEST
+Difficultywalkingorclimbingstairs?:
+Answer DateofAssessment Author
+Yes 01/05/20211:00AMEST
+*Difficultydressingorbathing?:
+Answer DateofAssessment Author
+Yes 01/05/20211:00AMEST
+Difficultydoingerrandsalone?:
+Answer DateofAss

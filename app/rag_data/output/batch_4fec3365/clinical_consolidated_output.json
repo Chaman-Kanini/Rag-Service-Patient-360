@@ -1,0 +1,766 @@
+{
+  "patient": {
+    "name": "Olivia",
+    "patient_id": "104",
+    "dob": "05/05/1952",
+    "age": "73",
+    "sex": "Female",
+    "phone": "+1 310 556 1256",
+    "_source": [
+      "Singing River Health System Patient Record - Page 1 header Patient Information",
+      "Piedmont Healthcare Clinical Note - Page 1 header Patient Information"
+    ]
+  },
+  "encounters": [
+    {
+      "date": "02/21/2025 08:33 AM EST",
+      "type": "Surgery",
+      "department": "Peri-Op Services",
+      "care_team": "Haroon, Mustafa, MD",
+      "description": "COLONOSCOPY, WITH BIOPSY",
+      "_source": "Piedmont Healthcare Continuity of Care Document - Test4 - Page 2 Encounter details (02/21/2025 8:33 AM EST) (Surgery, COLONOSCOPY, WITH BIOPSY) and Page 3 Scheduled Procedures"
+    },
+    {
+      "date": "02/20/2025 01:15 PM EST",
+      "type": "Office Visit",
+      "department": "Newnan - (Unknown Dept)",
+      "care_team": "Dooley, John David, MD",
+      "description": "Encounter at Atlanta Vascular Specialists - Newnan",
+      "_source": "Piedmont Healthcare Continuity of Care Document - Test4 - Page 2 Encounter details (02/20/2025 1:15 PM EST) (The Heart Group Of LGHealth/Atlanta Vascular Specialists entry)"
+    },
+    {
+      "date": "02/06/2025 08:30 AM EST",
+      "type": "Telemedicine",
+      "department": "Family Medicine",
+      "care_team": "Calamia, Courtney, RPh",
+      "description": "Telemedicine encounter",
+      "_source": "Piedmont Healthcare Clinical Note - Page 5 Plan of treatment Upcoming Encounters (02/06/2025 8:30 AM)"
+    },
+    {
+      "date": "02/03/2025 09:40 AM EST",
+      "type": "Office Visit",
+      "department": "Family Medicine",
+      "care_team": "Hershey, Curtis L, MD",
+      "description": "Office Visit - Discharge Disposition: Home/Self Care",
+      "_source": "Piedmont Healthcare Clinical Note - Page 5 Plan of treatment Upcoming Encounters (02/03/2025 9:40 AM)"
+    },
+    {
+      "date": "07/11/2023",
+      "type": "Travel",
+      "description": "Travel encounter",
+      "_source": "Piedmont Healthcare Continuity of Care Document - Test4 - Page 1 Encounter details (07/11/2023 Travel)"
+    },
+    {
+      "date": "06/30/2023",
+      "type": "Orders Only",
+      "department": "Primary Care Services",
+      "care_team": "Hand, Hoyet A, MD",
+      "description": "Orders Only encounter at Singing River Gulfport; listed problems: Mixed dyslipidemia (Primary Dx); Essential hypertension, benign; Postoperative anemia; Leg Pain",
+      "_source": "Singing River Health System Patient Record - Page 1 Encounter Details (06/30/2023 Orders Only) 'Mixed dyslipidemia (Primary Dx); Essential hypertension, benign; Postoperative anemia Leg Pain'"
+    },
+    {
+      "date": "04/22/2024 09:20 AM CDT",
+      "type": "Office Visit",
+      "department": "Primary Care Services",
+      "care_team": "Hand, Hoyet A, MD",
+      "description": "Office Visit scheduled at Singing River Gulfport",
+      "_source": "Singing River Health System Patient Record - Page 3 Plan of treatment Upcoming Encounters (04/22/2024 9:20 AM)"
+    },
+    {
+      "date": "04/30/2024 10:20 AM CDT",
+      "type": "Office Visit",
+      "department": "Rheumatology Services",
+      "care_team": "Carroll, Matthew B, MD",
+      "description": "Office Visit scheduled at Rheumatology Services",
+      "_source": "Singing River Health System Patient Record - Page 3 Plan of treatment Upcoming Encounters (04/30/2024 10:20 AM)"
+    },
+    {
+      "date": "05/01/2024 09:00 AM CDT",
+      "type": "Office Visit",
+      "department": "Southern Mississippi Heart Center - Gulfport",
+      "care_team": "Zayed, Mahmoud H, MD",
+      "description": "Office Visit scheduled at Southern Mississippi Heart Center - Gulfport",
+      "_source": "Singing River Health System Patient Record - Page 3 Plan of treatment Upcoming Encounters (05/01/2024 9:00 AM)"
+    },
+    {
+      "date": "06/05/2024 09:40 AM CDT",
+      "type": "Office Visit",
+      "department": "Gastroenterology",
+      "care_team": "Alexander, Amie L, NP",
+      "description": "Office Visit scheduled at Singing River Gulfport Gastroenterology",
+      "_source": "Singing River Health System Patient Record - Page 3 Plan of treatment Upcoming Encounters (06/05/2024 9:40 AM)"
+    }
+  ],
+  "diagnoses": [
+    {
+      "diagnosis": "Mixed dyslipidemia - Primary",
+      "status": "documented in this encounter",
+      "_source": [
+        "Singing River Health System Patient Record - Page 11 Visit diagnoses 'Mixed dyslipidemia - Primary'",
+        "Singing River Health System Patient Record - Page 1 Encounter Details 'Mixed dyslipidemia (Primary Dx)'"
+      ]
+    },
+    {
+      "diagnosis": "Essential hypertension, benign",
+      "status": "documented in this encounter",
+      "_source": [
+        "Singing River Health System Patient Record - Page 11 Visit diagnoses 'Essential hypertension, benign'",
+        "Singing River Health System Patient Record - Page 1 Encounter Details 'Essential hypertension, benign'"
+      ]
+    },
+    {
+      "diagnosis": "Leg pain",
+      "status": "documented in this encounter",
+      "_source": [
+        "Singing River Health System Patient Record - Page 11 Visit diagnoses 'Leg pain'",
+        "Singing River Health System Patient Record - Page 1 Encounter Details 'Leg Pain'"
+      ]
+    },
+    {
+      "diagnosis": "Postoperative anemia",
+      "status": "documented in this encounter",
+      "_source": [
+        "Singing River Health System Patient Record - Page 11 Visit diagnoses 'Postoperative anemia'",
+        "Singing River Health System Patient Record - Page 1 Encounter Details 'Postoperative anemia'"
+      ]
+    },
+    {
+      "diagnosis": "Unspecified anemia",
+      "status": "documented in this encounter",
+      "_source": "Singing River Health System Patient Record - Page 11 Visit diagnoses 'Unspecified anemia'"
+    },
+    {
+      "diagnosis": "Hyperlipidemia associated with type 2 diabetes mellitus (CMS/HCC)",
+      "status": "documented in this encounter",
+      "_source": "Piedmont Healthcare Clinical Note - Page 7 Visit diagnoses 'Hyperlipidemia associated with type 2 diabetes mellitus (CMS/HCC) (CMS/HCC)'"
+    }
+  ],
+  "procedures": [
+    {
+      "procedure": "COLONOSCOPY, WITH BIOPSY",
+      "date": "02/21/2025 08:33 AM EST",
+      "provider": "Haroon, Mustafa, MD",
+      "_source": [
+        "Piedmont Healthcare Continuity of Care Document - Test4 - Page 2 Encounter details '02/21/2025 Surgery Peri-Op Services Haroon, Mustafa, MD COLONOSCOPY, WITH BIOPSY'",
+        "Piedmont Healthcare Continuity of Care Document - Test4 - Page 2 Scheduled Procedures 'COLONOSCOPY, WITH BIOPSY Special screening for malignant neoplasms, colon 02/21/2025 8:33 AM EST'"
+      ]
+    }
+  ],
+  "laboratory_results": [
+    {
+      "test": "Ferritin",
+      "value": "266.8",
+      "unit": "ng/mL",
+      "reference_range": "8.0 - 252.0",
+      "interpretation": "(H)",
+      "date": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Singing River Health System Patient Record - Page 5 Results (ABNORMAL) Ferritin (07/03/2023 9:15 AM CDT) Ferritin 266.8 (H) 8.0 - 252.0 ng/mL 07/03/2023 10:45 AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test": "Iron",
+      "value": "41",
+      "unit": "ug/dL",
+      "reference_range": "50 - 170",
+      "interpretation": "(L)",
+      "date": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Singing River Health System Patient Record - Page 6 Results (ABNORMAL) Iron & Iron Binding Capacity (07/03/2023 9:15 AM CDT) Iron 41 (L) 50 - 170 ug/dL 07/03/2023 10:45 AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test": "TIBC",
+      "value": "279",
+      "unit": "ug/dL",
+      "reference_range": "250 - 450",
+      "date": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Singing River Health System Patient Record - Page 6 Results (ABNORMAL) Iron & Iron Binding Capacity (07/03/2023 9:15 AM CDT) TIBC 279 250 - 450 ug/dL 07/03/2023 10:45 AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test": "Iron Saturation",
+      "value": "15",
+      "unit": "%",
+      "reference_range": "20 - 55",
+      "interpretation": "(L)",
+      "date": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Singing River Health System Patient Record - Page 6 Results (ABNORMAL) Iron & Iron Binding Capacity (07/03/2023 9:15 AM CDT) Iron Saturation 15 (L) 20 - 55 % 07/03/2023 10:45 AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test": "Basic metabolic panel - Sodium",
+      "value": "140",
+      "unit": "mmol/L",
+      "reference_range": "136 - 145",
+      "date": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Singing River Health System Patient Record - Page 6-7 Results (ABNORMAL) Basic metabolic panel (07/03/2023 9:15 AM CDT) Sodium 140 136 - 145 mmol/L 07/03/2023 10:45 AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test": "Basic metabolic panel - Potassium",
+      "value": "4.0",
+      "unit": "mmol/L",
+      "reference_range": "3.5 - 5.1",
+      "date": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Singing River Health System Patient Record - Page 7 Results Basic metabolic panel Potassium 4.0 3.5 - 5.1 mmol/L 07/03/2023 10:45 AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test": "Basic metabolic panel - Chloride",
+      "value": "108",
+      "unit": "mmol/L",
+      "reference_range": "98 - 107",
+      "interpretation": "(H)",
+      "date": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Singing River Health System Patient Record - Page 7 Results Basic metabolic panel Chloride 108 (H) 98 - 107 mmol/L 07/03/2023 10:45 AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test": "Basic metabolic panel - CO2",
+      "value": "27",
+      "unit": "mmol/L",
+      "reference_range": "21 - 32",
+      "date": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Singing River Health System Patient Record - Page 7 Results Basic metabolic panel CO2 27 21 - 32 mmol/L 07/03/2023 10:45 AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test": "Basic metabolic panel - BUN",
+      "value": "15",
+      "unit": "mg/dL",
+      "reference_range": "7 - 18",
+      "date": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Singing River Health System Patient Record - Page 7 Results Basic metabolic panel BUN 15 7 - 18 mg/dL 07/03/2023 10:45 AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test": "Basic metabolic panel - Creatinine",
+      "value": "0.96",
+      "unit": "mg/dL",
+      "reference_range": "0.55 - 1.02",
+      "date": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Singing River Health System Patient Record - Page 7 Results Basic metabolic panel Creatinine 0.96 0.55 - 1.02 mg/dL 07/03/2023 10:45 AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test": "Basic metabolic panel - Glucose",
+      "value": "94",
+      "unit": "mg/dL",
+      "reference_range": "74 - 106",
+      "date": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Singing River Health System Patient Record - Page 7 Results Basic metabolic panel Glucose 94 74 - 106 mg/dL 07/03/2023 10:45 AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test": "Basic metabolic panel - Calcium",
+      "value": "9.5",
+      "unit": "mg/dL",
+      "reference_range": "8.5 - 10.1",
+      "date": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Singing River Health System Patient Record - Page 7 Results Basic metabolic panel Calcium 9.5 8.5 - 10.1 mg/dL 07/03/2023 10:45 AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test": "Anion Gap",
+      "value": "5.0",
+      "unit": "mmol/L",
+      "reference_range": "8.0 - 16.0",
+      "interpretation": "(L)",
+      "date": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Singing River Health System Patient Record - Page 8 Results Anion Gap 5.0 (L) 8.0 - 16.0 mmol/L 07/03/2023 10:45 AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test": "eGFR CKD-EPI",
+      "value": "58",
+      "unit": "ml/min/1.73m2",
+      "reference_range": ">90",
+      "interpretation": "(L)",
+      "date": "07/03/2023 10:45 AM CDT",
+      "comment": "Estimated using CKD-EPI equation based on standardized serum creatinine, age, and sex",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Singing River Health System Patient Record - Page 8 Results eGFR CKD-EPI 58 (L) >90 ml/min/1.73m2 07/03/2023 10:45 AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test": "TSH Ultra Sensitive",
+      "value": "1.320",
+      "unit": "mIU/mL",
+      "reference_range": "0.358 - 3.740",
+      "date": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Singing River Health System Patient Record - Page 9 Results (Gulfport) TSH Ultra Sensitive (07/03/2023 9:15 AM CDT) TSH Ultra Sensitive 1.320 0.358 - 3.740 mIU/mL 07/03/2023 10:45 AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test": "Lipid panel - Triglycerides",
+      "value": "158",
+      "unit": "mg/dL",
+      "reference_range": "0 - 149",
+      "interpretation": "(H)",
+      "date": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "comment": "Borderline high: 150 - 199 mg/dL",
+      "_source": "Singing River Health System Patient Record - Page 9-10 Results (ABNORMAL) Lipid panel (07/03/2023 9:15 AM CDT) Triglycerides 158 (H) 0 - 149 mg/dL 07/03/2023 10:45 AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test": "Lipid panel - Cholesterol",
+      "value": "147",
+      "unit": "mg/dL",
+      "reference_range": "<200",
+      "date": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Singing River Health System Patient Record - Page 9-10 Results (ABNORMAL) Lipid panel Cholesterol 147 <200 mg/dL 07/03/2023 10:45 AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test": "Lipid panel - HDL",
+      "value": "54",
+      "unit": "mg/dL",
+      "reference_range": "40 - 59",
+      "date": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Singing River Health System Patient Record - Page 10 Results Lipid panel HDL 54 40 - 59 mg/dL 07/03/2023 10:45 AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test": "Lipid panel - LDL Calculated",
+      "value": "62",
+      "unit": "mg/dL",
+      "reference_range": "0 - 100",
+      "date": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Singing River Health System Patient Record - Page 10 Results Lipid panel LDL Calculated 62 0 - 100 mg/dL 07/03/2023 10:45 AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test": "Lipid panel - VLDL Cholesterol Cal",
+      "value": "32",
+      "unit": "mg/dL",
+      "reference_range": "<30",
+      "interpretation": "(H)",
+      "date": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Singing River Health System Patient Record - Page 10 Results Lipid panel VLDL Cholesterol Cal 32 (H) <30 mg/dL 07/03/2023 10:45 AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test": "Lipid panel - Non HDL Chol. (LDL+VLDL)",
+      "value": "94",
+      "unit": "mg/dL",
+      "reference_range": "<=130",
+      "date": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Singing River Health System Patient Record - Page 10 Results Lipid panel Non HDL Chol. 94 <=130 (LDL+VLDL) mg/dL 07/03/2023 10:45 AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test": "CHOLTOTAL",
+      "value": "136",
+      "date": "07/17/2020 09:41 AM",
+      "performing_organization": "Piedmont Healthcare - Last Lipid Panel entry",
+      "_source": "Piedmont Healthcare Clinical Note - Page 4 Miscellaneous notes 'Last Lipid Panel: CHOLTOTAL 136 07/17/2020 09:41 AM'"
+    },
+    {
+      "test": "TG",
+      "value": "101",
+      "date": "07/17/2020 09:41 AM",
+      "performing_organization": "Piedmont Healthcare - Last Lipid Panel entry",
+      "_source": "Piedmont Healthcare Clinical Note - Page 4 Miscellaneous notes 'Last Lipid Panel: TG 101 07/17/2020 09:41 AM'"
+    },
+    {
+      "test": "HDLCHOL",
+      "value": "38",
+      "interpretation": "(L)",
+      "date": "07/17/2020 09:41 AM",
+      "performing_organization": "Piedmont Healthcare - Last Lipid Panel entry",
+      "_source": "Piedmont Healthcare Clinical Note - Page 4 Miscellaneous notes 'Last Lipid Panel: HDLCHOL 38 (L) 07/17/2020 09:41 AM'"
+    },
+    {
+      "test": "LDLCHOL",
+      "value": "78",
+      "date": "07/17/2020 09:41 AM",
+      "performing_organization": "Piedmont Healthcare - Last Lipid Panel entry",
+      "_source": "Piedmont Healthcare Clinical Note - Page 4 Miscellaneous notes 'Last Lipid Panel: LDLCHOL 78 07/17/2020 09:41 AM'"
+    },
+    {
+      "test": "BMP - GLUCOSE",
+      "value": "199",
+      "interpretation": "(H)",
+      "date": "01/11/2021 05:31 AM",
+      "performing_organization": "Piedmont Healthcare - Last BMP entry",
+      "_source": "Piedmont Healthcare Clinical Note - Page 4 Miscellaneous notes 'Last BMP: GLUCOSE 199 (H) 01/11/2021 05:31 AM'"
+    },
+    {
+      "test": "BMP - SODIUM",
+      "value": "134",
+      "interpretation": "(L)",
+      "date": "01/11/2021 05:31 AM",
+      "performing_organization": "Piedmont Healthcare - Last BMP entry",
+      "_source": "Piedmont Healthcare Clinical Note - Page 4 Miscellaneous notes 'Last BMP: SODIUM 134 (L) 01/11/2021 05:31 AM'"
+    },
+    {
+      "test": "BMP - POTASSIUM",
+      "value": "4.4",
+      "date": "01/11/2021 05:31 AM",
+      "performing_organization": "Piedmont Healthcare - Last BMP entry",
+      "_source": "Piedmont Healthcare Clinical Note - Page 4 Miscellaneous notes 'Last BMP: POTASSIUM 4.4 01/11/2021 05:31 AM'"
+    },
+    {
+      "test": "BMP - CHLORIDE",
+      "value": "97",
+      "interpretation": "(L)",
+      "date": "01/11/2021 05:31 AM",
+      "performing_organization": "Piedmont Healthcare - Last BMP entry",
+      "_source": "Piedmont Healthcare Clinical Note - Page 4 Miscellaneous notes 'Last BMP: CHLORIDE 97 (L) 01/11/2021 05:31 AM'"
+    },
+    {
+      "test": "BMP - BUN",
+      "value": "37",
+      "interpretation": "(H)",
+      "date": "01/11/2021 05:31 AM",
+      "performing_organization": "Piedmont Healthcare - Last BMP entry",
+      "_source": "Piedmont Healthcare Clinical Note - Page 4 Miscellaneous notes 'Last BMP: BUN 37 (H) 01/11/2021 05:31 AM'"
+    },
+    {
+      "test": "BMP - CREATININE",
+      "value": "1.1",
+      "interpretation": "(H)",
+      "date": "01/11/2021 05:31 AM",
+      "performing_organization": "Piedmont Healthcare - Last BMP entry",
+      "_source": "Piedmont Healthcare Clinical Note - Page 4 Miscellaneous notes 'Last BMP: CREATININE 1.1 (H) 01/11/2021 05:31 AM'"
+    },
+    {
+      "test": "BMP - CALCIUM",
+      "value": "8.1",
+      "interpretation": "(L)",
+      "date": "01/11/2021 05:31 AM",
+      "performing_organization": "Piedmont Healthcare - Last BMP entry",
+      "_source": "Piedmont Healthcare Clinical Note - Page 4 Miscellaneous notes 'Last BMP: CALCIUM 8.1 (L) 01/11/2021 05:31 AM'"
+    },
+    {
+      "test": "BMP - GFR",
+      "value": "50",
+      "interpretation": "(A)",
+      "date": "01/11/2021 05:31 AM",
+      "performing_organization": "Piedmont Healthcare - Last BMP entry",
+      "_source": "Piedmont Healthcare Clinical Note - Page 4 Miscellaneous notes 'Last BMP: GFR 50 (A) 01/11/2021 05:31 AM'"
+    },
+    {
+      "test": "LFT - Alkaline Phosphatase",
+      "value": "58",
+      "unit": "U/L",
+      "reference_range": "34 - 144",
+      "date": "01/08/2021 05:00 AM",
+      "performing_organization": "Piedmont Healthcare - Last LFTS entry",
+      "_source": "Piedmont Healthcare Clinical Note - Page 4 Miscellaneous notes 'Last LFTS: Alkaline Phosphatase 01/08/2021 05:00 AM 58 34 - 144 U/L Final Electronically signed by Torres, Lizza at 01/13/2021 3:53 PM EST'"
+    },
+    {
+      "test": "LFT - AST (SGOT)",
+      "value": "8",
+      "unit": "U/L",
+      "reference_range": "13 - 40",
+      "interpretation": "(L)",
+      "date": "01/08/2021 05:00 AM",
+      "performing_organization": "Piedmont Healthcare - Last LFTS entry",
+      "_source": "Piedmont Healthcare Clinical Note - Page 4 Miscellaneous notes 'Last LFTS: AST (SGOT) 01/08/2021 05:00 AM 8 (L) 13 - 40 U/L Final Electronically signed by Torres, Lizza at 01/13/2021 3:53 PM EST'"
+    },
+    {
+      "test": "LFT - ALT (SGPT)",
+      "value": "10",
+      "unit": "U/L",
+      "reference_range": "7 - 52",
+      "date": "01/08/2021 05:00 AM",
+      "performing_organization": "Piedmont Healthcare - Last LFTS entry",
+      "_source": "Piedmont Healthcare Clinical Note - Page 4 Miscellaneous notes 'Last LFTS: ALT (SGPT) 01/08/2021 05:00 AM 10 7 - 52 U/L Final Electronically signed by Torres, Lizza at 01/13/2021 3:53 PM EST'"
+    }
+  ],
+  "vitals": [
+    {
+      "name": "Blood Pressure",
+      "value": "128/78",
+      "date": "01/11/2025 09:30 AM EST",
+      "_source": "Piedmont Healthcare Clinical Note - Page 6 Goals 'Blood Pressure < 140/90 Blood Pressure 128/78 (01/11/2025 9:30 AM EST) Nigon, Katy A, LPN'"
+    }
+  ],
+  "social_history": [
+    {
+      "item": "Smoking Tobacco",
+      "value": "Former Cigarettes Quit: 1991",
+      "comments": "patient states quit 30 years ago",
+      "_source": "Singing River Health System Patient Record - Page 1 Social history 'Smoking Tobacco: Former Cigarettes Quit: 1991 Comments: patient states quit 30 years ago'"
+    },
+    {
+      "item": "Smoking Tobacco",
+      "value": "Former Cigarettes 0.3 Packs/Day Years Used 2 03/22/1971 - 03/22/1973",
+      "_source": "Piedmont Healthcare Clinical Note - Page 1 Encounter details / Social history 'Smoking Tobacco: Former Cigarettes 0.3 2 03/22/1971 - 03/22/1973'"
+    },
+    {
+      "item": "Smoking Tobacco",
+      "value": "Every Day Cigarettes 0.5 50",
+      "_source": "Piedmont Healthcare Continuity of Care Document - Test4 - Page 1 Social history 'Smoking Tobacco: Every Day Cigarettes 0.5 50'"
+    },
+    {
+      "item": "Smokeless Tobacco",
+      "value": "Never",
+      "_source": [
+        "Singing River Health System Patient Record - Page 1 Social history 'Smokeless Tobacco: Never'",
+        "Piedmont Healthcare Clinical Note - Page 1 Social history 'Smokeless Tobacco: Never'",
+        "Piedmont Healthcare Continuity of Care Document - Test4 - Page 1 Social history 'Smokeless Tobacco: Never'"
+      ]
+    },
+    {
+      "item": "Alcohol Use",
+      "value": "Not Currently 0 (1 standard drink = 0.6 oz pure alcohol)",
+      "_source": [
+        "Singing River Health System Patient Record - Page 1 Social history 'Alcohol Use Not Currently 0 (1 standard drink = 0.6 oz pure alcohol)'",
+        "Piedmont Healthcare Clinical Note - Page 1 Social history 'Alcohol Use Not Currently 0 (1 standard drink = 0.6 oz pure alcohol)'"
+      ]
+    }
+  ],
+  "functional_status": [
+    {
+      "question": "Is the person deaf or does he/she have difficulty hearing?",
+      "answer": "No",
+      "date": "06/19/2023",
+      "_source": "Singing River Health System Patient Record - Page 1 Functional status 'Is the person deaf or does he/she have difficulty hearing? No 06/19/2023'"
+    },
+    {
+      "question": "Patient's Vision Adequate to Safely Complete Daily Activities",
+      "answer": "Yes",
+      "date": "06/19/2023",
+      "_source": "Singing River Health System Patient Record - Page 1 Functional status 'Patient's Vision Adequate to Safely Complete Daily Activities Yes 06/19/2023'"
+    },
+    {
+      "question": "Does this person have serious difficulty walking or climbing stairs?",
+      "answer": "Yes",
+      "date": "06/14/2023",
+      "_source": "Singing River Health System Patient Record - Page 1 Functional status 'Does this person have serious difficulty walking or climbing stairs? Yes 06/14/2023'"
+    },
+    {
+      "question": "Does this person have difficulty dressing or bathing?",
+      "answer": "No",
+      "date": "06/14/2023",
+      "_source": "Singing River Health System Patient Record - Page 1 Functional status 'Does this person have difficulty dressing or bathing? No 06/14/2023'"
+    },
+    {
+      "question": "Because of a physical, mental or emotional condition, does this patient have difficulty doing errands alone such as visiting the doctor's office or shopping?",
+      "answer": "No",
+      "date": "06/14/2023",
+      "_source": "Singing River Health System Patient Record - Page 1 Functional status 'Because of a physical, mental or emotional condition, does this patient have difficulty doing errands alone such as visiting the doctor's office or shopping? No 06/14/2023'"
+    },
+    {
+      "question": "Difficulty hearing?",
+      "answer": "No",
+      "date": "01/05/2021 01:00 AM EST",
+      "_source": "Piedmont Healthcare Clinical Note - Page 3 Functional status 'Difficulty hearing?: No 01/05/2021 1:00 AM EST'"
+    },
+    {
+      "question": "Difficulty seeing even with glasses?",
+      "answer": "No",
+      "date": "01/05/2021 01:00 AM EST",
+      "_source": "Piedmont Healthcare Clinical Note - Page 3 Functional status 'Difficulty seeing even with glasses?: No 01/05/2021 1:00 AM EST'"
+    },
+    {
+      "question": "Difficulty walking or climbing stairs?",
+      "answer": "Yes",
+      "date": "01/05/2021 01:00 AM EST",
+      "_source": "Piedmont Healthcare Clinical Note - Page 3 Functional status 'Difficulty walking or climbing stairs?: Yes 01/05/2021 1:00 AM EST'"
+    },
+    {
+      "question": "Difficulty dressing or bathing?",
+      "answer": "Yes",
+      "date": "01/05/2021 01:00 AM EST",
+      "_source": "Piedmont Healthcare Clinical Note - Page 3 Functional status '*Difficulty dressing or bathing?: Yes 01/05/2021 1:00 AM EST'"
+    },
+    {
+      "question": "Difficulty doing errands alone?",
+      "answer": "Yes",
+      "date": "01/05/2021 01:00 AM EST",
+      "_source": "Piedmont Healthcare Clinical Note - Page 3 Functional status 'Difficulty doing errands alone?: Yes 01/05/2021 1:00 AM EST'"
+    }
+  ],
+  "care_team": [
+    {
+      "name": "Hand, Hoyet A, MD",
+      "relationship": "PCP - General",
+      "specialty": "Family Medicine",
+      "start_date": "9/25/20",
+      "contact": "228-206-7054 (Work); 228-604-0905 (Fax)",
+      "_source": "Singing River Health System Patient Record - Page 12 Care teams 'Hand, Hoyet A, MD NPI: 1225340599 228-206-7054 (Work) 228-604-0905 (Fax) PCP - General Family Medicine 9/25/20'"
+    },
+    {
+      "name": "Hershey, Curtis L, MD",
+      "relationship": "PCP - General",
+      "specialty": "Family Practice",
+      "start_date": "4/15/19",
+      "contact": "717-738-0660 (Work); 717-738-0658 (Fax)",
+      "_source": "Piedmont Healthcare Clinical Note - Page 7 Care teams 'Hershey, Curtis L, MD PCP - General Family Practice 4/15/19 NPI: 1346285574 717-738-0660 (Work) 717-738-0658 (Fax)'"
+    },
+    {
+      "name": "Roberts, Justin D, DO",
+      "relationship": "Consulting Physician",
+      "specialty": "AMB - Cardiology - General",
+      "start_date": "1/13/20",
+      "end_date": "6/14/22",
+      "contact": "717-544-8300 (Work); 717-397-8407 (Fax)",
+      "_source": "Piedmont Healthcare Clinical Note - Page 8 Care teams 'Roberts, Justin D, DO Consulting Physician AMB - Cardiology - General 1/13/20 6/14/22 Co-management long term NPI: 1528111028 717-544-8300 (Work) 717-397-8407 (Fax)'"
+    },
+    {
+      "name": "Pradhan Shrestha, Deepika, MD",
+      "relationship": "Endocrinologist",
+      "specialty": "Endocrinology, Diabetes & Metabolism",
+      "start_date": "9/9/19",
+      "end_date": "6/14/22",
+      "contact": "717-544-3059 (Work); 717-544-3638 (Fax)",
+      "_source": "Piedmont Healthcare Clinical Note - Page 8 Care teams 'Pradhan Shrestha, Deepika, MD Endocrinologist Endocrinology, Diabetes & Metabolism 9/9/19 6/14/22 NPI: 1902035041 717-544-3059 (Work) 717-544-3638 (Fax)'"
+    },
+    {
+      "name": "Kaplan, Marnie, MD",
+      "relationship": "Surgeon",
+      "specialty": "General Surgery",
+      "start_date": "7/6/20",
+      "end_date": "6/14/22",
+      "contact": "717-544-3626 (Work); 717-544-3628 (Fax)",
+      "_source": "Piedmont Healthcare Clinical Note - Page 8 Care teams 'Kaplan, Marnie, MD Surgeon General Surgery 7/6/20 6/14/22 NPI: 1487856621 717-544-3626 (Work) 717-544-3628 (Fax)'"
+    },
+    {
+      "name": "Wozney, Jocelyn L, MD",
+      "relationship": "Oncologist",
+      "specialty": "Hematology and Oncology",
+      "start_date": "9/14/20",
+      "end_date": "11/8/21",
+      "contact": "717-544-9400 (Work); 717-544-9401 (Fax)",
+      "_source": "Piedmont Healthcare Clinical Note - Page 8 Care teams 'Wozney, Jocelyn L, MD Oncologist Hematology and Oncology 9/14/20 11/8/21 NPI: 1861650863 717-544-9400 (Work) 717-544-9401 (Fax)'"
+    },
+    {
+      "name": "Guthikonda, Sasidhar, MD",
+      "relationship": "Cardiologist",
+      "specialty": "Cardiovascular Disease",
+      "start_date": "7/13/21",
+      "contact": "770-716-0051 (Work); 678-423-4960 (Fax)",
+      "_source": "Piedmont Healthcare Continuity of Care Document - Test4 - Page 4 Care teams 'Guthikonda, Sasidhar, MD NPI: 1851595367 795 Poplar Road STE 400 Newnan, GA 30265 770-716-0051 (Work) 678-423-4960 (Fax) Cardiologist Cardiovascular Disease 7/13/21'"
+    },
+    {
+      "name": "Darlington, Andrew, DO",
+      "relationship": "Primary Cardiologist",
+      "specialty": "Advanced Heart Failure and Transplant Cardiology",
+      "start_date": "9/10/21",
+      "contact": "770-716-0051 (Work); 770-716-0087 (Fax)",
+      "_source": "Piedmont Healthcare Continuity of Care Document - Test4 - Page 4 Care teams 'Darlington, Andrew, DO NPI: 1942352851 1267 Highway 54 West Ste 2200 Fayetteville, GA 30214 770-716-0051 (Work) 770-716-0087 (Fax) Primary Cardiologist Advanced Heart Failure and Transplant Cardiology 9/10/21'"
+    }
+  ],
+  "plans_and_followups": [
+    {
+      "description": "Upcoming appointment 04/19/2024 10:00 AM Singing River Gulfport Primary Care Services",
+      "_source": "Singing River Health System Patient Record - Page 2 Plan of treatment Upcoming Encounters '04/19/2024 10:00 AM Singing River Gulfport Primary Care Services'"
+    },
+    {
+      "description": "Upcoming appointment 04/22/2024 9:20 AM Singing River Gulfport Primary Care Services Hand, Hoyet A, MD",
+      "_source": "Singing River Health System Patient Record - Page 3 Plan of treatment Upcoming Encounters '04/22/2024 9:20 AM Singing River Gulfport Hand, Hoyet A, MD'"
+    },
+    {
+      "description": "Upcoming appointment 04/30/2024 10:20 AM Rheumatology Services Carroll, Matthew B, MD",
+      "_source": "Singing River Health System Patient Record - Page 3 Plan of treatment Upcoming Encounters '04/30/2024 10:20 AM Rheumatology Services Carroll, Matthew B, MD'"
+    },
+    {
+      "description": "Upcoming appointment 05/01/2024 09:00 AM Southern Mississippi Heart Center - Gulfport Zayed, Mahmoud H, MD",
+      "_source": "Singing River Health System Patient Record - Page 3 Plan of treatment Upcoming Encounters '05/01/2024 9:00 AM Southern Mississippi Heart Center - Gulfport Zayed, Mahmoud H, MD'"
+    },
+    {
+      "description": "Upcoming appointment 06/05/2024 09:40 AM Singing River Gulfport Gastroenterology Alexander, Amie L, NP",
+      "_source": "Singing River Health System Patient Record - Page 3 Plan of treatment Upcoming Encounters '06/05/2024 9:40 AM Singing River Gulfport Gastroenterology Alexander, Amie L, NP'"
+    }
+  ],
+  "notes": [
+    {
+      "text": "PHQ-2 Answer Date Recorded Patient Health Questionnaire-2 Score 0 03/28/2023",
+      "_source": "Singing River Health System Patient Record - Page 1 Social history 'PHQ-2 Answer Date Recorded Patient Health Questionnaire-2 Score 0 03/28/2023'"
+    },
+    {
+      "text": "PHQ-9 Depression Total Score: 0 03/28/2023 8:56 AM CDT",
+      "_source": "Singing River Health System Patient Record - Page 12 Additional health concerns 'PHQ-9 Depression Total Score: 0 03/28/2023 8:56 AM CDT'"
+    },
+    {
+      "text": "PHQ-9 Score 3 11/17/2020",
+      "_source": "Piedmont Healthcare Clinical Note - Page 2 Depression 'PHQ-9 Score 3 11/17/2020'"
+    },
+    {
+      "text": "Telephone Encounter - Torres, Lizza - 01/13/2021 3:52 PM EST: Formatting of this note is different from the original. Lipid-related Refill Request Atorvastatin Last THG provider office visit: 11/17/20 Next OV:2/19/2021",
+      "_source": "Piedmont Healthcare Clinical Note - Page 4 Miscellaneous notes 'Telephone Encounter - Torres, Lizza - 01/13/2021 3:52 PM EST ... Lipid-related Refill Request Atorvastatin'"
+    },
+    {
+      "text": "MRSA Most Recent Date: 9/4/20 Most Recent Site: R breast Original Date: 9/3/20 Original Site: R breast",
+      "_source": "Piedmont Healthcare Clinical Note - Page 7 Additional health concerns 'MRSA Comment: Most Recent Date: 9/4/20 Most Recent Site: R breast Original Date: 9/3/20 Original Site: R breast 09/03/2020 09/04/2020 03/29/2023 9:54 AM EDT'"
+    },
+    {
+      "text": "COVID-19 recovered 01/04/2021",
+      "_source": "Piedmont Healthcare Clinical Note - Page 7 Additional health concerns 'COVID-19 Comment: recovered 01/04/2021 01/04/2021 01/24/2021 4:02 PM EST'"
+    }
+  ],
+  "conflicts": [
+    {
+      "entity_type": "demographic",
+      "entity_name": "date_of_birth",
+      "conflict_description": "Multiple DOBs recorded across documents",
+      "variants": [
+        {
+          "value": "05/05/1952",
+          "_source": [
+            "Singing River Health System Patient Record - Page 1 header Patient Information 'DOB: 05/05/1952'",
+            "Piedmont Healthcare Clinical Note - Page 1 header Patient Information 'DOB: 05/05/1952'"
+          ]
+        },
+        {
+          "value": "07/21/1954",
+          "_source": "Piedmont Healthcare Clinical Note - Page 4 header Patient Information 'DOB: 07/21/1954'"
+        }
+      ]
+    },
+    {
+      "entity_type": "demographic",
+      "entity_name": "sex/legal_sex",
+      "conflict_description": "Sex reported as Female in multiple documents but 'Legal Sex Male' recorded in continuity document",
+      "variants": [
+        {
+          "value": "Female",
+          "_source": [
+            "Singing River Health System Patient Record - Page 1 header Patient Information 'Gender: Female'",
+            "Piedmont Healthcare Clinical Note - Page 1 header Patient Information 'Gender: Female'"
+          ]
+        },
+        {
+          "value": "Legal Sex Male 06/19/2013 2:39 AM EDT",
+          "_source": "Piedmont Healthcare Continuity of Care Document - Test4 - Page 1 Social history 'Legal Sex Male 06/19/2013 2:39 AM EDT'"
+        }
+      ]
+    },
+    {
+      "entity_type": "social_history",
+      "entity_name": "smoking_status",
+      "conflict_description": "Smoking history entries conflict between 'Former' and 'Every Day' across documents with differing pack/day and years used",
+      "variants": [
+        {
+          "value": "Former Cigarettes Quit: 1991 Comments: patient states quit 30 years ago",
+          "_source": "Singing River Health System Patient Record - Page 1 Social history 'Smoking Tobacco: Former Cigarettes Quit: 1991 Comments: patient states quit 30 years ago'"
+        },
+        {
+          "value": "Former Cigarettes 0.3 2 03/22/1971 - 03/22/1973",
+          "_source": "Piedmont Healthcare Clinical Note - Page 1 Social history 'Smoking Tobacco: Former Cigarettes 0.3 2 03/22/1971 - 03/22/1973'"
+        },
+        {
+          "value": "Every Day Cigarettes 0.5 50",
+          "_source": "Piedmont Healthcare Continuity of Care Document - Test4 - Page 1 Social history 'Smoking Tobacco: Every Day Cigarettes 0.5 50'"
+        }
+      ]
+    },
+    {
+      "entity_type": "functional_status",
+      "entity_name": "difficulty_dressing_bathing_and_errands",
+      "conflict_description": "Functional status regarding dressing/bathing and errands differs between documents",
+      "variants": [
+        {
+          "value": "Does this person have difficulty dressing or bathing? No; Because of a physical, mental or emotional condition, does this patient have difficulty doing errands alone such as visiting the doctor's office or shopping? No",
+          "_source": "Singing River Health System Patient Record - Page 1 Functional status 'Does this person have difficulty dressing or bathing? No 06/14/2023 ... does this patient have difficulty doing errands alone ... No 06/14/2023'"
+        },
+        {
+          "value": "Difficulty dressing or bathing?: Yes; Difficulty doing errands alone?: Yes (01/05/2021 1:00 AM EST)",
+          "_source": "Piedmont Healthcare Clinical Note - Page 3 Functional status 'Difficulty dressing or bathing?: Yes 01/05/2021 1:00 AM EST; Difficulty doing errands alone?: Yes 01/05/2021 1:00 AM EST'"
+        }
+      ]
+    }
+  ],
+  "patient_summary": "Olivia, age 73, female (multiple documents list Female; one document lists Legal Sex Male 06/19/2013), primary identifiers: Patient ID 104, phone +1 310 556 1256. Active problem list includes mixed dyslipidemia, essential hypertension (benign), postoperative/unpecified anemia, and leg pain; Piedmont documents hyperlipidemia associated with type 2 diabetes mellitus. Major recent procedure scheduled/performed: colonoscopy with biopsy on 02/21/2025 (Haroon, Mustafa, MD). Key abnormal labs: 07/03/2023 ferritin 266.8 (H), iron 41 (L), iron saturation 15% (L), triglycerides 158 (H), eGFR CKD-EPI 58 (L). Prior labs include elevated glucose 199 on 01/11/2021 and lipid panel entries. Functional and smoking history entries conflict across records. Care team includes primary care (Hand, Hoyet A, MD; Hershey, Curtis L, MD) and multiple specialists (cardiology, endocrinology, oncology)." 
+}

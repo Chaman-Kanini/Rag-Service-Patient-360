@@ -1,0 +1,5 @@
+QUESTION:
+What medications is the patient currently taking?
+
+ANSWER:
+Atorvastatin and insulin (diabetes medication — taken twice daily).

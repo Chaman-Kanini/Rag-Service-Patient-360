@@ -1,0 +1,690 @@
+{
+  "patient": {
+    "name": "Olivia",
+    "age": "73",
+    "sex": "Female",
+    "patient_id": "104",
+    "contact": {
+      "phone": "+13105561256"
+    },
+    "_source": [
+      "Multiple pages: Singing River and Piedmont documents showing Name: Olivia, Age: 73, Gender: Female, Patient ID: 104, Phone: +13105561256 (e.g., Page 1 Singing River Patient Record 03/20/2024; Page 9 Piedmont Healthcare Patient Record 01/21/2025)"
+    ]
+  },
+  "encounters": [
+    {
+      "date": "07/11/2023",
+      "type": "Travel",
+      "department": "",
+      "description": "Travel",
+      "_source": "Test4 Piedmont Healthcare Continuity of Care Document Page 1: EncounterDetails Date 07/11/2023 Travel"
+    },
+    {
+      "date": "06/30/2023",
+      "type": "OrdersOnly",
+      "department": "PrimaryCareServices",
+      "care_team": "Hand, Hoyet A, MD",
+      "description": "OrdersOnly; Mixeddyslipidemia(Primary Dx); Essentialhypertension, benign; Postoperativeanemia LegPain",
+      "_source": "Olivia Singing River Health System Patient Record 03/20/2024 Page 1: Encounter details 06/30/2023 OrdersOnly PrimaryCareServices Hand, Hoyet A, MD"
+    },
+    {
+      "date": "04/19/2024",
+      "type": "Appointment",
+      "department": "PrimaryCareServices",
+      "description": "Appointment 04/19/2024 10:00AM SingingRiverGulfport PrimaryCareServices 350 Cowan Road GULFPORT,MS39505-2008 228-206-7054",
+      "_source": "Olivia Singing River Health System Patient Record 03/20/2024 Page 3: Plan of treatment Upcoming Encounters Date 04/19/2024 Appointment SingingRiverGulfport PrimaryCareServices"
+    },
+    {
+      "date": "04/22/2024",
+      "type": "OfficeVisit",
+      "department": "PrimaryCareServices",
+      "care_team": "Hand, Hoyet A, MD",
+      "description": "OfficeVisit 04/22/2024 09:20AM SingingRiverGulfport PrimaryCareServices 350 COWAN RD",
+      "_source": "Olivia Singing River Health System Patient Record 03/20/2024 Page 3: Plan of treatment Upcoming Encounters Date 04/22/2024 OfficeVisit Hand, Hoyet A, MD"
+    },
+    {
+      "date": "04/30/2024",
+      "type": "OfficeVisit",
+      "department": "RheumatologyServices",
+      "care_team": "Carroll, Matthew B, MD",
+      "description": "OfficeVisit 04/30/2024 10:20AM RheumatologyServices 3603 BIENVILLE BLVD STE100 BILOXI,MS",
+      "_source": "Olivia Singing River Health System Patient Record 03/20/2024 Page 3: Plan of treatment Upcoming Encounters Date 04/30/2024 OfficeVisit RheumatologyServices Carroll, Matthew B, MD"
+    },
+    {
+      "date": "05/01/2024",
+      "type": "OfficeVisit",
+      "department": "SouthernMississippiHeartCenter-Gulfport",
+      "care_team": "Zayed, Mahmoud H, MD",
+      "description": "OfficeVisit 05/01/2024 09:00AM SouthernMississippiHeartCenter-Gulfport 3704 BIENVILLE BLVD STE B",
+      "_source": "Olivia Singing River Health System Patient Record 03/20/2024 Page 3: Plan of treatment Upcoming Encounters Date 05/01/2024 OfficeVisit SouthernMississippiHeartCenter-Gulfport Zayed, Mahmoud H, MD"
+    },
+    {
+      "date": "02/20/2025",
+      "type": "OfficeVisit",
+      "department": "AtlantaVascularSpecialists",
+      "care_team": "Dooley, John David, MD",
+      "description": "OfficeVisit 02/20/2025 01:15PM - Newnan 1233 HWY 54 WEST 2201 Newnan Crossing Blvd SUITE210 Suite200 FAYETTEVILLE,GA30214-4542",
+      "_source": "Test4 Piedmont Healthcare Continuity of Care Document 02/19/2025 Page 2: Encounter details Date 02/20/2025 OfficeVisit AtlantaVascularSpecialists Dooley, John David, MD"
+    },
+    {
+      "date": "02/21/2025",
+      "type": "Hospital Encounter",
+      "department": "Piedmont Newnan Hospital",
+      "care_team": "Haroon, Mustafa, MD",
+      "description": "Hospital Encounter 02/21/2025 08:33AM Peri-Op Services 1200 LOWER 745 POPLAR RD SUITE B NEWNAN,GA30265-1618",
+      "_source": "Test4 Piedmont Healthcare Continuity of Care Document 02/19/2025 Page 2: Encounter details Date 02/21/2025 Hospital Encounter PiedmontNewnanHospital Haroon, Mustafa, MD"
+    },
+    {
+      "date": "02/21/2025",
+      "type": "Surgery",
+      "department": "Piedmont Newnan Hospital Peri-Op Services",
+      "care_team": "Haroon, Mustafa, MD",
+      "description": "COLONOSCOPY,WITH BIOPSY 02/21/2025 09:11AM Peri-Op Services 1200 LOWER 745 POPLAR RD SUITE B NEWNAN,GA30265-1618",
+      "_source": "Test4 Piedmont Healthcare Continuity of Care Document 02/19/2025 Page 2: Encounter details Date 02/21/2025 Surgery COLONOSCOPY,WITH BIOPSY Haroon, Mustafa, MD"
+    },
+    {
+      "date": "06/30/2023",
+      "type": "OrdersOnly",
+      "department": "PrimaryCareServices",
+      "description": "OrdersOnly (listed under Encounter details 06/30/2023) at SingingRiverGulfport PrimaryCareServices",
+      "_source": "Olivia Singing River Health System Patient Record 03/20/2024 Page 1: Encounter details 06/30/2023 OrdersOnly SingingRiverGulfport PrimaryCareServices"
+    },
+    {
+      "date": "01/12/2021",
+      "type": "Refill",
+      "department": "TheHeartGroupOfLGHealth",
+      "care_team": "Roberts, Justin D, DO",
+      "description": "RefillRequest(Atorvastatin/CVS)",
+      "_source": "Test Piedmont Healthcare Patient Record 01/21/2025 Page 1: Reason for visit Encounter details 01/12/2021 Refill TheHeartGroupOfLGHealth Roberts, Justin D, DO RefillRequest(Atorvastatin/CVS)"
+    }
+  ],
+  "diagnoses": [
+    {
+      "diagnosis": "Mixeddyslipidemia(Primary Dx)",
+      "status": "documented",
+      "date": "06/30/2023",
+      "_source": "Olivia Singing River Health System Patient Record 03/20/2024 Page 1: Encounter details 06/30/2023 OrdersOnly Mixeddyslipidemia(Primary Dx)"
+    },
+    {
+      "diagnosis": "Essentialhypertension, benign",
+      "status": "documented",
+      "date": "06/30/2023",
+      "_source": "Olivia Singing River Health System Patient Record 03/20/2024 Page 1: Encounter details 06/30/2023 OrdersOnly Essentialhypertension, benign"
+    },
+    {
+      "diagnosis": "Postoperativeanemia",
+      "status": "documented",
+      "date": "06/30/2023",
+      "_source": "Olivia Singing River Health System Patient Record 03/20/2024 Page 1: Encounter details 06/30/2023 OrdersOnly Postoperativeanemia"
+    },
+    {
+      "diagnosis": "LegPain",
+      "status": "documented",
+      "date": "06/30/2023",
+      "_source": "Olivia Singing River Health System Patient Record 03/20/2024 Page 1: Encounter details 06/30/2023 OrdersOnly LegPain"
+    },
+    {
+      "diagnosis": "Hyperlipidemiaassociatedwithtype2diabetesmellitus(CMS/HCC)(CMS/HCC)",
+      "status": "documented",
+      "date": "01/21/2025",
+      "_source": "Test Piedmont Healthcare Patient Record 01/21/2025 Page 7: Visit diagnoses Diagnosis Hyperlipidemiaassociatedwithtype2diabetesmellitus(CMS/HCC)(CMS/HCC)"
+    },
+    {
+      "diagnosis": "MRSA",
+      "status": "Additional health concerns",
+      "date": "09/03/2020",
+      "_source": "Test Piedmont Healthcare Patient Record 01/21/2025 Page 7: Additional health concerns MRSA Comment:MostRecentDate:9/4/20 MostRecentSite:Rbreast OriginalDate:9/3/20 OriginalSite:Rbreast 09/03/2020 09/04/2020 03/29/2023 9:54AMEDT"
+    },
+    {
+      "diagnosis": "COVID-19",
+      "status": "recovered",
+      "date": "01/04/2021",
+      "_source": "Test Piedmont Healthcare Patient Record 01/21/2025 Page 7: Additional health concerns COVID-19 Comment:recovered 01/04/2021 01/04/2021 01/24/2021 4:02PMEST"
+    }
+  ],
+  "procedures": [
+    {
+      "procedure": "COLONOSCOPY,WITH BIOPSY",
+      "date": "02/21/2025 09:11AM",
+      "provider": "Haroon, Mustafa, MD",
+      "_source": "Test4 Piedmont Healthcare Continuity of Care Document 02/19/2025 Page 2: Encounter details Date 02/21/2025 Surgery COLONOSCOPY,WITH BIOPSY Haroon, Mustafa, MD"
+    },
+    {
+      "procedure": "Ancillary Procedure LGHKISSELHILL",
+      "date": "08/18/2025 10:00AM",
+      "provider": "",
+      "_source": "Test Piedmont Healthcare Patient Record 01/21/2025 Page 5: Encounter details 08/18/2025 Ancillary Procedure LGHKISSELHILL 10:00AM"
+    }
+  ],
+  "laboratory_results": [
+    {
+      "test": "Iron",
+      "value": "41(L)",
+      "unit": "ug/dL",
+      "reference_range": "50-170",
+      "date": "07/03/2023 10:45AM CDT",
+      "_source": "Olivia Singing River Health System Patient Record 03/20/2024 Page 6: Iron 41(L) 50-170ug/dL 07/03/2023 10:45AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test": "TIBC",
+      "value": "279",
+      "unit": "ug/dL",
+      "reference_range": "250-450",
+      "date": "07/03/2023 10:45AM CDT",
+      "_source": "Olivia Singing River Health System Patient Record 03/20/2024 Page 6: TIBC 279 250-450ug/dL 07/03/2023 10:45AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test": "IronSaturation",
+      "value": "15(L)",
+      "unit": "%",
+      "reference_range": "20-55",
+      "date": "07/03/2023 10:45AM CDT",
+      "_source": "Olivia Singing River Health System Patient Record 03/20/2024 Page 6: IronSaturation 15(L) 20-55% 07/03/2023 10:45AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test": "Sodium",
+      "value": "140",
+      "unit": "mmol/L",
+      "reference_range": "136-145",
+      "date": "07/03/2023 10:45AM CDT",
+      "_source": "Olivia Singing River Health System Patient Record 03/20/2024 Page 6: Basic metabolic panel Sodium 140 136-145 mmol/L 07/03/2023 10:45AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test": "TSHUltraSensitive",
+      "value": "1.320",
+      "unit": "mIU/mL",
+      "reference_range": "0.358-3.740",
+      "date": "07/03/2023 10:45AM CDT",
+      "_source": "Olivia Singing River Health System Patient Record 03/20/2024 Page 9: TSHUltraSensitive 1.320 0.358-3.740 mIU/mL 07/03/2023 10:45AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test": "Triglycerides",
+      "value": "158(H)",
+      "unit": "mg/dL",
+      "reference_range": "0-149",
+      "date": "07/03/2023 10:45AM CDT",
+      "_source": "Olivia Singing River Health System Patient Record 03/20/2024 Page 10: Lipid panel Triglycerides 158(H) 0-149 mg/dL 07/03/2023 10:45AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test": "Cholesterol",
+      "value": "147",
+      "unit": "mg/dL",
+      "reference_range": "<200",
+      "date": "07/03/2023 10:45AM CDT",
+      "_source": "Olivia Singing River Health System Patient Record 03/20/2024 Page 10: Lipid panel Cholesterol 147 <200 mg/dL 07/03/2023 10:45AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test": "HDL",
+      "value": "54",
+      "unit": "mg/dL",
+      "reference_range": "40-59",
+      "date": "07/03/2023 10:45AM CDT",
+      "_source": "Olivia Singing River Health System Patient Record 03/20/2024 Page 10: Lipid panel HDL 54 40-59 mg/dL 07/03/2023 10:45AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test": "LDLCalculated",
+      "value": "62",
+      "unit": "mg/dL",
+      "reference_range": "0-100",
+      "date": "07/03/2023 10:45AM CDT",
+      "_source": "Olivia Singing River Health System Patient Record 03/20/2024 Page 11: Lipid panel LDLCalculated 62 0-100 mg/dL 07/03/2023 10:45AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test": "VLDLCholesterolCal",
+      "value": "32(H)",
+      "unit": "mg/dL",
+      "reference_range": "<30",
+      "date": "07/03/2023 10:45AM CDT",
+      "_source": "Olivia Singing River Health System Patient Record 03/20/2024 Page 11: Lipid panel VLDLCholesterolCal 32(H) <30 mg/dL 07/03/2023 10:45AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test": "NonHDLChol.",
+      "value": "94",
+      "unit": "mg/dL",
+      "reference_range": "<=130",
+      "date": "07/03/2023 10:45AM CDT",
+      "_source": "Olivia Singing River Health System Patient Record 03/20/2024 Page 11: Lipid panel NonHDLChol. 94 <=130 mg/dL 07/03/2023 10:45AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test": "AnionGap",
+      "value": "5.0(L)",
+      "unit": "mmol/L",
+      "reference_range": "8.0-16.0",
+      "date": "07/03/2023 10:45AM CDT",
+      "_source": "Olivia Singing River Health System Patient Record 03/20/2024 Page 8: AnionGap 5.0(L) 8.0-16.0 mmol/L 07/03/2023 10:45AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test": "eGFRCKD-EPI",
+      "value": "58(L)",
+      "unit": "ml/min/1.73m2",
+      "reference_range": ">90",
+      "date": "07/03/2023 10:45AM CDT",
+      "_source": "Olivia Singing River Health System Patient Record 03/20/2024 Page 8: eGFRCKD-EPI 58(L) >90 ml/min/1.73m2 07/03/2023 10:45AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test": "Potassium",
+      "value": "4.0",
+      "unit": "mmol/L",
+      "reference_range": "3.5-5.1",
+      "date": "07/03/2023 10:45AM CDT",
+      "_source": "Olivia Singing River Health System Patient Record 03/20/2024 Page 7: Potassium 4.0 3.5-5.1 mmol/L 07/03/2023 10:45AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test": "Chloride",
+      "value": "108(H)",
+      "unit": "mmol/L",
+      "reference_range": "98-107",
+      "date": "07/03/2023 10:45AM CDT",
+      "_source": "Olivia Singing River Health System Patient Record 03/20/2024 Page 7: Chloride 108(H) 98-107 mmol/L 07/03/2023 10:45AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test": "CO2",
+      "value": "27",
+      "unit": "mmol/L",
+      "reference_range": "21-32",
+      "date": "07/03/2023 10:45AM CDT",
+      "_source": "Olivia Singing River Health System Patient Record 03/20/2024 Page 7: CO2 27 21-32 mmol/L 07/03/2023 10:45AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test": "BUN",
+      "value": "15",
+      "unit": "mg/dL",
+      "reference_range": "7-18",
+      "date": "07/03/2023 10:45AM CDT",
+      "_source": "Olivia Singing River Health System Patient Record 03/20/2024 Page 7: BUN 15 7-18 mg/dL 07/03/2023 10:45AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test": "Creatinine",
+      "value": "0.96",
+      "unit": "mg/dL",
+      "reference_range": "0.55-1.02",
+      "date": "07/03/2023 10:45AM CDT",
+      "_source": "Olivia Singing River Health System Patient Record 03/20/2024 Page 7: Creatinine 0.96 0.55-1.02 mg/dL 07/03/2023 10:45AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test": "Glucose",
+      "value": "94",
+      "unit": "mg/dL",
+      "reference_range": "74-106",
+      "date": "07/03/2023 10:45AM CDT",
+      "_source": "Olivia Singing River Health System Patient Record 03/20/2024 Page 7: Glucose 94 74-106 mg/dL 07/03/2023 10:45AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test": "Calcium",
+      "value": "9.5",
+      "unit": "mg/dL",
+      "reference_range": "8.5-10.1",
+      "date": "07/03/2023 10:45AM CDT",
+      "_source": "Olivia Singing River Health System Patient Record 03/20/2024 Page 7: Calcium 9.5 8.5-10.1 mg/dL 07/03/2023 10:45AM CDT SINGING RIVER GULFPORT HOSPITAL LAB"
+    },
+    {
+      "test": "GLUCOSE",
+      "value": "199 (H)",
+      "unit": "",
+      "reference_range": "",
+      "date": "01/11/2021 05:31 AM",
+      "_source": "Test Piedmont Healthcare Patient Record 01/21/2025 Page 4: Last BMP GLUCOSE 199 (H) 01/11/2021 05:31 AM"
+    },
+    {
+      "test": "SODIUM",
+      "value": "134 (L)",
+      "unit": "",
+      "reference_range": "",
+      "date": "01/11/2021 05:31 AM",
+      "_source": "Test Piedmont Healthcare Patient Record 01/21/2025 Page 4: Last BMP SODIUM 134 (L) 01/11/2021 05:31 AM"
+    },
+    {
+      "test": "POTASSIUM",
+      "value": "4.4",
+      "unit": "",
+      "reference_range": "",
+      "date": "01/11/2021 05:31 AM",
+      "_source": "Test Piedmont Healthcare Patient Record 01/21/2025 Page 4: Last BMP POTASSIUM 4.4 01/11/2021 05:31 AM"
+    },
+    {
+      "test": "CHLORIDE",
+      "value": "97 (L)",
+      "unit": "",
+      "reference_range": "",
+      "date": "01/11/2021 05:31 AM",
+      "_source": "Test Piedmont Healthcare Patient Record 01/21/2025 Page 4: Last BMP CHLORIDE 97 (L) 01/11/2021 05:31 AM"
+    },
+    {
+      "test": "BUN",
+      "value": "37 (H)",
+      "unit": "",
+      "reference_range": "",
+      "date": "01/11/2021 05:31 AM",
+      "_source": "Test Piedmont Healthcare Patient Record 01/21/2025 Page 4: Last BMP BUN 37 (H) 01/11/2021 05:31 AM"
+    },
+    {
+      "test": "CREATININE",
+      "value": "1.1 (H)",
+      "unit": "",
+      "reference_range": "",
+      "date": "01/11/2021 05:31 AM",
+      "_source": "Test Piedmont Healthcare Patient Record 01/21/2025 Page 4: Last BMP CREATININE 1.1 (H) 01/11/2021 05:31 AM"
+    },
+    {
+      "test": "CALCIUM",
+      "value": "8.1 (L)",
+      "unit": "",
+      "reference_range": "",
+      "date": "01/11/2021 05:31 AM",
+      "_source": "Test Piedmont Healthcare Patient Record 01/21/2025 Page 4: Last BMP CALCIUM 8.1 (L) 01/11/2021 05:31 AM"
+    },
+    {
+      "test": "GFR",
+      "value": "50 (A)",
+      "unit": "",
+      "reference_range": "",
+      "date": "01/11/2021 05:31 AM",
+      "_source": "Test Piedmont Healthcare Patient Record 01/21/2025 Page 4: Last BMP GFR 50 (A) 01/11/2021 05:31 AM"
+    },
+    {
+      "test": "Alkaline Phosphatase",
+      "value": "58",
+      "unit": "U/L",
+      "reference_range": "34-144",
+      "date": "01/08/2021 05:00AM",
+      "_source": "Test Piedmont Healthcare Patient Record 01/21/2025 Page 4: Last LFTS Alkaline Phosphatase 01/08/2021 05:00AM 58 34-144 U/L Final"
+    },
+    {
+      "test": "AST (SGOT)",
+      "value": "8(L)",
+      "unit": "U/L",
+      "reference_range": "13-40",
+      "date": "01/08/2021 05:00AM",
+      "_source": "Test Piedmont Healthcare Patient Record 01/21/2025 Page 4: Last LFTS AST (SGOT) 01/08/2021 05:00AM 8(L) 13-40 U/L Final"
+    },
+    {
+      "test": "ALT (SGPT)",
+      "value": "107-52U/L",
+      "unit": "",
+      "reference_range": "",
+      "date": "01/08/2021 05:00AM",
+      "_source": "Test Piedmont Healthcare Patient Record 01/21/2025 Page 4: Last LFTS ALT (SGPT) 01/08/2021 05:00AM 107-52U/L Final"
+    },
+    {
+      "test": "CHOLTOTAL",
+      "value": "136",
+      "unit": "",
+      "reference_range": "",
+      "date": "07/17/2020 09:41AM",
+      "_source": "Test Piedmont Healthcare Patient Record 01/21/2025 Page 4: LastLipidPanel CHOLTOTAL136 07/17/2020 09:41AM"
+    },
+    {
+      "test": "TG",
+      "value": "101",
+      "unit": "",
+      "reference_range": "",
+      "date": "07/17/2020 09:41AM",
+      "_source": "Test Piedmont Healthcare Patient Record 01/21/2025 Page 4: LastLipidPanel TG 101 07/17/2020 09:41AM"
+    },
+    {
+      "test": "HDLCHOL",
+      "value": "38 (L)",
+      "unit": "",
+      "reference_range": "",
+      "date": "07/17/2020 09:41AM",
+      "_source": "Test Piedmont Healthcare Patient Record 01/21/2025 Page 4: LastLipidPanel HDLCHOL 38 (L) 07/17/2020 09:41AM"
+    },
+    {
+      "test": "LDLCHOL",
+      "value": "78",
+      "unit": "",
+      "reference_range": "",
+      "date": "07/17/2020 09:41AM",
+      "_source": "Test Piedmont Healthcare Patient Record 01/21/2025 Page 4: LastLipidPanel LDLCHOL 78 07/17/2020 09:41AM"
+    }
+  ],
+  "vitals": [
+    {
+      "type": "BloodPressure",
+      "value": "128/78",
+      "date": "01/11/2025 9:30AMEST",
+      "_source": "Test Piedmont Healthcare Patient Record 01/21/2025 Page 5: Goals BloodPressure<140/90 Blood Pressure 128/78(01/11/2025 9:30AMEST)"
+    }
+  ],
+  "social_history": [
+    {
+      "type": "SmokingTobacco",
+      "value": "Former Cigarettes Quit:1991 Comments:patientstatesquit30yearsago",
+      "date": "06/30/2023",
+      "_source": "Olivia Singing River Health System Patient Record 03/20/2024 Page 1: Social history SmokingTobacco:Former Cigarettes Quit:1991 Comments:patientstatesquit30yearsago"
+    },
+    {
+      "type": "SmokingTobacco",
+      "value": "EveryDay Cigarettes 0.5 Packs/Day Years Used 50 Date",
+      "date": "07/11/2023",
+      "_source": "Test4 Piedmont Healthcare Continuity of Care Document 02/19/2025 Page 1: Social history SmokingTobacco:EveryDay Cigarettes 0.5 50"
+    },
+    {
+      "type": "SmokingTobacco",
+      "value": "Former Cigarettes 0.3 Packs/Day Years Used 2 03/22/1971-03/22/1973",
+      "date": "01/12/2021",
+      "_source": "Test Piedmont Healthcare Patient Record 01/21/2025 Page 1: Reason for visit Social history SmokingTobacco:Former Cigarettes 0.3 2 03/22/1971-03/22/1973"
+    },
+    {
+      "type": "Alcohol Use",
+      "value": "NotCurrently 0(1standarddrink=0.6oz purealcohol)",
+      "_source": "Multiple pages: Singing River and Piedmont documents (e.g., Olivia Singing River Health System Patient Record 03/20/2024 Page 2; Test Piedmont Healthcare Patient Record 01/21/2025 Page 1) showing Alcohol Use NotCurrently 0"
+    }
+  ],
+  "functional_status": [
+    {
+      "question": "Isthepersondeafordoeshe/shehavedifficultyhearing?",
+      "response": "No",
+      "date": "06/19/2023",
+      "_source": "Olivia Singing River Health System Patient Record 03/20/2024 Page 3: Functional Status Isthepersondeafordoeshe/shehavedifficultyhearing? No 06/19/2023"
+    },
+    {
+      "question": "Patient'sVisionAdequatetoSafelyCompleteDailyActivities",
+      "response": "Yes",
+      "date": "06/19/2023",
+      "_source": "Olivia Singing River Health System Patient Record 03/20/2024 Page 3: Functional Status Patient'sVisionAdequatetoSafelyCompleteDailyActivities Yes 06/19/2023"
+    },
+    {
+      "question": "Doesthispersonhaveseriousdifficultywalkingorclimbingstairs?",
+      "response": "Yes",
+      "date": "06/14/2023",
+      "_source": "Olivia Singing River Health System Patient Record 03/20/2024 Page 3: Functional Status Doesthispersonhaveseriousdifficultywalkingorclimbingstairs? Yes 06/14/2023"
+    },
+    {
+      "question": "Doesthispersonhavedifficultydressingorbathing?",
+      "response": "No",
+      "date": "06/14/2023",
+      "_source": "Olivia Singing River Health System Patient Record 03/20/2024 Page 3: Functional Status Doesthispersonhavedifficultydressingorbathing? No 06/14/2023"
+    },
+    {
+      "question": "Becauseofaphysical,mentaloremotionalcondition,doesthispersonhavedifficultydoingerrandsalonesuchasvisitingthedoctor'sofficeorshopping?",
+      "response": "No",
+      "date": "06/14/2023",
+      "_source": "Olivia Singing River Health System Patient Record 03/20/2024 Page 3: Functional Status Becauseofaphysical,mentaloremotionalcondition,doesthispatienthavedifficultydoingerrandsalone? No 06/14/2023"
+    },
+    {
+      "question": "Difficultyseeingevenwithglasses?:",
+      "response": "No",
+      "date": "01/05/2021 1:00AM EST",
+      "_source": "Test Piedmont Healthcare Patient Record 01/21/2025 Page 6: Assessment No 01/05/2021 1:00AM EST Difficultyseeingevenwithglasses?: Answer"
+    },
+    {
+      "question": "Difficultywalkingorclimbingstairs?:",
+      "response": "No",
+      "date": "01/05/2021 1:00AM EST",
+      "_source": "Test Piedmont Healthcare Patient Record 01/21/2025 Page 6: Assessment No 01/05/2021 1:00AM EST Difficultywalkingorclimbingstairs?: Answer"
+    },
+    {
+      "question": "Difficultydressingorbathing?:",
+      "response": "Yes",
+      "date": "01/05/2021 1:00AM EST",
+      "_source": "Test Piedmont Healthcare Patient Record 01/21/2025 Page 6: Assessment Yes 01/05/2021 1:00AM EST *Difficultydressingorbathing?: Answer"
+    },
+    {
+      "question": "Difficultydoingerrandsalone?:",
+      "response": "Yes",
+      "date": "01/05/2021 1:00AM EST",
+      "_source": "Test Piedmont Healthcare Patient Record 01/21/2025 Page 6: Assessment Yes 01/05/2021 1:00AM EST Difficultydoingerrandsalone?: Answer"
+    }
+  ],
+  "care_team": [
+    {
+      "name": "Hand, Hoyet A, MD",
+      "relationship": "PCP-General FamilyMedicine",
+      "contact": "228-206-7054(Work); 228-604-0905(Fax)",
+      "start_date": "9/25/20",
+      "_source": "Olivia Singing River Health System Patient Record 03/20/2024 Page 12: Care teams Team Member Hand, Hoyet A, MD PCP-General FamilyMedicine 9/25/20 228-206-7054(Work) 228-604-0905(Fax)"
+    },
+    {
+      "name": "Pradhan Shrestha, Deepika, MD",
+      "relationship": "Endocrinologist",
+      "specialty": "Endocrinology, Diabetes & Metabolism",
+      "start_date": "9/9/19",
+      "end_date": "6/14/22",
+      "_source": "Olivia Singing River Health System Patient Record 03/20/2024 Page 9: Care teams Pradhan Shrestha, Deepika, MD Endocrinologist Endocrinology, Diabetes & Metabolism 9/9/19 6/14/22"
+    },
+    {
+      "name": "Roberts, Justin D, DO",
+      "relationship": "ConsultingPhysician",
+      "specialty": "Cardiology-General",
+      "start_date": "1/13/20",
+      "end_date": "6/14/22",
+      "_source": "Olivia Singing River Health System Patient Record 03/20/2024 Page 9: Care teams Roberts, Justin D, DO ConsultingPhysician AMB- Cardiology-General 1/13/20 6/14/22"
+    },
+    {
+      "name": "Kaplan, Marnie, MD",
+      "relationship": "Surgeon General",
+      "specialty": "Surgery",
+      "start_date": "7/6/20",
+      "end_date": "6/14/22",
+      "_source": "Olivia Singing River Health System Patient Record 03/20/2024 Page 9: Care teams Kaplan, Marnie, MD Surgeon General Surgery 7/6/20 6/14/22"
+    },
+    {
+      "name": "Wozney, Jocelyn L, MD",
+      "relationship": "Oncologist",
+      "specialty": "Hematology and Oncology",
+      "start_date": "9/14/20",
+      "end_date": "11/8/21",
+      "_source": "Olivia Singing River Health System Patient Record 03/20/2024 Page 9: Care teams Wozney, Jocelyn L, MD Oncologist HematologyandOncology 9/14/20 11/8/21"
+    },
+    {
+      "name": "Hershey, Curtis L, MD",
+      "relationship": "PCP-General FamilyPractice",
+      "start_date": "4/15/19",
+      "_source": "Test Piedmont Healthcare Patient Record 01/21/2025 Page 7: Care teams Hershey, Curtis L, MD PCP-General FamilyPractice 4/15/19"
+    },
+    {
+      "name": "Pradhan Shrestha, Deepika, MD",
+      "relationship": "Endocrinologist",
+      "start_date": "9/9/19",
+      "end_date": "6/14/22",
+      "_source": "Test Piedmont Healthcare Patient Record 01/21/2025 Page 8: Team Member Pradhan Shrestha, Deepika, MD Endocrinology, Diabetes & Metabolism 9/9/19 6/14/22"
+    },
+    {
+      "name": "Roberts, Justin D, DO",
+      "relationship": "ConsultingPhysician",
+      "specialty": "Cardiology-General",
+      "start_date": "1/13/20",
+      "end_date": "6/14/22",
+      "_source": "Test Piedmont Healthcare Patient Record 01/21/2025 Page 8: Team Member Roberts, Justin D, DO ConsultingPhysician AMB- Cardiology-General 1/13/20 6/14/22"
+    }
+  ],
+  "plans_and_followups": [
+    {
+      "plan": "Make an appointment with Eye doctor in the next 3 Months",
+      "status": "Notontrack(03/22/2024 8:37AM EDT)",
+      "_source": "Test Piedmont Healthcare Patient Record 01/21/2025 Page 6: Goals MakeanappointmentwithEyedoctorinthenext3Months Notontrack(03/22/2024 8:37AMEDT) Gress, Pamela, RN"
+    },
+    {
+      "plan": "Atorvastatin refill request",
+      "status": "RefillRequest",
+      "_source": "Test Piedmont Healthcare Patient Record 01/21/2025 Page 1: Reason for Visit RefillRequest Atorvastatin/CVS 01/12/2021"
+    },
+    {
+      "plan": "Upcoming Encounter: 04/19/2024 SingingRiverGulfport PrimaryCareServices 10:00AM",
+      "_source": "Olivia Singing River Health System Patient Record 03/20/2024 Page 3: Plan of treatment Upcoming Encounters Date 04/19/2024 Appointment SingingRiverGulfport PrimaryCareServices"
+    },
+    {
+      "plan": "Upcoming Encounter: 04/22/2024 OfficeVisit Hand, Hoyet A, MD",
+      "_source": "Olivia Singing River Health System Patient Record 03/20/2024 Page 3: Plan of treatment Upcoming Encounters Date 04/22/2024 OfficeVisit Hand, Hoyet A, MD"
+    }
+  ],
+  "notes": [
+    {
+      "text": "PHQ-9DepressionTotalScore:0 03/28/2023 8:56AM CDT",
+      "_source": "Olivia Singing River Health System Patient Record 03/20/2024 Page 12: Additional health concerns Assessment Noted Time PHQ-9DepressionTotalScore:0 03/28/2023 8:56AMCDT"
+    },
+    {
+      "text": "PHQ-2DepressionTotalScore:0 03/28/2023 8:56AM CDT",
+      "_source": "Olivia Singing River Health System Patient Record 03/20/2024 Page 12: Additional health concerns Assessment Noted Time PHQ-2DepressionTotalScore:0 03/28/2023 8:56AMCDT"
+    },
+    {
+      "text": "RefillRequest Atorvastatin/CVS",
+      "_source": "Test Piedmont Healthcare Patient Record 01/21/2025 Page 1: Reason for Visit RefillRequest Atorvastatin/CVS 01/12/2021"
+    },
+    {
+      "text": "Patientwishestogetoffinsulin.",
+      "_source": "Test Piedmont Healthcare Patient Record 01/21/2025 Page 2: Goals Note: Patientwishestogetoffinsulin. LGResultComponent(DM)<8.0 LG Result Component(DM) 7(10/22/2024 10:58AMEDT)"
+    }
+  ],
+  "conflicts": [
+    {
+      "entity_type": "demographics",
+      "entity_name": "date_of_birth",
+      "conflict_description": "Conflicting DOB values present in different source documents.",
+      "variants": [
+        {
+          "value": "05/05/1952",
+          "_source": "Multiple pages showing DOB 05/05/1952 (e.g., Olivia Singing River Health System Patient Record 03/20/2024 Page 1; Test Piedmont Healthcare Patient Record 01/21/2025 Page 9)"
+        },
+        {
+          "value": "07/21/1954",
+          "_source": "Test Piedmont Healthcare Patient Record 01/21/2025 Page 4: DOB: 07/21/1954"
+        },
+        {
+          "value": "05/05/195",
+          "_source": "Multiple pages with truncated DOB text (e.g., Test4 Piedmont Healthcare Continuity of Care Document 02/19/2025 Page 1 showing DOB: 05/05/195)"
+        }
+      ]
+    },
+    {
+      "entity_type": "demographics",
+      "entity_name": "legal_sex/gender",
+      "conflict_description": "Conflicting sex/legal sex/gender identity entries present across documents.",
+      "variants": [
+        {
+          "value": "Female",
+          "_source": "Multiple pages: Singing River and Piedmont documents listing Gender: Female (e.g., Olivia Singing River Health System Patient Record 03/20/2024 Page 1)"
+        },
+        {
+          "value": "Male (LegalSex)",
+          "_source": "Test4 Piedmont Healthcare Continuity of Care Document 02/19/2025 Page 1: LegalSex Male 06/19/2013 2:39AM EDT"
+        },
+        {
+          "value": "GenderIdentity Female 11/19/2021 6:43AM CST",
+          "_source": "Olivia Singing River Health System Patient Record 03/20/2024 Page 2: Sex and Gender Information GenderIdentity Female 11/19/2021 6:43AM CST"
+        }
+      ]
+    },
+    {
+      "entity_type": "social_history",
+      "entity_name": "smoking_tobacco",
+      "conflict_description": "Conflicting smoking status and pack-years across source documents.",
+      "variants": [
+        {
+          "value": "Former Cigarettes Quit:1991 Comments:patientstatesquit30yearsago",
+          "_source": "Olivia Singing River Health System Patient Record 03/20/2024 Page 1: Social history SmokingTobacco:Former Cigarettes Quit:1991 Comments:patientstatesquit30yearsago"
+        },
+        {
+          "value": "EveryDay Cigarettes 0.5 Packs/Day Years Used 50",
+          "_source": "Test4 Piedmont Healthcare Continuity of Care Document 02/19/2025 Page 1: Social history SmokingTobacco:EveryDay Cigarettes 0.5 50"
+        },
+        {
+          "value": "Former Cigarettes 0.3 Packs/Day Years Used 2 03/22/1971-03/22/1973",
+          "_source": "Test Piedmont Healthcare Patient Record 01/21/2025 Page 1: Social history SmokingTobacco:Former Cigarettes 0.3 2 03/22/1971-03/22/1973"
+        }
+      ]
+    }
+  ],
+  "patient_summary": "Olivia, female, age 73 (multiple source documents). Active problems documented include mixed dyslipidemia, essential hypertension (benign), postoperative anemia, leg pain, and hyperlipidemia associated with type 2 diabetes mellitus. Major recent procedure: COLONOSCOPY WITH BIOPSY on 02/21/2025 by Haroon, Mustafa, MD. Notable laboratory abnormalities: Iron 41(L) ug/dL and IronSaturation 15(L)% (07/03/2023), Triglycerides 158(H) mg/dL (07/03/2023), VLDLCholesterolCal 32(H) mg/dL (07/03/2023), eGFRCKD-EPI 58(L) ml/min/1.73m2 (07/03/2023), Chloride 108(H) mmol/L (07/03/2023), and anion gap 5.0(L) mmol/L (07/03/2023). Care team includes PCP Hand, Hoyet A, MD and multiple specialty providers (endocrinology, cardiology, surgery). Conflicting demographic and social history elements (DOB, legal sex/gender, smoking history) are preserved in conflicts."
+}

@@ -1,0 +1,393 @@
+{
+  "patient": {
+    "name": "Olivia",
+    "dob": "05/05/1952",
+    "age": "73",
+    "sex": "Female",
+    "patient_id": "104",
+    "contact": {
+      "phone": [
+        "\u002B13105561256",
+        "\u002B1310556 1256 (H)"
+      ]
+    },
+    "sexual_orientation": "Notonfile",
+    "sex_assigned_at_birth": "Notonfile",
+    "legal_sex": "Male",
+    "legal_sex_date_recorded": "06/19/20132:39AMEDT",
+    "gender_identity": "Notonfile",
+    "_source": [
+      "PiedmontHealthcarePatientRecord01/21/2025: Page 6, PATIENT INFORMATION section",
+      "Test4PiedmontHealthcarePatientRecord02/19/2025: Page 1 of 4, PATIENT INFORMATION section",
+      "Test4PiedmontHealthcarePatientRecord02/19/2025: Page 2 of 4 (implied), PATIENT INFORMATION section",
+      "OliviaSingingRiverHealthSystemPatientRecord03/20/2024: Page 2 of 12, \u0027SexualOrientation Notonfile\u0027",
+      "OliviaSingingRiverHealthSystemPatientRecord03/20/2024: Page 3 of 12, PATIENT INFORMATION section"
+    ]
+  },
+  "encounters": [
+    {
+      "date": "08/18/2025",
+      "type": "Ancillary Procedure",
+      "facility_name": "LGHKISSELHILL",
+      "facility_address": "51PetersRoad Lititz,PA17543-7685",
+      "facility_phone": "717-627-2400",
+      "_source": [
+        "Document A (Page 5 of 9): Paragraph starting \u002708/18 Ancillary\u0027"
+      ]
+    },
+    {
+      "date": "04/21/2025",
+      "type": "OfficeVisit",
+      "department": "Hematology\u0026Medical Oncology",
+      "provider": "Jhaveri,Ami,MD",
+      "facility_name": "2102HARRISBURGPIKE",
+      "facility_address": "LANCASTER,PA17601",
+      "provider_address": "2102HarrisburgPike Lancaster,PA17604",
+      "facility_phone": "717-544-9400(Work)",
+      "provider_phone": "717-544-9400",
+      "provider_fax": "717-544-9401(Fax)",
+      "_source": [
+        "Document A (Page 5 of 9): Paragraph starting \u002704/21 OfficeVisit Jhaveri,Ami,MD\u0027"
+      ]
+    },
+    {
+      "date": "02/21/2025",
+      "type": "Hospital Encounter",
+      "department": "Peri-OpServices",
+      "provider": "Haroon,Mustafa,MD",
+      "facility_name": "PiedmontNewnanHospital",
+      "facility_address": "1200LOWER FAYETTEVILLEROAD NEWNAN,GA30265-1618",
+      "provider_address": "745POPLARRD SUITEB NEWNAN,GA30265",
+      "facility_phone": "770-400-1000",
+      "provider_phone": "678-631-4610(Work)",
+      "provider_fax": "678-631-4611(Fax)",
+      "_source": [
+        "Document D (Test4PiedmontHealthcarePatientRecord02/19/2025, Page 2 of 4 implied): Encounter table row for \u002702/21 Hospital Haroon,Mustafa,MD\u0027"
+      ]
+    },
+    {
+      "date": "02/20/2025",
+      "type": "OfficeVisit",
+      "department": "AtlantaVascularSpecialists -Newnan",
+      "provider": "Dooley,JohnDavid,MD",
+      "facility_name": "1233HWY54WEST SUITE210",
+      "facility_address": "FAYETTEVILLE,GA30214-4542",
+      "provider_address": "2201NewnanCrossingBlvd Suite200 Newnan,GA30265-2251",
+      "facility_phone": "404-524-0095(Work)",
+      "provider_phone": "404-524-0095",
+      "provider_fax": "404-658-9558(Fax)",
+      "_source": [
+        "Document D (Test4PiedmontHealthcarePatientRecord02/19/2025, Page 2 of 4 implied): Encounter table row for \u002702/20 OfficeVisit Dooley,JohnDavid,MD\u0027"
+      ]
+    },
+    {
+      "date": "02/06/2025",
+      "type": "Telemedicine",
+      "department": "FamilyMedicineLincoln",
+      "provider": "Calamia,Courtney,RPh",
+      "facility_name": "424CLOVERLEAFROAD",
+      "facility_address": "Elizabethtown,PA17322",
+      "patient_address_at_encounter": "101LarkspurLane Ephrata,PA17522-8402",
+      "facility_phone": "717-283-9573(Work)",
+      "provider_phone": "717-738-0660",
+      "discharge_disposition": "Home /SelfCare",
+      "_source": [
+        "Document A (Page 5 of 9): Paragraph starting \u002702/06 Telemedicine Calamia,Courtney,RPh\u0027"
+      ]
+    },
+    {
+      "date": "02/03/2025",
+      "type": "OfficeVisit",
+      "department": "FamilyMedicineLincoln",
+      "provider": "Hershey,CurtisL,MD",
+      "facility_name": "101LARKSPURLANE",
+      "facility_address": "Ephrata,PA17522",
+      "facility_phone": "717-738-0660(Work)",
+      "provider_phone": "717-738-0660",
+      "provider_fax": "717-738-0658(Fax)",
+      "discharge_disposition": "Home /SelfCare",
+      "_source": [
+        "Document A (Page 5 of 9): Paragraph starting \u002702/03 OfficeVisit Hershey,CurtisL,MD\u0027"
+      ]
+    },
+    {
+      "date": "07/11/2023",
+      "type": "Travel",
+      "_source": [
+        "Document C (Test4PiedmontHealthcarePatientRecord02/19/2025, Page 1 of 4): Encounter details table row for \u002707/11 Travel\u0027"
+      ]
+    }
+  ],
+  "procedures": [
+    {
+      "procedure": "COLONOSCOPY,WITH BIOPSY",
+      "date": "02/21/2025",
+      "end_date": "02/21/2025 9:11AM EST",
+      "provider": "Haroon,Mustafa,MD",
+      "facility": "PiedmontNewnanHospital",
+      "department": "Peri-OpServices",
+      "_source": [
+        "Document D (Test4PiedmontHealthcarePatientRecord02/19/2025, Page 2 of 4 implied): Procedure row for \u0027COLONOSCOPY,WITH BIOPSY\u0027"
+      ]
+    }
+  ],
+  "social_history": {
+    "tobacco_use": [
+      {
+        "type": "SmokingTobacco",
+        "status": "EveryDay",
+        "cigarettes_per_day": "0.5",
+        "years_used": "50",
+        "date": "7/11/2023",
+        "_source": [
+          "Document C (Test4PiedmontHealthcarePatientRecord02/19/2025, Page 1 of 4): Social history table row for \u0027SmokingTobacco:EveryDay\u0027"
+        ]
+      },
+      {
+        "type": "SmokelessTobacco",
+        "status": "Never",
+        "_source": [
+          "Document C (Test4PiedmontHealthcarePatientRecord02/19/2025, Page 1 of 4): Social history table row for \u0027SmokelessTobacco:Never\u0027"
+        ]
+      }
+    ],
+    "alcohol_use": {
+      "status": "No",
+      "standard_drinks_per_week": "0",
+      "comments": "1standarddrink=0.6oz purealcohol",
+      "_source": [
+        "Document C (Test4PiedmontHealthcarePatientRecord02/19/2025, Page 1 of 4): Social history table row for \u0027AlcoholUse No\u0027"
+      ]
+    },
+    "covid_19_exposure": {
+      "question": "Inthelast10days,haveyoubeenincontactwithsomeone whowasconfirmedorsuspectedtohaveCoronavirus /COVID-19?",
+      "response": "No/Unsure",
+      "date_recorded": "7/11/20238:35AMEDT",
+      "_source": [
+        "Document C (Test4PiedmontHealthcarePatientRecord02/19/2025, Page 1 of 4): COVID-19Exposure Response table row"
+      ]
+    }
+  },
+  "plans_and_followups": [
+    {
+      "goal": "BloodPressure\u003C140/90",
+      "type": "Blood Pressure",
+      "recent_progress": "128/78(01/11/20259:30AMEST)",
+      "associated_problems_stated": "No",
+      "author": "Nigon,Katy A,LPN",
+      "_source": [
+        "Document A (Page 5 of 9): Goal table row for \u0027BloodPressure\u003C140/90\u0027"
+      ]
+    },
+    {
+      "goal": "Bloodsugargoals: Fasting/beforemeals:80-120 2hoursaftermealsandbedtime:\u003C150-180",
+      "_source": [
+        "Document B (PiedmontHealthcarePatientRecord01/21/2025, Page 6): Paragraph \u0027Bloodsugargoals:\u0027"
+      ]
+    },
+    {
+      "goal": "Bringyourmeterandbloodsugar log/foodlogtoallmedical appointments",
+      "type": "In-home monitoring",
+      "recent_progress": "Ontrack(03/22/2024 8:36AMEDT)",
+      "associated_problems_stated": "No",
+      "author": "Gress, Pamela,RN",
+      "_source": [
+        "Document B (PiedmontHealthcarePatientRecord01/21/2025, Page 6): Goal table row \u0027Bringyourmeterandbloodsugar log/foodlogtoallmedical appointments\u0027"
+      ]
+    },
+    {
+      "goal": "Alwayscarryafastactingsugar",
+      "type": "In-home monitoring",
+      "_source": [
+        "Document B (PiedmontHealthcarePatientRecord01/21/2025, Page 6): Goal table row \u0027Alwayscarryafastactingsugar\u0027"
+      ]
+    },
+    {
+      "goal": "Checkmybloodsugar3times/day",
+      "type": "In-home monitoring",
+      "recent_progress": "Ontrack(03/22/2024 8:37AMEDT)",
+      "associated_problems_stated": "No",
+      "author": "Gress, Pamela,RN",
+      "_source": [
+        "Document B (PiedmontHealthcarePatientRecord01/21/2025, Page 6): Goal table row \u0027Checkmybloodsugar3times/day\u0027"
+      ]
+    },
+    {
+      "goal": "Takediabetesmedicationas directed",
+      "type": "In-home monitoring",
+      "recent_progress": "Ontrack(03/22/2024 8:37AMEDT)",
+      "associated_problems_stated": "No",
+      "author": "Gress, Pamela,RN",
+      "_source": [
+        "Document B (PiedmontHealthcarePatientRecord01/21/2025, Page 6): Goal table row \u0027Takediabetesmedicationas directed\u0027"
+      ]
+    },
+    {
+      "goal": "Eat3mealsand0-1Snack(s)per day",
+      "type": "In-home monitoring",
+      "recent_progress": "Ontrack(03/22/2024 8:35AMEDT)",
+      "associated_problems_stated": "No",
+      "author": "Gress, Pamela,RN",
+      "_source": [
+        "Document B (PiedmontHealthcarePatientRecord01/21/2025, Page 6): Goal table row \u0027Eat3mealsand0-1Snack(s)per day\u0027"
+      ]
+    }
+  ],
+  "care_team": [
+    {
+      "name": "Hershey,CurtisL,MD",
+      "affiliation": "FamilyMedicineLincoln",
+      "address": "101LARKSPURLANE Ephrata,PA17522",
+      "contact": {
+        "phone": [
+          "717-738-0660(Work)",
+          "717-738-0660"
+        ],
+        "fax": "717-738-0658(Fax)"
+      },
+      "_source": [
+        "Document A (Page 5 of 9): Encounter 1"
+      ]
+    },
+    {
+      "name": "Calamia,Courtney,RPh",
+      "affiliation": "FamilyMedicineLincoln",
+      "address": "424CLOVERLEAFROAD Elizabethtown,PA17322",
+      "contact": {
+        "phone": [
+          "717-283-9573(Work)",
+          "717-738-0660"
+        ]
+      },
+      "_source": [
+        "Document A (Page 5 of 9): Encounter 2"
+      ]
+    },
+    {
+      "name": "Jhaveri,Ami,MD",
+      "affiliation": "Hematology\u0026Medical Oncology",
+      "address": "2102HarrisburgPike Lancaster,PA17604",
+      "contact": {
+        "phone": [
+          "717-544-9400(Work)",
+          "717-544-9400"
+        ],
+        "fax": "717-544-9401(Fax)"
+      },
+      "_source": [
+        "Document A (Page 5 of 9): Encounter 3"
+      ]
+    },
+    {
+      "name": "Nigon,Katy A,LPN",
+      "_source": [
+        "Document A (Page 5 of 9): Goal table row for \u0027BloodPressure\u003C140/90\u0027"
+      ]
+    },
+    {
+      "name": "Gress, Pamela,RN",
+      "_source": [
+        "Document B (PiedmontHealthcarePatientRecord01/21/2025, Page 6): Goal table row \u0027Eat3mealsand0-1Snack(s)per day\u0027",
+        "Document B (PiedmontHealthcarePatientRecord01/21/2025, Page 6): Goal table row \u0027Takediabetesmedicationas directed\u0027",
+        "Document B (PiedmontHealthcarePatientRecord01/21/2025, Page 6): Goal table row \u0027Checkmybloodsugar3times/day\u0027",
+        "Document B (PiedmontHealthcarePatientRecord01/21/2025, Page 6): Goal table row \u0027Bringyourmeterandbloodsugar log/foodlogtoallmedical appointments\u0027"
+      ]
+    },
+    {
+      "name": "Dooley,JohnDavid,MD",
+      "affiliation": "AtlantaVascularSpecialists -Newnan",
+      "address": "2201NewnanCrossingBlvd Suite200 Newnan,GA30265-2251",
+      "contact": {
+        "phone": [
+          "404-524-0095(Work)",
+          "404-524-0095"
+        ],
+        "fax": "404-658-9558(Fax)"
+      },
+      "_source": [
+        "Document D (Test4PiedmontHealthcarePatientRecord02/19/2025, Page 2 of 4 implied): Encounter 1"
+      ]
+    },
+    {
+      "name": "Haroon,Mustafa,MD",
+      "affiliation": "PiedmontNewnanHospital Peri-OpServices",
+      "address": "745POPLARRD SUITEB NEWNAN,GA30265",
+      "contact": {
+        "phone": [
+          "678-631-4610(Work)"
+        ],
+        "fax": "678-631-4611(Fax)"
+      },
+      "_source": [
+        "Document D (Test4PiedmontHealthcarePatientRecord02/19/2025, Page 2 of 4 implied): Encounter 2",
+        "Document D (Test4PiedmontHealthcarePatientRecord02/19/2025, Page 2 of 4 implied): Procedure \u0027COLONOSCOPY,WITH BIOPSY\u0027"
+      ]
+    }
+  ],
+  "facilities": [
+    {
+      "name": "101LARKSPURLANE",
+      "address": "Ephrata,PA17522",
+      "phone": "717-738-0660(Work)",
+      "_source": [
+        "Document A (Page 5 of 9): Encounter 1"
+      ]
+    },
+    {
+      "name": "424CLOVERLEAFROAD",
+      "address": "Elizabethtown,PA17322",
+      "phone": "717-283-9573(Work)",
+      "_source": [
+        "Document A (Page 5 of 9): Encounter 2"
+      ]
+    },
+    {
+      "name": "2102HARRISBURGPIKE",
+      "address": "LANCASTER,PA17601",
+      "phone": "717-544-9400(Work)",
+      "_source": [
+        "Document A (Page 5 of 9): Encounter 3"
+      ]
+    },
+    {
+      "name": "LGHKISSELHILL",
+      "address": "51PetersRoad Lititz,PA17543-7685",
+      "phone": "717-627-2400",
+      "_source": [
+        "Document A (Page 5 of 9): Encounter 4"
+      ]
+    },
+    {
+      "name": "1233HWY54WEST SUITE210",
+      "address": "FAYETTEVILLE,GA30214-4542",
+      "phone": "404-524-0095(Work)",
+      "_source": [
+        "Document D (Test4PiedmontHealthcarePatientRecord02/19/2025, Page 2 of 4 implied): Encounter 1"
+      ]
+    },
+    {
+      "name": "PiedmontNewnanHospital",
+      "address": "1200LOWER FAYETTEVILLEROAD NEWNAN,GA30265-1618",
+      "phone": "770-400-1000",
+      "_source": [
+        "Document D (Test4PiedmontHealthcarePatientRecord02/19/2025, Page 2 of 4 implied): Encounter 2"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "text": "Note:Formattingofthisnotemightbedifferentfromtheoriginal.",
+      "_source": [
+        "Document B (PiedmontHealthcarePatientRecord01/21/2025, Page 6): Paragraph \u0027Note:Formattingofthisnotemightbedifferentfromtheoriginal.\u0027"
+      ]
+    },
+    {
+      "text": "Pttakesittwice/day",
+      "_source": [
+        "Document B (PiedmontHealthcarePatientRecord01/21/2025, Page 6): Paragraph \u0027Pttakesittwice/day\u0027 below blood sugar goals"
+      ]
+    }
+  ],
+  "conflicts": [],
+  "patient_summary": "Olivia is a 73-year-old female actively managing her health with a focus on blood pressure and blood sugar control, as evidenced by specific monitoring and medication adherence goals. She underwent a colonoscopy with biopsy on February 21, 2025. Her social history includes daily tobacco use for 50 years, but no alcohol consumption, and she recently reported no COVID-19 exposure. Care involves multiple providers across various specialties, indicating a coordinated approach to her ongoing medical needs."
+}

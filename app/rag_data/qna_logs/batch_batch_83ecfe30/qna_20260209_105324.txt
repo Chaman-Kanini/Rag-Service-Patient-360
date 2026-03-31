@@ -1,0 +1,38 @@
+QUESTION:
+what are the lab results found
+
+ANSWER:
+Here are the lab results shown in the record (value — reference range; flags if noted):
+
+Lipid panel (07/03/2023)
+- Triglycerides: 158 mg/dL (0–149) — H
+- Cholesterol (total): 147 mg/dL (<200)
+- HDL: 54 mg/dL (40–59)
+- LDL (calculated): 62 mg/dL (0–100)
+- VLDL (calculated): 32 mg/dL (<30) — H
+- Non-HDL cholesterol: 94 mg/dL (<=130)
+
+Basic metabolic panel / electrolytes (07/03/2023)
+- Sodium: 140 mmol/L (136–145)
+- Potassium: 4.0 mmol/L (3.5–5.1)
+- Chloride: 108 mmol/L (98–107) — H
+- CO2 (bicarbonate): 27 mmol/L (21–32)
+- BUN: 15 mg/dL (7–18)
+- Creatinine: 0.96 mg/dL (0.55–1.02)
+- Glucose: 94 mg/dL (74–106)
+- Calcium: 9.5 mg/dL (8.5–10.1)
+- Anion gap: 5.0 mmol/L (8.0–16.0) — L
+- eGFR (CKD-EPI): 58 mL/min/1.73 m2 (>90) — L
+
+Iron studies / iron binding (07/03/2023)
+- Iron: 41 µg/dL (50–170) — L
+- TIBC: 279 µg/dL (250–450)
+- Iron saturation: 15% (20–55) — L
+
+Ferritin (07/03/2023)
+- Ferritin: 266.8 ng/mL (8.0–252.0) — H
+
+TSH Ultra Sensitive (07/03/2023)
+- TSH: 1.320 mIU/mL (0.358–3.740)
+
+(Flags H = high, L = low, as indicated in the report.)

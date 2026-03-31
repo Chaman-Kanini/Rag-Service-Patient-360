@@ -1,0 +1,68 @@
+{
+  "batch_id": "batch_14277662",
+  "finalized_at": "2026-02-12T13:06:13.246743",
+  "icd10_codes": [
+    {
+      "id": "icd10_Mixed dyslipidemia - Primary_E782",
+      "type": "icd10",
+      "sourceItem": "Mixed dyslipidemia - Primary",
+      "code": "E782",
+      "description": "Mixed hyperlipidemia",
+      "isAISuggested": true,
+      "isAccepted": true
+    },
+    {
+      "id": "icd10_Essential hypertension, benign_I10",
+      "type": "icd10",
+      "sourceItem": "Essential hypertension, benign",
+      "code": "I10",
+      "description": "Essential (primary) hypertension",
+      "isAISuggested": true,
+      "isAccepted": true
+    },
+    {
+      "id": "icd10_Leg pain_M79606",
+      "type": "icd10",
+      "sourceItem": "Leg pain",
+      "code": "M79606",
+      "description": "Pain in leg, unspecified",
+      "isAISuggested": true,
+      "isAccepted": true
+    },
+    {
+      "id": "icd10_Postoperative anemia_D62",
+      "type": "icd10",
+      "sourceItem": "Postoperative anemia",
+      "code": "D62",
+      "description": "Acute posthemorrhagic anemia",
+      "isAISuggested": true,
+      "isAccepted": true
+    },
+    {
+      "id": "icd10_Unspecified anemia_D649",
+      "type": "icd10",
+      "sourceItem": "Unspecified anemia",
+      "code": "D649",
+      "description": "Anemia, unspecified",
+      "isAISuggested": true,
+      "isAccepted": true
+    }
+  ],
+  "cpt_codes": [
+    {
+      "id": "cpt_Biopsy of vagina_57100_custom",
+      "type": "cpt",
+      "sourceItem": "Biopsy of vagina",
+      "code": "57100",
+      "description": "Biopsy of vagina",
+      "isAISuggested": false,
+      "isAccepted": true
+    }
+  ],
+  "summary": {
+    "total_icd10": 5,
+    "total_cpt": 1,
+    "ai_suggested_accepted": 5,
+    "manually_added": 1
+  }
+}

@@ -1,0 +1,155 @@
+faxtransmissionareintendedonlyfortheuseoftheindividualorentitytowhichtheyareaddressedandmay
+containinformationthatislegallyprivileged,confidentialandexemptfromdisclosure,includingprotectedhealthinformation.Ifyouarenotthe
+intendedrecipient,youareherebynotifiedthatanydissemination,distributionorcopyingofthisdocumentisstrictlyprohibited.Ifyouhavereceived
+orobtainedthisdocumentorfaxtransmissioninerror,pleasenotifytheoriginalsenderorcontactHealthGorillaInc.at1-844-446-7455
+immediatelybytelephoneorbyemailatprivacy@healthgorilla.comanddeletethisdocumentimmediately.
+Page3of9
+[Page 4]
+Test PiedmontHealthcarePatientRecord01/21/2025
+PATIENT INFORMATION: Type: ClinicalNote
+Olivia Source: PiedmontHealthcare
+Received:01/21/202508:22PM
+Phone : xxx-xxx-xxxx Modified: 01/21/202508:22PM
+DOB: 07/21/1954
+Gender: Female Age: 73
+PatientID: 104
+Miscellaneousnotes
+TelephoneEncounter-Torres,Lizza-01/13/20213:52PMEST:Formattingofthisnoteisdifferentfromtheoriginal.
+Lipid-relatedRefillRequest
+Atorvastatin
+LastTHGproviderofficevisit:11/17/20NextOV:2/19/2021
+LastLipidPanel:
+LabResults
+ComponentValueDate/Time
+CHOLTOTAL13607/17/202009:41AM
+TG10107/17/2020 09:41AM
+HDLCHOL38(L) 07/17/2020 09:41 AM
+LDLCHOL 78 07/17/2020 09:41 AM
+LastBMP:
+LabResults
+Component ValueDate/Time
+GLUCOSE199 (H) 01/11/202105:31 AM
+SODIUM 134 (L) 01/11/2021 05:31AM
+POTASSIUM 4.4 01/11/2021 05:31 AM
+CHLORIDE 97(L) 01/11/2021 05:31 AM
+BUN37 (H) 01/11/2021 05:31AM
+CREATININE 1.1(H) 01/11/2021 05:31 AM
+CALCIUM 8.1(L) 01/11/2021 05:31AM
+GFR50(A) 01/11/2021 05:31 AM
+LastLFTS:
+AlkalinePhosphatase
+Date/TimeValueRefRangeStatus
+01/08/202105:00AM5834-144U/LFinal
+AST(SGOT)
+Date/TimeValueRefRangeStatus
+01/08/202105:00AM8(L)13-40U/LFinal
+ALT(SGPT)
+Date/TimeValueRefRangeStatus
+01/08/202105:00AM107-52U/LFinal
+ElectronicallysignedbyTorres,Lizzaat01/13/20213:53PMEST
+documentedinthisencounter
+Plan of treatment
+Upcoming Encounters
+PrintedfromHealthGorillaSecureClinicalNetwork.Copyright©2025HealthGorillaInc.
+https://www.healthgorilla.com
+Thecontentsofthisdocumentand/orfaxtransmissionareintendedonlyfortheuseoftheindividualorentitytowhichtheyareaddressedandmay
+containinformationthatislegallyprivileged,confidentialandexemptfromdisclosure,includingprotectedhealthinformation.Ifyouarenotthe
+intendedrecipient,youareherebynotifiedthatanydissemination,distributionorcopyingofthisdocumentisstrictlyprohibited.Ifyouhavereceived
+orobtainedthisdocumentorfaxtransmissioninerror,pleasenotifytheoriginalsenderorcontactHealthGorillaInc.at1-844-446-7455
+immediatelybytelephoneorbyemailatprivacy@healthgorilla.comanddeletethisdocumentimmediately.
+Page4of9
+[Page 5]
+Test PiedmontHealthcarePatientRecord01/21/2025
+PATIENT INFORMATION: Type: ClinicalNote
+Olivia Source: PiedmontHealthcare
+Received:01/21/202508:22PM
+Phone : +13105561256 Modified: 01/21/202508:22PM
+DOB: 05/05/1952
+Gender: Female Age: 73
+PatientID: 104
+Date Type Department CareTeam(Latest Description
+ContactInfo)
+02/03 OfficeVisit Hershey,CurtisL,MD DischargeDisposition:Home
+/20259: FamilyMedicineLincoln /SelfCare
+40AM 101LARKSPURLANE
+EST 101LarkspurLane
+Ephrata,PA17522
+Ephrata,PA17522-8402
+717-738-0660(Work)
+717-738-0660
+717-738-0658(Fax)
+02/06 Telemedicine Calamia,Courtney,RPh DischargeDisposition:Home
+/20258: FamilyMedicineLincoln /SelfCare
+30AM 424CLOVERLEAFROAD
+EST 101LarkspurLane
+Elizabethtown,PA17322
+Ephrata,PA17522-8402
+717-283-9573(Work)
+717-738-0660
+04/21 OfficeVisit Jhaveri,Ami,MD
+/202511: Hematology&Medical
+00AM Oncology 2102HARRISBURGPIKE
+EDT
+2102HarrisburgPike LANCASTER,PA17601
+Lancaster,PA17604 717-544-9400(Work)
+717-544-9400 717-544-9401(Fax)
+08/18 Ancillary
+/202510: Procedure LGHKISSELHILL
+00AM
+EDT 51PetersRoad
+Lititz,PA17543-7685
+717-627-2400
+documentedasof thisencounter
+Goals
+Goal Patient Associated RecentProgress Patient- Author
+Goal Problems Stated?
+Type
+Blood 128/78(01/11/20259: No Nigon,Katy
+BloodPressure<140/90 Pressure 30AMEST) A,LPN
+PrintedfromHealthGorillaSecureClinicalNetwork.Copyright©2025HealthGorillaInc.
+https://www.healthgorilla.com
+Thecontentsofthisdocumentand/orfaxtransmissionareintendedonlyfortheuseoftheindividualorentitytowhichtheyareaddressedandmay
+containinformationthatislegallyprivileged,confidentialandexemptfromdisclosure,includingprotectedhealthinformation.Ifyouarenotthe
+intendedrecipient,youareherebynotifiedthatanydissemination,distributionorcopyingofthisdocumentisstrictlyprohibited.Ifyouhavereceived
+orobtainedthisdocumentorfaxtransmissioninerror,pleasenotifytheoriginalsenderorcontactHealthGorillaInc.at1-844-446-7455
+Page5of9
+[Page 6]
+Test PiedmontHealthcarePatientRecord01/21/2025
+PATIENT INFORMATION: Type: ClinicalNote
+Olivia Source: PiedmontHealthcare
+Received:01/21/202508:22PM
+Phone : +13105561256 Modified: 01/21/202508:22PM
+DOB: 05/05/1952
+Gender: Female Age: 73
+PatientID: 104
+Goal Patient Associated RecentProgress Patient- Author
+Goal Problems Stated?
+Type
+In-home Ontrack(03/22/2024 No Gress,
+Eat3mealsand0-1Snack(s)per monitoring 8:35AMEDT) Pamela,RN
+day
+In-home Ontrack(03/22/2024 No Gress,
+Takediabetesmedicationas monitoring 8:37AMEDT) Pamela,RN
+directed
+In-home Ontrack(03/22/2024 No Gress,
+Checkmybloodsugar3times/day monitoring 8:37AMEDT) Pamela,RN
+Note:Formattingofthisnotemightbedifferentfromtheoriginal.
+Bloodsugargoals:
+Fasting/beforemeals:80-120
+2hoursaftermealsandbedtime:<150-180
+Pttakesittwice/day
+In-home Ontrack(03/22/2024 No Gress,
+Bringyourmeterandbloodsugar monitoring 8:36AMEDT) Pamela,RN
+log/foodlogtoallmedical
+appointments
+In-home Ontrack(03/22/2024 No Gress,
+Alwayscarryafastactingsugar monitoring 8:36AMEDT) Pamela,RN
+source
+In-home Notontrack(03/22 No Gress,
+MakeanappointmentwithEye monitoring /20248:37AMEDT) Pamela,RN
+doctorinthenext3Months
+LG Notontrack(03/22 No Fleming,
+Wellness:patient-stated Patient- /20248:37AMEDT) Shelly-Ann,
+Stated CMA
+(Wellness)
+Note:Formattingofthisnotemight

@@ -1,0 +1,51 @@
+areherebynotifiedthatanydissemination,distributionorcopyingofthisdocumentisstrictlyprohibited.Ifyouhavereceived
+orobtainedthisdocumentorfaxtransmissioninerror,pleasenotifytheoriginalsenderorcontactHealthGorillaInc.at1-734-446-7455
+immediatelybytelephoneorbyemailatprivacy@healthgorilla.comanddeletethisdocumentimmediately.
+Page9of12
+[Page 10]
+OliviaSingingRiverHealthSystemPatientRecord03/20/2024
+PATIENT INFORMATION: Type: Progress Note
+Olivia Source: SingingRiverHealthSystem
+Received:03/20/202408:24PM
+Phone +1310556 1256 Modified: 03/20/202408:24PM
+(H):
+DOB: 05/05/1952
+Gender: Female Age: 73
+Patient 104
+ID: ...
+Component Value Ref TestMethod Analysi Perform Pathologist
+Range sTime edAt Signature
+HOSPITA
+LLAB
+Comment:
+Low-risklevels(desirable)<200mg/dL
+Moderate-risklevels(borderline)200-239mg/dL
+High-risklevels>=240mg/dL
+HDL 54 40-59 07/03 SINGING
+mg/dL /202310: RIVER
+45AM GULFPO
+CDT RT
+HOSPITA
+LLAB
+Comment:
+Low(undesirable,highrisk): <40.0mg/dL
+High(desirable,lowrisk): >=60.0mg/dL
+LDLCalculated 62 0-100 07/03 SINGING
+mg/dL /202310: RIVER
+45AM GULFPO
+CDT RT
+HOSPITA
+LLAB
+Comment:
+Optimal <100mg/dL
+Aboveoptimal: 100-129mg/dL
+Borderlinehigh: 130-159mg/dL
+High: 160-189mg/dL
+VeryHigh: >=190mg/dL
+VLDLCholesterolCal 32(H) <30mg 07/03 SINGING
+/dL /202310: RIVER
+45AM GULFPO
+CDT RT
+HOSPITA
+LLAB
+NonHDLChol. 94 <=130 07/03 SINGING

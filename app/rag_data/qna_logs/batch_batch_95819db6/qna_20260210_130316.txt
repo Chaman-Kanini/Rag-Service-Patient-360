@@ -1,0 +1,16 @@
+QUESTION:
+what are the scheduled encounters or what are the planned visits for this patient?
+
+ANSWER:
+The chart lists these scheduled/planned encounters:
+
+- 02/03/2025 9:40 AM — Office visit, Family Medicine Lincoln — Hershey, Curtis L, MD (101 Larkspur Lane, Ephrata, PA).  
+- 02/06/2025 8:30 AM — Telemedicine, Family Medicine Lincoln — Calamia, Courtney, RPh.  
+- 02/20/2025 1:15 PM — Office visit, Atlanta Vascular Specialists — Dooley, John David, MD (Newnan, GA).  
+- 02/21/2025 8:33 AM — Hospital / Surgery (Peri‑Op Services), Piedmont Newnan Hospital — Haroon, Mustafa, MD — COLONOSCOPY WITH BIOPSY (scheduled procedure).  
+- 04/21/2025 11:00 AM — Office visit, Hematology & Medical Oncology — Jhaveri, Ami, MD (2102 Harrisburg Pike, Lancaster, PA).  
+- 04/23/2025 10:00 AM — Office visit, Piedmont Physicians (Pulmonary & Sleep Medicine) — Kandaswamy, Shankar, MD (745 Poplar Road, Newnan, GA).  
+- 04/25/2025 9:30 AM — Office visit, Piedmont Heart of Newnan — Darlington, Andrew, DO (1267 Highway 54 West / 795 Poplar Road, Suite 400).  
+- 08/18/2025 10:00 AM — Ancillary procedure, LGH Kissel Hill (51 Peters Road, Lititz, PA).
+
+(Times/locations taken directly from the provided records.)

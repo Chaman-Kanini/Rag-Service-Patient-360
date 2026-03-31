@@ -1,0 +1,15 @@
+QUESTION:
+give me patient demographics
+
+ANSWER:
+- Name: Olivia
+- DOB: 05/05/1952
+- Age: 73
+- Patient ID: 104
+- Phone: +1 310-556-1256
+- Gender / sex information:
+  - Gender (document header): Female
+  - Legal sex (recorded): Male (06/19/2013 2:39 AM EDT)
+  - Sex assigned at birth: Not on file
+  - Gender identity: Not on file
+  - Sexual orientation: Not on file

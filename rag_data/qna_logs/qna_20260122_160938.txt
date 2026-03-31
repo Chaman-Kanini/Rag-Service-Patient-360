@@ -1,0 +1,36 @@
+QUESTION:
+give patient summary
+
+ANSWER:
+Olivia is a 73-year-old female born on 05/05/1952. Her phone number is +13105561256.
+
+Social History:
+*   **Tobacco Use:** Former cigarette smoker, quit in 1991 (patient states quit 30 years ago). Never used smokeless tobacco.
+*   **Alcohol Use:** Not currently using alcohol (0 standard drinks/week).
+*   **Gender Identity:** Female (recorded 11/19/2021).
+
+Additional Health Concerns/Assessments:
+*   PHQ-9 Depression Total Score: 0 (03/28/2023)
+*   PHQ-2 Depression Total Score: 0 (03/28/2023)
+
+Care Team:
+*   **PCP-General:** Hand, Hoyet A, MD, specializing in Family Medicine (start date 9/25/20).
+
+Goals:
+*   Blood Pressure < 140/90. Latest recorded blood pressure was 128/78 (01/11/2025).
+
+Encounter Details:
+*   06/30/2023: Orders Only with Hand, Hoyet A, MD (SingingRiverGulfport Primary Care Services) for Mixed dyslipidemia (Primary Dx), Essential hypertension, benign, Postoperative anemia, and Leg Pain.
+*   02/03/2025: Office Visit with Hershey, Curtis L, MD (Family Medicine Lincoln). Discharge Disposition: Home/SelfCare.
+*   02/06/2025: Telemedicine with Calamia, Courtney, RPh (Family Medicine Lincoln). Discharge Disposition: Home/SelfCare.
+*   04/21/2025: Office Visit with Jhaveri, Ami, MD (Hematology & Medical Oncology).
+*   08/18/2025: Ancillary Procedure at LGHKISSELHILL.
+
+Recent Lab Results (07/03/2023):
+*   Potassium: 4.0 mmol/L (within range)
+*   Chloride: 108 mmol/L (High - Ref Range: 98-107)
+*   CO2: 27 mmol/L (within range)
+*   BUN: 15 mg/dL (within range)
+*   Creatinine: 0.96 mg/dL (within range)
+*   Glucose: 94 mg/dL (within range)
+*   Calcium: 9.5 mg/dL (within range)

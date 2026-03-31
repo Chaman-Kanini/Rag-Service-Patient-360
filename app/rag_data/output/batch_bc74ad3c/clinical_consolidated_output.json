@@ -1,0 +1,546 @@
+```json
+{
+  "document_metadata": {
+    "document_type": "Progress Note",
+    "source_organization": "Singing River Health System",
+    "document_date": "03/20/2024",
+    "received_date": "03/20/2024 08: 24 PM",
+    "modified_date": "03/20/2024 08: 24 PM",
+    "_source": "Page 1: PATIENT INFORMATION header; Page 1: document header"
+  },
+  "patient": {
+    "name": "Olivia",
+    "dob": "05/05/1952",
+    "age": "73",
+    "gender": "Female",
+    "patient_id": "104",
+    "contact": {
+      "phone": "+13105561256 (H):"
+    },
+    "sex_assigned_at_birth": "Not on file",
+    "gender_identity": {
+      "value": "Female",
+      "date_recorded": "11/19/20216: 43 AMCST"
+    },
+    "sexual_orientation": "Not on file",
+    "_source": "Page 1: PATIENT INFORMATION; Page 1: Social history section; Page 2: Sexual Orientation"
+  },
+  "encounters": [
+    {
+      "date": "06/30/2023",
+      "type": "Orders Only",
+      "department": "Singing River Gulfport Primary Care Services",
+      "facility": {
+        "name": "Singing River Gulfport Primary Care Services",
+        "address": "350 Cowan Road GULFPORT, MS 39505-2008"
+      },
+      "care_team": {
+        "name": "Hand, Hoyet A, MD",
+        "contact_info": "228-206-7054 (Work); 228-604-0905 (Fax)"
+      },
+      "description": "Mixeddyslipidemia (Primary Dx); Essentialhypertension, benign; Postoperativeanemia Leg Pain",
+      "_source": "Page 1: Table of Contents: Encounter details section"
+    }
+  ],
+  "diagnoses": [
+    {
+      "diagnosis": "Mixeddyslipidemia (Primary Dx)",
+      "_source": "Page 1: Encounter details table"
+    },
+    {
+      "diagnosis": "Essentialhypertension, benign",
+      "_source": "Page 1: Encounter details table"
+    },
+    {
+      "diagnosis": "Postoperativeanemia",
+      "_source": "Page 1: Encounter details table"
+    },
+    {
+      "diagnosis": "Leg Pain",
+      "_source": "Page 1: Encounter details table"
+    },
+    {
+      "diagnosis": "Mixeddyslipidemia-Primary",
+      "_source": "Page 11: Visit diagnoses"
+    },
+    {
+      "diagnosis": "Essentialhypertension,benign",
+      "_source": "Page 11: Visit diagnoses"
+    },
+    {
+      "diagnosis": "Legpain",
+      "_source": "Page 11: Visit diagnoses"
+    },
+    {
+      "diagnosis": "Postoperativeanemia",
+      "_source": "Page 11: Visit diagnoses"
+    },
+    {
+      "diagnosis": "Unspecifiedanemia",
+      "_source": "Page 11: Visit diagnoses"
+    }
+  ],
+  "laboratory_results": [
+    {
+      "test": "Ferritin",
+      "value": "266.8 (H)",
+      "unit": "ng/mL",
+      "reference_range": "8.0-252.0",
+      "date": "07/03/202310: 45 AM CDT",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITAL LAB",
+      "authorizing_provider": "Hoyet AHand MD",
+      "specimen_source": "Blood",
+      "collection_time": "07/03/20239: 15 AM CDT",
+      "received_time": "07/03/2023 10: 06 AM CDT",
+      "_source": "Page 5: Results (ABNORMAL) Ferritin (07/03/2023 9: 15 AM CDT) table"
+    },
+    {
+      "test": "Iron",
+      "value": "41 (L)",
+      "unit": "ug/dL",
+      "reference_range": "50-170",
+      "date": "07/03/202310: 45 AM CDT",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITAL LAB",
+      "authorizing_provider": "Hoyet AHand MD",
+      "specimen_source": "Blood",
+      "collection_time": "07/03/20239: 15 AM CDT",
+      "received_time": "07/03/2023 10: 06 AM CDT",
+      "_source": "Page 6: Results (ABNORMAL) Iron& Iron Binding Capacity (07/03/2023 9: 15 AM CDT) table"
+    },
+    {
+      "test": "TIBC",
+      "value": "279",
+      "unit": "ug/dL",
+      "reference_range": "250-450",
+      "date": "07/03/202310: 45 AM CDT",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITAL LAB",
+      "authorizing_provider": "Hoyet AHand MD",
+      "specimen_source": "Blood",
+      "collection_time": "07/03/20239: 15 AM CDT",
+      "received_time": "07/03/2023 10: 06 AM CDT",
+      "_source": "Page 6: Results (ABNORMAL) Iron& Iron Binding Capacity (07/03/2023 9: 15 AM CDT) table"
+    },
+    {
+      "test": "Iron Saturation",
+      "value": "15 (L)",
+      "unit": "%",
+      "reference_range": "20-55",
+      "date": "07/03/202310: 45 AM CDT",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITAL LAB",
+      "authorizing_provider": "Hoyet AHand MD",
+      "specimen_source": "Blood",
+      "collection_time": "07/03/20239: 15 AM CDT",
+      "received_time": "07/03/2023 10: 06 AM CDT",
+      "_source": "Page 6: Results (ABNORMAL) Iron& Iron Binding Capacity (07/03/2023 9: 15 AM CDT) table"
+    },
+    {
+      "test": "Sodium",
+      "value": "140",
+      "unit": "mmol/L",
+      "reference_range": "136-145",
+      "date": "07/03/202310: 45 AM CDT",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITAL LAB",
+      "authorizing_provider": "Hoyet AHand MD",
+      "specimen_source": "Blood",
+      "collection_time": "07/03/20239: 15 AM CDT",
+      "received_time": "07/03/2023 10: 06 AM CDT",
+      "_source": "Page 6: Results (ABNORMAL) Basic metabolic panel (07/03/2023 9: 15 AM CDT) table"
+    },
+    {
+      "test": "Potassium",
+      "value": "4.0",
+      "unit": "mmol/L",
+      "reference_range": "3.5-5.1",
+      "date": "07/03/202310: 45 AM CDT",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITAL LAB",
+      "authorizing_provider": "Hoyet AHand MD",
+      "specimen_source": "Blood",
+      "collection_time": "07/03/20239: 15 AM CDT",
+      "received_time": "07/03/2023 10: 06 AM CDT",
+      "_source": "Page 7: Results (ABNORMAL) Basic metabolic panel (07/03/2023 9: 15 AM CDT) table"
+    },
+    {
+      "test": "Chloride",
+      "value": "108 (H)",
+      "unit": "mmol/L",
+      "reference_range": "98-107",
+      "date": "07/03/202310: 45 AM CDT",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITAL LAB",
+      "authorizing_provider": "Hoyet AHand MD",
+      "specimen_source": "Blood",
+      "collection_time": "07/03/20239: 15 AM CDT",
+      "received_time": "07/03/2023 10: 06 AM CDT",
+      "_source": "Page 7: Results (ABNORMAL) Basic metabolic panel (07/03/2023 9: 15 AM CDT) table"
+    },
+    {
+      "test": "CO 2",
+      "value": "27",
+      "unit": "mmol/L",
+      "reference_range": "21-32",
+      "date": "07/03/202310: 45 AM CDT",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITAL LAB",
+      "authorizing_provider": "Hoyet AHand MD",
+      "specimen_source": "Blood",
+      "collection_time": "07/03/20239: 15 AM CDT",
+      "received_time": "07/03/2023 10: 06 AM CDT",
+      "_source": "Page 7: Results (ABNORMAL) Basic metabolic panel (07/03/2023 9: 15 AM CDT) table"
+    },
+    {
+      "test": "BUN",
+      "value": "15",
+      "unit": "mg/dL",
+      "reference_range": "7-18",
+      "date": "07/03/202310: 45 AM CDT",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITAL LAB",
+      "authorizing_provider": "Hoyet AHand MD",
+      "specimen_source": "Blood",
+      "collection_time": "07/03/20239: 15 AM CDT",
+      "received_time": "07/03/2023 10: 06 AM CDT",
+      "_source": "Page 7: Results (ABNORMAL) Basic metabolic panel (07/03/2023 9: 15 AM CDT) table"
+    },
+    {
+      "test": "Creatinine",
+      "value": "0.96",
+      "unit": "mg/dL",
+      "reference_range": "0.55-1.02",
+      "date": "07/03/202310: 45 AM CDT",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITAL LAB",
+      "authorizing_provider": "Hoyet AHand MD",
+      "specimen_source": "Blood",
+      "collection_time": "07/03/20239: 15 AM CDT",
+      "received_time": "07/03/2023 10: 06 AM CDT",
+      "_source": "Page 7: Results (ABNORMAL) Basic metabolic panel (07/03/2023 9: 15 AM CDT) table"
+    },
+    {
+      "test": "Glucose",
+      "value": "94",
+      "unit": "mg/dL",
+      "reference_range": "74-106",
+      "date": "07/03/202310: 45 AM CDT",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITAL LAB",
+      "authorizing_provider": "Hoyet AHand MD",
+      "specimen_source": "Blood",
+      "collection_time": "07/03/20239: 15 AM CDT",
+      "received_time": "07/03/2023 10: 06 AM CDT",
+      "_source": "Page 7: Results (ABNORMAL) Basic metabolic panel (07/03/2023 9: 15 AM CDT) table"
+    },
+    {
+      "test": "Calcium",
+      "value": "9.5",
+      "unit": "mg/dL",
+      "reference_range": "8.5-10.1",
+      "date": "07/03/202310: 45 AM CDT",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITAL LAB",
+      "authorizing_provider": "Hoyet AHand MD",
+      "specimen_source": "Blood",
+      "collection_time": "07/03/20239: 15 AM CDT",
+      "received_time": "07/03/2023 10: 06 AM CDT",
+      "_source": "Page 7: Results (ABNORMAL) Basic metabolic panel (07/03/2023 9: 15 AM CDT) table"
+    },
+    {
+      "test": "Anion Gap",
+      "value": "5.0 (L)",
+      "unit": "mmol/L",
+      "reference_range": "8.0-16.0",
+      "date": "07/03/202310: 45 AM CDT",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITAL LAB",
+      "authorizing_provider": "Hoyet AHand MD",
+      "specimen_source": "Blood",
+      "collection_time": "07/03/20239: 15 AM CDT",
+      "received_time": "07/03/2023 10: 06 AM CDT",
+      "_source": "Page 8: Results (ABNORMAL) Basic metabolic panel (07/03/2023 9: 15 AM CDT) table"
+    },
+    {
+      "test": "eGFRCKD-EPI",
+      "value": "58 (L)",
+      "unit": "ml/min/1.73 m 2",
+      "reference_range": ">90",
+      "date": "07/03/202310: 45 AM CDT",
+      "interpretation_comment": "Estimatedusing CKD-EPIequationbasedonstandardizedserumcreatinine,age,andsex DESCRIPTION e GFRm L/min/1.73 m 2 Mild Decrease 60-89 Moderate Decrease 30-59 Severe Decrease 15-29 Kidney Failure <15 (ordialysis)",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITAL LAB",
+      "authorizing_provider": "Hoyet AHand MD",
+      "specimen_source": "Blood",
+      "collection_time": "07/03/20239: 15 AM CDT",
+      "received_time": "07/03/2023 10: 06 AM CDT",
+      "_source": "Page 8: Results (ABNORMAL) Basic metabolic panel (07/03/2023 9: 15 AM CDT) table"
+    },
+    {
+      "test": "TSHUltra Sensitive",
+      "value": "1.320",
+      "unit": "m IU/mL",
+      "reference_range": "0.358-3.740",
+      "date": "07/03/202310: 45 AM CDT",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITAL LAB",
+      "authorizing_provider": "Hoyet AHand MD",
+      "specimen_source": "Blood",
+      "collection_time": "07/03/20239: 15 AM CDT",
+      "received_time": "07/03/2023 10: 06 AM CDT",
+      "_source": "Page 9: Results TSH Ultra Sensitive (07/03/2023 9: 15 AM CDT) table"
+    },
+    {
+      "test": "Triglycerides",
+      "value": "158 (H)",
+      "unit": "mg/dL",
+      "reference_range": "0-149",
+      "date": "07/03/202310: 45 AM CDT",
+      "interpretation_comment": "Borderlinehigh: 150-199 mg/d L High: 200-499 mg/d L Very High: >=500 mg/d L",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITAL LAB",
+      "authorizing_provider": "Hoyet AHand MD",
+      "specimen_source": "Blood",
+      "collection_time": "07/03/20239: 15 AM CDT",
+      "received_time": "07/03/2023 10: 06 AM CDT",
+      "_source": "Page 9: Results (ABNORMAL) Lipidpanel (07/03/2023 9: 15 AM CDT) table"
+    },
+    {
+      "test": "Cholesterol",
+      "value": "147",
+      "unit": "mg/dL",
+      "reference_range": "<200",
+      "date": "07/03/202310: 45 AM CDT",
+      "interpretation_comment": "Low-risklevels (desirable)<200 mg/d L Moderate-risklevels (borderline)200-239 mg/d L High-risklevels>=240 mg/d L",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITAL LAB",
+      "authorizing_provider": "Hoyet AHand MD",
+      "specimen_source": "Blood",
+      "collection_time": "07/03/20239: 15 AM CDT",
+      "received_time": "07/03/2023 10: 06 AM CDT",
+      "_source": "Page 9: Results (ABNORMAL) Lipidpanel (07/03/2023 9: 15 AM CDT) table; Page 10: Results (ABNORMAL) Lipidpanel (07/03/2023 9: 15 AM CDT) table"
+    },
+    {
+      "test": "HDL",
+      "value": "54",
+      "unit": "mg/dL",
+      "reference_range": "40-59",
+      "date": "07/03/202310: 45 AM CDT",
+      "interpretation_comment": "Low (undesirable,highrisk): <40.0 mg/d L High (desirable,lowrisk): >=60.0 mg/d L",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITAL LAB",
+      "authorizing_provider": "Hoyet AHand MD",
+      "specimen_source": "Blood",
+      "collection_time": "07/03/20239: 15 AM CDT",
+      "received_time": "07/03/2023 10: 06 AM CDT",
+      "_source": "Page 10: Results (ABNORMAL) Lipidpanel (07/03/2023 9: 15 AM CDT) table"
+    },
+    {
+      "test": "LDLCalculated",
+      "value": "62",
+      "unit": "mg/dL",
+      "reference_range": "0-100",
+      "date": "07/03/202310: 45 AM CDT",
+      "interpretation_comment": "Optimal <100 mg/d L Aboveoptimal: 100-129 mg/d L Borderlinehigh: 130-159 mg/d L High: 160-189 mg/d L Very High: >=190 mg/d L",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITAL LAB",
+      "authorizing_provider": "Hoyet AHand MD",
+      "specimen_source": "Blood",
+      "collection_time": "07/03/20239: 15 AM CDT",
+      "received_time": "07/03/2023 10: 06 AM CDT",
+      "_source": "Page 10: Results (ABNORMAL) Lipidpanel (07/03/2023 9: 15 AM CDT) table"
+    },
+    {
+      "test": "VLDLCholesterol Cal",
+      "value": "32 (H)",
+      "unit": "mg/dL",
+      "reference_range": "<30",
+      "date": "07/03/202310: 45 AM CDT",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITAL LAB",
+      "authorizing_provider": "Hoyet AHand MD",
+      "specimen_source": "Blood",
+      "collection_time": "07/03/20239: 15 AM CDT",
+      "received_time": "07/03/2023 10: 06 AM CDT",
+      "_source": "Page 10: Results (ABNORMAL) Lipidpanel (07/03/2023 9: 15 AM CDT) table"
+    },
+    {
+      "test": "Non HDLChol. (LDL+VLDL)",
+      "value": "94",
+      "unit": "mg/dL",
+      "reference_range": "<=130",
+      "date": "07/03/202310: 45 AM CDT",
+      "interpretation_comment": "Optimal <=130 mg/d L Aboveoptimal: 131-159 mg/d L Borderlinehigh: 160-189 mg/d L High: 190-219 mg/d L Very High: >=220 mg/d L",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITAL LAB",
+      "authorizing_provider": "Hoyet AHand MD",
+      "specimen_source": "Blood",
+      "collection_time": "07/03/20239: 15 AM CDT",
+      "received_time": "07/03/2023 10: 06 AM CDT",
+      "_source": "Page 10: Results (ABNORMAL) Lipidpanel (07/03/2023 9: 15 AM CDT) table; Page 11: Results (ABNORMAL) Lipidpanel (07/03/2023 9: 15 AM CDT) table"
+    }
+  ],
+  "social_history": {
+    "tobacco_use": [
+      {
+        "type": "Smoking Tobacco",
+        "status": "Former",
+        "subtype": "Cigarettes",
+        "date_quit": "1991",
+        "comment": "patientstatesquit 30 yearsago"
+      },
+      {
+        "type": "Smokeless Tobacco",
+        "status": "Never"
+      }
+    ],
+    "alcohol_use": {
+      "status": "Not Currently",
+      "standard_drinks_per_week": "0",
+      "comment": "(1 standarddrink=0.6 oz purealcohol)"
+    },
+    "_source": "Page 1: Social history section"
+  },
+  "functional_status": [
+    {
+      "question": "Inthelast 10 days,haveyoubeenincontactwithsomeone whowasconfirmedorsuspectedtohave Coronavirus/COVID-19?",
+      "response": "No/Unsure",
+      "date_of_assessment": "6/19/20235: 23 AMCDT",
+      "_source": "Page 3: COVID-19 Exposure Response"
+    },
+    {
+      "question": "Isthepersondeafordoeshe/shehavedifficultyhearing?",
+      "response": "No",
+      "date_of_assessment": "06/19/2023",
+      "_source": "Page 3: Functional status table"
+    },
+    {
+      "question": "Patient's Vision Adequateto Safely Complete Daily Activities",
+      "response": "Yes",
+      "date_of_assessment": "06/19/2023",
+      "_source": "Page 3: Functional status table"
+    },
+    {
+      "question": "Doesthispersonhaveseriousdifficultywalkingorclimbing stairs?",
+      "response": "Yes",
+      "date_of_assessment": "06/14/2023",
+      "_source": "Page 3: Functional status table"
+    },
+    {
+      "question": "Doesthispersonhavedifficultydressingorbathing?",
+      "response": "No",
+      "date_of_assessment": "06/14/2023",
+      "_source": "Page 3: Functional status table"
+    },
+    {
+      "question": "Becauseofaphysical,mentaloremotionalcondition,does thispatienthavedifficultydoingerrandsalonesuchas visitingthedoctor'sofficeorshopping?",
+      "response": "No",
+      "date_of_assessment": "06/14/2023",
+      "_source": "Page 3: Functional status table"
+    },
+    {
+      "question": "Becauseofaphysical,mentaloremotionalcondition,does thispersonhaveseriousdifficultyconcentrating, remembering,ormakingdecisions?",
+      "response": "No",
+      "date_of_assessment": "06/14/2023",
+      "_source": "Page 3: Cognitive Status table"
+    }
+  ],
+  "care_team": [
+    {
+      "member": "Hand, Hoyet A, MD",
+      "relationship": "PCP-General",
+      "specialty": "Family Medicine",
+      "start_date": "9/25/20",
+      "npi": "1225340599",
+      "contact": {
+        "work_phone": "228-206-7054 (Work)",
+        "fax": "228-604-0905 (Fax)"
+      },
+      "_source": "Page 12: Care teams table"
+    }
+  ],
+  "plans_and_followups": [
+    {
+      "date": "04/19/202410: 00 AMCDT",
+      "type": "Appointment",
+      "department": "Singing River Gulfport Primary Care Services",
+      "facility": {
+        "address": "350 Cowan Road GULFPORT, MS 39505-2008"
+      },
+      "contact_info": {
+        "phone": "228-206-7054"
+      },
+      "_source": "Page 3: Plan of treatment Upcoming Encounters table"
+    },
+    {
+      "date": "04/22/20249: 20 AMCDT",
+      "type": "Office Visit",
+      "department": "Singing River Gulfport Primary Care Services",
+      "care_team_member": "Hand, Hoyet A, MD",
+      "facility": {
+        "address": "350 COWANRD GULFPORT, MS 39507-2008",
+        "address2": "350 Cowan Road GULFPORT, MS 39505-2008"
+      },
+      "contact_info": {
+        "phone": "228-206-7054",
+        "work_phone": "228-206-7054 (Work)",
+        "fax": "228-604-0905 (Fax)"
+      },
+      "_source": "Page 3: Plan of treatment Upcoming Encounters table; Page 4: Plan of treatment Upcoming Encounters table"
+    },
+    {
+      "date": "04/30/202410: 20 AMCDT",
+      "type": "Office Visit",
+      "department": "Rheumatology Services",
+      "care_team_member": "Carroll, Matthew B, MD",
+      "facility": {
+        "address": "3603 BIENVILLEBLVD STE 100 BILOXI, MS 39532-2128",
+        "address2": "967 Cedar Lake Rd OCEANSPRINGS, MS 39564"
+      },
+      "contact_info": {
+        "phone": "228-205-6830",
+        "work_phone": "228-872-8768 (Work)",
+        "fax": "228-872-9112 (Fax)"
+      },
+      "_source": "Page 4: Plan of treatment Upcoming Encounters table"
+    },
+    {
+      "date": "05/01/20249: 00 AMCDT",
+      "type": "Office Visit",
+      "department": "Southern Mississippi Heart Center-Gulfport",
+      "care_team_member": "Zayed, Mahmoud H, MD",
+      "facility": {
+        "address": "3704 BIENVILLEBLVD STEB OCEANSPRINGS, MS 39564",
+        "address2": "15190 Community Road Ste 260 GULFPORT, MS 39503-3483"
+      },
+      "contact_info": {
+        "work_phone": "228-872-4040 (Work)",
+        "phone": "228-575-8020",
+        "fax": "228-875-2387 (Fax)"
+      },
+      "_source": "Page 4: Plan of treatment Upcoming Encounters table"
+    },
+    {
+      "date": "06/05/20249: 40 AMCDT",
+      "type": "Office Visit",
+      "department": "Singing River Gulfport Gastroenterology",
+      "care_team_member": "Alexander, Amie L, NP",
+      "facility": {
+        "address": "15190 COMMUNITYRD STE 230 GULFPORT, MS 39503-3483",
+        "address2": "15190 Community Road GULFPORT, MS 39503-3483"
+      },
+      "contact_info": {
+        "phone": "228-575-7104",
+        "work_phone": "228-575-7104 (Work)",
+        "fax": "228-539-6766 (Fax)"
+      },
+      "_source": "Page 4: Plan of treatment Upcoming Encounters table"
+    },
+    {
+      "date": "11/26/20241: 00 PMCST",
+      "type": "Office Visit",
+      "department": "Southern Mississippi Heart Center-Gulfport",
+      "facility": {
+        "address": "15190 Community Road Ste 260 GULFPORT, MS 39503-3483"
+      },
+      "contact_info": {
+        "phone": "228-575-8020"
+      },
+      "_source": "Page 4: Plan of treatment Upcoming Encounters table; Page 5: Plan of treatment Upcoming Encounters table"
+    }
+  ],
+  "notes": [
+    {
+      "text": "PHQ-9 Depression Total Score: 0",
+      "date": "03/28/20238: 56 AMCDT",
+      "_source": "Page 12: Additional health concerns table"
+    },
+    {
+      "text": "PHQ-2 Depression Total Score: 0",
+      "date": "03/28/20238: 56 AMCDT",
+      "_source": "Page 12: Additional health concerns table"
+    }
+  ]
+}
+```

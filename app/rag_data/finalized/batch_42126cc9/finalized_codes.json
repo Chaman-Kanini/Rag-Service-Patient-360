@@ -1,0 +1,41 @@
+{
+  "batch_id": "batch_42126cc9",
+  "finalized_at": "2026-02-10T17:32:52.221555",
+  "icd10_codes": [
+    {
+      "id": "icd10_MRSA_A4901",
+      "type": "icd10",
+      "sourceItem": "MRSA",
+      "code": "A4901",
+      "description": "Methicillin suscep staph infection, unsp site",
+      "isAISuggested": true,
+      "isAccepted": true
+    },
+    {
+      "id": "icd10_COVID-19_U071",
+      "type": "icd10",
+      "sourceItem": "COVID-19",
+      "code": "U071",
+      "description": "COVID-19",
+      "isAISuggested": true,
+      "isAccepted": true
+    }
+  ],
+  "cpt_codes": [
+    {
+      "id": "cpt_Procedure_45999",
+      "type": "cpt",
+      "sourceItem": "Procedure",
+      "code": "45999",
+      "description": "Unlisted procedure rectum",
+      "isAISuggested": true,
+      "isAccepted": true
+    }
+  ],
+  "summary": {
+    "total_icd10": 2,
+    "total_cpt": 1,
+    "ai_suggested_accepted": 3,
+    "manually_added": 0
+  }
+}

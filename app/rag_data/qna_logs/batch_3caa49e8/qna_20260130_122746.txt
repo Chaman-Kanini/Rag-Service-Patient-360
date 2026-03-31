@@ -1,0 +1,45 @@
+QUESTION:
+give me the patient summary
+
+ANSWER:
+Patient summary
+
+- Name/Identifier: Olivia; Patient ID 104
+- DOB / Age / Sex: 05/05/1952; 73 years; Female
+- Home phone: +1 310 556 1256
+- Primary care provider / Care team: Hoyet A. Hand, MD (PCP, General Family Medicine). NPI 1225340599. Contact: 228-206-7054.
+
+Mental health screening
+- PHQ-9 score: 0 (03/28/2023)
+- PHQ-2 score: 0 (03/28/2023)
+
+Functional & cognitive status (assessments dated June 2023)
+- Hearing difficulty: No (06/19/2023)
+- Vision adequate for daily activities: Yes (06/19/2023)
+- Serious difficulty walking or climbing stairs: Yes (06/14/2023)
+- Difficulty dressing or bathing: No (06/14/2023)
+- Difficulty doing errands alone (e.g., doctor’s office, shopping): No (06/14/2023)
+- Serious difficulty concentrating, remembering, or making decisions: No (06/14/2023)
+
+Recent abnormal laboratory results (Singing River Gulfport Hospital Lab; 07/03/2023)
+- Ferritin: 266.8 ng/mL (high) — reference 8.0–252.0
+- Iron: 41 µg/dL (low) — reference 50–170
+- Iron saturation: 15% (low) — reference 20–55%
+- TIBC: 279 µg/dL (within ref 250–450)
+- Chloride: 108 mmol/L (high) — reference 98–107
+- Anion gap: 5.0 mmol/L (low) — reference 8.0–16.0
+- eGFR (CKD-EPI): 58 mL/min/1.73 m2 (low) — reference >90
+- Other BMP values within reported references: K 4.0, Na 140, BUN 15, Creatinine 0.96, Glucose 94, Ca 9.5, CO2 27
+
+COVID-19 exposure screening
+- In last 10 days, contact with confirmed/suspected COVID-19: No/Unsure (06/19/2023)
+
+Planned/upcoming encounters (as listed)
+- 04/19/2024 10:00 AM — Primary Care Services, Singing River Gulfport
+- 04/22/2024 9:20 AM — Office visit with Hoyet A. Hand, MD, Singing River Gulfport
+- 04/30/2024 10:20 AM — Rheumatology, Matthew B. Carroll, MD
+- 05/01/2024 9:00 AM — Southern Mississippi Heart Center (Mahmoud H. Zayed, MD)
+- 06/05/2024 9:40 AM — Gastroenterology, Amie L. Alexander, NP
+- Additional cardiology visit noted 11/26/2024
+
+Source: Singing River Health System progress note(s) received 03/20/2024; lab results dated 07/03/2023.

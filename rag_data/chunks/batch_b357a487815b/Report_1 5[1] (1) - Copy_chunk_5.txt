@@ -1,0 +1,49 @@
+areaddressedandmay
+containinformationthatislegallyprivileged,confidentialandexemptfromdisclosure,includingprotectedhealthinformation.Ifyouarenotthe
+intendedrecipient,youareherebynotifiedthatanydissemination,distributionorcopyingofthisdocumentisstrictlyprohibited.Ifyouhavereceived
+orobtainedthisdocumentorfaxtransmissioninerror,pleasenotifytheoriginalsenderorcontactHealthGorillaInc.at1-734-446-7455
+immediatelybytelephoneorbyemailatprivacy@healthgorilla.comanddeletethisdocumentimmediately.
+Page4of12
+[Page 5]
+OliviaSingingRiverHealthSystemPatientRecord03/20/2024
+PATIENT INFORMATION: Type: Progress Note
+Olivia Source: SingingRiverHealthSystem
+Received:03/20/202408:24PM
+Phone +1310556 1256 Modified: 03/20/202408:24PM
+(H):
+DOB: 05/05/1952
+Gender: Female Age: 73
+Patient 104
+ID: ...
+Date Type Department CareTeam(Latest Description
+ContactInfo)
+CST 15190CommunityRoad
+Ste260
+GULFPORT,MS39503-3483
+228-575-8020
+documentedasof thisencounter
+Results
+(ABNORMAL) Ferritin (07/03/2023 9:15 AM CDT)
+Component Value Ref TestMethod Analysi Perform Pathologist
+Range sTime ed At Signature
+Ferritin 266.8(H) 8.0- 07/03 SINGING
+252.0 /202310: RIVER
+ng/mL 45AM GULFPO
+CDT RT
+HOSPITA
+LLAB
+Specimen Anatomical Collection CollectionTime ReceivedTime
+(Source) Location/ Method/Volume
+Laterality
+Blood Collection/Unknown 07/03/20239:15AM 07/03/202310:06AM
+CDT CDT
+Narrative
+Authorizing ResultType
+Provider
+HoyetAHandMD LABBLOODORDERABLES
+Performing Address City/State/ZIP PhoneNumber
+Organization Code
+SINGINGRIVER 15200COMMUNITY GULFPORT,MS
+GULFPORT RD 39503,USA
+HOSPITALLAB
+(

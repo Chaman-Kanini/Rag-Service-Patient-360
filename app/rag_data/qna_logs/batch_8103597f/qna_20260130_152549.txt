@@ -1,0 +1,5 @@
+QUESTION:
+What medications is the patient currently taking?
+
+ANSWER:
+The record documents atorvastatin (refill requested). It also notes the patient is taking diabetes medication, including insulin (the patient states she wishes to get off insulin).

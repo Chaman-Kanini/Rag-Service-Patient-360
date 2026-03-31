@@ -1,0 +1,9 @@
+QUESTION:
+What are the patient's recent diagnoses?
+
+ANSWER:
+The patient's recent diagnoses are:
+*   Mixeddyslipidemia (Primary Dx)
+*   Essentialhypertension, benign
+*   Postoperativeanemia
+*   Leg Pain

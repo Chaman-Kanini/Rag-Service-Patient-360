@@ -1,0 +1,13 @@
+I’m ready to proceed but I don’t see any clinical document or extracted JSONs attached. Please provide the clinical document (or the extracted JSON documents) you want me to process.
+
+Acceptable inputs:
+- Plain text of the clinical note, report, or discharge summary.
+- A PDF, image, or copy/paste of the document text.
+- One or more pre-extracted JSON documents (if you already ran extraction).
+
+When you provide the document(s), I will:
+- Extract all explicitly stated clinical data (strictly grounded).
+- Consolidate into one Master Patient Record per your consolidation rules.
+- Produce the final JSON and a concise patient summary (≤200 words).
+
+If you have any special focus (e.g., only labs, only medications), state that now.

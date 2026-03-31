@@ -1,0 +1,1419 @@
+{
+  "patient": {
+    "name": "Olivia",
+    "dob": "05/05/1952",
+    "gender": "Female",
+    "age": "73",
+    "patient_id": "104",
+    "phones": [
+      {
+        "phone": "+1 310 556 1256",
+        "_source": [
+          "Document: Report_2 6 (2).pdf, Page: 1, Section: Patient Information"
+        ]
+      },
+      {
+        "phone": "+1310 5561256",
+        "_source": [
+          "Document: Report_1 5[1] (1) (1) (1).pdf, Page: 1, Section: Patient Information"
+        ]
+      }
+    ],
+    "_source": [
+      "Document: Report_2 6 (2).pdf, Page: 1, Section: Patient Information",
+      "Document: Report_2 6 (2).pdf, Page: 3, Section: Patient Information",
+      "Document: Report_1 5[1] (1) (1) (1).pdf, Page: 1, Section: Patient Information",
+      "Document: Report_1 5[1] (1) (1) (1).pdf, Page: 4, Section: Patient Information"
+    ]
+  },
+  "diagnoses": [
+    {
+      "diagnosis": "Mixed dyslipidemia - Primary",
+      "date": "06/30/2023",
+      "_source": [
+        "Document: Report_2 6 (2).pdf, Page: 1, Section: Encounter Details",
+        "Document: Report_2 6 (2).pdf, Page: 11, Section: Visit diagnoses"
+      ]
+    },
+    {
+      "diagnosis": "Essential hypertension, benign",
+      "date": "06/30/2023",
+      "_source": [
+        "Document: Report_2 6 (2).pdf, Page: 1, Section: Encounter Details",
+        "Document: Report_2 6 (2).pdf, Page: 11, Section: Visit diagnoses"
+      ]
+    },
+    {
+      "diagnosis": "Postoperative anemia",
+      "date": "06/30/2023",
+      "_source": [
+        "Document: Report_2 6 (2).pdf, Page: 1, Section: Encounter Details",
+        "Document: Report_2 6 (2).pdf, Page: 11, Section: Visit diagnoses"
+      ]
+    },
+    {
+      "diagnosis": "Leg Pain",
+      "date": "06/30/2023",
+      "_source": [
+        "Document: Report_2 6 (2).pdf, Page: 1, Section: Encounter Details",
+        "Document: Report_2 6 (2).pdf, Page: 11, Section: Visit diagnoses"
+      ]
+    },
+    {
+      "diagnosis": "Unspecified anemia",
+      "_source": [
+        "Document: Report_2 6 (2).pdf, Page: 11, Section: Visit diagnoses"
+      ]
+    },
+    {
+      "diagnosis": "Hyperlipidemia associated with type 2 diabetes mellitus (CMS/HCC)",
+      "_source": [
+        "Document: Report_1 5[1] (1) (1) (1).pdf, Page: 7, Section: Visit diagnoses"
+      ]
+    }
+  ],
+  "clinical_timeline": [
+    {
+      "date": "07/03/2023",
+      "event_type": "lab",
+      "title": "Lab Results (21 tests)",
+      "details": "Multiple hospital lab panels including CBC, BMP, iron studies, lipids, TSH performed.",
+      "sub_items": [
+        {
+          "test": "Ferritin",
+          "value": "266.8",
+          "unit": "ng/mL",
+          "interpretation": "High"
+        },
+        {
+          "test": "Iron",
+          "value": "41",
+          "unit": "ug/dL",
+          "interpretation": "Low"
+        },
+        {
+          "test": "TIBC",
+          "value": "279",
+          "unit": "ug/dL",
+          "interpretation": "Normal"
+        },
+        {
+          "test": "Iron Saturation",
+          "value": "15",
+          "unit": "%",
+          "interpretation": "Low"
+        },
+        {
+          "test": "Sodium",
+          "value": "140",
+          "unit": "mmol/L",
+          "interpretation": "Normal"
+        },
+        {
+          "test": "Potassium",
+          "value": "4.0",
+          "unit": "mmol/L",
+          "interpretation": "Normal"
+        },
+        {
+          "test": "Chloride",
+          "value": "108",
+          "unit": "mmol/L",
+          "interpretation": "High"
+        },
+        {
+          "test": "CO2",
+          "value": "27",
+          "unit": "mmol/L",
+          "interpretation": "Normal"
+        },
+        {
+          "test": "BUN",
+          "value": "15",
+          "unit": "mg/dL",
+          "interpretation": "Normal"
+        },
+        {
+          "test": "Creatinine",
+          "value": "0.96",
+          "unit": "mg/dL",
+          "interpretation": "Normal"
+        },
+        {
+          "test": "Glucose",
+          "value": "94",
+          "unit": "mg/dL",
+          "interpretation": "Normal"
+        },
+        {
+          "test": "Calcium",
+          "value": "9.5",
+          "unit": "mg/dL",
+          "interpretation": "Normal"
+        },
+        {
+          "test": "Anion Gap",
+          "value": "5.0",
+          "unit": "mmol/L",
+          "interpretation": "Low"
+        },
+        {
+          "test": "eGFR CKD-EPI",
+          "value": "58",
+          "unit": "ml/min/1.73m2",
+          "interpretation": "Low"
+        },
+        {
+          "test": "TSH Ultra Sensitive",
+          "value": "1.320",
+          "unit": "mIU/mL",
+          "interpretation": "Normal"
+        },
+        {
+          "test": "Triglycerides",
+          "value": "158",
+          "unit": "mg/dL",
+          "interpretation": "High"
+        },
+        {
+          "test": "Cholesterol",
+          "value": "147",
+          "unit": "mg/dL",
+          "interpretation": "Normal"
+        },
+        {
+          "test": "HDL",
+          "value": "54",
+          "unit": "mg/dL",
+          "interpretation": "Normal"
+        },
+        {
+          "test": "LDL Calculated",
+          "value": "62",
+          "unit": "mg/dL",
+          "interpretation": "Normal"
+        },
+        {
+          "test": "VLDL Cholesterol Cal",
+          "value": "32",
+          "unit": "mg/dL",
+          "interpretation": "High"
+        },
+        {
+          "test": "Non HDL Chol.",
+          "value": "94",
+          "unit": "mg/dL",
+          "interpretation": "Normal"
+        }
+      ],
+      "provider": "Hoyet A Hand MD",
+      "facility": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": [
+        "Document: Report_2 6 (2).pdf, Page: 5, Section: Results",
+        "Document: Report_2 6 (2).pdf, Page: 6, Section: Results",
+        "Document: Report_2 6 (2).pdf, Page: 7, Section: Results",
+        "Document: Report_2 6 (2).pdf, Page: 8, Section: Results",
+        "Document: Report_2 6 (2).pdf, Page: 9, Section: Results",
+        "Document: Report_2 6 (2).pdf, Page: 10, Section: Results",
+        "Document: Report_2 6 (2).pdf, Page: 11, Section: Results"
+      ]
+    },
+    {
+      "date": "01/11/2025",
+      "event_type": "vitals",
+      "title": "Blood Pressure Measurement",
+      "details": "Recorded blood pressure as part of BP goal monitoring.",
+      "provider": "Nigon, Katy A, LPN",
+      "facility": "Family Medicine Lincoln",
+      "_source": [
+        "Document: Report_1 5[1] (1) (1) (1).pdf, Page: 5, Section: Goals"
+      ]
+    },
+    {
+      "date": "04/19/2024",
+      "event_type": "plan",
+      "title": "Appointment - Primary Care",
+      "details": "Upcoming primary care appointment scheduled.",
+      "provider": "Hand, Hoyet A, MD",
+      "facility": "Singing River Gulfport Primary Care Services",
+      "_source": [
+        "Document: Report_2 6 (2).pdf, Page: 3, Section: Plan of Treatment"
+      ]
+    },
+    {
+      "date": "04/22/2024",
+      "event_type": "plan",
+      "title": "Office Visit - Primary Care",
+      "details": "Office visit scheduled with Primary Care Services.",
+      "provider": "Hand, Hoyet A, MD",
+      "facility": "Singing River Gulfport Primary Care Services",
+      "_source": [
+        "Document: Report_2 6 (2).pdf, Page: 3, Section: Plan of Treatment"
+      ]
+    },
+    {
+      "date": "04/30/2024",
+      "event_type": "plan",
+      "title": "Office Visit - Rheumatology",
+      "details": "Rheumatology office visit scheduled.",
+      "provider": "Carroll, Matthew B, MD",
+      "facility": "Singing River Gulfport Rheumatology Services",
+      "_source": [
+        "Document: Report_2 6 (2).pdf, Page: 4, Section: Plan of Treatment"
+      ]
+    },
+    {
+      "date": "05/01/2024",
+      "event_type": "plan",
+      "title": "Office Visit - Cardiology",
+      "details": "Cardiology office visit scheduled.",
+      "provider": "Zayed, Mahmoud H, MD",
+      "facility": "Southern Mississippi Heart Center - Gulfport",
+      "_source": [
+        "Document: Report_2 6 (2).pdf, Page: 4, Section: Plan of Treatment"
+      ]
+    },
+    {
+      "date": "06/05/2024",
+      "event_type": "plan",
+      "title": "Office Visit - Gastroenterology",
+      "details": "Gastroenterology office visit scheduled.",
+      "provider": "Alexander, Amie L, NP",
+      "facility": "Singing River Gulfport Gastroenterology",
+      "_source": [
+        "Document: Report_2 6 (2).pdf, Page: 4, Section: Plan of Treatment"
+      ]
+    },
+    {
+      "date": "11/26/2024",
+      "event_type": "plan",
+      "title": "Office Visit - Cardiology",
+      "details": "Cardiology office visit scheduled.",
+      "provider": "Southern Mississippi Heart Center - Gulfport",
+      "facility": "Southern Mississippi Heart Center - Gulfport",
+      "_source": [
+        "Document: Report_2 6 (2).pdf, Page: 4, Section: Plan of Treatment"
+      ]
+    },
+    {
+      "date": "08/18/2025",
+      "event_type": "procedure",
+      "title": "Ancillary Procedure - LGH KISSEL HILL",
+      "details": "Ancillary procedure scheduled at LGH Kissel Hill.",
+      "facility": "LGH KISSEL HILL",
+      "_source": [
+        "Document: Report_1 5[1] (1) (1) (1).pdf, Page: 5, Section: Upcoming Encounters"
+      ]
+    }
+  ],
+  "procedures": [
+    {
+      "procedure": "Ancillary Procedure - LGH KISSEL HILL",
+      "date": "08/18/2025",
+      "_source": [
+        "Document: Report_1 5[1] (1) (1) (1).pdf, Page: 5, Section: Upcoming Encounters"
+      ]
+    }
+  ],
+  "laboratory_results": [
+    {
+      "test": "Ferritin",
+      "value": "266.8",
+      "unit": "ng/mL",
+      "reference_range": "8.0 - 252.0",
+      "interpretation": "High",
+      "date": "07/03/2023",
+      "_source": [
+        "Document: Report_2 6 (2).pdf, Page: 5, Section: Results"
+      ]
+    },
+    {
+      "test": "Iron",
+      "value": "41",
+      "unit": "ug/dL",
+      "reference_range": "50 - 170",
+      "interpretation": "Low",
+      "date": "07/03/2023",
+      "_source": [
+        "Document: Report_2 6 (2).pdf, Page: 6, Section: Results"
+      ]
+    },
+    {
+      "test": "TIBC",
+      "value": "279",
+      "unit": "ug/dL",
+      "reference_range": "250 - 450",
+      "interpretation": "Normal",
+      "date": "07/03/2023",
+      "_source": [
+        "Document: Report_2 6 (2).pdf, Page: 6, Section: Results"
+      ]
+    },
+    {
+      "test": "Iron Saturation",
+      "value": "15",
+      "unit": "%",
+      "reference_range": "20 - 55",
+      "interpretation": "Low",
+      "date": "07/03/2023",
+      "_source": [
+        "Document: Report_2 6 (2).pdf, Page: 6, Section: Results"
+      ]
+    },
+    {
+      "test": "Sodium",
+      "value": "140",
+      "unit": "mmol/L",
+      "reference_range": "136 - 145",
+      "interpretation": "Normal",
+      "date": "07/03/2023",
+      "_source": [
+        "Document: Report_2 6 (2).pdf, Page: 6, Section: Results"
+      ]
+    },
+    {
+      "test": "Potassium",
+      "value": "4.0",
+      "unit": "mmol/L",
+      "reference_range": "3.5 - 5.1",
+      "interpretation": "Normal",
+      "date": "07/03/2023",
+      "_source": [
+        "Document: Report_2 6 (2).pdf, Page: 7, Section: Results"
+      ]
+    },
+    {
+      "test": "Chloride",
+      "value": "108",
+      "unit": "mmol/L",
+      "reference_range": "98 - 107",
+      "interpretation": "High",
+      "date": "07/03/2023",
+      "_source": [
+        "Document: Report_2 6 (2).pdf, Page: 7, Section: Results"
+      ]
+    },
+    {
+      "test": "CO2",
+      "value": "27",
+      "unit": "mmol/L",
+      "reference_range": "21 - 32",
+      "interpretation": "Normal",
+      "date": "07/03/2023",
+      "_source": [
+        "Document: Report_2 6 (2).pdf, Page: 7, Section: Results"
+      ]
+    },
+    {
+      "test": "BUN",
+      "value": "15",
+      "unit": "mg/dL",
+      "reference_range": "7 - 18",
+      "interpretation": "Normal",
+      "date": "07/03/2023",
+      "_source": [
+        "Document: Report_2 6 (2).pdf, Page: 7, Section: Results"
+      ]
+    },
+    {
+      "test": "Creatinine",
+      "value": "0.96",
+      "unit": "mg/dL",
+      "reference_range": "0.55 - 1.02",
+      "interpretation": "Normal",
+      "date": "07/03/2023",
+      "_source": [
+        "Document: Report_2 6 (2).pdf, Page: 7, Section: Results"
+      ]
+    },
+    {
+      "test": "Glucose",
+      "value": "94",
+      "unit": "mg/dL",
+      "reference_range": "74 - 106",
+      "interpretation": "Normal",
+      "date": "07/03/2023",
+      "_source": [
+        "Document: Report_2 6 (2).pdf, Page: 7, Section: Results"
+      ]
+    },
+    {
+      "test": "Calcium",
+      "value": "9.5",
+      "unit": "mg/dL",
+      "reference_range": "8.5 - 10.1",
+      "interpretation": "Normal",
+      "date": "07/03/2023",
+      "_source": [
+        "Document: Report_2 6 (2).pdf, Page: 7, Section: Results"
+      ]
+    },
+    {
+      "test": "Anion Gap",
+      "value": "5.0",
+      "unit": "mmol/L",
+      "reference_range": "8.0 - 16.0",
+      "interpretation": "Low",
+      "date": "07/03/2023",
+      "_source": [
+        "Document: Report_2 6 (2).pdf, Page: 8, Section: Results"
+      ]
+    },
+    {
+      "test": "eGFR CKD-EPI",
+      "value": "58",
+      "unit": "ml/min/1.73m2",
+      "reference_range": ">90",
+      "interpretation": "Low",
+      "date": "07/03/2023",
+      "_source": [
+        "Document: Report_2 6 (2).pdf, Page: 8, Section: Results"
+      ]
+    },
+    {
+      "test": "TSH Ultra Sensitive",
+      "value": "1.320",
+      "unit": "mIU/mL",
+      "reference_range": "0.358 - 3.740",
+      "interpretation": "Normal",
+      "date": "07/03/2023",
+      "_source": [
+        "Document: Report_2 6 (2).pdf, Page: 9, Section: Results"
+      ]
+    },
+    {
+      "test": "Triglycerides",
+      "value": "158",
+      "unit": "mg/dL",
+      "reference_range": "0 - 149",
+      "interpretation": "High",
+      "date": "07/03/2023",
+      "_source": [
+        "Document: Report_2 6 (2).pdf, Page: 9, Section: Results"
+      ]
+    },
+    {
+      "test": "Cholesterol",
+      "value": "147",
+      "unit": "mg/dL",
+      "reference_range": "<200",
+      "interpretation": "Normal",
+      "date": "07/03/2023",
+      "_source": [
+        "Document: Report_2 6 (2).pdf, Page: 9, Section: Results"
+      ]
+    },
+    {
+      "test": "HDL",
+      "value": "54",
+      "unit": "mg/dL",
+      "reference_range": "40 - 59",
+      "interpretation": "Normal",
+      "date": "07/03/2023",
+      "_source": [
+        "Document: Report_2 6 (2).pdf, Page: 10, Section: Results"
+      ]
+    },
+    {
+      "test": "LDL Calculated",
+      "value": "62",
+      "unit": "mg/dL",
+      "reference_range": "0 - 100",
+      "interpretation": "Normal",
+      "date": "07/03/2023",
+      "_source": [
+        "Document: Report_2 6 (2).pdf, Page: 10, Section: Results"
+      ]
+    },
+    {
+      "test": "VLDL Cholesterol Cal",
+      "value": "32",
+      "unit": "mg/dL",
+      "reference_range": "<30",
+      "interpretation": "High",
+      "date": "07/03/2023",
+      "_source": [
+        "Document: Report_2 6 (2).pdf, Page: 10, Section: Results"
+      ]
+    },
+    {
+      "test": "Non HDL Chol.",
+      "value": "94",
+      "unit": "mg/dL",
+      "reference_range": "<=130",
+      "interpretation": "Normal",
+      "date": "07/03/2023",
+      "_source": [
+        "Document: Report_2 6 (2).pdf, Page: 10, Section: Results"
+      ]
+    }
+  ],
+  "vitals": [
+    {
+      "type": "blood pressure",
+      "value": "128/78",
+      "date": "01/11/2025",
+      "provider": "Nigon, Katy A, LPN",
+      "_source": [
+        "Document: Report_1 5[1] (1) (1) (1).pdf, Page: 5, Section: Goals"
+      ]
+    }
+  ],
+  "medications": [
+    {
+      "medication": "Atorvastatin",
+      "note": "Refill Request Atorvastatin / CVS",
+      "_source": [
+        "Document: Report_1 5[1] (1) (1) (1).pdf, Page: 1, Section: Reason for Visit",
+        "Document: Report_1 5[1] (1) (1) (1).pdf, Page: 3, Section: Miscellaneous notes"
+      ]
+    }
+  ],
+  "social_history": {
+    "tobacco_use": [
+      {
+        "text": "Smoking Tobacco: Former Cigarettes Quit: 1991",
+        "_source": [
+          "Document: Report_2 6 (2).pdf, Page: 1, Section: Social history"
+        ]
+      },
+      {
+        "text": "Smoking Tobacco: Former Cigarettes 0.3 2 03/22/1971 - 03/22/1973",
+        "_source": [
+          "Document: Report_1 5[1] (1) (1) (1).pdf, Page: 1, Section: Social history"
+        ]
+      }
+    ],
+    "smokeless_tobacco": [
+      {
+        "text": "Smokeless Tobacco: Never",
+        "_source": [
+          "Document: Report_2 6 (2).pdf, Page: 1, Section: Social history"
+        ]
+      }
+    ],
+    "alcohol_use": [
+      {
+        "text": "Not Currently 0 (1 standard drink = 0.6 oz pure alcohol)",
+        "_source": [
+          "Document: Report_2 6 (2).pdf, Page: 1, Section: Social history"
+        ]
+      },
+      {
+        "text": "Not Currently 0 (1 standard drink = 0.6 oz pure alcohol)",
+        "_source": [
+          "Document: Report_1 5[1] (1) (1) (1).pdf, Page: 1, Section: Social history"
+        ]
+      }
+    ]
+  },
+  "functional_status": [
+    {
+      "assessment": "Is the person deaf or does he/she have difficulty hearing? No",
+      "date": "06/19/2023",
+      "_source": [
+        "Document: Report_2 6 (2).pdf, Page: 3, Section: Functional status"
+      ]
+    },
+    {
+      "assessment": "Patient's Vision Adequate to Safely Complete Daily Activities Yes",
+      "date": "06/19/2023",
+      "_source": [
+        "Document: Report_2 6 (2).pdf, Page: 3, Section: Functional status"
+      ]
+    },
+    {
+      "assessment": "Does this person have serious difficulty walking or climbing stairs? Yes",
+      "date": "06/14/2023",
+      "_source": [
+        "Document: Report_2 6 (2).pdf, Page: 3, Section: Functional status"
+      ]
+    },
+    {
+      "assessment": "Does this person have difficulty dressing or bathing? No",
+      "date": "06/14/2023",
+      "_source": [
+        "Document: Report_2 6 (2).pdf, Page: 3, Section: Functional status"
+      ]
+    },
+    {
+      "assessment": "Because of a physical, mental or emotional condition, does this patient have difficulty doing errands alone such as visiting the doctor's office or shopping? No",
+      "date": "06/14/2023",
+      "_source": [
+        "Document: Report_2 6 (2).pdf, Page: 3, Section: Functional status"
+      ]
+    },
+    {
+      "assessment": "Difficulty hearing?: No",
+      "date": "01/05/2021",
+      "_source": [
+        "Document: Report_1 5[1] (1) (1) (1).pdf, Page: 3, Section: Functional status"
+      ]
+    },
+    {
+      "assessment": "Difficulty seeing even with glasses?: No",
+      "date": "01/05/2021",
+      "_source": [
+        "Document: Report_1 5[1] (1) (1) (1).pdf, Page: 3, Section: Functional status"
+      ]
+    },
+    {
+      "assessment": "Difficulty walking or climbing stairs?: Yes",
+      "date": "01/05/2021",
+      "_source": [
+        "Document: Report_1 5[1] (1) (1) (1).pdf, Page: 3, Section: Functional status"
+      ]
+    },
+    {
+      "assessment": "Difficulty dressing or bathing?: Yes",
+      "date": "01/05/2021",
+      "_source": [
+        "Document: Report_1 5[1] (1) (1) (1).pdf, Page: 3, Section: Functional status"
+      ]
+    },
+    {
+      "assessment": "Difficulty doing errands alone?: Yes",
+      "date": "01/05/2021",
+      "_source": [
+        "Document: Report_1 5[1] (1) (1) (1).pdf, Page: 3, Section: Functional status"
+      ]
+    }
+  ],
+  "care_team": [
+    {
+      "provider": "Hand, Hoyet A, MD",
+      "relationship": "PCP - General Family Medicine",
+      "npi": "1225340599",
+      "_source": [
+        "Document: Report_2 6 (2).pdf, Page: 12, Section: Care teams"
+      ]
+    },
+    {
+      "provider": "Hershey, Curtis L, MD",
+      "relationship": "PCP - General Family Practice",
+      "npi": "1346285574",
+      "start_date": "4/15/19",
+      "_source": [
+        "Document: Report_1 5[1] (1) (1) (1).pdf, Page: 7, Section: Care teams"
+      ]
+    },
+    {
+      "provider": "Roberts, Justin D, DO",
+      "relationship": "Consulting Physician AMB - Cardiology - General",
+      "npi": "1528111028",
+      "_source": [
+        "Document: Report_1 5[1] (1) (1) (1).pdf, Page: 8, Section: Care teams"
+      ]
+    },
+    {
+      "provider": "Pradhan Shrestha, Deepika, MD",
+      "relationship": "Endocrinology, Diabetes & Metabolism",
+      "npi": "1902035041",
+      "start_date": "9/9/19",
+      "end_date": "6/14/22",
+      "_source": [
+        "Document: Report_1 5[1] (1) (1) (1).pdf, Page: 8, Section: Care teams"
+      ]
+    },
+    {
+      "provider": "Kaplan, Marnie, MD",
+      "relationship": "Surgeon General Surgery",
+      "npi": "1487856621",
+      "_source": [
+        "Document: Report_1 5[1] (1) (1) (1).pdf, Page: 8, Section: Care teams"
+      ]
+    },
+    {
+      "provider": "Wozney, Jocelyn L, MD",
+      "relationship": "Oncologist Hematology and Oncology",
+      "npi": "1861650863",
+      "_source": [
+        "Document: Report_1 5[1] (1) (1) (1).pdf, Page: 8, Section: Care teams"
+      ]
+    }
+  ],
+  "facilities": [
+    {
+      "facility": "Singing River Gulfport",
+      "address": "350 COWAN RD GULFPORT, MS 39507-2008",
+      "_source": [
+        "Document: Report_2 6 (2).pdf, Page: 1, Section: Encounter Details"
+      ]
+    },
+    {
+      "facility": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "address": "15200 COMMUNITY RD GULFPORT, MS 39503, USA",
+      "_source": [
+        "Document: Report_2 6 (2).pdf, Page: 5, Section: Results"
+      ]
+    },
+    {
+      "facility": "Southern Mississippi Heart Center - Gulfport",
+      "_source": [
+        "Document: Report_2 6 (2).pdf, Page: 4, Section: Plan of Treatment"
+      ]
+    }
+  ],
+  "plans_and_followups": [
+    {
+      "plan": "Appointment 04/19/2024 10:00 AM Singing River Gulfport Primary Care Services",
+      "type": "follow_up",
+      "date": "04/19/2024",
+      "_source": [
+        "Document: Report_2 6 (2).pdf, Page: 3, Section: Plan of Treatment"
+      ]
+    },
+    {
+      "plan": "Office Visit 04/22/2024 9:20 AM with Hand, Hoyet A, MD",
+      "type": "follow_up",
+      "date": "04/22/2024",
+      "_source": [
+        "Document: Report_2 6 (2).pdf, Page: 3, Section: Plan of Treatment"
+      ]
+    },
+    {
+      "plan": "Office Visit 04/30/2024 10:20 AM Rheumatology Services",
+      "type": "follow_up",
+      "date": "04/30/2024",
+      "provider": "Carroll, Matthew B, MD",
+      "_source": [
+        "Document: Report_2 6 (2).pdf, Page: 4, Section: Plan of Treatment"
+      ]
+    },
+    {
+      "plan": "Office Visit 05/01/2024 9:00 AM Southern Mississippi Heart Center - Gulfport",
+      "type": "follow_up",
+      "date": "05/01/2024",
+      "provider": "Zayed, Mahmoud H, MD",
+      "_source": [
+        "Document: Report_2 6 (2).pdf, Page: 4, Section: Plan of Treatment"
+      ]
+    },
+    {
+      "plan": "Office Visit 06/05/2024 9:40 AM Gastroenterology with Alexander, Amie L, NP",
+      "type": "follow_up",
+      "date": "06/05/2024",
+      "provider": "Alexander, Amie L, NP",
+      "_source": [
+        "Document: Report_2 6 (2).pdf, Page: 4, Section: Plan of Treatment"
+      ]
+    },
+    {
+      "plan": "Refill Request Atorvastatin / CVS",
+      "type": "order",
+      "_source": [
+        "Document: Report_1 5[1] (1) (1) (1).pdf, Page: 1, Section: Reason for Visit",
+        "Document: Report_1 5[1] (1) (1) (1).pdf, Page: 3, Section: Miscellaneous notes"
+      ]
+    },
+    {
+      "plan": "Make an appointment with Eye doctor in the next 3 Months",
+      "type": "follow_up",
+      "status": "Not on track",
+      "date": "03/22/2024",
+      "_source": [
+        "Document: Report_1 5[1] (1) (1) (1).pdf, Page: 6, Section: Goals"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "note": "PHQ-9 Depression Total Score: 0",
+      "date": "03/28/2023",
+      "_source": [
+        "Document: Report_2 6 (2).pdf, Page: 12, Section: Additional health concerns"
+      ]
+    },
+    {
+      "note": "PHQ-2 Depression Total Score: 0",
+      "date": "03/28/2023",
+      "_source": [
+        "Document: Report_2 6 (2).pdf, Page: 12, Section: Additional health concerns"
+      ]
+    },
+    {
+      "note": "Patient wishes to get off insulin.",
+      "_source": [
+        "Document: Report_1 5[1] (1) (1) (1).pdf, Page: 6, Section: Miscellaneous notes"
+      ]
+    }
+  ],
+  "conflicts": [
+    {
+      "entity_type": "patient",
+      "entity_name": "DOB",
+      "conflict_description": "Two different DOB values present in source documents.",
+      "variants": [
+        {
+          "value": "05/05/1952",
+          "_source": "Document: Report_2 6 (2).pdf, Page: 1, Section: Patient Information"
+        },
+        {
+          "value": "07/21/1954",
+          "_source": "Document: Report_1 5[1] (1) (1) (1).pdf, Page: 4, Section: Patient Information"
+        }
+      ]
+    },
+    {
+      "entity_type": "social_history",
+      "entity_name": "Tobacco Use",
+      "conflict_description": "Two differing tobacco use entries (quit date vs. packs/day and years used).",
+      "variants": [
+        {
+          "value": "Smoking Tobacco: Former Cigarettes Quit: 1991",
+          "_source": "Document: Report_2 6 (2).pdf, Page: 1, Section: Social history"
+        },
+        {
+          "value": "Smoking Tobacco: Former Cigarettes 0.3 2 03/22/1971 - 03/22/1973",
+          "_source": "Document: Report_1 5[1] (1) (1) (1).pdf, Page: 1, Section: Social history"
+        }
+      ]
+    }
+  ],
+  "patient_summary": "• 73/F patient\n• Primary Dx: Mixed dyslipidemia, Essential hypertension\n• Key Procedures: Ancillary procedure scheduled (LGH Kissel Hill)\n• Active Meds: 1 medication including Atorvastatin\n• Allergies: NKDA\n• Critical Labs: Iron 41 (Low); Ferritin 266.8 (High); eGFR 58 (Low); Triglycerides 158 (High)\n• Key History: Former smoker",
+  "_source_document_count": 2,
+  "_source_document_names": [
+    "Report_2 6 (2).pdf",
+    "Report_1 5[1] (1) (1) (1).pdf"
+  ],
+  "icd10_codes": [
+    {
+      "diagnosis": "Mixed dyslipidemia - Primary",
+      "icd10_code": "E782",
+      "description": "Mixed hyperlipidemia",
+      "confidence": 0.95,
+      "candidates": [
+        {
+          "chunk_id": "icd10_E782",
+          "code": "E782",
+          "short_description": "Mixed hyperlipidemia",
+          "long_description": "Mixed hyperlipidemia",
+          "distance": 0.8490712642669678
+        },
+        {
+          "chunk_id": "icd10_D751",
+          "code": "D751",
+          "short_description": "Secondary polycythemia",
+          "long_description": "Secondary polycythemia",
+          "distance": 0.9765689969062805
+        },
+        {
+          "chunk_id": "icd10_E7849",
+          "code": "E7849",
+          "short_description": "Other hyperlipidemia",
+          "long_description": "Other hyperlipidemia",
+          "distance": 0.9998451471328735
+        },
+        {
+          "chunk_id": "icd10_E7841",
+          "code": "E7841",
+          "short_description": "Other hyperlipidemia",
+          "long_description": "Elevated Lipoprotein(a)",
+          "distance": 1.0330510139465332
+        },
+        {
+          "chunk_id": "icd10_E785",
+          "code": "E785",
+          "short_description": "Hyperlipidemia, unspecified",
+          "long_description": "Hyperlipidemia, unspecified",
+          "distance": 1.0667423009872437
+        },
+        {
+          "chunk_id": "icd10_E1365",
+          "code": "E1365",
+          "short_description": "Other specified diabetes mellitus with hyperglycemia",
+          "long_description": "Other specified diabetes mellitus with hyperglycemia",
+          "distance": 1.1219663619995117
+        },
+        {
+          "chunk_id": "icd10_D6859",
+          "code": "D6859",
+          "short_description": "Other primary thrombophilia",
+          "long_description": "Other primary thrombophilia",
+          "distance": 1.1307013034820557
+        },
+        {
+          "chunk_id": "icd10_D581",
+          "code": "D581",
+          "short_description": "Hereditary elliptocytosis",
+          "long_description": "Hereditary elliptocytosis",
+          "distance": 1.1358063220977783
+        },
+        {
+          "chunk_id": "icd10_K30",
+          "code": "K30",
+          "short_description": "Functional dyspepsia",
+          "long_description": "Functional dyspepsia",
+          "distance": 1.1420987844467163
+        },
+        {
+          "chunk_id": "icd10_D732",
+          "code": "D732",
+          "short_description": "Chronic congestive splenomegaly",
+          "long_description": "Chronic congestive splenomegaly",
+          "distance": 1.1508278846740723
+        }
+      ]
+    },
+    {
+      "diagnosis": "Essential hypertension, benign",
+      "icd10_code": "I10",
+      "description": "Essential (primary) hypertension",
+      "confidence": 0.99,
+      "candidates": [
+        {
+          "chunk_id": "icd10_I10",
+          "code": "I10",
+          "short_description": "Essential (primary) hypertension",
+          "long_description": "Essential (primary) hypertension",
+          "distance": 0.6150155067443848
+        },
+        {
+          "chunk_id": "icd10_I159",
+          "code": "I159",
+          "short_description": "Secondary hypertension, unspecified",
+          "long_description": "Secondary hypertension, unspecified",
+          "distance": 0.643639087677002
+        },
+        {
+          "chunk_id": "icd10_I158",
+          "code": "I158",
+          "short_description": "Other secondary hypertension",
+          "long_description": "Other secondary hypertension",
+          "distance": 0.7579105496406555
+        },
+        {
+          "chunk_id": "icd10_O1003",
+          "code": "O1003",
+          "short_description": "Pre-existing essential hypertension comp the puerperium",
+          "long_description": "Pre-existing essential hypertension complicating the puerperium",
+          "distance": 0.885312557220459
+        },
+        {
+          "chunk_id": "icd10_I169",
+          "code": "I169",
+          "short_description": "Hypertensive crisis, unspecified",
+          "long_description": "Hypertensive crisis, unspecified",
+          "distance": 0.8928350210189819
+        },
+        {
+          "chunk_id": "icd10_O10012",
+          "code": "O10012",
+          "short_description": "Pre-existing essential htn comp pregnancy, second trimester",
+          "long_description": "Pre-existing essential hypertension complicating pregnancy, second trimester",
+          "distance": 0.8934652805328369
+        },
+        {
+          "chunk_id": "icd10_I151",
+          "code": "I151",
+          "short_description": "Hypertension secondary to other renal disorders",
+          "long_description": "Hypertension secondary to other renal disorders",
+          "distance": 0.8977857828140259
+        },
+        {
+          "chunk_id": "icd10_O10019",
+          "code": "O10019",
+          "short_description": "Pre-existing essential htn comp pregnancy, unsp trimester",
+          "long_description": "Pre-existing essential hypertension complicating pregnancy, unspecified trimester",
+          "distance": 0.8991125226020813
+        },
+        {
+          "chunk_id": "icd10_O1002",
+          "code": "O1002",
+          "short_description": "Pre-existing essential hypertension complicating childbirth",
+          "long_description": "Pre-existing essential hypertension complicating childbirth",
+          "distance": 0.9133890271186829
+        },
+        {
+          "chunk_id": "icd10_G932",
+          "code": "G932",
+          "short_description": "Benign intracranial hypertension",
+          "long_description": "Benign intracranial hypertension",
+          "distance": 0.9175617098808289
+        }
+      ]
+    },
+    {
+      "diagnosis": "Postoperative anemia",
+      "icd10_code": "D62",
+      "description": "Acute posthemorrhagic anemia",
+      "confidence": 0.9,
+      "candidates": [
+        {
+          "chunk_id": "icd10_D62",
+          "code": "D62",
+          "short_description": "Acute posthemorrhagic anemia",
+          "long_description": "Acute posthemorrhagic anemia",
+          "distance": 0.7996997833251953
+        },
+        {
+          "chunk_id": "icd10_D649",
+          "code": "D649",
+          "short_description": "Anemia, unspecified",
+          "long_description": "Anemia, unspecified",
+          "distance": 0.8113377094268799
+        },
+        {
+          "chunk_id": "icd10_D464",
+          "code": "D464",
+          "short_description": "Refractory anemia, unspecified",
+          "long_description": "Refractory anemia, unspecified",
+          "distance": 0.8173104524612427
+        },
+        {
+          "chunk_id": "icd10_D4620",
+          "code": "D4620",
+          "short_description": "Refractory anemia with excess of blasts, unspecified",
+          "long_description": "Refractory anemia with excess of blasts, unspecified",
+          "distance": 0.8836820721626282
+        },
+        {
+          "chunk_id": "icd10_O9902",
+          "code": "O9902",
+          "short_description": "Anemia complicating childbirth",
+          "long_description": "Anemia complicating childbirth",
+          "distance": 0.9046656489372253
+        },
+        {
+          "chunk_id": "icd10_D6489",
+          "code": "D6489",
+          "short_description": "Other specified anemias",
+          "long_description": "Other specified anemias",
+          "distance": 0.9061535000801086
+        },
+        {
+          "chunk_id": "icd10_D558",
+          "code": "D558",
+          "short_description": "Other anemias due to enzyme disorders",
+          "long_description": "Other anemias due to enzyme disorders",
+          "distance": 0.9169375896453857
+        },
+        {
+          "chunk_id": "icd10_D509",
+          "code": "D509",
+          "short_description": "Iron deficiency anemia, unspecified",
+          "long_description": "Iron deficiency anemia, unspecified",
+          "distance": 0.9180118441581726
+        },
+        {
+          "chunk_id": "icd10_D559",
+          "code": "D559",
+          "short_description": "Anemia due to enzyme disorder, unspecified",
+          "long_description": "Anemia due to enzyme disorder, unspecified",
+          "distance": 0.9198699593544006
+        },
+        {
+          "chunk_id": "icd10_D4621",
+          "code": "D4621",
+          "short_description": "Refractory anemia with excess of blasts 1",
+          "long_description": "Refractory anemia with excess of blasts 1",
+          "distance": 0.9324067831039429
+        }
+      ]
+    },
+    {
+      "diagnosis": "Leg Pain",
+      "icd10_code": "M79606",
+      "description": "Pain in leg, unspecified",
+      "confidence": 0.95,
+      "candidates": [
+        {
+          "chunk_id": "icd10_M79606",
+          "code": "M79606",
+          "short_description": "Pain in leg, unspecified",
+          "long_description": "Pain in leg, unspecified",
+          "distance": 0.38378459215164185
+        },
+        {
+          "chunk_id": "icd10_M79669",
+          "code": "M79669",
+          "short_description": "Pain in unspecified lower leg",
+          "long_description": "Pain in unspecified lower leg",
+          "distance": 0.4634816646575928
+        },
+        {
+          "chunk_id": "icd10_M79662",
+          "code": "M79662",
+          "short_description": "Pain in left lower leg",
+          "long_description": "Pain in left lower leg",
+          "distance": 0.558303952217102
+        },
+        {
+          "chunk_id": "icd10_M79661",
+          "code": "M79661",
+          "short_description": "Pain in right lower leg",
+          "long_description": "Pain in right lower leg",
+          "distance": 0.5826222896575928
+        },
+        {
+          "chunk_id": "icd10_M79605",
+          "code": "M79605",
+          "short_description": "Pain in left leg",
+          "long_description": "Pain in left leg",
+          "distance": 0.5856834053993225
+        },
+        {
+          "chunk_id": "icd10_M79604",
+          "code": "M79604",
+          "short_description": "Pain in right leg",
+          "long_description": "Pain in right leg",
+          "distance": 0.5918288230895996
+        },
+        {
+          "chunk_id": "icd10_M79659",
+          "code": "M79659",
+          "short_description": "Pain in unspecified thigh",
+          "long_description": "Pain in unspecified thigh",
+          "distance": 0.637832522392273
+        },
+        {
+          "chunk_id": "icd10_M79652",
+          "code": "M79652",
+          "short_description": "Pain in left thigh",
+          "long_description": "Pain in left thigh",
+          "distance": 0.7050203084945679
+        },
+        {
+          "chunk_id": "icd10_M79651",
+          "code": "M79651",
+          "short_description": "Pain in right thigh",
+          "long_description": "Pain in right thigh",
+          "distance": 0.7315862774848938
+        },
+        {
+          "chunk_id": "icd10_S8011XS",
+          "code": "S8011XS",
+          "short_description": "Contusion of right lower leg, sequela",
+          "long_description": "Contusion of right lower leg, sequela",
+          "distance": 0.7324367761611938
+        }
+      ]
+    },
+    {
+      "diagnosis": "Unspecified anemia",
+      "icd10_code": "D649",
+      "description": "Anemia, unspecified",
+      "confidence": 0.95,
+      "candidates": [
+        {
+          "chunk_id": "icd10_D649",
+          "code": "D649",
+          "short_description": "Anemia, unspecified",
+          "long_description": "Anemia, unspecified",
+          "distance": 0.31020450592041016
+        },
+        {
+          "chunk_id": "icd10_D509",
+          "code": "D509",
+          "short_description": "Iron deficiency anemia, unspecified",
+          "long_description": "Iron deficiency anemia, unspecified",
+          "distance": 0.5003243088722229
+        },
+        {
+          "chunk_id": "icd10_D464",
+          "code": "D464",
+          "short_description": "Refractory anemia, unspecified",
+          "long_description": "Refractory anemia, unspecified",
+          "distance": 0.5088286995887756
+        },
+        {
+          "chunk_id": "icd10_D559",
+          "code": "D559",
+          "short_description": "Anemia due to enzyme disorder, unspecified",
+          "long_description": "Anemia due to enzyme disorder, unspecified",
+          "distance": 0.5505387783050537
+        },
+        {
+          "chunk_id": "icd10_D6489",
+          "code": "D6489",
+          "short_description": "Other specified anemias",
+          "long_description": "Other specified anemias",
+          "distance": 0.5629322528839111
+        },
+        {
+          "chunk_id": "icd10_D619",
+          "code": "D619",
+          "short_description": "Aplastic anemia, unspecified",
+          "long_description": "Aplastic anemia, unspecified",
+          "distance": 0.5838309526443481
+        },
+        {
+          "chunk_id": "icd10_A219",
+          "code": "A219",
+          "short_description": "Tularemia, unspecified",
+          "long_description": "Tularemia, unspecified",
+          "distance": 0.6226856708526611
+        },
+        {
+          "chunk_id": "icd10_D4620",
+          "code": "D4620",
+          "short_description": "Refractory anemia with excess of blasts, unspecified",
+          "long_description": "Refractory anemia with excess of blasts, unspecified",
+          "distance": 0.6478679180145264
+        },
+        {
+          "chunk_id": "icd10_D529",
+          "code": "D529",
+          "short_description": "Folate deficiency anemia, unspecified",
+          "long_description": "Folate deficiency anemia, unspecified",
+          "distance": 0.6863097548484802
+        },
+        {
+          "chunk_id": "icd10_D599",
+          "code": "D599",
+          "short_description": "Acquired hemolytic anemia, unspecified",
+          "long_description": "Acquired hemolytic anemia, unspecified",
+          "distance": 0.6924223899841309
+        }
+      ]
+    },
+    {
+      "diagnosis": "Hyperlipidemia associated with type 2 diabetes mellitus (CMS/HCC)",
+      "icd10_code": "E7849",
+      "description": "Other hyperlipidemia",
+      "confidence": 0.85,
+      "candidates": [
+        {
+          "chunk_id": "icd10_E1165",
+          "code": "E1165",
+          "short_description": "Type 2 diabetes mellitus with hyperglycemia",
+          "long_description": "Type 2 diabetes mellitus with hyperglycemia",
+          "distance": 0.9135960340499878
+        },
+        {
+          "chunk_id": "icd10_E782",
+          "code": "E782",
+          "short_description": "Mixed hyperlipidemia",
+          "long_description": "Mixed hyperlipidemia",
+          "distance": 0.9420225620269775
+        },
+        {
+          "chunk_id": "icd10_E7849",
+          "code": "E7849",
+          "short_description": "Other hyperlipidemia",
+          "long_description": "Other hyperlipidemia",
+          "distance": 0.9502095580101013
+        },
+        {
+          "chunk_id": "icd10_E1100",
+          "code": "E1100",
+          "short_description": "Type 2 diab w hyprosm w/o nonket hyprgly-hypros coma (NKHHC)",
+          "long_description": "Type 2 diabetes mellitus with hyperosmolarity without nonketotic hyperglycemic-hyperosmolar coma (NKHHC)",
+          "distance": 0.9584957957267761
+        },
+        {
+          "chunk_id": "icd10_O24112",
+          "code": "O24112",
+          "short_description": "Pre-existing type 2 diabetes mellitus, in pregnancy, second trimester",
+          "long_description": "Pre-existing type 2 diabetes mellitus, in pregnancy, second trimester",
+          "distance": 0.9875994920730591
+        },
+        {
+          "chunk_id": "icd10_E1101",
+          "code": "E1101",
+          "short_description": "Type 2 diabetes mellitus with hyperosmolarity with coma",
+          "long_description": "Type 2 diabetes mellitus with hyperosmolarity with coma",
+          "distance": 0.9905986785888672
+        },
+        {
+          "chunk_id": "icd10_E1300",
+          "code": "E1300",
+          "short_description": "Oth diab w hyprosm w/o nonket hyprgly-hypros coma (NKHHC)",
+          "long_description": "Other specified diabetes mellitus with hyperosmolarity without nonketotic hyperglycemic-hyperosmolar coma (NKHHC)",
+          "distance": 0.9957111477851868
+        },
+        {
+          "chunk_id": "icd10_O24912",
+          "code": "O24912",
+          "short_description": "Unspecified diabetes mellitus in pregnancy, second trimester",
+          "long_description": "Unspecified diabetes mellitus in pregnancy, second trimester",
+          "distance": 1.0157850980758667
+        },
+        {
+          "chunk_id": "icd10_E118",
+          "code": "E118",
+          "short_description": "Type 2 diabetes mellitus with unspecified complications",
+          "long_description": "Type 2 diabetes mellitus with unspecified complications",
+          "distance": 1.0240557193756104
+        },
+        {
+          "chunk_id": "icd10_E1159",
+          "code": "E1159",
+          "short_description": "Type 2 diabetes mellitus with oth circulatory complications",
+          "long_description": "Type 2 diabetes mellitus with other circulatory complications",
+          "distance": 1.0269818305969238
+        }
+      ]
+    }
+  ],
+  "cpt_codes": [
+    {
+      "procedure": "Ancillary Procedure - LGH KISSEL HILL",
+      "cpt_code": "D7999",
+      "description": "Oral surgery procedure",
+      "confidence": 0.65,
+      "candidates": [
+        {
+          "chunk_id": "cpt_170",
+          "code": "170",
+          "description": "Anesth procedure on mouth",
+          "distance": 0.861628532409668
+        },
+        {
+          "chunk_id": "cpt_45108",
+          "code": "45108",
+          "description": "Removal of anorectal lesion",
+          "distance": 0.9077009558677673
+        },
+        {
+          "chunk_id": "cpt_102",
+          "code": "102",
+          "description": "Anesth repair of cleft lip",
+          "distance": 0.9322654008865356
+        },
+        {
+          "chunk_id": "cpt_41510",
+          "code": "41510",
+          "description": "Tongue to lip surgery",
+          "distance": 0.9362658262252808
+        },
+        {
+          "chunk_id": "cpt_D7999",
+          "code": "D7999",
+          "description": "Oral surgery procedure",
+          "distance": 0.9411869049072266
+        },
+        {
+          "chunk_id": "cpt_902",
+          "code": "902",
+          "description": "Anesth anorectal surgery",
+          "distance": 0.9455904364585876
+        },
+        {
+          "chunk_id": "cpt_41135",
+          "code": "41135",
+          "description": "Tongue and neck surgery",
+          "distance": 0.9616590738296509
+        },
+        {
+          "chunk_id": "cpt_41150",
+          "code": "41150",
+          "description": "Tongue mouth jaw surgery",
+          "distance": 0.9620171189308167
+        },
+        {
+          "chunk_id": "cpt_40816",
+          "code": "40816",
+          "description": "Excision of mouth lesion",
+          "distance": 0.9753826856613159
+        },
+        {
+          "chunk_id": "cpt_45160",
+          "code": "45160",
+          "description": "Excision of rectal lesion",
+          "distance": 0.9834285974502563
+        }
+      ]
+    }
+  ]
+}

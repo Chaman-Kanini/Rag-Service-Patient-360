@@ -1,0 +1,68 @@
+{
+  "batch_id": "batch_3e77782e",
+  "finalized_at": "2026-02-06T18:24:21.984034",
+  "icd10_codes": [
+    {
+      "id": "icd10_Special screening for malignant neoplasms, colon_C189",
+      "type": "icd10",
+      "sourceItem": "Special screening for malignant neoplasms, colon",
+      "code": "C189",
+      "description": "Malignant neoplasm of colon, unspecified",
+      "isAISuggested": true,
+      "isAccepted": true
+    },
+    {
+      "id": "icd10_Not on file_V0591XS",
+      "type": "icd10",
+      "sourceItem": "Not on file",
+      "code": "V0591XS",
+      "description": "Pedestrian on roller-skates injured in collision with railway train or railway vehicle, unspecified whether traffic or nontraffic accident, sequela",
+      "isAISuggested": true,
+      "isAccepted": true
+    },
+    {
+      "id": "icd10_Special screening for malignant neoplasms, colon_C184",
+      "type": "icd10",
+      "sourceItem": "Special screening for malignant neoplasms, colon",
+      "code": "C184",
+      "description": "Malignant neoplasm of transverse colon",
+      "isAISuggested": false,
+      "isAccepted": true
+    },
+    {
+      "id": "icd10_Special screening for malignant neoplasms, colon_C186",
+      "type": "icd10",
+      "sourceItem": "Special screening for malignant neoplasms, colon",
+      "code": "C186",
+      "description": "Malignant neoplasm of descending colon",
+      "isAISuggested": false,
+      "isAccepted": true
+    }
+  ],
+  "cpt_codes": [
+    {
+      "id": "cpt_COLONOSCOPY, WITH BIOPSY_45380",
+      "type": "cpt",
+      "sourceItem": "COLONOSCOPY, WITH BIOPSY",
+      "code": "45380",
+      "description": "Colonoscopy and biopsy",
+      "isAISuggested": true,
+      "isAccepted": true
+    },
+    {
+      "id": "cpt_COLONOSCOPY, WITH BIOPSY_45380",
+      "type": "cpt",
+      "sourceItem": "COLONOSCOPY, WITH BIOPSY",
+      "code": "45380",
+      "description": "Colonoscopy and biopsy",
+      "isAISuggested": true,
+      "isAccepted": true
+    }
+  ],
+  "summary": {
+    "total_icd10": 4,
+    "total_cpt": 2,
+    "ai_suggested_accepted": 4,
+    "manually_added": 2
+  }
+}

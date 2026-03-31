@@ -1,0 +1,48 @@
+
+[Page 1]
+Test4PiedmontHealthcarePatientRecord02/19/2025
+PATIENT INFORMATION: Type:ContinuityofCare
+Olivia Document
+Source: PiedmontHealthcare
+Received: 02/19/202504:00PM
+DOB: 05/05/195 Modified: 02/19/202504:00
+PM
+Gender: female Age: 73
+Patient 104
+ID:
+Phone: +13105561256
+TableofContents:
+Encounter Details SocialHistory PlanofTreatment
+Visit Diagnoses Care Teams
+Encounter details
+Date Type Department CareTeam(Latest Description
+Contact Info)
+07/11 Travel
+/2023
+Social history
+TobaccoUse Types Packs/Day Years Date
+Used
+SmokingTobacco:EveryDay Cigarettes 0.5 50
+SmokelessTobacco:Never
+AlcoholUse StandardDrinks/Week Comments
+No 0(1standarddrink=0.6oz
+purealcohol)
+SexandGenderInformation Value DateRecorded
+SexAssignedatBirth Notonfile
+LegalSex Male 06/19/20132:39AMEDT
+GenderIdentity Notonfile
+SexualOrientation Notonfile
+COVID-19Exposure Response DateRecorded
+Inthelast10days,haveyoubeenincontactwithsomeone No/Unsure 7/11/20238:35AMEDT
+whowasconfirmedorsuspectedtohaveCoronavirus
+/COVID-19?
+documentedasof thisencounter
+Plan of treatment
+Upcoming Encounters
+PrintedfromHealthGorillaSecureClinicalNetwork.Copyright©2025HealthGorillaInc.
+https://www.healthgorilla.com
+Thecontentsofthisdocumentand/orfaxtransmissionareintendedonlyfortheuseoftheindividualorentitytowhichtheyareaddressedandmay
+containinformationthatislegallyprivileged,confidentialandexemptfromdisclosure,includingprotectedhealthinformation.Ifyouarenotthe
+intendedrecipient,youareherebynotifiedthatanydissemination,distributionorcopyingofthisdocumentisstrictlyprohibited.Ifyouhavereceived
+orobtainedthisdocumentorfaxtransmissioninerror,pleasenotifytheoriginalsenderorcontactHealthGorillaInc.at1-844-446-7455
+Page1of4

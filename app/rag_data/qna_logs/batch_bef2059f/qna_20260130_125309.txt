@@ -1,0 +1,36 @@
+QUESTION:
+Show me the latest lab results
+
+ANSWER:
+Here are the most recent lab results in the record (collected 07/03/2023 9:15 AM CDT; performed at Singing River Gulfport Hospital Lab; provider: Hoyet A Hand MD):
+
+Basic Metabolic Panel / related
+- Sodium: 140 mmol/L (ref 136–145)  
+- Potassium: 4.0 mmol/L (ref 3.5–5.1)  
+- Chloride: 108 mmol/L (H) (ref 98–107)  
+- CO2: 27 mmol/L (ref 21–32)  
+- BUN: 15 mg/dL (ref 7–18)  
+- Creatinine: 0.96 mg/dL (ref 0.55–1.02)  
+- Glucose: 94 mg/dL (ref 74–106)  
+- Calcium: 9.5 mg/dL (ref 8.5–10.1)  
+- Anion gap: 5.0 mmol/L (L) (ref 8.0–16.0)  
+- eGFR (CKD‑EPI): 58 mL/min/1.73 m2 (L) (ref >90) — per report: “Moderate Decrease” (30–59 mL/min/1.73 m2)
+
+Lipid panel
+- Triglycerides: 158 mg/dL (H) (ref 0–149) — comment: borderline high (150–199 mg/dL)  
+- Total Cholesterol: 147 mg/dL (<200)  
+- HDL: 54 mg/dL (ref 40–59)  
+- LDL (calculated): 62 mg/dL (ref 0–100)  
+- VLDL (calculated): 32 mg/dL (H) (ref <30)  
+- Non‑HDL Cholesterol: 94 mg/dL (<=130)
+
+Iron studies / ferritin
+- Iron: 41 µg/dL (L) (ref 50–170)  
+- TIBC: 279 µg/dL (ref 250–450)  
+- Iron saturation: 15% (L) (ref 20–55%)  
+- Ferritin: 266.8 ng/mL (H) (ref 8.0–252.0)
+
+Thyroid
+- TSH (Ultra Sensitive): 1.320 mIU/mL (ref 0.358–3.740)
+
+If you’d like, I can (a) pull only the abnormal results, (b) format this as a printable summary, or (c) help draft a message to your clinician about any abnormal values.

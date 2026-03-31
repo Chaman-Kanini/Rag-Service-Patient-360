@@ -1,0 +1,67 @@
+{
+  "batch_id": "batch_5abe8a96",
+  "finalized_at": "2026-02-06T16:46:18.686436",
+  "icd10_codes": [
+    {
+      "id": "icd10_Mixed dyslipidemia - Primary_E782",
+      "type": "icd10",
+      "sourceItem": "Mixed dyslipidemia - Primary",
+      "code": "E782",
+      "description": "Mixed hyperlipidemia",
+      "isAISuggested": true,
+      "isAccepted": true
+    },
+    {
+      "id": "icd10_Essential hypertension, benign_I10",
+      "type": "icd10",
+      "sourceItem": "Essential hypertension, benign",
+      "code": "I10",
+      "description": "Essential (primary) hypertension",
+      "isAISuggested": true,
+      "isAccepted": true
+    },
+    {
+      "id": "icd10_Postoperative anemia_D62",
+      "type": "icd10",
+      "sourceItem": "Postoperative anemia",
+      "code": "D62",
+      "description": "Acute posthemorrhagic anemia",
+      "isAISuggested": true,
+      "isAccepted": true
+    },
+    {
+      "id": "icd10_Leg pain_M79606",
+      "type": "icd10",
+      "sourceItem": "Leg pain",
+      "code": "M79606",
+      "description": "Pain in leg, unspecified",
+      "isAISuggested": true,
+      "isAccepted": true
+    },
+    {
+      "id": "icd10_Unspecified anemia_D649",
+      "type": "icd10",
+      "sourceItem": "Unspecified anemia",
+      "code": "D649",
+      "description": "Anemia, unspecified",
+      "isAISuggested": true,
+      "isAccepted": true
+    },
+    {
+      "id": "icd10_Unspecified anemia_D6489",
+      "type": "icd10",
+      "sourceItem": "Unspecified anemia",
+      "code": "D6489",
+      "description": "Other specified anemias",
+      "isAISuggested": false,
+      "isAccepted": true
+    }
+  ],
+  "cpt_codes": [],
+  "summary": {
+    "total_icd10": 6,
+    "total_cpt": 0,
+    "ai_suggested_accepted": 5,
+    "manually_added": 1
+  }
+}

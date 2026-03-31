@@ -1,0 +1,82 @@
+QUESTION:
+give me icd 10 codes for the diagnosis for the diagnosis found in the document
+
+ANSWER:
+{
+  "diagnoses": [
+    {
+      "diagnosis": "Mixed dyslipidemia (Mixed hyperlipidemia)",
+      "icd10_codes": [
+        {
+          "code": "E78.2",
+          "description": "Mixed hyperlipidemia"
+        }
+      ],
+      "source_text": "Mixed dyslipidemia (Primary Dx)"
+    },
+    {
+      "diagnosis": "Essential (primary) hypertension",
+      "icd10_codes": [
+        {
+          "code": "I10",
+          "description": "Essential (primary) hypertension"
+        }
+      ],
+      "source_text": "Essential hypertension, benign"
+    },
+    {
+      "diagnosis": "Postoperative anemia",
+      "icd10_codes": [
+        {
+          "code": "D62",
+          "description": "Acute posthemorrhagic anemia (commonly used for postoperative anemia)"
+        }
+      ],
+      "source_text": "Postoperative anemia"
+    },
+    {
+      "diagnosis": "Leg pain",
+      "icd10_codes": [
+        {
+          "code": "M79.6",
+          "description": "Pain in limb, not elsewhere classified (used when laterality/site not specified)"
+        }
+      ],
+      "source_text": "Leg Pain"
+    },
+    {
+      "diagnosis": "Hyperlipidemia associated with type 2 diabetes mellitus (CMS/HCC)",
+      "icd10_codes": [
+        {
+          "code": "E78.5",
+          "description": "Hyperlipidemia, unspecified"
+        },
+        {
+          "code": "E11.9",
+          "description": "Type 2 diabetes mellitus without complications"
+        }
+      ],
+      "source_text": "Hyperlipidemia associated with type 2 diabetes mellitus (CMS/HCC)"
+    },
+    {
+      "diagnosis": "MRSA infection (right breast) — historical infection listed in record",
+      "icd10_codes": [
+        {
+          "code": "B95.62",
+          "description": "Methicillin resistant Staphylococcus aureus as the cause of diseases classified elsewhere (used to indicate MRSA)"
+        }
+      ],
+      "source_text": "MRSA: Most Recent Site: R breast"
+    },
+    {
+      "diagnosis": "History of COVID-19 (recovered)",
+      "icd10_codes": [
+        {
+          "code": "Z86.16",
+          "description": "Personal history of COVID-19"
+        }
+      ],
+      "source_text": "COVID-19 Comment: recovered 01/04/2021"
+    }
+  ]
+}

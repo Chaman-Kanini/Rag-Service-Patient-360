@@ -1,0 +1,35 @@
+QUESTION:
+give all lab results
+
+ANSWER:
+Here are all the lab results from the context:
+
+**07/03/2023 Lab Results:**
+*   Iron: 41(L) ug/dL (Ref Range: 50-170 ug/dL)
+*   TIBC: 279 ug/dL (Ref Range: 250-450 ug/dL)
+*   Iron Saturation: 15(L) % (Ref Range: 20-55 %)
+*   Sodium: 140 mmol/L (Ref Range: 136-145 mmol/L)
+*   Triglycerides: 158(H) mg/dL (Ref Range: 0-149 mg/dL)
+*   Cholesterol: 147 mg/dL (Ref Range: <200 mg/dL)
+*   Ferritin: 266.8(H) ng/mL (Ref Range: 8.0-252.0 ng/mL)
+
+**01/11/2021 Lab Results (Last BMP):**
+*   GLUCOSE: 199 (H)
+*   SODIUM: 134 (L)
+*   POTASSIUM: 4.4
+*   CHLORIDE: 97(L)
+*   BUN: 37 (H)
+*   CREATININE: 1.1(H)
+*   CALCIUM: 8.1(L)
+*   GFR: 50(A)
+
+**07/17/2020 Lab Results (Last Lipid Panel):**
+*   CHOL TOTAL: 136
+*   TG: 101
+*   HDL CHOL: 38(L)
+*   LDL CHOL: 78
+
+**01/08/2021 Lab Results (Last LFTs):**
+*   Alkaline Phosphatase: 58 U/L (Ref Range: 34-144 U/L)
+*   AST(SGOT): 8(L) U/L (Ref Range: 13-40 U/L)
+*   ALT(SGPT): 10 U/L (Ref Range: 7-52 U/L)

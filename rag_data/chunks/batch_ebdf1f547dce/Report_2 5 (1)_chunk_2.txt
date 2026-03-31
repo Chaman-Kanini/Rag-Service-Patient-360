@@ -1,0 +1,150 @@
+Fasting/beforemeals:80-120
+2hoursaftermealsandbedtime:<150-180
+Pttakesittwice/day
+In-home Ontrack(03/22/2024 No Gress,
+Bringyourmeterandbloodsugar monitoring 8:36AMEDT) Pamela,RN
+log/foodlogtoallmedical
+appointments
+In-home Ontrack(03/22/2024 No Gress,
+Alwayscarryafastactingsugar monitoring 8:36AMEDT) Pamela,RN
+source
+In-home Notontrack(03/22 No Gress,
+MakeanappointmentwithEye monitoring /20248:37AMEDT) Pamela,RN
+doctorinthenext3Months
+LG Notontrack(03/22 No Fleming,
+Wellness:patient-stated Patient- /20248:37AMEDT) Shelly-Ann,
+Stated CMA
+(Wellness)
+Note:Formattingofthisnotemightbedifferentfromtheoriginal.
+Patientwishestogetoffinsulin.
+LGResult 7(10/22/202410:58 No Nigon,Katy
+LGResultComponent(DM)<8.0 Compone AMEDT) A,LPN
+nt(DM)
+documentedasof thisencounter
+Visit diagnoses
+PrintedfromHealthGorillaSecureClinicalNetwork.Copyright©2025HealthGorillaInc.
+https://www.healthgorilla.com
+Thecontentsofthisdocumentand/orfaxtransmissionareintendedonlyfortheuseoftheindividualorentitytowhichtheyareaddressedandmay
+containinformationthatislegallyprivileged,confidentialandexemptfromdisclosure,includingprotectedhealthinformation.Ifyouarenotthe
+intendedrecipient,youareherebynotifiedthatanydissemination,distributionorcopyingofthisdocumentisstrictlyprohibited.Ifyouhavereceived
+orobtainedthisdocumentorfaxtransmissioninerror,pleasenotifytheoriginalsenderorcontactHealthGorillaInc.at1-844-446-7455
+immediatelybytelephoneorbyemailatprivacy@healthgorilla.comanddeletethisdocumentimmediately.
+Page6of9
+[Page 7]
+OliviaPiedmont HealthcarePatientRecord01/21/2025
+PATIENT INFORMATION: Type: ClinicalNote
+Olivia Source: PiedmontHealthcare
+Received:01/21/202508:22PM
+Phone : +13105561256 Modified: 01/21/202508:22PM
+DOB: 05/05/1952
+Gender: Female Age: 73
+PatientID: 104
+Diagnosis
+Hyperlipidemiaassociatedwithtype2diabetesmellitus(CMS/HCC)(CMS/HCC)
+documentedinthisencounter
+Additional health concerns
+Infection Onset Last ResolvedTime
+Date Indicated
+MRSAComment:MostRecentDate:9/4/20MostRecent 09/03/2020 09/04/2020 03/29/20239:54AMEDT
+Site:Rbreast
+OriginalDate:9/3/20OriginalSite:Rbreast
+COVID-19Comment:recovered 01/04/2021 01/04/2021 01/24/20214:02PMEST
+documentedasof thisencounter
+Care teams
+TeamMember Relationship Specialty StartDate EndDate
+Hershey,CurtisL,MD PCP-General FamilyPractice 4/15/19
+NPI:1346285574
+1261DivisionHighway
+Suite1
+EPHRATA,PA17522
+717-738-0660(Work)
+717-738-0658(Fax)
+Weaver,Emily,OD ConsultingPhysicianAMB- Optometry 8/29/19
+Co-managementlongterm
+NPI:1225552425
+1555HighlandsDrive
+Suite180
+Lititz,PA17543
+717-625-4600(Work)
+717-625-4676(Fax)
+PrintedfromHealthGorillaSecureClinicalNetwork.Copyright©2025HealthGorillaInc.
+https://www.healthgorilla.com
+Thecontentsofthisdocumentand/orfaxtransmissionareintendedonlyfortheuseoftheindividualorentitytowhichtheyareaddressedandmay
+containinformationthatislegallyprivileged,confidentialandexemptfromdisclosure,includingprotectedhealthinformation.Ifyouarenotthe
+intendedrecipient,youareherebynotifiedthatanydissemination,distributionorcopyingofthisdocumentisstrictlyprohibited.Ifyouhavereceived
+orobtainedthisdocumentorfaxtransmissioninerror,pleasenotifytheoriginalsenderorcontactHealthGorillaInc.at1-844-446-7455
+immediatelybytelephoneorbyemailatprivacy@healthgorilla.comanddeletethisdocumentimmediately.
+Page7of9
+[Page 8]
+OliviaPiedmont HealthcarePatientRecord01/21/2025
+PATIENT INFORMATION: Type: ClinicalNote
+Olivia Source: PiedmontHealthcare
+Received:01/21/202508:22PM
+Phone : +13105561256 Modified: 01/21/202508:22PM
+DOB: 05/05/1952
+Gender: Female Age: 73
+PatientID: 104
+TeamMember Relationship Specialty StartDate EndDate
+PradhanShrestha, Endocrinologist Endocrinology,Diabetes& 9/9/19 6/14/22
+Deepika,MD Metabolism
+NPI:1902035041
+2112HarrisburgPikeSuite
+200
+LANCASTER,PA17604
+717-544-3059(Work)
+717-544-3638(Fax)
+Roberts,JustinD,DO ConsultingPhysicianAMB- Cardiology-General 1/13/20 6/14/22
+Co-managementlongterm
+NPI:1528111028
+217HARRISBURGPIKE
+SUITE200
+LANCASTER,PA17603
+717-544-8300(Work)
+717-397-8407(Fax)
+Kaplan,Marnie,MD Surgeon GeneralSurgery 7/6/20 6/14/22
+NPI:1487856621
+2104HARRISBURGPIKE
+SUITE200
+Lancaster,PA17601-2644
+717-544-3626(Work)
+717-544-3628(Fax)
+Wozney,JocelynL,MD Oncologist HematologyandOncology 9/14/20 11/8/21
+NPI:1861650863
+2102HARRISBURGPIKE
+LANCASTER,PA17601
+717-544-9400(Work)
+PrintedfromHealthGorillaSecureClinicalNetwork.Copyright©2025HealthGorillaInc.
+https://www.healthgorilla.com
+Thecontentsofthisdocumentand/orfaxtransmissionareintendedonlyfortheuseoftheindividualorentitytowhichtheyareaddressedandmay
+containinformationthatislegallyprivileged,confidentialandexemptfromdisclosure,includingprotectedhealthinformation.Ifyouarenotthe
+intendedrecipient,youareherebynotifiedthatanydissemination,distributionorcopyingofthisdocumentisstrictlyprohibited.Ifyouhavereceived
+orobtainedthisdocumentorfaxtransmissioninerror,pleasenotifytheoriginalsenderorcontactHealthGorillaInc.at1-844-446-7455
+immediatelybytelephoneorbyemailatprivacy@healthgorilla.comanddeletethisdocumentimmediately.
+Page8of9
+[Page 9]
+OliviaPiedmont HealthcarePatientRecord01/21/2025
+PATIENT INFORMATION: Type: ClinicalNote
+Olivia Source: PiedmontHealthcare
+Received:01/21/202508:22PM
+Phone : +13105561256 Modified: 01/21/202508:22PM
+DOB: 05/05/1952
+Gender: Female Age: 73
+PatientID: 104
+TeamMember Relationship Specialty StartDate EndDate
+717-544-9401(Fax)
+Thomas,GretchenK,RN RegisteredNurse 9/14/20 7/19/21
+17604
+Sharma,Rajiv,MD Nephrology 9/14/20
+NPI:1973711133
+2110HARRISBURGPIKE
+SUITE310
+LANCASTER,PA17604
+717-544-3232(Work)
+717-544-3237(Fax)
+documentedasof thisencounter
+PrintedfromHealthGorillaSecureClinicalNetwork.Copyright©2025HealthGorillaInc.
+https://www.healthgorilla.com
+Thecontentsofthisdocumentand/orfaxtransmissionareintendedonlyfortheuseoftheindividualorentitytowhichtheyareaddressedandmay
+containinformationthatislegallyprivileged,confidentialandexemptfromdisclosure,includingprotectedhealthinformation.Ifyouarenotthe
+intendedrecipient,youareherebynotifiedthatanydissemination,distributionorcopyingofthisdocumentisstrictlyprohibited.Ifyouhavereceived
+orobtainedthisdocumentorfaxtransmissioninerror,pleasenotifytheoriginalsenderorcontactHealthGorillaInc.at1

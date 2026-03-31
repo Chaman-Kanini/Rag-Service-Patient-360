@@ -1,0 +1,41 @@
+00AMEST
+Difficultyseeingevenwithglasses?:
+Answer DateofAssessment Author
+No 01/05/20211:00AMEST
+Difficultywalkingorclimbingstairs?:
+Answer DateofAssessment Author
+Yes 01/05/20211:00AMEST
+*Difficultydressingorbathing?:
+Answer DateofAssessment Author
+Yes 01/05/20211:00AMEST
+Difficultydoingerrandsalone?:
+Answer DateofAssessment Author
+Yes 01/05/20211:00AMEST
+documentedasof thisencounter
+Mental status
+Difficulty concentrating, remembering, or making decisions?:
+Answer EntryDate Author
+No 01/05/20211:00AMEST
+documented inthisencounter
+PrintedfromHealthGorillaSecureClinicalNetwork.Copyright©2025HealthGorillaInc.
+https://www.healthgorilla.com
+Thecontentsofthisdocumentand/orfaxtransmissionareintendedonlyfortheuseoftheindividualorentitytowhichtheyareaddressedandmay
+containinformationthatislegallyprivileged,confidentialandexemptfromdisclosure,includingprotectedhealthinformation.Ifyouarenotthe
+intendedrecipient,youareherebynotifiedthatanydissemination,distributionorcopyingofthisdocumentisstrictlyprohibited.Ifyouhavereceived
+orobtainedthisdocumentorfaxtransmissioninerror,pleasenotifytheoriginalsenderorcontactHealthGorillaInc.at1-844-446-7455
+immediatelybytelephoneorbyemailatprivacy@healthgorilla.comanddeletethisdocumentimmediately.
+Page3of9
+[Page 4]
+Test PiedmontHealthcarePatientRecord01/21/2025
+PATIENT INFORMATION: Type: ClinicalNote
+Olivia Source: PiedmontHealthcare
+Received:01/21/202508:22PM
+Phone : xxx-xxx-xxxx Modified: 01/21/202508:22PM
+DOB: 07/21/1954
+Gender: Female Age: 73
+PatientID: 104
+Miscellaneousnotes
+TelephoneEncounter-Torres,Lizza-01/13/20213:52PMEST:Formattingofthisnoteisdifferentfromtheoriginal.
+Lipid-relatedRefillRequest
+Atorvastatin
+LastTHGproviderofficevisit

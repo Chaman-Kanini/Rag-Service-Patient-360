@@ -1,0 +1,84 @@
+ Collection/Unknown 07/03/20239:15AM 07/03/202310:06AM
+CDT CDT
+Narrative
+Authorizing ResultType
+Provider
+HoyetAHandMD LABBLOODORDERABLES
+Performing Address City/State/ZIP PhoneNumber
+Organization Code
+SINGINGRIVER 15200COMMUNITY GULFPORT,MS
+GULFPORT RD 39503,USA
+HOSPITALLAB
+(ABNORMAL) Iron& Iron Binding Capacity(07/03/2023 9:15 AM CDT)
+PrintedfromHealthGorillaSecureClinicalNetwork.Copyright©2025HealthGorillaInc.
+https://www.healthgorilla.com
+Thecontentsofthisdocumentand/orfaxtransmissionareintendedonlyfortheuseoftheindividualorentitytowhichtheyareaddressedandmay
+containinformationthatislegallyprivileged,confidentialandexemptfromdisclosure,includingprotectedhealthinformation.Ifyouarenotthe
+intendedrecipient,youareherebynotifiedthatanydissemination,distributionorcopyingofthisdocumentisstrictlyprohibited.Ifyouhavereceived
+orobtainedthisdocumentorfaxtransmissioninerror,pleasenotifytheoriginalsenderorcontactHealthGorillaInc.at1-734-446-7455
+immediatelybytelephoneorbyemailatprivacy@healthgorilla.comanddeletethisdocumentimmediately.
+Page5of12
+[Page 6]
+OliviaSingingRiverHealthSystemPatientRecord03/20/2024
+PATIENT INFORMATION: Type: Progress Note
+Olivia Source: SingingRiverHealthSystem
+Received:03/20/202408:24PM
+Phone +1310556 1256 Modified: 03/20/202408:24PM
+(H):
+DOB: 05/05/1952
+Gender: Female Age: 73
+Patient 104
+ID: ...
+Component Value Ref TestMethod Analysi Perform Pathologist
+Range sTime ed At Signature
+Iron 41(L) 50- 07/03 SINGING
+170ug /202310: RIVER
+/dL 45AM GULFPO
+CDT RT
+HOSPITA
+LLAB
+TIBC 279 250- 07/03 SINGING
+450ug /202310: RIVER
+/dL 45AM GULFPO
+CDT RT
+HOSPITA
+LLAB
+IronSaturation 15(L) 20-55 07/03 SINGING
+% /202310: RIVER
+45AM GULFPO
+CDT RT
+HOSPITA
+LLAB
+Specimen Anatomical Collection CollectionTime ReceivedTime
+(Source) Location/ Method/Volume
+Laterality
+Blood Collection/Unknown 07/03/20239:15AM 07/03/202310:06AM
+CDT CDT
+Narrative
+Authorizing ResultType
+Provider
+HoyetAHandMD LABBLOODORDERABLES
+Performing Address City/State/ZIP PhoneNumber
+Organization Code
+SINGINGRIVER 15200COMMUNITY GULFPORT,MS
+GULFPORT RD 39503,USA
+HOSPITALLAB
+(ABNORMAL) Basic metabolic panel (07/03/2023 9:15 AM CDT)
+Component Value Ref TestMethod Analysi Perform Pathologist
+Range sTime edAt Signature
+Sodium 140 136- 07/03 SINGING
+145 /202310: RIVER
+mmol/L 45AM GULFPO
+PrintedfromHealthGorillaSecureClinicalNetwork.Copyright©2025HealthGorillaInc.
+https://www.healthgorilla.com
+Thecontentsofthisdocumentand/orfaxtransmissionareintendedonlyfortheuseoftheindividualorentitytowhichtheyareaddressedandmay
+containinformationthatislegallyprivileged,confidentialandexemptfromdisclosure,includingprotectedhealthinformation.Ifyouarenotthe
+intendedrecipient,youareherebynotifiedthatanydissemination,distributionorcopyingofthisdocumentisstrictlyprohibited.Ifyouhavereceived
+orobtainedthisdocumentorfaxtransmissioninerror,pleasenotifytheoriginalsenderorcontactHealthGorillaInc.at1-734-446-7455
+immediatelybytelephoneorbyemailatprivacy@healthgorilla.comanddeletethisdocumentimmediately.
+Page6of12
+[Page 7]
+OliviaSingingRiverHealthSystemPatientRecord03/20/2024
+PATIENT INFORMATION: Type: Progress Note
+Olivia Source: SingingRiverHealthSystem
+Received:03/20/202

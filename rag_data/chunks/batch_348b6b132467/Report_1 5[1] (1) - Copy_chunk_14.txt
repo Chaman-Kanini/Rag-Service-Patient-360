@@ -1,0 +1,44 @@
+/dL
+Borderlinehigh: 130-159mg/dL
+High: 160-189mg/dL
+VeryHigh: >=190mg/dL
+VLDLCholesterolCal 32(H) <30mg 07/03 SINGING
+/dL /202310: RIVER
+45AM GULFPO
+CDT RT
+HOSPITA
+LLAB
+NonHDLChol. 94 <=130 07/03 SINGING
+(LDL+VLDL) mg/dL /202310: RIVER
+45AM GULFPO
+CDT RT
+HOSPITA
+LLAB
+Comment:
+PrintedfromHealthGorillaSecureClinicalNetwork.Copyright©2025HealthGorillaInc.
+https://www.healthgorilla.com
+Thecontentsofthisdocumentand/orfaxtransmissionareintendedonlyfortheuseoftheindividualorentitytowhichtheyareaddressedandmay
+containinformationthatislegallyprivileged,confidentialandexemptfromdisclosure,includingprotectedhealthinformation.Ifyouarenotthe
+intendedrecipient,youareherebynotifiedthatanydissemination,distributionorcopyingofthisdocumentisstrictlyprohibited.Ifyouhavereceived
+orobtainedthisdocumentorfaxtransmissioninerror,pleasenotifytheoriginalsenderorcontactHealthGorillaInc.at1-734-446-7455
+immediatelybytelephoneorbyemailatprivacy@healthgorilla.comanddeletethisdocumentimmediately.
+Page10of12
+[Page 11]
+OliviaSingingRiverHealthSystemPatientRecord03/20/2024
+PATIENT INFORMATION: Type: Progress Note
+Olivia Source: SingingRiverHealthSystem
+Received:03/20/202408:24PM
+Phone +1310556 1256 Modified: 03/20/202408:24PM
+(H):
+DOB: 05/05/1952
+Gender: Female Age: 73
+Patient 104
+ID: ...
+Component Value Ref TestMethod Analysi Perform Pathologist
+Range sTime ed At Signature
+Optimal <=130mg/dL
+Aboveoptimal: 131-159mg/dL
+Borderlinehigh: 160-189mg/dL
+High: 190-219mg/dL
+VeryHigh: >=220mg/dL
+Specimen Anatom

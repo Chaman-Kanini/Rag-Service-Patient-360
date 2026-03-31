@@ -1,0 +1,7 @@
+QUESTION:
+What are the patient's recent diagnoses?
+
+ANSWER:
+- Hyperlipidemia associated with type 2 diabetes mellitus (documented 01/21/2025)
+- MRSA infection, right breast (original 09/03/2020; last indicated 09/04/2020; resolved 03/29/2023)
+- COVID-19 — recovered (01/04/2021)

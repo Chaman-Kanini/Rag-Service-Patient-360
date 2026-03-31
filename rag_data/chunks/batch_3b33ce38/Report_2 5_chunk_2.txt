@@ -1,0 +1,77 @@
+00AMEST
+Difficultyseeingevenwithglasses?:
+Answer DateofAssessment Author
+No 01/05/20211:00AMEST
+Difficultywalkingorclimbingstairs?:
+Answer DateofAssessment Author
+Yes 01/05/20211:00AMEST
+*Difficultydressingorbathing?:
+Answer DateofAssessment Author
+Yes 01/05/20211:00AMEST
+Difficultydoingerrandsalone?:
+Answer DateofAssessment Author
+Yes 01/05/20211:00AMEST
+documentedasof thisencounter
+Mental status
+Difficulty concentrating, remembering, or making decisions?:
+Answer EntryDate Author
+No 01/05/20211:00AMEST
+documented inthisencounter
+PrintedfromHealthGorillaSecureClinicalNetwork.Copyright©2025HealthGorillaInc.
+https://www.healthgorilla.com
+Thecontentsofthisdocumentand/orfaxtransmissionareintendedonlyfortheuseoftheindividualorentitytowhichtheyareaddressedandmay
+containinformationthatislegallyprivileged,confidentialandexemptfromdisclosure,includingprotectedhealthinformation.Ifyouarenotthe
+intendedrecipient,youareherebynotifiedthatanydissemination,distributionorcopyingofthisdocumentisstrictlyprohibited.Ifyouhavereceived
+orobtainedthisdocumentorfaxtransmissioninerror,pleasenotifytheoriginalsenderorcontactHealthGorillaInc.at1-844-446-7455
+immediatelybytelephoneorbyemailatprivacy@healthgorilla.comanddeletethisdocumentimmediately.
+Page3of9
+[Page 4]
+Test PiedmontHealthcarePatientRecord01/21/2025
+PATIENT INFORMATION: Type: ClinicalNote
+Olivia Source: PiedmontHealthcare
+Received:01/21/202508:22PM
+Phone : xxx-xxx-xxxx Modified: 01/21/202508:22PM
+DOB: 07/21/1954
+Gender: Female Age: 73
+PatientID: 104
+Miscellaneousnotes
+TelephoneEncounter-Torres,Lizza-01/13/20213:52PMEST:Formattingofthisnoteisdifferentfromtheoriginal.
+Lipid-relatedRefillRequest
+Atorvastatin
+LastTHGproviderofficevisit:11/17/20NextOV:2/19/2021
+LastLipidPanel:
+LabResults
+ComponentValueDate/Time
+CHOLTOTAL13607/17/202009:41AM
+TG10107/17/2020 09:41AM
+HDLCHOL38(L) 07/17/2020 09:41 AM
+LDLCHOL 78 07/17/2020 09:41 AM
+LastBMP:
+LabResults
+Component ValueDate/Time
+GLUCOSE199 (H) 01/11/202105:31 AM
+SODIUM 134 (L) 01/11/2021 05:31AM
+POTASSIUM 4.4 01/11/2021 05:31 AM
+CHLORIDE 97(L) 01/11/2021 05:31 AM
+BUN37 (H) 01/11/2021 05:31AM
+CREATININE 1.1(H) 01/11/2021 05:31 AM
+CALCIUM 8.1(L) 01/11/2021 05:31AM
+GFR50(A) 01/11/2021 05:31 AM
+LastLFTS:
+AlkalinePhosphatase
+Date/TimeValueRefRangeStatus
+01/08/202105:00AM5834-144U/LFinal
+AST(SGOT)
+Date/TimeValueRefRangeStatus
+01/08/202105:00AM8(L)13-40U/LFinal
+ALT(SGPT)
+Date/TimeValueRefRangeStatus
+01/08/202105:00AM107-52U/LFinal
+ElectronicallysignedbyTorres,Lizzaat01/13/20213:53PMEST
+documentedinthisencounter
+Plan of treatment
+Upcoming Encounters
+PrintedfromHealthGorillaSecureClinicalNetwork.Copyright©2025HealthGorillaInc.
+https://www.healthgorilla.com
+Thecontentsofthisdocumentand/orfaxtransmissionareintendedonlyfortheuseoftheindividualorentitytowhichtheyareaddressedandmay
+containinformationthatislegallyprivileged,confidentialandexemptfromdisclosure,includingprotectedhealthinformation.Ifyouarenotthe

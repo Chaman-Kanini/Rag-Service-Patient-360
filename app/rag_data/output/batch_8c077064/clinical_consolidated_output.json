@@ -1,0 +1,874 @@
+{
+  "document_metadata": {
+    "document_type": "Progress Note",
+    "source_organization": "Singing River Health System",
+    "document_date": "03/20/2024",
+    "received_date": "03/20/2024 08:24 PM",
+    "_source": "Page 1 header (Olivia Singing River Health System Patient Record 03/20/2024; Received: 03/20/2024 08:24 PM)"
+  },
+  "patient": {
+    "name": "Olivia",
+    "dob": "05/05/1952",
+    "age": "73",
+    "sex": "Female",
+    "patient_id": "104",
+    "contact": {
+      "phone": "+1 310 556 1256"
+    },
+    "_source": "Page 1 header (PATIENT INFORMATION: Olivia; DOB: 05/05/1952; Gender: Female Age: 73; Patient ID: 104; Phone (H): +1 310 556 1256)"
+  },
+  "encounters": [
+    {
+      "date": "11/26/2024 1:00 PM CST",
+      "type": "Office Visit",
+      "department": "Southern Mississippi Heart Center - Gulfport",
+      "description": "Office Visit",
+      "_source": "Page 4, Plan of treatment (11/26/2024 1:00 PM Southern Mississippi Heart Center - Gulfport)"
+    },
+    {
+      "date": "06/05/2024 9:40 AM CDT",
+      "type": "Office Visit",
+      "department": "Singing River Gulfport Gastroenterology",
+      "care_team": "Alexander, Amie L, NP",
+      "address": "15190 Community Road STE 230 GULFPORT, MS 39503-3483",
+      "contact": "228-575-7104",
+      "_source": "Page 3-4, Plan of treatment (06/05/2024 9:40 AM Office Visit Singing River Gulfport Alexander, Amie L, NP Gastroenterology 15190 COMMUNITY RD)"
+    },
+    {
+      "date": "05/01/2024 9:00 AM CDT",
+      "type": "Office Visit",
+      "department": "Southern Mississippi Heart Center - Gulfport",
+      "care_team": "Zayed, Mahmoud H, MD",
+      "address": "3704 BIENVILLE BLVD STE 260 OCEAN SPRINGS, MS 39564",
+      "contact": "228-575-8020",
+      "_source": "Page 3-4, Plan of treatment (05/01/2024 9:00 AM Office Visit Southern Mississippi Heart Center - Gulfport Zayed, Mahmoud H, MD)"
+    },
+    {
+      "date": "04/30/2024 10:20 AM CDT",
+      "type": "Office Visit",
+      "department": "Rheumatology Services",
+      "care_team": "Carroll, Matthew B, MD",
+      "address": "3603 BIENVILLE BLVD BILOXI, MS 39532-2128",
+      "contact": "228-205-6830",
+      "_source": "Page 3-4, Plan of treatment (04/30/2024 10:20 AM Office Visit Rheumatology Services Carroll, Matthew B, MD 3603 BIENVILLE BLVD)"
+    },
+    {
+      "date": "04/22/2024 9:20 AM CDT",
+      "type": "Office Visit",
+      "department": "Singing River Gulfport Primary Care Services",
+      "care_team": "Hand, Hoyet A, MD",
+      "address": "350 COWAN RD GULFPORT, MS 39507-2008",
+      "contact": "228-206-7054",
+      "_source": "Page 3-4, Plan of treatment (04/22/2024 9:20 AM Office Visit Singing River Gulfport Hand, Hoyet A, MD Primary Care Services 350 COWAN RD)"
+    },
+    {
+      "date": "04/19/2024 10:00 AM CDT",
+      "type": "Appointment",
+      "department": "Singing River Gulfport Primary Care Services",
+      "address": "350 Cowan Road GULFPORT, MS 39505-2008",
+      "contact": "228-206-7054",
+      "_source": "Page 3, Plan of treatment (04/19/2024 10:00 AM Appointment Singing River Gulfport Primary Care Services 350 Cowan Road)"
+    },
+    {
+      "date": "06/30/2023",
+      "type": "Orders Only",
+      "department": "Singing River Gulfport Primary Care Services",
+      "care_team": "Hand, Hoyet A, MD",
+      "address": "350 COWAN RD GULFPORT, MS 39507-2008",
+      "description": "Mixed dyslipidemia (Primary Dx); Essential hypertension, benign; Postoperative anemia Leg Pain",
+      "_source": "Page 1, Encounter details (06/30/2023 Orders Only Singing River Gulfport Primary Care Services; Description: Mixed dyslipidemia (Primary Dx); Essential hypertension, benign; Postoperative anemia Leg Pain)"
+    }
+  ],
+  "diagnoses": [
+    {
+      "diagnosis": "Mixed dyslipidemia - Primary",
+      "date": "06/30/2023",
+      "_source": [
+        "Page 11, Visit diagnoses (Mixed dyslipidemia - Primary documented in this encounter)",
+        "Page 1, Encounter details (Mixed dyslipidemia (Primary Dx) listed in Description)"
+      ]
+    },
+    {
+      "diagnosis": "Essential hypertension, benign",
+      "date": "06/30/2023",
+      "_source": [
+        "Page 11, Visit diagnoses (Essential hypertension, benign documented in this encounter)",
+        "Page 1, Encounter details (Essential hypertension, benign listed in Description)"
+      ]
+    },
+    {
+      "diagnosis": "Leg pain",
+      "date": "06/30/2023",
+      "_source": [
+        "Page 11, Visit diagnoses (Leg pain documented in this encounter)",
+        "Page 1, Encounter details (Leg Pain listed in Description)"
+      ]
+    },
+    {
+      "diagnosis": "Postoperative anemia",
+      "date": "06/30/2023",
+      "_source": [
+        "Page 11, Visit diagnoses (Postoperative anemia documented in this encounter)",
+        "Page 1, Encounter details (Postoperative anemia listed in Description)"
+      ]
+    },
+    {
+      "diagnosis": "Unspecified anemia",
+      "date": "06/30/2023",
+      "_source": "Page 11, Visit diagnoses (Unspecified anemia documented in this encounter)"
+    }
+  ],
+  "laboratory_results": [
+    {
+      "test": "Ferritin",
+      "value": "266.8 (H)",
+      "unit": "ng/mL",
+      "reference_range": "8.0 - 252.0",
+      "date": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "collection_time": "07/03/2023 9:15 AM CDT",
+      "_source": "Page 5, (ABNORMAL) Ferritin (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test": "Iron",
+      "value": "41 (L)",
+      "unit": "ug/dL",
+      "reference_range": "50 - 170",
+      "date": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "collection_time": "07/03/2023 9:15 AM CDT",
+      "_source": "Page 6, (ABNORMAL) Iron & Iron Binding Capacity (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test": "TIBC",
+      "value": "279",
+      "unit": "ug/dL",
+      "reference_range": "250 - 450",
+      "date": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "collection_time": "07/03/2023 9:15 AM CDT",
+      "_source": "Page 6, (ABNORMAL) Iron & Iron Binding Capacity (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test": "Iron Saturation",
+      "value": "15 (L)",
+      "unit": "%",
+      "reference_range": "20 - 55",
+      "date": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "collection_time": "07/03/2023 9:15 AM CDT",
+      "_source": "Page 6, (ABNORMAL) Iron & Iron Binding Capacity (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test": "Sodium",
+      "value": "140",
+      "unit": "mmol/L",
+      "reference_range": "136 - 145",
+      "date": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "collection_time": "07/03/2023 9:15 AM CDT",
+      "_source": "Page 6-7, (ABNORMAL) Basic metabolic panel (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test": "Potassium",
+      "value": "4.0",
+      "unit": "mmol/L",
+      "reference_range": "3.5 - 5.1",
+      "date": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "collection_time": "07/03/2023 9:15 AM CDT",
+      "_source": "Page 7, Basic metabolic panel (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test": "Chloride",
+      "value": "108 (H)",
+      "unit": "mmol/L",
+      "reference_range": "98 - 107",
+      "date": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "collection_time": "07/03/2023 9:15 AM CDT",
+      "_source": "Page 7, Basic metabolic panel (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test": "CO2",
+      "value": "27",
+      "unit": "mmol/L",
+      "reference_range": "21 - 32",
+      "date": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "collection_time": "07/03/2023 9:15 AM CDT",
+      "_source": "Page 7, Basic metabolic panel (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test": "BUN",
+      "value": "15",
+      "unit": "mg/dL",
+      "reference_range": "7 - 18",
+      "date": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "collection_time": "07/03/2023 9:15 AM CDT",
+      "_source": "Page 7, Basic metabolic panel (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test": "Creatinine",
+      "value": "0.96",
+      "unit": "mg/dL",
+      "reference_range": "0.55 - 1.02",
+      "date": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "collection_time": "07/03/2023 9:15 AM CDT",
+      "_source": "Page 7, Basic metabolic panel (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test": "Glucose",
+      "value": "94",
+      "unit": "mg/dL",
+      "reference_range": "74 - 106",
+      "date": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "collection_time": "07/03/2023 9:15 AM CDT",
+      "_source": "Page 7, Basic metabolic panel (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test": "Calcium",
+      "value": "9.5",
+      "unit": "mg/dL",
+      "reference_range": "8.5 - 10.1",
+      "date": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "collection_time": "07/03/2023 9:15 AM CDT",
+      "_source": "Page 7, Basic metabolic panel (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test": "Anion Gap",
+      "value": "5.0 (L)",
+      "unit": "mmol/L",
+      "reference_range": "8.0 - 16.0",
+      "date": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "collection_time": "07/03/2023 9:15 AM CDT",
+      "_source": "Page 8, (ABNORMAL) Basic metabolic panel (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test": "eGFR CKD-EPI",
+      "value": "58 (L)",
+      "unit": "ml/min/1.73m2",
+      "reference_range": ">90",
+      "date": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "collection_time": "07/03/2023 9:15 AM CDT",
+      "comment": "CKD-EPI GFR INTERPRETATION GUIDELINES described in report",
+      "_source": "Page 8, (ABNORMAL) Basic metabolic panel (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test": "TSH Ultra Sensitive",
+      "value": "1.320",
+      "unit": "mIU/mL",
+      "reference_range": "0.358 - 3.740",
+      "date": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "collection_time": "07/03/2023 9:15 AM CDT",
+      "_source": "Page 9, (Gulfport) TSH Ultra Sensitive (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test": "Triglycerides",
+      "value": "158 (H)",
+      "unit": "mg/dL",
+      "reference_range": "0 - 149",
+      "interpretation": "Borderline high: 150 - 199 mg/dL",
+      "date": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "collection_time": "07/03/2023 9:15 AM CDT",
+      "_source": [
+        "Page 9, (ABNORMAL) Lipid panel (07/03/2023 9:15 AM CDT)",
+        "Page 10, (ABNORMAL) Lipid panel (07/03/2023 9:15 AM CDT)"
+      ]
+    },
+    {
+      "test": "Cholesterol",
+      "value": "147",
+      "unit": "mg/dL",
+      "reference_range": "<200",
+      "date": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "collection_time": "07/03/2023 9:15 AM CDT",
+      "comment": "Low-risk levels (desirable) <200 mg/dL",
+      "_source": [
+        "Page 10, (ABNORMAL) Lipid panel (07/03/2023 9:15 AM CDT)",
+        "Page 11, (ABNORMAL) Lipid panel (07/03/2023 9:15 AM CDT)"
+      ]
+    },
+    {
+      "test": "HDL",
+      "value": "54",
+      "unit": "mg/dL",
+      "reference_range": "40 - 59",
+      "date": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "collection_time": "07/03/2023 9:15 AM CDT",
+      "comment": "Low (undesirable, high risk): <40.0 mg/dL; High (desirable, low risk): >= 60.0 mg/dL",
+      "_source": "Page 10, (ABNORMAL) Lipid panel (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test": "LDL Calculated",
+      "value": "62",
+      "unit": "mg/dL",
+      "reference_range": "0 - 100",
+      "date": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "collection_time": "07/03/2023 9:15 AM CDT",
+      "comment": "Optimal <100 mg/dL",
+      "_source": "Page 10, (ABNORMAL) Lipid panel (07/03/2023 9:15 AM CDT)"
+    },
+    {
+      "test": "VLDL Cholesterol Cal",
+      "value": "32 (H)",
+      "unit": "mg/dL",
+      "reference_range": "<30",
+      "date": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "collection_time": "07/03/2023 9:15 AM CDT",
+      "_source": [
+        "Page 10, (ABNORMAL) Lipid panel (07/03/2023 9:15 AM CDT)",
+        "Page 11, (ABNORMAL) Lipid panel (07/03/2023 9:15 AM CDT)"
+      ]
+    },
+    {
+      "test": "Non HDL Chol.",
+      "value": "94",
+      "unit": "mg/dL",
+      "reference_range": "<=130 (LDL+VLDL)",
+      "date": "07/03/2023 10:45 AM CDT",
+      "performing_organization": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "collection_time": "07/03/2023 9:15 AM CDT",
+      "_source": "Page 10, (ABNORMAL) Lipid panel (07/03/2023 9:15 AM CDT)"
+    }
+  ],
+  "social_history": {
+    "tobacco_use": {
+      "Smoking Tobacco": "Former Cigarettes Quit: 1991",
+      "Smokeless Tobacco": "Never",
+      "comments": "patient states quit 30 years ago",
+      "_source": "Page 1, Social history (Tobacco Use Types Packs/Day Years Used Date Smoking Tobacco: Former Cigarettes Quit: 1991 Smokeless Tobacco: Never Comments: patient states quit 30 years ago)"
+    },
+    "alcohol_use": {
+      "value": "Not Currently 0",
+      "comment": "1 standard drink = 0.6 oz pure alcohol",
+      "_source": "Page 1, Social history (Alcohol Use Standard Drinks/Week Comments Not Currently 0 (1 standard drink = 0.6 oz pure alcohol))"
+    },
+    "sex_and_gender_information": {
+      "sex_assigned_at_birth": "Not on file",
+      "gender_identity": "Female 11/19/2021 6:43 AM CST",
+      "sexual_orientation": "Not on file",
+      "_source": [
+        "Page 1-2, Social history (Sex Assigned at Birth Not on file Gender Identity Female 11/19/2021 6:43 AM CST)",
+        "Page 2 (Sexual Orientation Not on file)"
+      ]
+    },
+    "phq2": {
+      "Patient Health Questionnaire-2 Score": "0",
+      "date_recorded": "03/28/2023",
+      "_source": "Page 1, Social history (PHQ-2 Answer Date Recorded Patient Health Questionnaire-2 Score 0 03/28/2023)"
+    }
+  },
+  "functional_status": [
+    {
+      "question": "Is the person deaf or does he/she have difficulty hearing?",
+      "response": "No",
+      "date_of_assessment": "06/19/2023",
+      "_source": "Page 1, Functional status (Is the person deaf or does he/she have difficulty hearing? No 06/19/2023)"
+    },
+    {
+      "question": "Patient's Vision Adequate to Safely Complete Daily Activities",
+      "response": "Yes",
+      "date_of_assessment": "06/19/2023",
+      "_source": "Page 1, Functional status (Patient's Vision Adequate to Safely Complete Daily Activities Yes 06/19/2023)"
+    },
+    {
+      "question": "Does this person have serious difficulty walking or climbing stairs?",
+      "response": "Yes",
+      "date_of_assessment": "06/14/2023",
+      "_source": "Page 1, Functional status (Does this person have serious difficulty walking or climbing stairs? Yes 06/14/2023)"
+    },
+    {
+      "question": "Does this person have difficulty dressing or bathing?",
+      "response": "No",
+      "date_of_assessment": "06/14/2023",
+      "_source": "Page 1, Functional status (Does this person have difficulty dressing or bathing? No 06/14/2023)"
+    },
+    {
+      "question": "Because of a physical, mental or emotional condition, does this patient have difficulty doing errands alone such as visiting the doctor's office or shopping?",
+      "response": "No",
+      "date_of_assessment": "06/14/2023",
+      "_source": "Page 1, Functional status (Because of a physical, mental or emotional condition, does this patient have difficulty doing errands alone such as visiting the doctor's office or shopping? No 06/14/2023)"
+    },
+    {
+      "question": "Because of a physical, mental or emotional condition, does this person have serious difficulty concentrating, remembering, or making decisions?",
+      "response": "No",
+      "date_of_assessment": "06/14/2023",
+      "_source": "Page 1, Cognitive Status (Because of a physical, mental or emotional condition, does this person have serious difficulty concentrating, remembering, or making decisions? No 06/14/2023)"
+    }
+  ],
+  "care_team": [
+    {
+      "name": "Hand, Hoyet A, MD",
+      "npi": "1225340599",
+      "phone": "228-206-7054 (Work)",
+      "fax": "228-604-0905 (Fax)",
+      "role": "PCP - General Family Medicine",
+      "start_date": "9/25/20",
+      "_source": "Page 12, Care teams (Hand, Hoyet A, MD NPI: 1225340599 228-206-7054 (Work) 228-604-0905 (Fax) PCP - General Family Medicine 9/25/20)"
+    },
+    {
+      "name": "Carroll, Matthew B, MD",
+      "role": "Rheumatology Services (listed in upcoming encounters)",
+      "address": "3603 BIENVILLE BLVD BILOXI, MS 39532-2128",
+      "phone": "228-205-6830",
+      "_source": "Page 3-4, Plan of treatment (04/30/2024 Office Visit Rheumatology Services Carroll, Matthew B, MD)"
+    },
+    {
+      "name": "Zayed, Mahmoud H, MD",
+      "role": "Southern Mississippi Heart Center - Gulfport (listed in upcoming encounters)",
+      "address": "3704 BIENVILLE BLVD STE 260 OCEAN SPRINGS, MS 39564",
+      "phone": "228-575-8020",
+      "_source": "Page 3-4, Plan of treatment (05/01/2024 Office Visit Southern Mississippi Heart Center - Gulfport Zayed, Mahmoud H, MD)"
+    },
+    {
+      "name": "Alexander, Amie L, NP",
+      "role": "Gastroenterology (listed in upcoming encounters)",
+      "address": "15190 Community Road STE 230 GULFPORT, MS 39503-3483",
+      "phone": "228-575-7104",
+      "_source": "Page 3-4, Plan of treatment (06/05/2024 Office Visit Singing River Gulfport Alexander, Amie L, NP Gastroenterology)"
+    }
+  ],
+  "plans_and_followups": [
+    {
+      "item": "Upcoming appointment 04/19/2024 10:00 AM Singing River Gulfport Primary Care Services",
+      "_source": "Page 3, Plan of treatment (04/19/2024 10:00 AM Appointment Singing River Gulfport Primary Care Services)"
+    },
+    {
+      "item": "Office Visit 04/22/2024 9:20 AM Singing River Gulfport Hand, Hoyet A, MD Primary Care Services",
+      "_source": "Page 3-4, Plan of treatment (04/22/2024 9:20 AM Office Visit Singing River Gulfport Hand, Hoyet A, MD)"
+    },
+    {
+      "item": "Office Visit 04/30/2024 10:20 AM Rheumatology Services Carroll, Matthew B, MD",
+      "_source": "Page 3-4, Plan of treatment (04/30/2024 10:20 AM Office Visit Rheumatology Services Carroll, Matthew B, MD)"
+    },
+    {
+      "item": "Office Visit 05/01/2024 9:00 AM Southern Mississippi Heart Center - Gulfport Zayed, Mahmoud H, MD",
+      "_source": "Page 3-4, Plan of treatment (05/01/2024 9:00 AM Office Visit Southern Mississippi Heart Center - Gulfport Zayed, Mahmoud H, MD)"
+    },
+    {
+      "item": "Office Visit 06/05/2024 9:40 AM Singing River Gulfport Gastroenterology Alexander, Amie L, NP",
+      "_source": "Page 3-4, Plan of treatment (06/05/2024 9:40 AM Office Visit Singing River Gulfport Alexander, Amie L, NP Gastroenterology)"
+    },
+    {
+      "item": "Office Visit 11/26/2024 1:00 PM Southern Mississippi Heart Center - Gulfport",
+      "_source": "Page 3-4, Plan of treatment (11/26/2024 1:00 PM Southern Mississippi Heart Center - Gulfport)"
+    }
+  ],
+  "notes": [
+    {
+      "text": "PHQ-9 Depression Total Score: 0 03/28/2023 8:56 AM CDT",
+      "_source": "Page 12, Additional health concerns (PHQ-9 Depression Total Score: 0 03/28/2023 8:56 AM CDT)"
+    },
+    {
+      "text": "PHQ-2 Depression Total Score: 0 03/28/2023 8:56 AM CDT",
+      "_source": "Page 12, Additional health concerns (PHQ-2 Depression Total Score: 0 03/28/2023 8:56 AM CDT)"
+    }
+  ],
+  "patient_summary": "73-year-old female. Active problems documented 06/30/2023: Mixed dyslipidemia (Primary), Essential hypertension, benign, Leg pain, Postoperative anemia, and Unspecified anemia. Abnormal laboratory results from 07/03/2023 include elevated Ferritin (266.8 ng/mL), low Iron (41 ug/dL) with low Iron Saturation (15%), elevated Chloride (108 mmol/L), low Anion Gap (5.0 mmol/L), reduced eGFR CKD-EPI (58 ml/min/1.73m2), and dyslipidemia with elevated Triglycerides (158 mg/dL) and VLDL (32 mg/dL). TSH and LDL are within reported ranges. Primary care provider: Hand, Hoyet A, MD (PCP). Multiple specialty follow-ups scheduled in 2024 (cardiology, rheumatology, gastroenterology).",
+  "conflicts": [],
+  "icd10_codes": [
+    {
+      "diagnosis": "Mixed dyslipidemia - Primary",
+      "icd10_code": "B368",
+      "description": "Other specified superficial mycoses",
+      "confidence": 0.0,
+      "candidates": [
+        {
+          "chunk_id": "icd10_A5217",
+          "code": "A5217",
+          "short_description": "General paresis",
+          "long_description": "General paresis",
+          "distance": 1.3032193183898926
+        },
+        {
+          "chunk_id": "icd10_A250",
+          "code": "A250",
+          "short_description": "Spirillosis",
+          "long_description": "Spirillosis",
+          "distance": 1.3445894718170166
+        },
+        {
+          "chunk_id": "icd10_A217",
+          "code": "A217",
+          "short_description": "Generalized tularemia",
+          "long_description": "Generalized tularemia",
+          "distance": 1.3778166770935059
+        },
+        {
+          "chunk_id": "icd10_A5045",
+          "code": "A5045",
+          "short_description": "Juvenile general paresis",
+          "long_description": "Juvenile general paresis",
+          "distance": 1.37986159324646
+        },
+        {
+          "chunk_id": "icd10_A062",
+          "code": "A062",
+          "short_description": "Amebic nondysenteric colitis",
+          "long_description": "Amebic nondysenteric colitis",
+          "distance": 1.381485939025879
+        },
+        {
+          "chunk_id": "icd10_A213",
+          "code": "A213",
+          "short_description": "Gastrointestinal tularemia",
+          "long_description": "Gastrointestinal tularemia",
+          "distance": 1.3830687999725342
+        },
+        {
+          "chunk_id": "icd10_A5206",
+          "code": "A5206",
+          "short_description": "Other syphilitic heart involvement",
+          "long_description": "Other syphilitic heart involvement",
+          "distance": 1.3835896253585815
+        },
+        {
+          "chunk_id": "icd10_A812",
+          "code": "A812",
+          "short_description": "Progressive multifocal leukoencephalopathy",
+          "long_description": "Progressive multifocal leukoencephalopathy",
+          "distance": 1.3895506858825684
+        },
+        {
+          "chunk_id": "icd10_B368",
+          "code": "B368",
+          "short_description": "Other specified superficial mycoses",
+          "long_description": "Other specified superficial mycoses",
+          "distance": 1.3910131454467773
+        },
+        {
+          "chunk_id": "icd10_A3682",
+          "code": "A3682",
+          "short_description": "Diphtheritic radiculomyelitis",
+          "long_description": "Diphtheritic radiculomyelitis",
+          "distance": 1.397273063659668
+        }
+      ]
+    },
+    {
+      "diagnosis": "Essential hypertension, benign",
+      "icd10_code": "A5206",
+      "description": "Other syphilitic heart involvement",
+      "confidence": 0.05,
+      "candidates": [
+        {
+          "chunk_id": "icd10_A5200",
+          "code": "A5200",
+          "short_description": "Cardiovascular syphilis, unspecified",
+          "long_description": "Cardiovascular syphilis, unspecified",
+          "distance": 1.2967634201049805
+        },
+        {
+          "chunk_id": "icd10_A279",
+          "code": "A279",
+          "short_description": "Leptospirosis, unspecified",
+          "long_description": "Leptospirosis, unspecified",
+          "distance": 1.3012275695800781
+        },
+        {
+          "chunk_id": "icd10_A5206",
+          "code": "A5206",
+          "short_description": "Other syphilitic heart involvement",
+          "long_description": "Other syphilitic heart involvement",
+          "distance": 1.3442718982696533
+        },
+        {
+          "chunk_id": "icd10_A5209",
+          "code": "A5209",
+          "short_description": "Other cardiovascular syphilis",
+          "long_description": "Other cardiovascular syphilis",
+          "distance": 1.3688771724700928
+        },
+        {
+          "chunk_id": "icd10_A5054",
+          "code": "A5054",
+          "short_description": "Late congenital cardiovascular syphilis",
+          "long_description": "Late congenital cardiovascular syphilis",
+          "distance": 1.383754014968872
+        },
+        {
+          "chunk_id": "icd10_A3684",
+          "code": "A3684",
+          "short_description": "Diphtheritic tubulo-interstitial nephropathy",
+          "long_description": "Diphtheritic tubulo-interstitial nephropathy",
+          "distance": 1.3954746723175049
+        },
+        {
+          "chunk_id": "icd10_A8182",
+          "code": "A8182",
+          "short_description": "Gerstmann-Straussler-Scheinker syndrome",
+          "long_description": "Gerstmann-Straussler-Scheinker syndrome",
+          "distance": 1.395948886871338
+        },
+        {
+          "chunk_id": "icd10_C44692",
+          "code": "C44692",
+          "short_description": "Oth malignant neoplasm skin/ right upper limb, inc shoulder",
+          "long_description": "Other specified malignant neoplasm of skin of right upper limb, including shoulder",
+          "distance": 1.4086720943450928
+        },
+        {
+          "chunk_id": "icd10_A5202",
+          "code": "A5202",
+          "short_description": "Syphilitic aortitis",
+          "long_description": "Syphilitic aortitis",
+          "distance": 1.40895676612854
+        },
+        {
+          "chunk_id": "icd10_C44699",
+          "code": "C44699",
+          "short_description": "Oth malignant neoplasm skin/ left upper limb, inc shoulder",
+          "long_description": "Other specified malignant neoplasm of skin of left upper limb, including shoulder",
+          "distance": 1.4208015203475952
+        }
+      ]
+    },
+    {
+      "diagnosis": "Leg pain",
+      "icd10_code": "B330",
+      "description": "Epidemic myalgia",
+      "confidence": 0.35,
+      "candidates": [
+        {
+          "chunk_id": "icd10_A1802",
+          "code": "A1802",
+          "short_description": "Tuberculous arthritis of other joints",
+          "long_description": "Tuberculous arthritis of other joints",
+          "distance": 1.3349412679672241
+        },
+        {
+          "chunk_id": "icd10_A5202",
+          "code": "A5202",
+          "short_description": "Syphilitic aortitis",
+          "long_description": "Syphilitic aortitis",
+          "distance": 1.3515747785568237
+        },
+        {
+          "chunk_id": "icd10_A8030",
+          "code": "A8030",
+          "short_description": "Acute paralytic poliomyelitis, unspecified",
+          "long_description": "Acute paralytic poliomyelitis, unspecified",
+          "distance": 1.3539454936981201
+        },
+        {
+          "chunk_id": "icd10_B0222",
+          "code": "B0222",
+          "short_description": "Postherpetic trigeminal neuralgia",
+          "long_description": "Postherpetic trigeminal neuralgia",
+          "distance": 1.354093313217163
+        },
+        {
+          "chunk_id": "icd10_B330",
+          "code": "B330",
+          "short_description": "Epidemic myalgia",
+          "long_description": "Epidemic myalgia",
+          "distance": 1.3597779273986816
+        },
+        {
+          "chunk_id": "icd10_B0082",
+          "code": "B0082",
+          "short_description": "Herpes simplex myelitis",
+          "long_description": "Herpes simplex myelitis",
+          "distance": 1.3607888221740723
+        },
+        {
+          "chunk_id": "icd10_A3682",
+          "code": "A3682",
+          "short_description": "Diphtheritic radiculomyelitis",
+          "long_description": "Diphtheritic radiculomyelitis",
+          "distance": 1.3646442890167236
+        },
+        {
+          "chunk_id": "icd10_C4080",
+          "code": "C4080",
+          "short_description": "Malig neoplm of ovrlp sites of bone/artic cartl of unsp limb",
+          "long_description": "Malignant neoplasm of overlapping sites of bone and articular cartilage of unspecified limb",
+          "distance": 1.3816602230072021
+        },
+        {
+          "chunk_id": "icd10_A5204",
+          "code": "A5204",
+          "short_description": "Syphilitic cerebral arteritis",
+          "long_description": "Syphilitic cerebral arteritis",
+          "distance": 1.383056640625
+        },
+        {
+          "chunk_id": "icd10_C4081",
+          "code": "C4081",
+          "short_description": "Malig neoplm of ovrlp sites of bone/artic cartl of r limb",
+          "long_description": "Malignant neoplasm of overlapping sites of bone and articular cartilage of right limb",
+          "distance": 1.3832885026931763
+        }
+      ]
+    },
+    {
+      "diagnosis": "Postoperative anemia",
+      "icd10_code": "A414",
+      "description": "Sepsis due to anaerobes",
+      "confidence": 0.05,
+      "candidates": [
+        {
+          "chunk_id": "icd10_A217",
+          "code": "A217",
+          "short_description": "Generalized tularemia",
+          "long_description": "Generalized tularemia",
+          "distance": 1.0591862201690674
+        },
+        {
+          "chunk_id": "icd10_A219",
+          "code": "A219",
+          "short_description": "Tularemia, unspecified",
+          "long_description": "Tularemia, unspecified",
+          "distance": 1.0649558305740356
+        },
+        {
+          "chunk_id": "icd10_A213",
+          "code": "A213",
+          "short_description": "Gastrointestinal tularemia",
+          "long_description": "Gastrointestinal tularemia",
+          "distance": 1.1092349290847778
+        },
+        {
+          "chunk_id": "icd10_A218",
+          "code": "A218",
+          "short_description": "Other forms of tularemia",
+          "long_description": "Other forms of tularemia",
+          "distance": 1.116004467010498
+        },
+        {
+          "chunk_id": "icd10_A211",
+          "code": "A211",
+          "short_description": "Oculoglandular tularemia",
+          "long_description": "Oculoglandular tularemia",
+          "distance": 1.1299681663513184
+        },
+        {
+          "chunk_id": "icd10_A414",
+          "code": "A414",
+          "short_description": "Sepsis due to anaerobes",
+          "long_description": "Sepsis due to anaerobes",
+          "distance": 1.130936861038208
+        },
+        {
+          "chunk_id": "icd10_A210",
+          "code": "A210",
+          "short_description": "Ulceroglandular tularemia",
+          "long_description": "Ulceroglandular tularemia",
+          "distance": 1.1782832145690918
+        },
+        {
+          "chunk_id": "icd10_B760",
+          "code": "B760",
+          "short_description": "Ancylostomiasis",
+          "long_description": "Ancylostomiasis",
+          "distance": 1.2033690214157104
+        },
+        {
+          "chunk_id": "icd10_A212",
+          "code": "A212",
+          "short_description": "Pulmonary tularemia",
+          "long_description": "Pulmonary tularemia",
+          "distance": 1.258695125579834
+        },
+        {
+          "chunk_id": "icd10_B159",
+          "code": "B159",
+          "short_description": "Hepatitis A without hepatic coma",
+          "long_description": "Hepatitis A without hepatic coma",
+          "distance": 1.2645124197006226
+        }
+      ]
+    },
+    {
+      "diagnosis": "Unspecified anemia",
+      "icd10_code": "A419",
+      "description": "Sepsis, unspecified organism",
+      "confidence": 0.05,
+      "candidates": [
+        {
+          "chunk_id": "icd10_A219",
+          "code": "A219",
+          "short_description": "Tularemia, unspecified",
+          "long_description": "Tularemia, unspecified",
+          "distance": 0.6226857304573059
+        },
+        {
+          "chunk_id": "icd10_A218",
+          "code": "A218",
+          "short_description": "Other forms of tularemia",
+          "long_description": "Other forms of tularemia",
+          "distance": 0.8117316961288452
+        },
+        {
+          "chunk_id": "icd10_A217",
+          "code": "A217",
+          "short_description": "Generalized tularemia",
+          "long_description": "Generalized tularemia",
+          "distance": 0.8206125497817993
+        },
+        {
+          "chunk_id": "icd10_A213",
+          "code": "A213",
+          "short_description": "Gastrointestinal tularemia",
+          "long_description": "Gastrointestinal tularemia",
+          "distance": 0.8905676603317261
+        },
+        {
+          "chunk_id": "icd10_A210",
+          "code": "A210",
+          "short_description": "Ulceroglandular tularemia",
+          "long_description": "Ulceroglandular tularemia",
+          "distance": 0.9074280858039856
+        },
+        {
+          "chunk_id": "icd10_A211",
+          "code": "A211",
+          "short_description": "Oculoglandular tularemia",
+          "long_description": "Oculoglandular tularemia",
+          "distance": 0.9173914194107056
+        },
+        {
+          "chunk_id": "icd10_A419",
+          "code": "A419",
+          "short_description": "Sepsis, unspecified organism",
+          "long_description": "Sepsis, unspecified organism",
+          "distance": 0.9608504772186279
+        },
+        {
+          "chunk_id": "icd10_A369",
+          "code": "A369",
+          "short_description": "Diphtheria, unspecified",
+          "long_description": "Diphtheria, unspecified",
+          "distance": 1.004091501235962
+        },
+        {
+          "chunk_id": "icd10_A4150",
+          "code": "A4150",
+          "short_description": "Gram-negative sepsis, unspecified",
+          "long_description": "Gram-negative sepsis, unspecified",
+          "distance": 1.0095800161361694
+        },
+        {
+          "chunk_id": "icd10_A394",
+          "code": "A394",
+          "short_description": "Meningococcemia, unspecified",
+          "long_description": "Meningococcemia, unspecified",
+          "distance": 1.0120824575424194
+        }
+      ]
+    }
+  ]
+}

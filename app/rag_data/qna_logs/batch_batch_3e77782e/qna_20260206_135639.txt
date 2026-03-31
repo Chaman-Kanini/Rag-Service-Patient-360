@@ -1,0 +1,5 @@
+QUESTION:
+What are the patient's recent diagnoses?
+
+ANSWER:
+The record lists one associated diagnosis: "Special screening for malignant neoplasms, colon" (associated with the 02/21/2025 colonoscopy). Visit diagnoses are noted as "Not on file."

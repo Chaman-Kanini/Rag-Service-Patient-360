@@ -1,0 +1,11 @@
+QUESTION:
+What are the patient's recent diagnoses?
+
+ANSWER:
+The patient's recent diagnoses are:
+
+*   Mixed dyslipidemia (Primary Dx) (from 06/30/2023 encounter)
+*   Essential hypertension, benign (from 06/30/2023 encounter)
+*   Postoperative anemia (from 06/30/2023 encounter)
+*   Leg Pain (from 06/30/2023 encounter)
+*   Hyperlipidemia associated with type 2 diabetes mellitus (CMS/HCC) (documented in the 01/21/2025 encounter)

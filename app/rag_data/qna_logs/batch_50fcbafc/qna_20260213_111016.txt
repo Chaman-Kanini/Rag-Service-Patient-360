@@ -1,0 +1,5 @@
+QUESTION:
+What medications is the patient currently taking?
+
+ANSWER:
+The record documents atorvastatin and diabetes medication(s). Insulin is specifically mentioned (the patient "wishes to get off insulin" and "pt takes it twice/day"), but no other medication names are listed.

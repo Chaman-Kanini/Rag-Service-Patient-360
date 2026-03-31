@@ -1,0 +1,45 @@
+202310: RIVER
+mIU/mL 45AM GULFPO
+CDT RT
+HOSPITA
+LLAB
+Specimen Anatomical Collection CollectionTime ReceivedTime
+(Source) Location/ Method/Volume
+Laterality
+Blood Collection/Unknown 07/03/20239:15AM 07/03/202310:06AM
+CDT CDT
+Narrative
+Authorizing ResultType
+Provider
+HoyetAHandMD LABBLOODORDERABLES
+Performing Address City/State/ZIP PhoneNumber
+Organization Code
+SINGINGRIVER 15200COMMUNITY GULFPORT,MS
+GULFPORT RD 39503,USA
+HOSPITALLAB
+(ABNORMAL) Lipidpanel (07/03/2023 9:15 AM CDT)
+Component Value Ref TestMethod Analysi Perform Pathologist
+Range sTime edAt Signature
+Triglycerides 158(H) 0-149 07/03 SINGING
+mg/dL /202310: RIVER
+45AM GULFPO
+CDT RT
+HOSPITA
+LLAB
+Comment:
+Borderlinehigh: 150-199mg/dL
+High: 200-499mg/dL
+VeryHigh: >=500mg/dL
+Cholesterol 147 <200 07/03 SINGING
+mg/dL /202310: RIVER
+45AM GULFPO
+CDT RT
+PrintedfromHealthGorillaSecureClinicalNetwork.Copyright©2025HealthGorillaInc.
+https://www.healthgorilla.com
+Thecontentsofthisdocumentand/orfaxtransmissionareintendedonlyfortheuseoftheindividualorentitytowhichtheyareaddressedandmay
+containinformationthatislegallyprivileged,confidentialandexemptfromdisclosure,includingprotectedhealthinformation.Ifyouarenotthe
+intendedrecipient,youareherebynotifiedthatanydissemination,distributionorcopyingofthisdocumentisstrictlyprohibited.Ifyouhavereceived
+orobtainedthisdocumentorfaxtransmissioninerror,pleasenotifytheoriginalsenderorcontactHealthGorillaInc.at1-734-446-7455
+immediatelybytelephoneorbyemailatprivacy@healthgorilla.comanddeletethisdocumentimmediately.
+Page9of12
+[Page 10

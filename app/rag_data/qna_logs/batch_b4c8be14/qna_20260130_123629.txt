@@ -1,0 +1,24 @@
+QUESTION:
+Summarize the patient's medical history
+
+ANSWER:
+Patient: Olivia, DOB 05/05/1952 (age 73)
+
+Summary of medical history from record:
+- Chronic conditions:
+  - Type 2 diabetes mellitus — on diabetes medications and insulin (takes insulin twice daily); most recent A1c 7.0% (10/22/2024). Regular home glucose monitoring and diabetes self‑care goals documented.
+  - Hyperlipidemia associated with type 2 diabetes — on atorvastatin (refill requested).
+- Kidney function: GFR 50 mL/min (BMP 01/11/2021 showed creatinine 1.1, BUN 37) — mild renal impairment.
+- Prior infections: MRSA of right breast (9/3/2020; noted resolved by 3/29/2023), COVID‑19 (recovered 01/04/2021).
+- Labs of note:
+  - Lipids (07/17/2020): total cholesterol 136, TG 101, HDL 38 (low), LDL 78.
+  - BMP (01/11/2021): glucose 199 (high), sodium 134 (low), chloride 97 (low), BUN 37 (high), creatinine 1.1, calcium 8.1 (low).
+  - LFTs (01/08/2021): AlkPhos 58, AST 8, ALT 10.
+- Functional status / psychosocial:
+  - Reports difficulty walking, dressing/bathing, and doing errands alone.
+  - PHQ‑9 score 3 (minimal depressive symptoms).
+  - Former light smoker (cigarettes, ~0.3 pack/day for ~2 years in early 1970s); not currently drinking.
+- Care team / specialty involvement:
+  - Primary care (family medicine), endocrinology, cardiology, surgery, hematology/oncology, nephrology, optometry and nursing documented — oncology and surgical consults present in 2020–2021.
+
+Patient-stated goals include improving diabetes control (wishes to stop insulin), attending eye appointment, and maintaining blood pressure <140/90 (most recent 128/78).

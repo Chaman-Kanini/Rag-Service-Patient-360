@@ -1,0 +1,10 @@
+QUESTION:
+what are the diagnosis
+
+ANSWER:
+The diagnoses are:
+*   Mixed dyslipidemia - Primary
+*   Essential hypertension, benign
+*   Leg pain
+*   Postoperative anemia
+*   Unspecified anemia

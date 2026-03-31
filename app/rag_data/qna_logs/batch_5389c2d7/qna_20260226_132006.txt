@@ -1,0 +1,13 @@
+QUESTION:
+What are the diseases related to this patient
+
+ANSWER:
+Based on the provided records, the patient has:
+- Type 2 diabetes mellitus (document references diabetes care, insulin use, DM goal/A1c)
+- Hyperlipidemia associated with type 2 diabetes mellitus (explicit diagnosis)
+- MRSA infection — right breast (noted onset 09/03/2020, resolved 09/04/2020)
+- COVID-19 — recovered (01/04/2021)
+- Reduced kidney function: eGFR (CKD‑EPI) 58 mL/min/1.73 m2 (reported as low)
+- Low iron indices (Iron 41 µg/dL and iron saturation 15% — both low), suggestive of iron deficiency on labs
+
+Additional relevant history: long-term tobacco use (0.5 packs/day × ~50 years).

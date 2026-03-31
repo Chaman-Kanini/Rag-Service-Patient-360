@@ -1,0 +1,734 @@
+{
+  "patient": {
+    "name": "Olivia",
+    "dob": "05/05/1952",
+    "age": "73",
+    "sex": "Female",
+    "contact": {
+      "phone": [
+        {
+          "value": "+1310 5561256",
+          "_source": "PATIENT INFORMATION block (top of document)"
+        },
+        {
+          "value": "xxx-xxx-xxxx",
+          "_source": "PATIENT INFORMATION block (later occurrence showing redacted phone)"
+        }
+      ]
+    },
+    "_source": [
+      "PATIENT INFORMATION block (top of document)",
+      "PATIENT INFORMATION block (repeated occurrences)"
+    ]
+  },
+  "encounters": [
+    {
+      "date": "08/18/ /2025 10:00 AM EDT",
+      "type": "Procedure",
+      "department": "LGH KISSEL HILL",
+      "description": "Ancillary Procedure",
+      "_source": "Upcoming Encounters / Date/Type/Department table (documented as of this encounter)"
+    },
+    {
+      "date": "04/21/ /2025 11:00 AM EDT",
+      "type": "Office Visit",
+      "department": "Hematology & Medical Oncology",
+      "care_team": "Jhaveri, Ami, MD",
+      "description": "Office Visit",
+      "_source": "Upcoming Encounters / Date/Type/Department table (documented as of this encounter)"
+    },
+    {
+      "date": "02/06/ /2025 8:30 AM EST",
+      "type": "Telemedicine",
+      "department": "Family Medicine Lincoln",
+      "care_team": "Calamia, Courtney, RPh",
+      "discharge_disposition": "Home /Self Care",
+      "description": "Telemedicine",
+      "_source": "Upcoming Encounters / Date/Type/Department table (documented as of this encounter)"
+    },
+    {
+      "date": "02/03/ /2025 9:40 AM EST",
+      "type": "Office Visit",
+      "department": "Family Medicine Lincoln",
+      "care_team": "Hershey, Curtis L, MD",
+      "discharge_disposition": "Home /Self Care",
+      "description": "Office Visit",
+      "_source": "Upcoming Encounters / Date/Type/Department table (documented as of this encounter)"
+    },
+    {
+      "date": "01/12/ /2021",
+      "type": "Refill",
+      "department": "The Heart Group Of LGHealth",
+      "care_team": "Roberts, Justin D, DO",
+      "description": "Refill Request (Atorvastatin / CVS)",
+      "location": "217 HARRISBURG PIKE SUITE 200 217 Harrisburg Ave LANCASTER, PA 17603-2962",
+      "_source": "Encounter details table (Refill request entry)"
+    }
+  ],
+  "diagnoses": [
+    {
+      "diagnosis": "Hyperlipidemia associated with type 2 diabetes mellitus (CMS/HCC)",
+      "status": "documented in this encounter",
+      "_source": [
+        "Visit diagnoses section (first occurrence)",
+        "Visit diagnoses section (repeated occurrence)"
+      ]
+    }
+  ],
+  "additional_health_concerns": [
+    {
+      "concern": "MRSA",
+      "onset_date": "09/03/2020",
+      "last_indicated": "09/04/2020",
+      "comment": "MRSAComment: Most Recent Date: 9/4/20 Most Recent Site: R breast Original Date: 9/3/20 Original Site: R breast",
+      "_source": "Additional health concerns / Infection table (MRSA entry)"
+    },
+    {
+      "concern": "COVID-19",
+      "comment": "COVID-19 Comment: recovered",
+      "_source": "Additional health concerns / Infection table (COVID-19 entry)"
+    }
+  ],
+  "procedures": [
+    {
+      "procedure": "Ancillary Procedure",
+      "date": "08/18/ /2025 10:00 AM EDT",
+      "provider": "LGH KISSEL HILL",
+      "_source": "Upcoming Encounters / Date/Type/Department table (Procedure entry)"
+    }
+  ],
+  "laboratory_results": [
+    {
+      "test": "LG Result Component (DM) < 8.0",
+      "value": "7",
+      "date": "10/22/2024 10:58 AM EDT",
+      "_source": "Goals section (LG Result Component (DM) entry)"
+    },
+    {
+      "test": "BMP - GLUCOSE",
+      "value": "199 (H)",
+      "date": "01/11/2021 05:31 AM",
+      "_source": "Miscellaneous notes / Last BMP lab results table"
+    },
+    {
+      "test": "BMP - SODIUM",
+      "value": "134 (L)",
+      "date": "01/11/2021 05:31 AM",
+      "_source": "Miscellaneous notes / Last BMP lab results table"
+    },
+    {
+      "test": "BMP - POTASSIUM",
+      "value": "4.4",
+      "date": "01/11/2021 05:31 AM",
+      "_source": "Miscellaneous notes / Last BMP lab results table"
+    },
+    {
+      "test": "BMP - CHLORIDE",
+      "value": "97 (L)",
+      "date": "01/11/2021 05:31 AM",
+      "_source": "Miscellaneous notes / Last BMP lab results table"
+    },
+    {
+      "test": "BMP - BUN",
+      "value": "37 (H)",
+      "date": "01/11/2021 05:31 AM",
+      "_source": "Miscellaneous notes / Last BMP lab results table"
+    },
+    {
+      "test": "BMP - CREATININE",
+      "value": "1.1 (H)",
+      "date": "01/11/2021 05:31 AM",
+      "_source": "Miscellaneous notes / Last BMP lab results table"
+    },
+    {
+      "test": "BMP - CALCIUM",
+      "value": "8.1 (L)",
+      "date": "01/11/2021 05:31 AM",
+      "_source": "Miscellaneous notes / Last BMP lab results table"
+    },
+    {
+      "test": "BMP - GFR",
+      "value": "50 (A)",
+      "date": "01/11/2021 05:31 AM",
+      "_source": "Miscellaneous notes / Last BMP lab results table"
+    },
+    {
+      "test": "Lipid Panel - CHOLTOTAL",
+      "value": "136",
+      "date": "07/17/2020 09:41 AM",
+      "_source": "Miscellaneous notes / Last Lipid Panel lab results table"
+    },
+    {
+      "test": "Lipid Panel - TG",
+      "value": "101",
+      "date": "07/17/2020 09:41 AM",
+      "_source": "Miscellaneous notes / Last Lipid Panel lab results table"
+    },
+    {
+      "test": "Lipid Panel - HDLCHOL",
+      "value": "38 (L)",
+      "date": "07/17/2020 09:41 AM",
+      "_source": "Miscellaneous notes / Last Lipid Panel lab results table"
+    },
+    {
+      "test": "Lipid Panel - LDLCHOL",
+      "value": "78",
+      "date": "07/17/2020 09:41 AM",
+      "_source": "Miscellaneous notes / Last Lipid Panel lab results table"
+    },
+    {
+      "test": "LFTS - Alkaline Phosphatase",
+      "value": "58",
+      "unit": "U/L",
+      "reference_range": "34 - 144 U/L",
+      "date": "01/08/2021 05:00 AM",
+      "status": "Final",
+      "_source": "Miscellaneous notes / Last LFTS table (Alkaline Phosphatase entry)"
+    },
+    {
+      "test": "LFTS - AST (SGOT)",
+      "value": "8 (L)",
+      "unit": "U/L",
+      "reference_range": "13 - 40 U/L",
+      "date": "01/08/2021 05:00 AM",
+      "status": "Final",
+      "_source": "Miscellaneous notes / Last LFTS table (AST entry)"
+    },
+    {
+      "test": "LFTS - ALT (SGPT)",
+      "value": "10",
+      "unit": "U/L",
+      "reference_range": "7 - 52 U/L",
+      "date": "01/08/2021 05:00 AM",
+      "status": "Final",
+      "_source": "Miscellaneous notes / Last LFTS table (ALT entry)"
+    }
+  ],
+  "vitals": [
+    {
+      "name": "Blood Pressure",
+      "value": "128/78",
+      "date": "01/11/2025 9:30 AM EST",
+      "_source": "Goals section (Blood Pressure < 140/90 entry with Recent Progress)"
+    }
+  ],
+  "social_history": {
+    "tobacco_use": [
+      {
+        "type": "Smoking Tobacco: Former",
+        "subtype": "Cigarettes",
+        "packs_per_day": "0.3",
+        "years_used": "2",
+        "date": "03/22/1971 - 03/22/1973",
+        "_source": "Social history / Tobacco Use table"
+      },
+      {
+        "type": "Smokeless Tobacco: Never",
+        "_source": "Social history / Tobacco Use table"
+      }
+    ],
+    "alcohol_use": {
+      "value": "Not Currently",
+      "standard_drinks_per_week": "0 (1 standard drink = 0.6 oz pure alcohol)",
+      "_source": "Social history / Alcohol Use table"
+    },
+    "financial_and_social_screening": [
+      {
+        "screen": "Overall Financial Resource Strain (CARDIA)",
+        "question": "How hard is it for you to pay for the very basics like food, housing, medical care, and heating?",
+        "answer": "Not hard at all",
+        "date_recorded": "01/05/2021",
+        "_source": "Overall Financial Resource Strain (CARDIA) entry"
+      },
+      {
+        "screen": "Finnish Institute of Occupational Health - Occupational Stress Questionnaire",
+        "question": "Do you feel stress - tense, restless, nervous, or anxious, or unable to sleep at night because your mind is troubled all the time - these days?",
+        "answer": "Only a little",
+        "date_recorded": "01/10/2021",
+        "_source": "Finnish Institute of Occupational Health entry"
+      },
+      {
+        "screen": "Hunger Vital Sign",
+        "question": "Within the past 12 months, you worried that your food would run out before you got the money to buy more.",
+        "answer": "Never true",
+        "date_recorded": "01/06/2021",
+        "_source": "Hunger Vital Sign entry (first question)"
+      },
+      {
+        "screen": "Hunger Vital Sign",
+        "question": "Within the past 12 months, the food you bought just didn't last and you didn't have money to get more.",
+        "answer": "Never true",
+        "date_recorded": "01/06/2021",
+        "_source": "Hunger Vital Sign entry (second question)"
+      },
+      {
+        "screen": "PRAPARE - Transportation",
+        "question": "In the past 12 months, has lack of transportation kept you from medical appointments or from getting medications?",
+        "answer": "No",
+        "date_recorded": "01/06/2021",
+        "_source": "PRAPARE - Transportation entry (medical appointments question)"
+      },
+      {
+        "screen": "PRAPARE - Transportation",
+        "question": "In the past 12 months, has lack of transportation kept you from meetings, work, or from getting things needed for daily living?",
+        "answer": "No",
+        "date_recorded": "01/06/2021",
+        "_source": "PRAPARE - Transportation entry (meetings/work question)"
+      },
+      {
+        "screen": "Housing Stability Vital Sign",
+        "question": "In the last 12 months, was there a time when you were not able to pay the mortgage or rent on time?",
+        "answer": "No",
+        "date_recorded": "01/06/2021",
+        "_source": "Housing Stability Vital Sign entry"
+      },
+      {
+        "screen": "Housing Stability Vital Sign",
+        "question": "In the last 12 months, how many places have you lived?",
+        "answer": "1",
+        "date_recorded": "01/06/2021",
+        "_source": "Housing Stability Vital Sign entry"
+      },
+      {
+        "screen": "Housing Stability Vital Sign",
+        "question": "In the last 12 months, was there a time when you did not have a steady place to sleep or slept in a shelter (including now)?",
+        "answer": "No",
+        "date_recorded": "01/06/2021",
+        "_source": "Housing Stability Vital Sign entry"
+      },
+      {
+        "screen": "Intimate Partner Violence",
+        "question": "Within the last year, have you been afraid of your partner, ex- partner or family member?",
+        "answer": "2",
+        "date_recorded": "01/05/2021",
+        "_source": "Intimate Partner Violence entry (question 1)"
+      },
+      {
+        "screen": "Intimate Partner Violence",
+        "question": "Within the last year, have you been humiliated or emotionally abused in other ways by your partner, ex-partner or family member?",
+        "answer": "2",
+        "date_recorded": "01/05/2021",
+        "_source": "Intimate Partner Violence entry (question 2)"
+      },
+      {
+        "screen": "Intimate Partner Violence",
+        "question": "Within the last year, have you been kicked, hit, slapped, or otherwise physically hurt by your partner, ex-partner or family member?",
+        "answer": "2",
+        "date_recorded": "01/05/2021",
+        "_source": "Intimate Partner Violence entry (question 3)"
+      },
+      {
+        "screen": "Intimate Partner Violence",
+        "question": "Within the last year, have you been raped or forced to have any kind of sexual activity by your partner, ex-partner or family member?",
+        "answer": "2",
+        "date_recorded": "01/05/2021",
+        "_source": "Intimate Partner Violence entry (question 4)"
+      },
+      {
+        "screen": "Depression",
+        "question": "PHQ-9 Score",
+        "answer": "3",
+        "date_recorded": "11/17/2020",
+        "_source": "Depression / PHQ-9 entry"
+      }
+    ]
+  },
+  "functional_status": [
+    {
+      "question": "Difficulty hearing?:",
+      "answer": "No",
+      "date_of_assessment": "01/05/2021 1:00 AM EST",
+      "_source": "Functional status section (Difficulty hearing?)"
+    },
+    {
+      "question": "Difficulty seeing even with glasses?:",
+      "answer": "No",
+      "date_of_assessment": "01/05/2021 1:00 AM EST",
+      "_source": "Functional status section (Difficulty seeing?)"
+    },
+    {
+      "question": "Difficulty walking or climbing stairs?:",
+      "answer": "Yes",
+      "date_of_assessment": "01/05/2021 1:00 AM EST",
+      "_source": "Functional status section (Difficulty walking or climbing stairs?)"
+    },
+    {
+      "question": "*Difficulty dressing or bathing?:",
+      "answer": "Yes",
+      "date_of_assessment": "01/05/2021 1:00 AM EST",
+      "_source": "Functional status section (*Difficulty dressing or bathing?)"
+    },
+    {
+      "question": "Difficulty doing errands alone?:",
+      "answer": "Yes",
+      "date_of_assessment": "01/05/2021 1:00 AM EST",
+      "_source": "Functional status section (Difficulty doing errands alone?)"
+    }
+  ],
+  "mental_status": [
+    {
+      "question": "Difficulty concentrating, remembering, or making decisions?:",
+      "answer": "No",
+      "entry_date": "01/05/2021 1:00 AM EST",
+      "_source": "Mental status section"
+    }
+  ],
+  "care_team": [
+    {
+      "team_member": "Hershey, Curtis L, MD",
+      "relationship": "PCP - General",
+      "specialty": "Family Practice",
+      "start_date": "4/15/19",
+      "contact": "1261 Division Highway Suite 1 EPHRATA, PA 17522 717-738-0660 (Work) 717-738-0658 (Fax)",
+      "npi": "1346285574",
+      "_source": "Care teams section (Hershey entry)"
+    },
+    {
+      "team_member": "Weaver, Emily, OD",
+      "relationship": "Consulting Physician AMB -",
+      "specialty": "Optometry",
+      "start_date": "8/29/19",
+      "comment": "Co-management long term",
+      "contact": "1555 Highlands Drive Suite 180 Lititz, PA 17543 717-625-4600 (Work) 717-625-4676 (Fax)",
+      "npi": "1225552425",
+      "_source": "Care teams section (Weaver entry)"
+    },
+    {
+      "team_member": "Pradhan Shrestha, Deepika, MD",
+      "relationship": "Endocrinologist",
+      "specialty": "Endocrinology, Diabetes & Metabolism",
+      "start_date": "9/9/19",
+      "end_date": "6/14/22",
+      "contact": "2112 Harrisburg Pike Suite 200 LANCASTER, PA 17604 717-544-3059 (Work) 717-544-3638 (Fax)",
+      "npi": "1902035041",
+      "_source": "Care teams section (Pradhan Shrestha entry)"
+    },
+    {
+      "team_member": "Roberts, Justin D, DO",
+      "relationship": "Consulting Physician AMB -",
+      "specialty": "Cardiology - General",
+      "start_date": "1/13/20",
+      "end_date": "6/14/22",
+      "comment": "Co-management long term",
+      "contact": "217 HARRISBURG PIKE SUITE 200 LANCASTER, PA 17603 717-544-8300 (Work) 717-397-8407 (Fax)",
+      "npi": "1528111028",
+      "_source": "Care teams section (Roberts entry)"
+    },
+    {
+      "team_member": "Kaplan, Marnie, MD",
+      "relationship": "Surgeon",
+      "specialty": "General Surgery",
+      "start_date": "7/6/20",
+      "end_date": "6/14/22",
+      "contact": "2104 HARRISBURG PIKE SUITE 200 Lancaster, PA 17601-2644 717-544-3626 (Work) 717-544-3628 (Fax)",
+      "npi": "1487856621",
+      "_source": "Care teams section (Kaplan entry)"
+    },
+    {
+      "team_member": "Wozney, Jocelyn L, MD",
+      "relationship": "Oncologist",
+      "specialty": "Hematology and Oncology",
+      "start_date": "9/14/20",
+      "end_date": "11/8/21",
+      "contact": "2102 HARRISBURG PIKE LANCASTER, PA 17601 717-544-9400 (Work) 717-544-9401 (Fax)",
+      "npi": "1861650863",
+      "_source": "Care teams section (Wozney entry)"
+    },
+    {
+      "team_member": "Thomas, Gretchen K, RN",
+      "relationship": "Registered Nurse",
+      "start_date": "9/14/20",
+      "end_date": "7/19/21",
+      "_source": "Care teams section (Thomas entry)"
+    },
+    {
+      "team_member": "Sharma, Rajiv, MD",
+      "specialty": "Nephrology",
+      "npi": "1973711133",
+      "contact": "2110 HARRISBURG PIKE SUITE 310 LANCASTER, PA 17604 717-544-3232 (Work) 717-544-3237 (Fax)",
+      "_source": "Care teams section (Sharma entry)"
+    }
+  ],
+  "plans_and_followups": [
+    {
+      "plan": "Refill Request (Atorvastatin / CVS)",
+      "date": "01/12/ /2021",
+      "_source": "Encounter details table (Refill Request entry)"
+    },
+    {
+      "plan": "Upcoming Encounters (multiple scheduled visits and procedures listed)",
+      "_source": "Plan of treatment / Upcoming Encounters table"
+    }
+  ],
+  "goals": [
+    {
+      "goal": "Blood Pressure < 140/90",
+      "type": "Blood Pressure",
+      "recent_progress": "128/78 (01/11/2025 9:30 AM EST)",
+      "patient_stated": "No",
+      "author": "Nigon, Katy A, LPN",
+      "_source": "Goals section (Blood Pressure entry)"
+    },
+    {
+      "goal": "Eat 3 meals and 0-1 Snack (s) per day",
+      "type": "In-home monitoring",
+      "recent_progress": "On track (03/22/2024 8:35 AM EDT)",
+      "patient_stated": "No",
+      "author": "Gress, Pamela, RN",
+      "_source": "Goals section (Eat 3 meals entry)"
+    },
+    {
+      "goal": "Take diabetes medication as directed",
+      "type": "In-home monitoring",
+      "recent_progress": "On track (03/22/2024 8:37 AM EDT)",
+      "patient_stated": "No",
+      "author": "Gress, Pamela, RN",
+      "_source": "Goals section (Take diabetes medication entry)"
+    },
+    {
+      "goal": "Check my blood sugar 3 times/day",
+      "type": "In-home monitoring",
+      "recent_progress": "On track (03/22/2024 8:37 AM EDT)",
+      "patient_stated": "No",
+      "author": "Gress, Pamela, RN",
+      "_source": "Goals section (Check blood sugar entry)"
+    },
+    {
+      "goal": "Bring your meter and blood sugar log/food log to all medical appointments",
+      "type": "In-home monitoring",
+      "recent_progress": "On track (03/22/2024 8:36 AM EDT)",
+      "patient_stated": "No",
+      "author": "Gress, Pamela, RN",
+      "_source": "Goals section (Bring your meter entry)"
+    },
+    {
+      "goal": "Always carry a fast acting sugar source",
+      "type": "In-home monitoring",
+      "recent_progress": "On track (03/22/2024 8:36 AM EDT)",
+      "patient_stated": "No",
+      "author": "Gress, Pamela, RN",
+      "_source": "Goals section (Always carry fast acting sugar entry)"
+    },
+    {
+      "goal": "Make an appointment with Eye doctor in the next 3 Months",
+      "type": "In-home monitoring",
+      "recent_progress": "Not on track (03/22/2024 8:37 AM EDT)",
+      "patient_stated": "No",
+      "author": "Gress, Pamela, RN",
+      "_source": "Goals section (Eye doctor appointment entry)"
+    },
+    {
+      "goal": "Wellness: patient-stated",
+      "type": "LG Patient- Stated (Wellness)",
+      "recent_progress": "Not on track (03/22/2024 8:37 AM EDT)",
+      "patient_stated": "No",
+      "author": "Fleming, Shelly-Ann, CMA",
+      "_source": "Goals section (Wellness entry)"
+    },
+    {
+      "goal": "Pt takes it twice/day",
+      "type": "Medication adherence note",
+      "comment": "Pt takes it twice/day",
+      "_source": "Goals section (note: Pt takes it twice/day)"
+    },
+    {
+      "goal": "Patient wishes to get off insulin.",
+      "type": "Patient-stated desire",
+      "comment": "Patient wishes to get off insulin.",
+      "_source": "Goals section (Patient wishes to get off insulin note)"
+    }
+  ],
+  "medications": [
+    {
+      "medication": "Atorvastatin",
+      "request": "Refill Request",
+      "pharmacy": "CVS",
+      "_source": [
+        "Reason for visit / Refill Request entries",
+        "Encounter details table (Refill Request (Atorvastatin / CVS))"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "text": "Telephone Encounter - Torres, Lizza - 01/13/2021 3:52 PM EST: Formatting of this note is different from the original. Lipid-related Refill Request Atorvastatin Last THG provider office visit: 11/17/20 Next OV:2/19/2021 Last Lipid Panel: Lab Results Component Value Date/Time CHOLTOTAL 136 07/17/2020 09:41 AM TG 101 07/17/2020 09:41 AM HDLCHOL 38 (L) 07/17/2020 09:41 AM LDLCHOL 78 07/17/2020 09:41 AM",
+      "_source": "Miscellaneous notes (Telephone Encounter - Torres, Lizza) documented in this encounter"
+    },
+    {
+      "text": "Last BMP: Lab Results Component Value Date/Time GLUCOSE 199 (H) 01/11/2021 05:31 AM SODIUM 134 (L) 01/11/2021 05:31 AM POTASSIUM 4.4 01/11/2021 05:31 AM CHLORIDE 97 (L) 01/11/2021 05:31 AM BUN 37 (H) 01/11/2021 05:31 AM CREATININE 1.1 (H) 01/11/2021 05:31 AM CALCIUM 8.1 (L) 01/11/2021 05:31 AM GFR 50 (A) 01/11/2021 05:31 AM",
+      "_source": "Miscellaneous notes (Last BMP lab results) documented in this encounter"
+    },
+    {
+      "text": "Last LFTS: Alkaline Phosphatase Date/Time Value Ref Range Status 01/08/2021 05:00 AM 58 34 - 144 U/L Final AST (SGOT) Date/Time Value Ref Range Status 01/08/2021 05:00 AM 8 (L) 13 - 40 U/L Final ALT (SGPT) Date/Time Value Ref Range Status 01/08/2021 05:00 AM 10 7 - 52 U/L Final Electronically signed by Torres, Lizza at 01/13/2021 3:53 PM EST documented in this encounter",
+      "_source": "Miscellaneous notes (Last LFTS table and electronic signature)"
+    }
+  ],
+  "conflicts": [
+    {
+      "entity_type": "patient",
+      "entity_name": "date of birth",
+      "conflict_description": "Two different DOBs documented in the record",
+      "variants": [
+        {
+          "value": "05/05/1952",
+          "_source": "PATIENT INFORMATION block (multiple occurrences)"
+        },
+        {
+          "value": "07/21/1954",
+          "_source": "PATIENT INFORMATION block (occurrence showing DOB 07/21/1954 with redacted phone)"
+        }
+      ]
+    }
+  ],
+  "patient_summary": "Patient Olivia, female, age 73. Primary documented diagnosis: Hyperlipidemia associated with type 2 diabetes mellitus (CMS/HCC). Major planned procedure: Ancillary Procedure at LGH KISSEL HILL on 08/18/2025. Active medication refill request for Atorvastatin (CVS). Recent notable labs: GLUCOSE 199 (H) on 01/11/2021; BMP abnormalities on 01/11/2021 including SODIUM 134 (L), CHLORIDE 97 (L), BUN 37 (H), CREATININE 1.1 (H), GFR 50 (A); Lipid panel on 07/17/2020 with HDL 38 (L), LDL 78. Functional limitations include difficulty walking, dressing/bathing, and doing errands alone (01/05/2021). Multiple care team members documented including PCP Hershey, Curtis L, MD and consultants in endocrinology, cardiology, oncology, and surgery. A conflict exists for date of birth documentation.",
+  "icd10_codes": [
+    {
+      "diagnosis": "Hyperlipidemia associated with type 2 diabetes mellitus (CMS/HCC)",
+      "icd10_code": "E7849",
+      "description": "Other hyperlipidemia",
+      "confidence": 0.8,
+      "candidates": [
+        {
+          "chunk_id": "icd10_E1165",
+          "code": "E1165",
+          "short_description": "Type 2 diabetes mellitus with hyperglycemia",
+          "long_description": "Type 2 diabetes mellitus with hyperglycemia",
+          "distance": 0.9135960340499878
+        },
+        {
+          "chunk_id": "icd10_E782",
+          "code": "E782",
+          "short_description": "Mixed hyperlipidemia",
+          "long_description": "Mixed hyperlipidemia",
+          "distance": 0.9420225620269775
+        },
+        {
+          "chunk_id": "icd10_E7849",
+          "code": "E7849",
+          "short_description": "Other hyperlipidemia",
+          "long_description": "Other hyperlipidemia",
+          "distance": 0.9502095580101013
+        },
+        {
+          "chunk_id": "icd10_E1100",
+          "code": "E1100",
+          "short_description": "Type 2 diab w hyprosm w/o nonket hyprgly-hypros coma (NKHHC)",
+          "long_description": "Type 2 diabetes mellitus with hyperosmolarity without nonketotic hyperglycemic-hyperosmolar coma (NKHHC)",
+          "distance": 0.9584957957267761
+        },
+        {
+          "chunk_id": "icd10_O24112",
+          "code": "O24112",
+          "short_description": "Pre-existing type 2 diabetes mellitus, in pregnancy, second trimester",
+          "long_description": "Pre-existing type 2 diabetes mellitus, in pregnancy, second trimester",
+          "distance": 0.9875994920730591
+        },
+        {
+          "chunk_id": "icd10_E1101",
+          "code": "E1101",
+          "short_description": "Type 2 diabetes mellitus with hyperosmolarity with coma",
+          "long_description": "Type 2 diabetes mellitus with hyperosmolarity with coma",
+          "distance": 0.9905986785888672
+        },
+        {
+          "chunk_id": "icd10_E1300",
+          "code": "E1300",
+          "short_description": "Oth diab w hyprosm w/o nonket hyprgly-hypros coma (NKHHC)",
+          "long_description": "Other specified diabetes mellitus with hyperosmolarity without nonketotic hyperglycemic-hyperosmolar coma (NKHHC)",
+          "distance": 0.9957111477851868
+        },
+        {
+          "chunk_id": "icd10_O24912",
+          "code": "O24912",
+          "short_description": "Unspecified diabetes mellitus in pregnancy, second trimester",
+          "long_description": "Unspecified diabetes mellitus in pregnancy, second trimester",
+          "distance": 1.0157850980758667
+        },
+        {
+          "chunk_id": "icd10_E118",
+          "code": "E118",
+          "short_description": "Type 2 diabetes mellitus with unspecified complications",
+          "long_description": "Type 2 diabetes mellitus with unspecified complications",
+          "distance": 1.0240557193756104
+        },
+        {
+          "chunk_id": "icd10_E1159",
+          "code": "E1159",
+          "short_description": "Type 2 diabetes mellitus with oth circulatory complications",
+          "long_description": "Type 2 diabetes mellitus with other circulatory complications",
+          "distance": 1.0269818305969238
+        }
+      ]
+    }
+  ],
+  "cpt_codes": [
+    {
+      "procedure": "Ancillary Procedure",
+      "cpt_code": "46754",
+      "description": "Removal of suture from anus",
+      "confidence": 0.6,
+      "candidates": [
+        {
+          "chunk_id": "cpt_45108",
+          "code": "45108",
+          "description": "Removal of anorectal lesion",
+          "distance": 0.8429405093193054
+        },
+        {
+          "chunk_id": "cpt_902",
+          "code": "902",
+          "description": "Anesth anorectal surgery",
+          "distance": 0.9059208035469055
+        },
+        {
+          "chunk_id": "cpt_45160",
+          "code": "45160",
+          "description": "Excision of rectal lesion",
+          "distance": 0.972554087638855
+        },
+        {
+          "chunk_id": "cpt_45135",
+          "code": "45135",
+          "description": "Excision of rectal prolapse",
+          "distance": 1.025041937828064
+        },
+        {
+          "chunk_id": "cpt_45130",
+          "code": "45130",
+          "description": "Excision of rectal prolapse",
+          "distance": 1.0401872396469116
+        },
+        {
+          "chunk_id": "cpt_46070",
+          "code": "46070",
+          "description": "Incision of anal septum",
+          "distance": 1.061593770980835
+        },
+        {
+          "chunk_id": "cpt_170",
+          "code": "170",
+          "description": "Anesth procedure on mouth",
+          "distance": 1.0634818077087402
+        },
+        {
+          "chunk_id": "cpt_46754",
+          "code": "46754",
+          "description": "Removal of suture from anus",
+          "distance": 1.079718828201294
+        },
+        {
+          "chunk_id": "cpt_44157",
+          "code": "44157",
+          "description": "Colectomy w/ileoanal anast",
+          "distance": 1.082273006439209
+        },
+        {
+          "chunk_id": "cpt_1130",
+          "code": "1130",
+          "description": "Anesth body cast procedure",
+          "distance": 1.0911827087402344
+        }
+      ]
+    }
+  ]
+}

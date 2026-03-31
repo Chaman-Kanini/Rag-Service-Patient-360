@@ -1,0 +1,663 @@
+```json
+{
+  "document_metadata": {
+    "document_type": "Progress Note",
+    "source_organization": "SingingRiverHealthSystem",
+    "document_date": "03/20/2024",
+    "received_date": "03/20/2024 08:24 PM",
+    "modified_date": "03/20/2024 08:24 PM",
+    "_source": [
+      "Page 1 - PATIENT INFORMATION section, line 'Type: ProgressNote'",
+      "Page 1 - PATIENT INFORMATION section, line 'Source: SingingRiverHealthSystem'",
+      "Page 1 - PATIENT INFORMATION section, line 'Received:03/20/202408:24PM'",
+      "Page 1 - PATIENT INFORMATION section, line 'Modified: 03/20/202408:24PM'",
+      "Page 1 - Header: OliviaSingingRiverHealthSystemPatientRecord03/20/2024",
+      "Page 3 - PATIENT INFORMATION section, line 'Type: Progress Note'",
+      "Page 3 - PATIENT INFORMATION section, line 'Source: SingingRiverHealthSystem'",
+      "Page 3 - PATIENT INFORMATION section, line 'Received:03/20/202408:24PM'",
+      "Page 3 - PATIENT INFORMATION section, line 'Modified: 03/20/202408:24PM'",
+      "Page 3 - Header: OliviaSingingRiverHealthSystemPatientRecord03/20/2024",
+      "Page 4 - PATIENT INFORMATION section, line 'Type: Progress Note'",
+      "Page 4 - PATIENT INFORMATION section, line 'Source: SingingRiverHealthSystem'",
+      "Page 4 - PATIENT INFORMATION section, line 'Received:03/20/202408:24PM'",
+      "Page 4 - PATIENT INFORMATION section, line 'Modified: 03/20/202408:24PM'",
+      "Page 4 - Header: OliviaSingingRiverHealthSystemPatientRecord03/20/2024",
+      "Page 5 - PATIENT INFORMATION section, line 'Type: Progress Note'",
+      "Page 5 - PATIENT INFORMATION section, line 'Source: SingingRiverHealthSystem'",
+      "Page 5 - PATIENT INFORMATION section, line 'Received:03/20/202408:24PM'",
+      "Page 5 - PATIENT INFORMATION section, line 'Modified: 03/20/202408:24PM'",
+      "Page 5 - Header: OliviaSingingRiverHealthSystemPatientRecord03/20/2024",
+      "Page 6 - PATIENT INFORMATION section, line 'Type: Progress Note'",
+      "Page 6 - PATIENT INFORMATION section, line 'Source: SingingRiverHealthSystem'",
+      "Page 6 - PATIENT INFORMATION section, line 'Received:03/20/202408:24PM'",
+      "Page 6 - PATIENT INFORMATION section, line 'Modified: 03/20/202408:24PM'",
+      "Page 6 - Header: OliviaSingingRiverHealthSystemPatientRecord03/20/2024",
+      "Page 7 - PATIENT INFORMATION section, line 'Type: Progress Note'",
+      "Page 7 - PATIENT INFORMATION section, line 'Source: SingingRiverHealthSystem'",
+      "Page 7 - PATIENT INFORMATION section, line 'Received:03/20/202408:24PM'",
+      "Page 7 - PATIENT INFORMATION section, line 'Modified: 03/20/202408:24PM'",
+      "Page 7 - Header: OliviaSingingRiverHealthSystemPatientRecord03/20/2024",
+      "Page 8 - PATIENT INFORMATION section, line 'Type: Progress Note'",
+      "Page 8 - PATIENT INFORMATION section, line 'Source: SingingRiverHealthSystem'",
+      "Page 8 - PATIENT INFORMATION section, line 'Received:03/20/202408:24PM'",
+      "Page 8 - PATIENT INFORMATION section, line 'Modified: 03/20/202408:24PM'",
+      "Page 8 - Header: OliviaSingingRiverHealthSystemPatientRecord03/20/2024",
+      "Page 9 - PATIENT INFORMATION section, line 'Type: Progress Note'",
+      "Page 9 - PATIENT INFORMATION section, line 'Source: SingingRiverHealthSystem'",
+      "Page 9 - PATIENT INFORMATION section, line 'Received:03/20/202408:24PM'",
+      "Page 9 - PATIENT INFORMATION section, line 'Modified: 03/20/202408:24PM'",
+      "Page 9 - Header: OliviaSingingRiverHealthSystemPatientRecord03/20/2024",
+      "Page 10 - PATIENT INFORMATION section, line 'Type: Progress Note'",
+      "Page 10 - PATIENT INFORMATION section, line 'Source: SingingRiverHealthSystem'",
+      "Page 10 - PATIENT INFORMATION section, line 'Received:03/20/202408:24PM'",
+      "Page 10 - PATIENT INFORMATION section, line 'Modified: 03/20/202408:24PM'",
+      "Page 10 - Header: OliviaSingingRiverHealthSystemPatientRecord03/20/2024",
+      "Page 11 - PATIENT INFORMATION section, line 'Type: Progress Note'",
+      "Page 11 - PATIENT INFORMATION section, line 'Source: SingingRiverHealthSystem'",
+      "Page 11 - PATIENT INFORMATION section, line 'Received:03/20/202408:24PM'",
+      "Page 11 - PATIENT INFORMATION section, line 'Modified: 03/20/202408:24PM'",
+      "Page 11 - Header: OliviaSingingRiverHealthSystemPatientRecord03/20/2024",
+      "Page 12 - PATIENT INFORMATION section, line 'Type: Progress Note'",
+      "Page 12 - PATIENT INFORMATION section, line 'Source: SingingRiverHealthSystem'",
+      "Page 12 - PATIENT INFORMATION section, line 'Received:03/20/202408:24PM'",
+      "Page 12 - PATIENT INFORMATION section, line 'Modified: 03/20/202408:24PM'",
+      "Page 12 - Header: OliviaSingingRiverHealthSystemPatientRecord03/20/2024"
+    ]
+  },
+  "patient": {
+    "name": "Olivia",
+    "phone": "+13105561256",
+    "dob": "05/05/1952",
+    "gender": "Female",
+    "age": "73",
+    "patient_id": "104",
+    "_source": [
+      "Page 1 - Patient name 'Olivia'",
+      "Page 1 - PATIENT INFORMATION section, line 'Phone +13105561256'",
+      "Page 1 - PATIENT INFORMATION section, line 'DOB: 05/05/1952'",
+      "Page 1 - PATIENT INFORMATION section, line 'Gender: Female'",
+      "Page 1 - PATIENT INFORMATION section, line 'Age: 73'",
+      "Page 1 - PATIENT INFORMATION section, line 'Patient 104 ID: ...'",
+      "Page 3 - Patient name 'Olivia'",
+      "Page 3 - PATIENT INFORMATION section, line 'Phone +1310556 1256'",
+      "Page 3 - PATIENT INFORMATION section, line 'DOB: 05/05/1952'",
+      "Page 3 - PATIENT INFORMATION section, line 'Gender: Female'",
+      "Page 3 - PATIENT INFORMATION section, line 'Age: 73'",
+      "Page 3 - PATIENT INFORMATION section, line 'Patient 104 ID: ...'",
+      "Page 4 - Patient name 'Olivia'",
+      "Page 4 - PATIENT INFORMATION section, line 'Phone +1310556 1256'",
+      "Page 4 - PATIENT INFORMATION section, line 'DOB: 05/05/1952'",
+      "Page 4 - PATIENT INFORMATION section, line 'Gender: Female'",
+      "Page 4 - PATIENT INFORMATION section, line 'Age: 73'",
+      "Page 4 - PATIENT INFORMATION section, line 'Patient 104 ID: ...'",
+      "Page 5 - Patient name 'Olivia'",
+      "Page 5 - PATIENT INFORMATION section, line 'Phone +1310556 1256'",
+      "Page 5 - PATIENT INFORMATION section, line 'DOB: 05/05/1952'",
+      "Page 5 - PATIENT INFORMATION section, line 'Gender: Female'",
+      "Page 5 - PATIENT INFORMATION section, line 'Age: 73'",
+      "Page 5 - PATIENT INFORMATION section, line 'Patient 104 ID: ...'",
+      "Page 6 - Patient name 'Olivia'",
+      "Page 6 - PATIENT INFORMATION section, line 'Phone +1310556 1256'",
+      "Page 6 - PATIENT INFORMATION section, line 'DOB: 05/05/1952'",
+      "Page 6 - PATIENT INFORMATION section, line 'Gender: Female'",
+      "Page 6 - PATIENT INFORMATION section, line 'Age: 73'",
+      "Page 6 - PATIENT INFORMATION section, line 'Patient 104 ID: ...'",
+      "Page 7 - Patient name 'Olivia'",
+      "Page 7 - PATIENT INFORMATION section, line 'Phone +1310556 1256'",
+      "Page 7 - PATIENT INFORMATION section, line 'DOB: 05/05/1952'",
+      "Page 7 - PATIENT INFORMATION section, line 'Gender: Female'",
+      "Page 7 - PATIENT INFORMATION section, line 'Age: 73'",
+      "Page 7 - PATIENT INFORMATION section, line 'Patient 104 ID: ...'",
+      "Page 8 - Patient name 'Olivia'",
+      "Page 8 - PATIENT INFORMATION section, line 'Phone +1310556 1256'",
+      "Page 8 - PATIENT INFORMATION section, line 'DOB: 05/05/1952'",
+      "Page 8 - PATIENT INFORMATION section, line 'Gender: Female'",
+      "Page 8 - PATIENT INFORMATION section, line 'Age: 73'",
+      "Page 8 - PATIENT INFORMATION section, line 'Patient 104 ID: ...'",
+      "Page 9 - Patient name 'Olivia'",
+      "Page 9 - PATIENT INFORMATION section, line 'Phone +1310556 1256'",
+      "Page 9 - PATIENT INFORMATION section, line 'DOB: 05/05/1952'",
+      "Page 9 - PATIENT INFORMATION section, line 'Gender: Female'",
+      "Page 9 - PATIENT INFORMATION section, line 'Age: 73'",
+      "Page 9 - PATIENT INFORMATION section, line 'Patient 104 ID: ...'",
+      "Page 10 - Patient name 'Olivia'",
+      "Page 10 - PATIENT INFORMATION section, line 'Phone +1310556 1256'",
+      "Page 10 - PATIENT INFORMATION section, line 'DOB: 05/05/1952'",
+      "Page 10 - PATIENT INFORMATION section, line 'Gender: Female'",
+      "Page 10 - PATIENT INFORMATION section, line 'Age: 73'",
+      "Page 10 - PATIENT INFORMATION section, line 'Patient 104 ID: ...'",
+      "Page 11 - Patient name 'Olivia'",
+      "Page 11 - PATIENT INFORMATION section, line 'Phone +1310556 1256'",
+      "Page 11 - PATIENT INFORMATION section, line 'DOB: 05/05/1952'",
+      "Page 11 - PATIENT INFORMATION section, line 'Gender: Female'",
+      "Page 11 - PATIENT INFORMATION section, line 'Age: 73'",
+      "Page 11 - PATIENT INFORMATION section, line 'Patient 104 ID: ...'",
+      "Page 12 - Patient name 'Olivia'",
+      "Page 12 - PATIENT INFORMATION section, line 'Phone +1310556 1256'",
+      "Page 12 - PATIENT INFORMATION section, line 'DOB: 05/05/1952'",
+      "Page 12 - PATIENT INFORMATION section, line 'Gender: Female'",
+      "Page 12 - PATIENT INFORMATION section, line 'Age: 73'",
+      "Page 12 - PATIENT INFORMATION section, line 'Patient 104 ID: ...'"
+    ]
+  },
+  "encounters": [
+    {
+      "date": "06/30/2023",
+      "type": "OrdersOnly",
+      "department": "PrimaryCareServices",
+      "facility": "SingingRiverGulfport",
+      "facility_address": [
+        "350COWANRD GULFPORT,MS39507-2008",
+        "350CowanRoad GULFPORT,MS39505-2008"
+      ],
+      "care_team": "Hand,HoyetA,MD",
+      "contact": {
+        "work_phone": "228-206-7054",
+        "fax": "228-604-0905"
+      },
+      "description": "Mixeddyslipidemia (Primary Dx); Essentialhypertension, benign; Postoperativeanemia; LegPain",
+      "_source": "Page 1 - Encounter details table entry for 06/30/2023"
+    }
+  ],
+  "diagnoses": [
+    {
+      "diagnosis": "Mixeddyslipidemia",
+      "context": "Primary Dx",
+      "_source": "Page 1 - Encounter details table, description column for 06/30/2023"
+    },
+    {
+      "diagnosis": "Essentialhypertension, benign",
+      "_source": "Page 1 - Encounter details table, description column for 06/30/2023"
+    },
+    {
+      "diagnosis": "Postoperativeanemia",
+      "_source": "Page 1 - Encounter details table, description column for 06/30/2023"
+    },
+    {
+      "diagnosis": "LegPain",
+      "_source": "Page 1 - Encounter details table, description column for 06/30/2023"
+    },
+    {
+      "diagnosis": "Mixeddyslipidemia-Primary",
+      "_source": "Page 11 - Visit diagnoses section, 'Mixeddyslipidemia-Primary'"
+    },
+    {
+      "diagnosis": "Essentialhypertension,benign",
+      "_source": "Page 11 - Visit diagnoses section, 'Essentialhypertension,benign'"
+    },
+    {
+      "diagnosis": "Legpain",
+      "_source": "Page 11 - Visit diagnoses section, 'Legpain'"
+    },
+    {
+      "diagnosis": "Postoperativeanemia",
+      "_source": "Page 11 - Visit diagnoses section, 'Postoperativeanemia'"
+    },
+    {
+      "diagnosis": "Unspecifiedanemia",
+      "_source": "Page 11 - Visit diagnoses section, 'Unspecifiedanemia'"
+    }
+  ],
+  "laboratory_results": [
+    {
+      "test": "Ferritin",
+      "value": "266.8",
+      "unit": "ng/mL",
+      "reference_range": "8.0-252.0",
+      "interpretation": "H",
+      "date": "07/03/2023 9:15 AM CDT",
+      "analysis_time": "07/03/2023 10:45 AM CDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "specimen_source": "Blood",
+      "collection_time": "07/03/2023 9:15 AM CDT",
+      "received_time": "07/03/2023 10:06 AM CDT",
+      "authorizing_provider": "HoyetAHandMD",
+      "result_type": "LABBLOODORDERABLES",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITALLAB",
+      "performing_organization_address": "15200COMMUNITY RD GULFPORT,MS 39503,USA",
+      "_source": "Page 5 - Results section, (ABNORMAL) Ferritin test details"
+    },
+    {
+      "test": "Iron",
+      "value": "41",
+      "unit": "ug/dL",
+      "reference_range": "50-170",
+      "interpretation": "L",
+      "date": "07/03/2023 9:15 AM CDT",
+      "analysis_time": "07/03/2023 10:45 AM CDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "specimen_source": "Blood",
+      "collection_time": "07/03/2023 9:15 AM CDT",
+      "received_time": "07/03/2023 10:06 AM CDT",
+      "authorizing_provider": "HoyetAHandMD",
+      "result_type": "LABBLOODORDERABLES",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITALLAB",
+      "performing_organization_address": "15200COMMUNITY RD GULFPORT,MS 39503,USA",
+      "_source": "Page 6 - Results section, Iron & Iron Binding Capacity - Iron component"
+    },
+    {
+      "test": "TIBC",
+      "value": "279",
+      "unit": "ug/dL",
+      "reference_range": "250-450",
+      "date": "07/03/2023 9:15 AM CDT",
+      "analysis_time": "07/03/2023 10:45 AM CDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Page 6 - Results section, Iron & Iron Binding Capacity - TIBC component"
+    },
+    {
+      "test": "IronSaturation",
+      "value": "15",
+      "unit": "%",
+      "reference_range": "20-55",
+      "interpretation": "L",
+      "date": "07/03/2023 9:15 AM CDT",
+      "analysis_time": "07/03/2023 10:45 AM CDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Page 6 - Results section, Iron & Iron Binding Capacity - IronSaturation component"
+    },
+    {
+      "test": "Sodium",
+      "value": "140",
+      "unit": "mmol/L",
+      "reference_range": "136-145",
+      "date": "07/03/2023 9:15 AM CDT",
+      "analysis_time": "07/03/2023 10:45 AM CDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Page 6-7 - Results section, Basic metabolic panel - Sodium component"
+    },
+    {
+      "test": "Potassium",
+      "value": "4.0",
+      "unit": "mmol/L",
+      "reference_range": "3.5-5.1",
+      "date": "07/03/2023 9:15 AM CDT",
+      "analysis_time": "07/03/2023 10:45 AM CDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Page 7 - Results section, Basic metabolic panel - Potassium component"
+    },
+    {
+      "test": "Chloride",
+      "value": "108",
+      "unit": "mmol/L",
+      "reference_range": "98-107",
+      "interpretation": "H",
+      "date": "07/03/2023 9:15 AM CDT",
+      "analysis_time": "07/03/2023 10:45 AM CDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Page 7 - Results section, Basic metabolic panel - Chloride component"
+    },
+    {
+      "test": "CO2",
+      "value": "27",
+      "unit": "mmol/L",
+      "reference_range": "21-32",
+      "date": "07/03/2023 9:15 AM CDT",
+      "analysis_time": "07/03/2023 10:45 AM CDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Page 7 - Results section, Basic metabolic panel - CO2 component"
+    },
+    {
+      "test": "BUN",
+      "value": "15",
+      "unit": "mg/dL",
+      "reference_range": "7-18",
+      "date": "07/03/2023 9:15 AM CDT",
+      "analysis_time": "07/03/2023 10:45 AM CDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Page 7 - Results section, Basic metabolic panel - BUN component"
+    },
+    {
+      "test": "Creatinine",
+      "value": "0.96",
+      "unit": "mg/dL",
+      "reference_range": "0.55-1.02",
+      "date": "07/03/2023 9:15 AM CDT",
+      "analysis_time": "07/03/2023 10:45 AM CDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Page 7 - Results section, Basic metabolic panel - Creatinine component"
+    },
+    {
+      "test": "Glucose",
+      "value": "94",
+      "unit": "mg/dL",
+      "reference_range": "74-106",
+      "date": "07/03/2023 9:15 AM CDT",
+      "analysis_time": "07/03/2023 10:45 AM CDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Page 7 - Results section, Basic metabolic panel - Glucose component"
+    },
+    {
+      "test": "Calcium",
+      "value": "9.5",
+      "unit": "mg/dL",
+      "reference_range": "8.5-10.1",
+      "date": "07/03/2023 9:15 AM CDT",
+      "analysis_time": "07/03/2023 10:45 AM CDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Page 7 - Results section, Basic metabolic panel - Calcium component"
+    },
+    {
+      "test": "AnionGap",
+      "value": "5.0",
+      "unit": "mmol/L",
+      "reference_range": "8.0-16.0",
+      "interpretation": "L",
+      "date": "07/03/2023 9:15 AM CDT",
+      "analysis_time": "07/03/2023 10:45 AM CDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Page 8 - Results section, Basic metabolic panel - AnionGap component"
+    },
+    {
+      "test": "eGFRCKD-EPI",
+      "value": "58",
+      "unit": "ml/min/1.73m2",
+      "reference_range": ">90",
+      "interpretation": "L",
+      "date": "07/03/2023 9:15 AM CDT",
+      "analysis_time": "07/03/2023 10:45 AM CDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "comment": "EstimatedusingCKD-EPIequationbasedonstandardizedserumcreatinine,age,andsex\nDESCRIPTION eGFRmL/min/1.73m2\nMildDecrease 60-89\nModerateDecrease 30-59\nSevereDecrease 15-29\nKidneyFailure <15(ordialysis)",
+      "specimen_source": "Blood",
+      "collection_time": "07/03/2023 9:15 AM CDT",
+      "received_time": "07/03/2023 10:06 AM CDT",
+      "authorizing_provider": "HoyetAHandMD",
+      "result_type": "LABBLOODORDERABLES",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITALLAB",
+      "performing_organization_address": "15200COMMUNITY RD GULFPORT,MS 39503,USA",
+      "_source": "Page 8 - Results section, Basic metabolic panel - eGFRCKD-EPI component"
+    },
+    {
+      "test": "TSHUltraSensitive",
+      "value": "1.320",
+      "unit": "mIU/mL",
+      "reference_range": "0.358-3.740",
+      "date": "07/03/2023 9:15 AM CDT",
+      "analysis_time": "07/03/2023 10:45 AM CDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "specimen_source": "Blood",
+      "collection_time": "07/03/2023 9:15 AM CDT",
+      "received_time": "07/03/2023 10:06 AM CDT",
+      "authorizing_provider": "HoyetAHandMD",
+      "result_type": "LABBLOODORDERABLES",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITALLAB",
+      "performing_organization_address": "15200COMMUNITY RD GULFPORT,MS 39503,USA",
+      "_source": "Page 9 - Results section, (Gulfport) TSH Ultra Sensitive test details"
+    },
+    {
+      "test": "Triglycerides",
+      "value": "158",
+      "unit": "mg/dL",
+      "reference_range": "0-149",
+      "interpretation": "H",
+      "date": "07/03/2023 9:15 AM CDT",
+      "analysis_time": "07/03/2023 10:45 AM CDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "comment": "Borderlinehigh: 150-199mg/dL\nHigh: 200-499mg/dL\nVeryHigh: >=500mg/dL",
+      "_source": "Page 9 - Results section, Lipidpanel - Triglycerides component"
+    },
+    {
+      "test": "Cholesterol",
+      "value": "147",
+      "unit": "mg/dL",
+      "reference_range": "<200",
+      "date": "07/03/2023 9:15 AM CDT",
+      "analysis_time": "07/03/2023 10:45 AM CDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "comment": "Low-risklevels(desirable)<200mg/dL\nModerate-risklevels(borderline)200-239mg/dL\nHigh-risklevels>=240mg/dL",
+      "_source": "Page 9-10 - Results section, Lipidpanel - Cholesterol component"
+    },
+    {
+      "test": "HDL",
+      "value": "54",
+      "unit": "mg/dL",
+      "reference_range": "40-59",
+      "date": "07/03/2023 9:15 AM CDT",
+      "analysis_time": "07/03/2023 10:45 AM CDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "comment": "Low(undesirable,highrisk): <40.0mg/dL\nHigh(desirable,lowrisk): >=60.0mg/dL",
+      "_source": "Page 10 - Results section, Lipidpanel - HDL component"
+    },
+    {
+      "test": "LDLCalculated",
+      "value": "62",
+      "unit": "mg/dL",
+      "reference_range": "0-100",
+      "date": "07/03/2023 9:15 AM CDT",
+      "analysis_time": "07/03/2023 10:45 AM CDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "comment": "Optimal <100mg/dL\nAboveoptimal: 100-129mg/dL\nBorderlinehigh: 130-159mg/dL\nHigh: 160-189mg/dL\nVeryHigh: >=190mg/dL",
+      "_source": "Page 10 - Results section, Lipidpanel - LDLCalculated component"
+    },
+    {
+      "test": "VLDLCholesterolCal",
+      "value": "32",
+      "unit": "mg/dL",
+      "reference_range": "<30",
+      "interpretation": "H",
+      "date": "07/03/2023 9:15 AM CDT",
+      "analysis_time": "07/03/2023 10:45 AM CDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "_source": "Page 10 - Results section, Lipidpanel - VLDLCholesterolCal component"
+    },
+    {
+      "test": "NonHDLChol. (LDL+VLDL)",
+      "value": "94",
+      "unit": "mg/dL",
+      "reference_range": "<=130",
+      "date": "07/03/2023 9:15 AM CDT",
+      "analysis_time": "07/03/2023 10:45 AM CDT",
+      "performed_at": "SINGING RIVER GULFPORT HOSPITAL LAB",
+      "comment": "Optimal <=130mg/dL\nAboveoptimal: 131-159mg/dL\nBorderlinehigh: 160-189mg/dL\nHigh: 190-219mg/dL\nVeryHigh: >=220mg/dL",
+      "specimen_source": "Blood",
+      "collection_time": "07/03/2023 9:15 AM CDT",
+      "received_time": "07/03/2023 10:06 AM CDT",
+      "authorizing_provider": "HoyetAHandMD",
+      "result_type": "LABBLOODORDERABLES",
+      "performing_organization": "SINGINGRIVER GULFPORT HOSPITALLAB",
+      "performing_organization_address": "15200COMMUNITY RD GULFPORT,MS 39503,USA",
+      "_source": "Page 10-11 - Results section, Lipidpanel - NonHDLChol. (LDL+VLDL) component"
+    }
+  ],
+  "social_history": {
+    "tobacco_use": [
+      {
+        "type": "SmokingTobacco",
+        "status": "Former",
+        "substance": "Cigarettes",
+        "quit_date": "1991",
+        "comment": "patient states quit 30 years ago",
+        "_source": "Page 1 - Social history section, TobaccoUse table, SmokingTobacco entry"
+      },
+      {
+        "type": "SmokelessTobacco",
+        "status": "Never",
+        "_source": "Page 1 - Social history section, TobaccoUse table, SmokelessTobacco entry"
+      }
+    ],
+    "alcohol_use": {
+      "status": "NotCurrently",
+      "standard_drinks_per_week": "0",
+      "comment": "(1standarddrink=0.6oz purealcohol)",
+      "_source": "Page 1 - Social history section, AlcoholUse table entry"
+    },
+    "patient_health_questionnaire_2": {
+      "question": "PatientHealthQuestionnaire-2Score",
+      "score": "0",
+      "date_recorded": "03/28/2023",
+      "_source": "Page 1 - Social history section, PHQ-2 table entry"
+    },
+    "sex_assigned_at_birth": {
+      "value": "Notonfile",
+      "_source": "Page 1 - Social history section, Sex and Gender Information table, SexAssignedatBirth entry"
+    },
+    "gender_identity": {
+      "value": "Female",
+      "date_recorded": "11/19/2021 6:43 AM CST",
+      "_source": "Page 1 - Social history section, Sex and Gender Information table, GenderIdentity entry"
+    },
+    "sexual_orientation": {
+      "value": "Notonfile",
+      "_source": "Page 2 - Social history section, SexualOrientation entry"
+    },
+    "covid_19_exposure": {
+      "question": "Inthelast10days,haveyoubeenincontactwithsomeone whowasconfirmedorsuspectedtohaveCoronavirus/COVID-19?",
+      "response": "No/Unsure",
+      "date_recorded": "6/19/2023 5:23 AM CDT",
+      "_source": "Page 3 - COVID-19Exposure section"
+    }
+  },
+  "functional_status": [
+    {
+      "assessment": "Isthepersondeafordoeshe/shehavedifficultyhearing?",
+      "response": "No",
+      "date_of_assessment": "06/19/2023",
+      "_source": "Page 3 - Functional status section, FunctionalStatus table, hearing assessment"
+    },
+    {
+      "assessment": "Patient'sVisionAdequatetoSafelyCompleteDailyActivities",
+      "response": "Yes",
+      "date_of_assessment": "06/19/2023",
+      "_source": "Page 3 - Functional status section, FunctionalStatus table, vision assessment"
+    },
+    {
+      "assessment": "Doesthispersonhaveseriousdifficultywalkingorclimbing stairs?",
+      "response": "Yes",
+      "date_of_assessment": "06/14/2023",
+      "_source": "Page 3 - Functional status section, FunctionalStatus table, walking/climbing stairs assessment"
+    },
+    {
+      "assessment": "Doesthispersonhavedifficultydressingorbathing?",
+      "response": "No",
+      "date_of_assessment": "06/14/2023",
+      "_source": "Page 3 - Functional status section, FunctionalStatus table, dressing/bathing assessment"
+    },
+    {
+      "assessment": "Becauseofaphysical,mentaloremotionalcondition,does thispatienthavedifficultydoingerrandsalonesuchas visitingthedoctor'sofficeorshopping?",
+      "response": "No",
+      "date_of_assessment": "06/14/2023",
+      "_source": "Page 3 - Functional status section, FunctionalStatus table, errands/shopping assessment"
+    },
+    {
+      "assessment": "Becauseofaphysical,mentaloremotionalcondition,does thispersonhaveseriousdifficultyconcentrating, remembering,ormakingdecisions?",
+      "response": "No",
+      "date_of_assessment": "06/14/2023",
+      "_source": "Page 3 - Functional status section, CognitiveStatus table entry"
+    }
+  ],
+  "care_team": [
+    {
+      "member": "Hand,HoyetA,MD",
+      "relationship": "PCP-General",
+      "specialty": "FamilyMedicine",
+      "npi": "1225340599",
+      "contact": {
+        "work_phone": "228-206-7054",
+        "fax": "228-604-0905"
+      },
+      "start_date": "9/25/20",
+      "_source": "Page 12 - Care teams table entry for Hand,HoyetA,MD"
+    }
+  ],
+  "plans_and_followups": [
+    {
+      "date": "04/19/2024 10:00 AM CDT",
+      "type": "Appointment",
+      "department": "PrimaryCareServices",
+      "facility": "SingingRiverGulfport",
+      "facility_address": "350CowanRoad GULFPORT,MS39505-2008",
+      "contact": {
+        "phone": "228-206-7054"
+      },
+      "_source": "Page 3 - Plan of treatment section, Upcoming Encounters table entry for 04/19/2024"
+    },
+    {
+      "date": "04/22/2024 9:20 AM CDT",
+      "type": "OfficeVisit",
+      "department": "PrimaryCareServices",
+      "care_team": "Hand,HoyetA,MD",
+      "facility": "SingingRiverGulfport",
+      "facility_address": [
+        "350COWANRD GULFPORT,MS39507-2008",
+        "350CowanRoad GULFPORT,MS39505-2008"
+      ],
+      "contact": {
+        "work_phone": "228-206-7054",
+        "fax": "228-604-0905"
+      },
+      "_source": "Page 3-4 - Plan of treatment section, Upcoming Encounters table entry for 04/22/2024"
+    },
+    {
+      "date": "04/30/2024 10:20 AM CDT",
+      "type": "OfficeVisit",
+      "department": "RheumatologyServices",
+      "care_team": "Carroll,MatthewB,MD",
+      "facility_address": [
+        "3603BIENVILLEBLVD STE100 BILOXI,MS39532-2128",
+        "967CedarLakeRd OCEANSPRINGS,MS 39564"
+      ],
+      "contact": {
+        "phone": "228-205-6830",
+        "work_phone": "228-872-8768",
+        "fax": "228-872-9112"
+      },
+      "_source": "Page 4 - Plan of treatment section, Upcoming Encounters table entry for 04/30/2024"
+    },
+    {
+      "date": "05/01/2024 9:00 AM CDT",
+      "type": "OfficeVisit",
+      "department": "SouthernMississippiHeartCenter-Gulfport",
+      "care_team": "Zayed,MahmoudH,MD",
+      "facility_address": [
+        "3704BIENVILLEBLVD STEB OCEANSPRINGS,MS 39564",
+        "15190CommunityRoad Ste260 GULFPORT,MS39503-3483"
+      ],
+      "contact": {
+        "work_phone": "228-872-4040",
+        "phone": "228-575-8020",
+        "fax": "228-875-2387"
+      },
+      "_source": "Page 4 - Plan of treatment section, Upcoming Encounters table entry for 05/01/2024"
+    },
+    {
+      "date": "06/05/2024 9:40 AM CDT",
+      "type": "OfficeVisit",
+      "department": "Gastroenterology",
+      "care_team": "Alexander,AmieL,NP",
+      "facility": "SingingRiverGulfport",
+      "facility_address": [
+        "15190COMMUNITYRD STE230 GULFPORT,MS39503-3483",
+        "15190CommunityRoad GULFPORT,MS39503-3483"
+      ],
+      "contact": {
+        "phone": "228-575-7104",
+        "work_phone": "228-575-7104",
+        "fax": "228-539-6766"
+      },
+      "_source": "Page 4 - Plan of treatment section, Upcoming Encounters table entry for 06/05/2024"
+    },
+    {
+      "date": "11/26/2024 1:00 PM CST",
+      "type": "OfficeVisit",
+      "department": "SouthernMississippiHeartCenter-Gulfport",
+      "facility_address": "15190CommunityRoad Ste260 GULFPORT,MS39503-3483",
+      "contact": {
+        "phone": "228-575-8020"
+      },
+      "_source": "Page 4-5 - Plan of treatment section, Upcoming Encounters table entry for 11/26/2024"
+    }
+  ],
+  "notes": [
+    {
+      "text": "PHQ-9DepressionTotalScore:0",
+      "noted_time": "03/28/2023 8:56 AM CDT",
+      "_source": "Page 12 - Additional health concerns table, PHQ-9DepressionTotalScore entry"
+    },
+    {
+      "text": "PHQ-2DepressionTotalScore:0",
+      "noted_time": "03/28/2023 8:56 AM CDT",
+      "_source": "Page 12 - Additional health concerns table, PHQ-2DepressionTotalScore entry"
+    }
+  ]
+}
+```

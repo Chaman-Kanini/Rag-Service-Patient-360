@@ -1,0 +1,5 @@
+QUESTION:
+give me all the diagnosis
+
+ANSWER:
+Depression

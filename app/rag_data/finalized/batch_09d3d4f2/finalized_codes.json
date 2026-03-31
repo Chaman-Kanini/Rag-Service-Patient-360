@@ -1,0 +1,104 @@
+{
+  "batch_id": "batch_09d3d4f2",
+  "finalized_at": "2026-02-06T17:45:01.606824",
+  "icd10_codes": [
+    {
+      "id": "icd10_Mixed dyslipidemia - Primary_E782",
+      "type": "icd10",
+      "sourceItem": "Mixed dyslipidemia - Primary",
+      "code": "E782",
+      "description": "Mixed hyperlipidemia",
+      "isAISuggested": true,
+      "isAccepted": true
+    },
+    {
+      "id": "icd10_Essential hypertension, benign_I10",
+      "type": "icd10",
+      "sourceItem": "Essential hypertension, benign",
+      "code": "I10",
+      "description": "Essential (primary) hypertension",
+      "isAISuggested": true,
+      "isAccepted": true
+    },
+    {
+      "id": "icd10_Leg pain_M79606",
+      "type": "icd10",
+      "sourceItem": "Leg pain",
+      "code": "M79606",
+      "description": "Pain in leg, unspecified",
+      "isAISuggested": true,
+      "isAccepted": true
+    },
+    {
+      "id": "icd10_Postoperative anemia_D62",
+      "type": "icd10",
+      "sourceItem": "Postoperative anemia",
+      "code": "D62",
+      "description": "Acute posthemorrhagic anemia",
+      "isAISuggested": true,
+      "isAccepted": true
+    },
+    {
+      "id": "icd10_Unspecified anemia_D649",
+      "type": "icd10",
+      "sourceItem": "Unspecified anemia",
+      "code": "D649",
+      "description": "Anemia, unspecified",
+      "isAISuggested": true,
+      "isAccepted": true
+    },
+    {
+      "id": "icd10_MRSA_A4901",
+      "type": "icd10",
+      "sourceItem": "MRSA",
+      "code": "A4901",
+      "description": "Methicillin susceptible Staphylococcus aureus infection, unspecified site",
+      "isAISuggested": true,
+      "isAccepted": true
+    },
+    {
+      "id": "icd10_COVID-19_U071",
+      "type": "icd10",
+      "sourceItem": "COVID-19",
+      "code": "U071",
+      "description": "COVID-19",
+      "isAISuggested": true,
+      "isAccepted": true
+    },
+    {
+      "id": "icd10_Dyslipidimia_E7801_custom",
+      "type": "icd10",
+      "sourceItem": "Dyslipidimia",
+      "code": "E7801",
+      "description": "Dyslipidimia",
+      "isAISuggested": false,
+      "isAccepted": true
+    }
+  ],
+  "cpt_codes": [
+    {
+      "id": "cpt_COLONOSCOPY, WITH BIOPSY_45380",
+      "type": "cpt",
+      "sourceItem": "COLONOSCOPY, WITH BIOPSY",
+      "code": "45380",
+      "description": "Colonoscopy and biopsy",
+      "isAISuggested": true,
+      "isAccepted": true
+    },
+    {
+      "id": "cpt_COLONOSCOPY, WITH BIOPSY_89872",
+      "type": "cpt",
+      "sourceItem": "COLONOSCOPY, WITH BIOPSY",
+      "code": "89872",
+      "description": "Colono",
+      "isAISuggested": true,
+      "isAccepted": true
+    }
+  ],
+  "summary": {
+    "total_icd10": 8,
+    "total_cpt": 2,
+    "ai_suggested_accepted": 9,
+    "manually_added": 1
+  }
+}
